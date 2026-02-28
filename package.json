@@ -1,0 +1,22 @@
+{
+  "name": "datageneration",
+  "version": "1.0.0",
+  "description": "Infrastructure for synthetic labelled data generation used to support intent classification research within the Financial Advisor Bot system.  This repository will host tooling responsible for producing structured JSONL datasets for supervised training experiments using locally hosted language models.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
