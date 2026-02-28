@@ -250,6 +250,9 @@ app.post("/jobs/next", async (req, res) => {
     createdAt: Date.now(),
     workerId,
     IS_DONE: false,
+    // job lifecycle:
+    // staged indicated that it has not been pushed to GIT Repo
+    STAGED: true,
   };
 
   const updatedJobs = [...jobsRaw, job];
@@ -315,6 +318,158 @@ app.get("/stats", async (_req, res) => {
     effectiveCounts,
     progress,
   });
+});
+
+/**
+ * @openapi
+ * /jobs/{id}/complete:
+ *   post:
+ *     tags: [Jobs]
+ *     summary: Complete a job and append generated JSONL to the label file
+ *     description: >
+ *       Appends a worker-generated JSONL batch to the dataset file for the job's label,
+ *       then marks the job as completed (IS_DONE=true). The coordinator uses the job's
+ *       stored label (not the request body) as the source of truth.
+ *
+ *       Completion is rejected if the job is expired (TTL), already completed,
+ *       not found, or the workerId does not match the allocated worker.
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Job id returned by /jobs/next
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             required: [workerId, jsonl]
+ *             properties:
+ *               workerId:
+ *                 type: string
+ *                 example: "macbook-pro"
+ *                 description: Worker identifier; must match the workerId stored on the job.
+ *               jsonl:
+ *                 type: string
+ *                 example: "{\"text\":\"open the portfolio manager\",\"label\":\"OPEN_PORTFOLIO\"}\n"
+ *                 description: >
+ *                   One or more JSONL lines (newline-delimited). The server will append
+ *                   these lines to data/{job.label}.jsonl. A trailing newline is recommended.
+ *     responses:
+ *       200:
+ *         description: Job completed and data appended
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               required: [ok, id, label, appendedLines]
+ *               properties:
+ *                 ok:
+ *                   type: boolean
+ *                   example: true
+ *                 id:
+ *                   type: string
+ *                   example: "e5485b65-5b42-4bf4-972d-a1f928a8b0f6"
+ *                 label:
+ *                   type: string
+ *                   example: "CONTEXT_BACKTEST"
+ *                 appendedLines:
+ *                   type: integer
+ *                   example: 400
+ *                 completedAt:
+ *                   type: integer
+ *                   description: Epoch milliseconds
+ *                   example: 1709131234567
+ *       400:
+ *         description: Invalid request body (missing workerId/jsonl)
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 error:
+ *                   type: string
+ *                   example: "workerId and jsonl are required"
+ *       403:
+ *         description: Worker mismatch (workerId does not match the allocated job)
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 error:
+ *                   type: string
+ *                   example: "worker mismatch"
+ *       404:
+ *         description: Job not found
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 error:
+ *                   type: string
+ *                   example: "job not found"
+ *       409:
+ *         description: Job already completed or job expired (TTL)
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 error:
+ *                   type: string
+ *                   example: "job expired"
+ *       500:
+ *         description: Server error (e.g., file append/write failure)
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 error:
+ *                   type: string
+ *                   example: "failed to append jsonl"
+ */
+app.post("/jobs/:id/complete", (req, res) => {
+  // fetch inputs from request
+  const { id } = req.params;
+  const { workerId, jsonl } = req.body;
+
+  // find requested job
+  const jobsRaw = fetchExistingJobs();
+  const job = jobsRaw.find((j) => j.id === id);
+
+  // error handling
+  if (!job) return res.status(404).json({ error: "job not found" });
+
+  if (job.workerId !== workerId)
+    return res.status(403).json({ error: "worker mismatch" });
+
+  if (job.IS_DONE)
+    return res.status(409).json({ error: "job already completed" });
+
+  const cutoff = Date.now() - JOB_TTL_MS;
+
+  if (job.createdAt < cutoff)
+    return res.status(409).json({ error: "job expired" });
+
+  // append data
+  const filePath = path.join(DATA_DIR, `${job.label}.jsonl`);
+  const payload = jsonl.endsWith("\n") ? jsonl : jsonl + "\n";
+  fs.appendFileSync(filePath, payload);
+
+  // pass by ref ammend job
+  job.IS_DONE = true;
+  job.completedAt = Date.now();
+
+  writeJobs(jobsRaw);
+
+  // respond 200
+  res.json({ ok: true });
 });
 
 app.get("/openapi.json", (_req, res) => {
