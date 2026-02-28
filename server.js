@@ -317,6 +317,10 @@ app.get("/stats", async (_req, res) => {
   });
 });
 
+app.get("/openapi.json", (_req, res) => {
+  res.json(swaggerSpec);
+});
+
 app.listen(PORT, () => {
   console.log(`Coordinator running ${PORT}`);
   console.log(`Swagger http://localhost:${PORT}/docs`);

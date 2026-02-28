@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dataset Coordinator API</title>
+  <link rel="stylesheet" href="./swagger-ui.css" />
+</head>
+<body>
+<div id="swagger-ui"></div>
+
+<script src="./swagger-ui-bundle.js"></script>
+<script>
+const spec = {"openapi":"3.0.0","info":{"title":"Dataset Coordinator","version":"1.0.0"},"paths":{"/jobs/next":{"post":{"tags":["Jobs"],"summary":"Allocate next dataset job","description":"Allocates a new generation job using filesystem-backed label counts and in-flight job reservations (TTL) to keep labels balanced.\n","requestBody":{"required":false,"content":{"application/json":{"schema":{"type":"object","properties":{"workerId":{"type":"string","example":"macbook-pro"}}}}}},"responses":{"200":{"description":"Job allocated","content":{"application/json":{"schema":{"type":"object","required":["id","label","batchSize","createdAt","workerId","IS_DONE"],"properties":{"id":{"type":"string"},"label":{"type":"string"},"batchSize":{"type":"integer"},"createdAt":{"type":"integer","description":"Epoch ms"},"workerId":{"type":"string"},"IS_DONE":{"type":"boolean"}}}}}},"204":{"description":"No jobs remaining (all labels reached target)"}}}},"/stats":{"get":{"tags":["Stats"],"summary":"Get coordinator stats","description":"Returns filesystem label counts, active job reservations, effective counts, and progress toward target per label.\n","responses":{"200":{"description":"Stats payload"}}}}},"components":{},"tags":[]};
+
+SwaggerUIBundle({
+  spec,
+  dom_id: '#swagger-ui'
+});
+</script>
+</body>
+</html>
