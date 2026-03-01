@@ -56,7 +56,7 @@ function main() {
 
   // clear all jobs
   cleanupExpiredStagedJobs(jobs);
-
+  
   // grab 1 staged job
   const job = getStagedJob(jobs);
 
