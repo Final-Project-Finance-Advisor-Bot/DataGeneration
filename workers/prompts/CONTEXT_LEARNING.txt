@@ -1,7 +1,8 @@
+############## PROMPT MAIN INSTRUCTIONS ##############
 Generate {{N}} examples.
-
-Each example must be valid JSON:
+Each example must be valid JSON, it must contain a text attribute:
 
 {"text":"example message","label":"{{LABEL}}"}
 
 Return only JSON objects.
+######################################################

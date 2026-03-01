@@ -23,7 +23,6 @@ export const LABEL_TO_PROMPT_FILE = {
   EDU_BACKTEST: "./prompts/EDU_BACKTEST.txt",
   CONTEXT_PORTFOLIO: "./prompts/CONTEXT_PORTFOLIO.txt",
   CONTEXT_LEARNING: "./prompts/CONTEXT_LEARNING.txt",
-  CONTEXT_BACKTEST: "./prompts/CONTEXT_BACKTEST.txt",
   DOMAIN_QUERIES: "./prompts/DOMAIN_QUERIES.txt",
 };
 

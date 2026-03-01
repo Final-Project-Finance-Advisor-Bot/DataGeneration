@@ -1,7 +1,0 @@
-Generate {{N}} examples.
-
-Each example must be valid JSON:
-
-{"text":"example message","label":"{{LABEL}}"}
-
-Return only JSON objects.
