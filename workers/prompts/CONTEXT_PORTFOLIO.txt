@@ -1,7 +1,87 @@
-Generate {{N}} examples.
+############## TASK ##############
 
-Each example must be valid JSON:
+Generate realistic user questions related to using or interacting with the Portfolio Manager.
 
+Messages should reflect users asking how to perform actions, understand portfolio limits, or interpret portfolio behaviour inside the system.
+
+Questions must relate ONLY to portfolio management functionality.
+
+##########################################
+
+############## APPROVED SUBJECTS ##############
+
+Questions MUST be based strictly on the following topics:
+
+Portfolio usage and navigation
+- How to use the portfolio manager
+- Switching portfolios
+- Creating portfolios
+- Portfolio limits
+- Minimum funds required
+
+Assets
+- Adding assets
+- Deleting assets
+- Organising or sorting assets
+- Asset limits
+- Editing asset allocation
+
+Wallet / Performance
+- Wallet value
+- Profit or money made
+- Asset increases or decreases
+
+Search
+- Searching for a company
+
+graphs/charts
+- Adding graphs/charts
+- Changing graphs/charts
+- Deleting graphs/charts
+- Graph limits
+
+Do NOT introduce features outside these subjects.
+
+##########################################
+
+############## GENERATION INSTRUCTIONS ##############
+
+Generate exactly {{N}} examples.
+
+Each example MUST be a valid JSON object with the structure:
+
+```
 {"text":"example message","label":"{{LABEL}}"}
+```
 
-Return only JSON objects.
+Rules:
+
+- Messages must sound like real users interacting with the portfolio tool.
+- Questions should focus on actions, limits, or understanding system behaviour.
+- Use natural beginner phrasing.
+- Include both short and longer questions.
+- Some users may sound confused or exploratory.
+- Avoid repeating sentence structures.
+- Do NOT explain concepts academically.
+- Do NOT ask finance theory questions.
+- Output exactly {{N}} examples.
+- Output one JSON object per line (JSONL format).
+- Output ONLY JSON objects.
+
+##########################################
+
+############## MESSAGE STYLE GUIDANCE ##############
+
+Examples of intent style (do not copy directly):
+
+- How do I add a new asset?
+- Can I switch between portfolios?
+- Why has my asset gone down?
+- How many graphs/charts can I add?
+- What’s the minimum money needed to create a portfolio?
+- How do I organise my assets?
+- What type of graphs/charts can I have?
+
+Questions should reflect real usage behaviour inside the Portfolio Manager.
+
+####################################################

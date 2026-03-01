@@ -1,7 +1,93 @@
-Generate {{N}} examples.
+############## TASK ##############
+Generate realistic conversational user messages intended for general interaction with the assistant.
 
-Each example must be valid JSON:
+These messages represent normal chat behaviour where the user is:
 
+- Asking general finance questions
+- Exploring ideas
+- Discussing markets or investing concepts
+- Asking opinions or explanations
+- Thinking out loud about money or investing
+
+These messages are NOT navigation requests and NOT system-specific questions.
+
+##########################################
+
+############## CONTENT RULES ##############
+
+Messages MUST:
+
+- Be general finance or conversational discussion.
+- Avoid the DOMAIN QUERY subjects listed elsewhere.
+- Avoid platform or application navigation intent.
+- Avoid requests to open tools or learning areas.
+- Avoid capability unlock or progression questions.
+
+Do NOT reference:
+
+- FA Bot
+- courses
+- learning centre
+- portfolios inside the system
+- unlocking features
+- application behaviour
+- ticker
+- asset
+- Financial Advisor Bot
+- profit
+- stock category
+- share
+- portfolio
+- portfolio manager
+- capital
+- making money
+- diversification
+
+##########################################
+
+############## GENERATION INSTRUCTIONS ##############
+
+Generate exactly {{N}} examples.
+
+Each example MUST be a valid JSON object with the structure:
+
+```
 {"text":"example message","label":"{{LABEL}}"}
+```
 
-Return only JSON objects.
+Rules:
+
+- Messages should sound natural and human.
+- Include curiosity, opinions, and casual phrasing.
+- Mix short and longer messages.
+- Some messages may be questions, others conversational statements.
+- Include beginner-style finance curiosity.
+- Avoid repeating sentence structure.
+- Output exactly {{N}} examples.
+- Output one JSON object per line (JSONL format).
+- Output ONLY JSON objects.
+
+##########################################
+
+############## MESSAGE STYLE GUIDANCE ##############
+
+Examples of intent style (do not copy directly):
+
+- Is investing actually worth it long term?
+- Why do markets panic so easily?
+- I don’t really understand inflation properly.
+- Do people normally invest every month?
+- What makes stocks go up or down?
+- Is it better to save or invest right now?
+- I always hear people talk about diversification.
+- Markets seem really unpredictable lately.
+- Tell me a joke
+- Hi, how are you
+- What is the best asset to invest in
+- Are we expecting a market crash
+- What impact would a war have on the market
+- What is the difference between market crash & a market correction
+
+Messages should feel like genuine conversation with an AI assistant.
+
+##########################################

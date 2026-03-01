@@ -12,7 +12,7 @@ app.use(express.json());
 const PORT = 3001;
 const DATA_DIR = "./data";
 const JOB_FILE = "./jobs.json";
-const BATCH_SIZE = 400;
+const BATCH_SIZE = 100;
 const TARGET_PER_LABEL = 6000;
 const JOB_TTL_HOURS = 6;
 const JOB_TTL_MS = JOB_TTL_HOURS * 60 * 60 * 1000;

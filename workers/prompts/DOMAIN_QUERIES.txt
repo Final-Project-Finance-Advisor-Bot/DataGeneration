@@ -1,7 +1,73 @@
-Generate {{N}} examples.
+############## TASK ##############
+Generate realistic user questions that could reasonably be interpreted as either:
 
-Each example must be valid JSON:
+1) A general finance question, OR
+2) A system-specific question about how something works inside the FA Bot platform.
 
+These are DOMAIN QUERIES.
+
+The wording MUST remain ambiguous so that both interpretations are valid.
+
+##########################################
+
+############## APPROVED SUBJECTS ##############
+
+Questions MUST relate ONLY to the following subjects:
+
+- ticker
+- asset
+- Financial Advisor Bot
+- profit
+- stock category
+- share
+- portfolio
+- portfolio manager
+- capital
+- making money
+- diversification
+
+Do NOT introduce new financial topics.
+
+##########################################
+
+############## GENERATION INSTRUCTIONS ##############
+
+Generate exactly {{N}} examples.
+
+Each example MUST be a valid JSON object with the structure:
+
+```
 {"text":"example message","label":"{{LABEL}}"}
+```
 
-Return only JSON objects.
+Rules:
+
+- Questions MUST remain interpretation-neutral.
+- Do NOT mention FA Bot explicitly unless naturally ambiguous.
+- Do NOT mention "in the app", "in this system", or "in the market".
+- Avoid forcing either a general or system-only meaning.
+- Questions should sound like normal beginner or curious users.
+- Vary phrasing and tone.
+- Include short and longer questions.
+- Output exactly {{N}} examples.
+- Output one JSON object per line (JSONL format).
+- Output ONLY JSON objects.
+
+##########################################
+
+############## AMBIGUITY EXAMPLES (STYLE ONLY) ##############
+
+Good examples of ambiguity:
+
+- What is a ticker?
+- How does profit work?
+- What counts as capital?
+- What is a portfolio exactly?
+- How do you diversify investments?
+
+Avoid:
+
+- What is a ticker in FA Bot?
+- What is a ticker on the stock exchange?
+
+##########################################

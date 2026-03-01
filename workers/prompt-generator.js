@@ -19,8 +19,8 @@ export const LABEL_TO_PROMPT_FILE = {
   EDU_PORTFOLIO: "./prompts/EDU_PORTFOLIO.txt",
   OPEN_LEARNING: "./prompts/OPEN_LEARNING.txt",
   EDU_LEARNING: "./prompts/EDU_LEARNING.txt",
-  OPEN_BACKTEST: "./prompts/OPEN_BACKTEST.txt",
-  EDU_BACKTEST: "./prompts/EDU_BACKTEST.txt",
+  OPEN_FEE_IMPACT_CALCULATOR: "./prompts/OPEN_FEE_IMPACT_CALCULATOR.txt",
+  EDU_FEE_IMPACT_CALCULATOR: "./prompts/EDU_FEE_IMPACT_CALCULATOR.txt",
   CONTEXT_PORTFOLIO: "./prompts/CONTEXT_PORTFOLIO.txt",
   CONTEXT_LEARNING: "./prompts/CONTEXT_LEARNING.txt",
   DOMAIN_QUERIES: "./prompts/DOMAIN_QUERIES.txt",
@@ -334,11 +334,15 @@ function findMatchingBraceIndex(s, startIndex) {
 function hasOpenIntent(text) {
   const t = String(text).toLowerCase();
   const hasAction =
-    /\b(open|launch|start|run|do|try|use|show|go to|bring up)\b/.test(t) ||
-    /\b(i want to|can you|let me|take me to)\b/.test(t);
+    /\b(open|launch|start|run|do|try|use|show|go to|bring up|demonstrate|enter|access|navigate to|switch to|load|show me|display|pull up|head to|move to|jump to|direct me to|route me to|let me access|take me into)\b/.test(
+      t,
+    ) ||
+    /\b(i want to|can you|let me|take me to|could you|please open|I'd like to open|I want to access|I need to go|help me open)\b/.test(
+      t,
+    );
 
   const isEducation =
-    /\b(difference between|what is|explain|definition|how does|compare|pros and cons|why|how do i|how to|teach me|help me understand)\b/.test(
+    /\b(difference between|what is|explain|definition|how does|compare|pros and cons|why|teach me|help me understand|walk me through|break down|clarify|unpack|overview of|summarise)\b/.test(
       t,
     );
 
@@ -346,34 +350,40 @@ function hasOpenIntent(text) {
 }
 
 function hasEduIntent(text) {
-  const t = String(text).toLowerCase();
+  const t = String(text).toLowerCase().trim();
 
-  const hasCue =
-    /\b(what is|explain|definition|how does|how do i|how to|why|compare|difference between|pros and cons|teach me|help me understand|learn)\b/.test(
+  const eduSingle =
+    /\b(explain|definition|compare|why|teach|learn|clarify)\b/.test(t);
+
+  const eduPhrases =
+    /\b(what is|how does|how do i|how to|difference between|pros and cons|help me understand|walk me through|show me how)\b/.test(
       t,
     );
 
   const hasQuestionShape =
-    /\?$/.test(t.trim()) ||
+    t.endsWith("?") ||
     /\b(how can i|where do i start|best way to|what should i)\b/.test(t);
 
-  const isOpen =
-    /\b(open|launch|start|go to|take me to|bring up)\b/.test(t) &&
-    !/\b(learn|learning|explain|what is|how to|how do i)\b/.test(t);
+  const openSingle =
+    /\b(open|launch|start|run|use|enter|access|navigate|switch|load)\b/.test(t);
 
-  return (hasCue || hasQuestionShape) && !isOpen;
+  const openPhrases =
+    /\b(go to|bring up|show me|pull up|head to|move to|jump to|direct me to|route me to|let me access|take me to|take me into)\b/.test(
+      t,
+    );
+
+  const isOpen = (openSingle || openPhrases) && !(eduSingle || eduPhrases);
+
+  return (eduSingle || eduPhrases || hasQuestionShape) && !isOpen;
 }
 
 function hasChatIntent(text) {
   const t = String(text).toLowerCase().trim();
 
   const looksOpen =
-    /\b(open|launch|start|go to|take me to|bring up|run)\b/.test(t);
-
-  const looksOutOfScope =
-    /\b(crypto|btc|bitcoin|eth|ethereum|solana|doge|forex|fx|options|option chain|calls|puts|leverage|margin|futures|cfd)\b/.test(
+    /\b(open|launch|start|run|do|try|use|show|go to|bring up|demonstrate|enter|access|navigate to|switch to|load|show me|display|pull up|head to|move to|jump to|direct me to|route me to|let me access|take me into)\b/.test(
       t,
     );
 
-  return !looksOpen && !looksOutOfScope;
+  return !looksOpen;
 }

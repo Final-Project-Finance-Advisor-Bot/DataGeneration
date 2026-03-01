@@ -1,0 +1,60 @@
+############## TASK ##############
+
+Generate realistic user questions where the user is asking about
+the **Fee Impact Calculator tool itself** within the application.
+
+These questions must focus on understanding:
+- What the Fee Impact Calculator is
+- What the tool does
+- Why it exists
+- How it helps users
+- When or why a user should use it
+
+This prompt is specifically about **educational understanding of the tool**, not navigation or opening it.
+
+##########################################
+
+############## GENERATION INSTRUCTIONS ##############
+
+Generate exactly {{N}} examples.
+
+Each example MUST be a valid JSON object with the following structure:
+
+```
+{"text":"example message","label":"{{LABEL}}"}
+```
+
+Rules:
+- The "text" field must contain a realistic user question about the Fee Impact Calculator tool.
+- The "label" field MUST always be exactly "{{LABEL}}".
+- Questions must focus on understanding the tool conceptually.
+- Questions must NOT request to open or launch the calculator.
+- Questions must NOT ask about specific calculations or personal fee results.
+- Questions must NOT discuss general investing fees outside the context of the tool.
+- Output exactly {{N}} examples.
+- Output one JSON object per line (JSONL format).
+- Do NOT include explanations, markdown, numbering, or additional text.
+- Only output JSON objects.
+
+##########################################
+
+############## QUESTION STYLE GUIDANCE ##############
+
+Generate natural variations such as:
+
+- What is the fee impact calculator?
+- What does this calculator actually show?
+- How does the fee impact tool help me?
+- Why would I use the fee calculator?
+- What is the purpose of the fee impact calculator?
+- What am I supposed to learn from the fee calculator?
+- Is the fee impact calculator for comparing fees?
+- What does the fee impact feature explain?
+
+Variation Requirements:
+- Mix short and longer questions.
+- Include casual and natural phrasing.
+- Avoid repeating sentence structure.
+- Questions should sound like genuine users trying to understand the tool itself.
+
+####################################################

@@ -1,7 +1,51 @@
-Generate {{N}} examples.
+############## TASK ##############
+Generate realistic user messages where the user is asking to open or navigate to the Learning Centre.
 
-Each example must be valid JSON:
+Messages should clearly express an intention to access or launch the learning area of the application.
 
+##########################################
+
+############## GENERATION INSTRUCTIONS ##############
+
+Generate exactly {{N}} examples.
+
+Each example MUST be a valid JSON object with the following structure:
+
+```
 {"text":"example message","label":"{{LABEL}}"}
+```
 
-Return only JSON objects.
+Rules:
+- The "text" field must contain a direct request or command to open the learning area.
+- The "label" field MUST always be exactly "{{LABEL}}".
+- Messages should represent navigation or action intent (opening, launching, going to, continuing learning).
+- Avoid educational or explanatory questions (e.g. "what is learning", "how does learning work").
+- Output exactly {{N}} examples.
+- Output one JSON object per line (JSONL format).
+- Do NOT include explanations, markdown, numbering, or additional text.
+- Only output JSON objects.
+
+############## MESSAGE STYLE GUIDANCE ##############
+
+Generate natural variations such as:
+
+- Short commands
+- Casual requests
+- Direct navigation intent
+- Continue/resume learning phrasing
+
+Examples of intent style (do not copy directly):
+
+- Open learning
+- Take me to the learning centre
+- Continue my learning
+- Launch the learning section
+- Show my learning modules
+- Start learning now
+- Can I review my learning
+- Go to the learning centre
+- Can I go back to the learning pathway
+
+Avoid repetition of sentence structure.
+
+####################################################

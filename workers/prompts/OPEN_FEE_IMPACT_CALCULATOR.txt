@@ -1,0 +1,54 @@
+############## TASK ##############
+
+Generate realistic user requests that clearly ask to open or access the Fee Impact Calculator tool.
+
+These messages should represent natural user intent to launch or navigate directly to the calculator within the application.
+
+##########################################
+
+############## GENERATION INSTRUCTIONS ##############
+
+Generate exactly {{N}} examples.
+
+Each example MUST be a valid JSON object with the following structure:
+
+```
+{"text":"example message","label":"{{LABEL}}"}
+```
+
+Rules:
+- The "text" field must be a direct request or instruction to open the Fee Impact Calculator.
+- The "label" field MUST always be exactly "{{LABEL}}".
+- Messages should clearly indicate intent to open, launch, access, or go to the calculator.
+- Output exactly {{N}} JSON objects.
+- Output one JSON object per line (JSONL format).
+- Do NOT include explanations, markdown, numbering, or additional text.
+- Only output JSON objects.
+
+############## QUESTION / COMMAND STYLE GUIDANCE ##############
+
+Generate natural variations such as:
+
+- Direct commands
+- Polite requests
+- Casual phrasing
+- Short navigation requests
+- Slightly longer intent-based requests
+
+Examples of intent style (do NOT copy directly):
+
+- Open the fee impact calculator
+- Take me to the fee calculator
+- I want to check the fees
+- What are my fees
+- Launch the fee impact tool
+- Show me the fee impact calculator
+- What is the total fee I am charged
+
+Variation Requirements:
+- Mix short and longer phrasing.
+- Include conversational wording.
+- Avoid repeating sentence structure.
+- Keep intent clear and unambiguous.
+
+####################################################

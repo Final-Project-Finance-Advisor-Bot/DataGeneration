@@ -1,8 +1,451 @@
-############## PROMPT MAIN INSTRUCTIONS ##############
-Generate {{N}} examples.
-Each example must be valid JSON, it must contain a text attribute:
+####################################################
+## DOCUMENTATION
+```
+# FA Bot Learning Architecture Blueprint
+## 1. System Overview
+The FA Bot Learning System is a structured, progressive, capability-driven learning environment
+designed to support:
+- Platform fluency
+- Financial literacy
+- Strategic thinking
+- Behavioural and psychological awareness
 
+All activity takes place within a **simulated (“fake money”) equity environment**.
+
+### FA Bot:
+- Does **not** provide regulated financial advice.
+- Does **not** execute autonomous investment decisions.
+- Preserves user agency at all times.
+- Acts as an explanatory AI mediator grounded in visible system outputs.
+- Remains persistently accessible within the interface, except when temporarily hidden in full-screen mode to prioritise task focus.
+
+The system is organised into three thematic courses:
+
+1. **Learn the Application** - Platform & AI literacy
+2. **Fundamentals of Finance** - Conceptual literacy
+3. **Portfolio Manager** - Strategy & behavioural psychology
+   
+The architecture operates as a **capability unlock engine**, not a static course library.
+
+---
+# 2. System Phases
+The learning ecosystem is organised into three structural layers:
+- **Phase A - Course Selector**
+- **Phase B - Learning Centre (Bite-Based Mastery)**
+- **Phase C - Capability Unlock & Behavioural Progression Engine**
+---
+# 3. Phase A - Course Selector (Orientation Layer)
+## Purpose
+Phase A provides orientation, transparency, and clear entry points into each course.
+
+It includes:
+- Course Purpose
+- What You’ll Learn
+- Why It Matters
+- Progress Percentage
+- Dynamic Action Button `{Start|Continue|Review} Learning`
+- Reminder that Chat is always available
+---
+
+## 3.1 Course Card Structure
+Each course displays:
+### Purpose
+Clear, calm explanation of what the course teaches.
+### What You’ll Learn
+3-5 structured bullet points.
+### Why It Matters
+Short motivational explanation reinforcing confidence and clarity.
+### Progress Indicator
+- 0% - Start Learning
+- 1-99% - Continue Learning
+- 100% - Review Learning
+### Lock Logic (If Applicable)
+If a course is locked, the card clearly states:
+
+> “Complete [specific module] in [course name] to unlock.”
+
+There is no hidden gating.
+
+---
+## 3.2 Course Availability Logic
+| Course | Initial State | Unlock Condition |
+|--------|--------------|-----------------|
+| Learn the Application | Always Open | None |
+| Fundamentals of Finance | Locked | Requires completion of specific Learn the Application module |
+| Portfolio Manager | Locked | Requires completion of specific Learn the Application module |
+
+---
+# 4. Phase B - Learning Centre (Bite-Based Mastery Model)
+## 4.1 Structure of a Bite
+Each bite contains:
+1. Core Content (≤250 words)
+2. Mastery Quiz (100% required)
+3. Reward Preview (visible before starting)
+4. Reward Activation Pop-up (after completion of quiz)
+---
+
+## 4.2 Mastery-Based Quiz Logic
+- Users cannot proceed to the next question until the current one is answered correctly.
+- 100% mastery is required to complete the bite.
+- Incorrect answers trigger clarification but do not penalise.
+
+### Scope Note
+The current implementation enforces a strict mastery model for clarity and determinism within the project timeline. 
+
+More advanced adaptive behaviour (e.g., question variation, spaced repetition, bite-size retakes, or dynamic difficulty adjustment) is recognised as a potential extension but is intentionally deferred to maintain architectural focus and implementation stability for this iteration.
+
+### This supports:
+
+- Cognitive scaffolding
+- Confidence building
+- Reduced overwhelm
+- Inclusive learning principles
+---
+# 5. Phase C - Capability Unlock & Progression Engine
+The system is driven by transparent capability unlocks.
+Before starting a bite, users see:
+> Complete this module to unlock:
+> - [Reward 1]
+> - [Reward 2]
+> - [Reward 3]
+Rewards are explicit and goal-driven.
+---
+# 6. Reward Categories
+## 6.1 Wallet Growth
+Users begin with: `£100 simulated fake money`
+
+Wallet increases follow a structured doubling progression.
+
+Example progression pattern:
+| Milestone | Wallet Example |
+|------------|----------------|
+| Start | £100 |
+| Bite Completion | £500 |
+| Next Bite | £1,000 |
+| Subsequent | £2,000 |
+| Subsequent | £4,000 |
+| Course Completion | £16,000 |
+
+Final wallet ceiling determined by system design (e.g., ~£512k+).
+
+The exponential model reinforces the concept of compounding.
+
+---
+
+## 6.2 Portfolio Capacity Expansion
+**Initial State:**
+- 1 portfolio allowed
+
+**Unlock progression:**
+  - Additional portfolio slots unlocked through specific bites
+  - Maximum: 5 portfolios
+  
+Purpose:
+
+- Encourage strategy comparison
+- Prevent early overwhelm
+- Support structured experimentation
+---
+
+## 6.3 Per-Portfolio Allocation Constraints
+
+Allocation capacity is progression-driven rather than purely balance-driven.
+
+The maximum allocation available to a user is determined by their learning progression within the system.
+
+### Allocation Cap Determination
+
+The allocation cap is derived from completion of learning pathways, which:
+
+- Unlock increased total capital
+- Unlock additional portfolio slots
+- Increase the allowable allocation per portfolio
+
+As users complete structured learning components, the system incrementally expands:
+- The number of portfolios they may create
+- The per-portfolio allocation ceiling
+
+### Design Intent
+
+This mechanism simulates real-world financial environments where access to capital and product flexibility may expand with demonstrated knowledge or eligibility.
+
+The model intentionally allows for:
+- Users holding more funds than they are permitted to allocate (reflecting regulatory-style caps)
+- Portfolio capacity exceeding current available funds (reflecting underfunded investment scenarios)
+
+The objective is to create structured financial progression rather than enforce equal distribution across portfolios. Requiring completion of learning pathways to unlock additional capital capacity introduces a goal-oriented progression model. Users must demonstrate conceptual understanding before gaining access to increased allocation flexibility, reinforcing learning through gated financial capability.
+
+---
+
+## 6.4 Asset Limit Expansion
+
+Initial asset limit per portfolio: 5 assets
+
+For example, increases in asset capacity are partially tied to completion of diversification-focused learning modules. 
+
+However, asset capacity progression is not limited to diversification alone. Diversification competence acts as a foundational prerequisite before allocation ceilings can expand, while additional learning pathways may further increase portfolio flexibility and capital limits.
+
+Maximum: up to 50 assets
+
+This links conceptual understanding directly to system capability.
+
+---
+
+## 6.5 Graph & Tool Unlocks
+
+Initial:
+- 1 graph visible in Portfolio Builder
+
+Unlocks:
+- Additional graphs unlocked progressively
+- Maximum 4 visible at once
+- Modal may contain up to 10 total graph types
+- Unlocks tied logically to topic completion
+
+Purpose:
+- Reduce cognitive overload
+- Reward progress
+- Encourage return engagement
+
+---
+
+# 7. Behavioural Constraint Layer
+
+The system intentionally introduces structured friction.
+
+Examples:
+
+- Wallet increases may not immediately allow full deployment.
+- Allocation flexibility may require completion of a other modules.
+- Advanced comparison tools require behavioural learning first.
+
+This creates:
+
+- Goal loops
+- Return behaviour
+- Continued engagement
+- Scaffolded progression
+
+User agency remains intact, but capability is responsibly paced.
+
+---
+
+# 8. Cross-Course Interdependency Model
+
+Courses are interconnected but not strictly linear.
+
+## Learn the Application
+- Builds platform fluency
+
+## Fundamentals of Finance
+- Builds conceptual understanding
+
+## Portfolio Manager
+- Builds strategy discipline
+
+This creates a web-based progression model rather than a rigid sequence.
+
+---
+
+# 9. Psychology & Behaviour Integration
+
+Psychology is layered progressively.
+
+## Introduced in Fundamentals:
+- Risk
+- Volatility
+- Emotional reaction to loss
+
+## Deepened in Portfolio Manager:
+- Loss aversion
+- Disposition effect
+- Overconfidence bias
+- Decision discipline
+
+Each psychological module includes:
+
+- Educational explanation
+
+This supports metacognition and behavioural awareness.
+
+---
+
+# 10. Role of the Bot (AI Mediator)
+
+The Chat panel is designed to be persistently accessible across the application to support continuous user guidance and clarification.
+
+However, when the Tool Holder enters full-screen mode, the Chat panel is temporarily hidden to prioritise task focus and maximise usable screen space. Chat functionality remains available outside of full-screen mode.
+
+Users may ask:
+
+- Clarification questions
+- Interpretation questions
+- Behavioural explanations
+
+The Bot:
+
+- Does not execute trades
+- Does not allocate capital
+- Does not provide regulated advice
+- Does not act autonomously
+
+It provides explanation grounded in visible system outputs.
+
+Please see documentation on `BotArchitecture.md`.
+
+---
+
+# 11. Completion States
+
+Each course tracks completion percentage.
+
+| Progress | Button State |
+|----------|-------------|
+| 0% | Start Learning |
+| 1-99% | Continue Learning |
+| 100% | Review Learning |
+
+Full course completion triggers:
+
+- Larger wallet jump
+- Multi-capability unlock bundle
+- Major milestone recognition
+
+---
+
+# 12. What This System Is
+
+This is:
+
+- A mastery-based learning model
+- A capability-driven progression engine
+- A simulated equity learning area
+- An AI-mediated explanatory system
+
+---
+
+# 13. What This System Is Not
+
+This is not:
+
+- A robo-advisor
+- An automated trading tool
+- A predictive engine
+- A financial recommendation system
+- A gamified entertainment app
+```
+
+############## TASK ##############
+Generate realistic user questions about:
+1) Unlocking the Fundamentals of Finance course
+2) Navigating the learning pathway / learning centre
+3) Understanding what rewards/capabilities can be unlocked
+
+Vary tone and phrasing (short questions, longer questions, informal).
+Avoid repeating the same sentence pattern.
+##########################################
+############## GENERATION INSTRUCTIONS ##############
+Generate exactly {{N}} examples.
+
+Each example MUST be a valid JSON object with the following structure:
 {"text":"example message","label":"{{LABEL}}"}
 
-Return only JSON objects.
-######################################################
+Rules:
+- The "text" field must contain a realistic user message.
+- The "label" field MUST always be exactly "{{LABEL}}".
+- Output exactly {{N}} JSON objects. If you output fewer, continue until you reach {{N}}.
+- Output one JSON object per line (JSONL format).
+- Do NOT include explanations, comments, markdown, or code blocks.
+- Do NOT include numbering or additional text.
+- Only output JSON objects.
+
+############## OUTPUT FORMAT EXAMPLE ##############
+
+{"text":"example message one","label":"{{LABEL}}"}
+{"text":"example message two","label":"{{LABEL}}"}
+
+
+############## QUESTION THEMES ##############
+
+Generate realistic user questions related to the FA Bot learning system.
+
+Questions should naturally reflect how real users might ask for help or clarification within the application.
+
+Focus on questions covering topics such as:
+
+- How courses are unlocked 
+- How to progress through the learning pathway or learning centre
+- How learning bites, quizzes, or progression work
+- What rewards, tools, or capabilities can be unlocked
+- Portfolio or wallet progression linked to learning completion
+- Understanding system progression or requirements
+
+Example question themes include:
+
+- How do I unlock the Fundamentals of Finance course?
+- Why is the Fundamentals course locked for me?
+- How do I move through the learning pathway?
+- What do I need to complete to progress?
+- What rewards do I unlock after finishing a module?
+- What happens when I complete a bite?
+- How do capability unlocks work?
+- What tools become available as I progress?
+- Why can’t I access certain features yet?
+- What do I gain from completing courses?
+- How does progression affect my wallet balance?
+
+Variation Requirements:
+- Use a mix of short and long questions.
+- Include casual and natural phrasing.
+- Avoid repeating sentence structures.
+- Some questions may be direct, others exploratory or confused.
+
+Questions must sound like genuine user messages.
+####################################################
+
+############## FUNDAMENTALS MODULE QUESTION THEMES ##############
+
+Questions may also relate to concepts introduced within the
+FA Bot Fundamentals Module.
+
+These questions should reflect users seeking clarification while
+progressing through the Fundamentals learning content.
+
+Focus on realistic learner uncertainty or curiosity about topics such as:
+
+- What investing means within FA Bot
+- Simulated (“fake”) capital
+- How investing works step-by-step
+- Shares and company ownership
+- Portfolio value changes
+- Returns and performance interpretation
+- Risk appetite
+- Risk vs volatility
+- Diversification purpose
+- Why only shares are available in FA Bot
+- How FA Bot differs from real investing platforms
+- Understanding the knowledge check or mastery quiz
+
+Example learning-style questions include:
+
+- What does capital actually mean here?
+- Why can I only buy shares?
+- How does my portfolio value change over time?
+- What happens if my portfolio loses value?
+- Why do I need to pass the fundamentals quiz?
+- What does volatility look like in practice?
+- Is diversification supposed to remove risk?
+- What happens if I fail the knowledge check?
+- Why is FA Bot using fake money?
+- How do returns get calculated?
+
+Variation Requirements:
+
+- Questions should sound like users actively learning.
+- Some questions may show confusion or uncertainty.
+- Include short clarification questions and longer exploratory ones.
+- Avoid repeating wording patterns.
+- Questions should naturally reference concepts without copying documentation text.
+
+####################################################
+

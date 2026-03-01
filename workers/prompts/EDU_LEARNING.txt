@@ -1,7 +1,73 @@
-Generate {{N}} examples.
+############## TASK ##############
 
-Each example must be valid JSON:
+Generate realistic user questions where the user is asking about
+the Learning Pathway or Learning Centre as a feature of the application.
 
+The questions must focus ONLY on understanding what the learning tool is
+or how the learning system works at a high level.
+
+This dataset is about the learning tool itself - not finance education.
+
+##########################################
+
+############## SCOPE RULES ##############
+
+Allowed topics:
+
+- What the learning pathway is
+- What the learning centre does
+- How the learning system works overall
+- Why the learning section exists
+
+NOT allowed:
+
+- Individual lessons or bites
+- Quiz behaviour
+- Rewards or unlock mechanics
+- Finance concepts
+- Investment education questions
+- Course content questions
+
+The user is asking about the tool itself, not what is taught inside it.
+
+##########################################
+
+############## GENERATION INSTRUCTIONS ##############
+
+Generate exactly {{N}} examples.
+
+Each example MUST be a valid JSON object with the structure:
+
+```
 {"text":"example message","label":"{{LABEL}}"}
+```
 
-Return only JSON objects.
+Rules:
+
+- Messages must sound like real users asking about the learning feature.
+- Questions should reflect curiosity or confusion about the learning system.
+- Use natural phrasing and beginner language.
+- Include both short and longer questions.
+- Avoid repeating sentence structures.
+- Do NOT ask about finance topics.
+- Do NOT reference quizzes, bites, or rewards.
+- Output exactly {{N}} examples.
+- Output one JSON object per line (JSONL format).
+- Output ONLY JSON objects.
+
+##########################################
+
+############## MESSAGE STYLE GUIDANCE ##############
+
+Examples of intent style (do not copy directly):
+
+- What is the learning pathway?
+- What does the learning centre do?
+- How does learning work in this app?
+- Why do I need to use the learning section?
+- What happens when I start learning?
+- Is the learning pathway required?
+
+Questions should clearly relate to understanding the learning tool itself.
+
+####################################################

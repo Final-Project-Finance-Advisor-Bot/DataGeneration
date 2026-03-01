@@ -1,7 +1,53 @@
-Generate {{N}} examples.
+############## TASK ##############
 
-Each example must be valid JSON:
+Generate realistic user messages where the user is asking to open or navigate to the Portfolio Manager tool.
 
+Messages should clearly express an intention to access, launch, or view portfolios within the application.
+
+##########################################
+
+############## GENERATION INSTRUCTIONS ##############
+
+Generate exactly {{N}} examples.
+
+Each example MUST be a valid JSON object with the following structure:
+
+```
 {"text":"example message","label":"{{LABEL}}"}
+```
 
-Return only JSON objects.
+Rules:
+- The "text" field must contain a direct request or command to open the Portfolio Manager.
+- The "label" field MUST always be exactly "{{LABEL}}".
+- Messages should represent navigation or action intent (opening, launching, accessing, managing portfolios).
+- Avoid educational or explanatory questions (e.g. "what is a portfolio", "how do portfolios work").
+- Output exactly {{N}} examples.
+- Output one JSON object per line (JSONL format).
+- Do NOT include explanations, markdown, numbering, or additional text.
+- Only output JSON objects.
+
+############## MESSAGE STYLE GUIDANCE ##############
+
+Generate natural variations such as:
+
+- Short commands
+- Casual requests
+- Direct navigation intent
+- Portfolio management phrasing
+
+Examples of intent style (do not copy directly):
+
+- Open my portfolio
+- Take me to the portfolio manager
+- Show my portfolios
+- Launch portfolio manager
+- Go to portfolio management
+- Let me manage my portfolio
+- Open portfolio tool
+- Bring up my investments
+- Bring up my assets
+- Can I go back to the portfolio manager
+
+Avoid repetition of sentence structure.
+
+####################################################

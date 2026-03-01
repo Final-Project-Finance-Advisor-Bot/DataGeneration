@@ -1,7 +1,72 @@
-Generate {{N}} examples.
+############## TASK ##############
+Generate realistic user questions where the user is asking about the **Portfolio Manager tool itself**.
 
-Each example must be valid JSON:
+These questions must focus on understanding:
+- What the Portfolio Manager is
+- What the Portfolio Manager does
+- How the Portfolio Manager works at a high level
+- Why the Portfolio Manager exists within the application
 
+This prompt is specifically about the **tool as a whole**, not individual features.
+
+##########################################
+
+############## GENERATION INSTRUCTIONS ##############
+
+Generate exactly {{N}} examples.
+
+Each example MUST be a valid JSON object with the following structure:
+
+```
 {"text":"example message","label":"{{LABEL}}"}
+```
 
-Return only JSON objects.
+Rules:
+- The "text" field must contain a realistic user question about the Portfolio Manager tool itself.
+- The "label" field MUST always be exactly "{{LABEL}}".
+- Questions must ask about the overall Portfolio Manager system or purpose.
+- Do NOT generate questions about specific actions or components.
+
+Do NOT include questions about:
+- Adding or deleting assets
+- Graphs or charts
+- Allocations
+- Portfolio limits
+- Editing portfolios
+- Performance results
+- Navigation or opening the tool
+
+Those belong to other intent categories.
+
+Allowed themes include:
+- What is the Portfolio Manager?
+- How does the Portfolio Manager work?
+- What is this tool used for?
+- Why would I use the Portfolio Manager?
+- What can I do inside the Portfolio Manager (high-level only)
+
+Output Requirements:
+- Output exactly {{N}} examples.
+- Output one JSON object per line (JSONL format).
+- Do NOT include explanations, markdown, numbering, or additional text.
+- Only output JSON objects.
+
+############## MESSAGE STYLE GUIDANCE ##############
+
+Generate natural variations such as:
+- Curious users trying to understand the tool
+- New users asking what it does
+- High-level clarification questions
+- Casual or conversational phrasing
+
+Examples of intent style (do not copy directly):
+
+- What is the portfolio manager?
+- What does this portfolio tool do?
+- How does the portfolio manager work?
+- Can you explain the portfolio manager?
+- Do I need to use the portfolio manager?
+
+Avoid repeating sentence structure.
+
+####################################################
