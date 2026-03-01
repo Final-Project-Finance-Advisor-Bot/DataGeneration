@@ -1,0 +1,900 @@
+{"text":"Let me view my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I navigate to portfolio management?","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the Portfolio Manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio and investments","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio management section","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the Portfolio Manager app","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management screen now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio investments","label":"OPEN_PORTFOLIO"}
+{"text":"Open Portfolio Manager tool here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio management section","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager app","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my portfolios?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my assets?","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio manager app","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to portfolio management","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio investments","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio today","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio section","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my assets?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my portfolio?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management app","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager here","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio app","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my portfolio investments","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my assets now?","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio management","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my investments today","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager here now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio section","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio app here","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my investments now?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio investments now","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my assets?","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio app today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager tool here","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio management section","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my portfolios?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager app here","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio management screen?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio investments today","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio section","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my portfolio?","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio tool today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my portfolio management","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager app now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio today?","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my portfolios?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio today?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio management screen here","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio app","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in portfolio?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio app now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my portfolio here?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio tool here","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the investment management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my assets now?","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to portfolio app?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio investments now?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the investment management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in portfolios today?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool here?","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my portfolio app?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my portfolios?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio manager?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio app now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the investment management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my investments?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my assets now?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager here","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio app","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my assets?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio management app?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the investment screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in portfolios now?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio app here","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my investments here?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my investments?","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio manager app?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio investments here","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the investment management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in portfolios today?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my investments today?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager app now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my investments?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio manager?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio investments here?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the investment screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in portfolios today?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my investments today?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager app?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my investments?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio manager?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio investments here?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the investment screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in portfolios today?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my investments today?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager app?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my investments?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio manager?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio investments here?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the investment screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in portfolios today?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my investments today?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager app?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my investments?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio manager?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio investments here?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the investment screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in portfolios today?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my investments today?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager app?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in my investments?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio today","label":"OPEN_PORTFOLIO"}
+{"text":"Let me go back to the portfolio manager?","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio investments here?","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up the investment screen","label":"OPEN_PORTFOLIO"}
+{"text":"Show me what's in portfolios today?","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my assets","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio section","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolios view","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio manager access","label":"OPEN_PORTFOLIO"}
+{"text":"Show me portfolio details","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio overview","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager application","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access link","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio section","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio performance","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio settings","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager window","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager login","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios overview","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access required","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management screen","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio settings page","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios summary","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio tool application","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio overview page","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager application","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios history","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access link","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool login","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio settings page","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio manager access required","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio dashboard view","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios summary page","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio tool application","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager login screen","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio overview page","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios history view","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access link","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio performance page","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager login screen view","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio report page","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio dashboard view","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login view","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios summary view","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager login screen view","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio settings page view","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments dashboard view","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login view","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios history view view","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access link view","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio performance page view","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager login screen view view","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio report page view","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio dashboard view view","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login view view","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios summary view view","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio management dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio details and values","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolio settings?","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager login screen on mobile","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio dashboard overview page","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments and portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application for iOS","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios performance over time","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access and management dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio manager application on Android","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio overview page","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio performance and values","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments dashboard view on mobile","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login on desktop","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios summary and values","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access and management tools","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio manager application for Windows","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio performance page","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio holdings and values","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments and portfolios dashboard view","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login on tablet","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios values and performance","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access and management features","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio manager application on Mac","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio summary page","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio performance and values view","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments dashboard view on web","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login on laptop","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios values and performance view","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access and management tools for portfolio management","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio manager application on Linux","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio settings page","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio values and performance details","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments and portfolios dashboard view on desktop","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login on Chromebook","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios values and performance details view","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access and management features for portfolio management","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio manager application on Chrome OS","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio investment page","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio holdings and values details","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments and portfolios dashboard view on tablet","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login on Firefox OS","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios values and performance details view","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access and management tools for portfolio management features","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio manager application on Tizen","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio performance chart page","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio values and performance details view","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments and portfolios dashboard view on webOS","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login on Palm OS","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios values and performance details view","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access and management tools for portfolio management features","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio manager application on Symbian","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio report page","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio values and performance details view","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments and portfolios dashboard view on MeeGo","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login on Maemo","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios values and performance details view","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access and management tools for portfolio management features view","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio manager application on Ubuntu Touch","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio settings page view","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio values and performance details view view","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments and portfolios dashboard view on Bada","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool application login on Samsung Bada","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios values and performance details view view","label":"OPEN_PORTFOLIO"}
+{"text":"Portfolio access and management tools for portfolio management features view view","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio estate page","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio values and performance details view view view","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio investment page view","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio values and performance details view view view","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my asset manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management page now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios please","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Can I access my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio tool please","label":"OPEN_PORTFOLIO"}
+{"text":"Show me all my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Open Portfolio Manager","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Access portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Show investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio tab","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my assets","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio tool","label":"OPEN_PORTFOLIO"}
+{"text":"Show all portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Go to investments management","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio login","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my portfolio accounts","label":"OPEN_PORTFOLIO"}
+{"text":"Let me see my current portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio settings","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio analysis","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio updates","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolio reports","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio security","label":"OPEN_PORTFOLIO"}
+{"text":"Show all investments in my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio performance","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolio transactions","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio account management","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio review","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio overview page","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio account info","label":"OPEN_PORTFOLIO"}
+{"text":"Let me see all of my portfolios at once","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tracking","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio balance","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio settings page","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolio account details","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management tool","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio analysis report","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio dashboard page","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio account login","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my current portfolios and account info","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio analytics","label":"OPEN_PORTFOLIO"}
+{"text":"Show all of my investments in the portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolio account statements","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tracking and analysis","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio comparison tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager login page","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio account settings","label":"OPEN_PORTFOLIO"}
+{"text":"Let me see all of my portfolios and account info","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management tool login","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio performance overview","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio manager main page","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my current investments in my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management and analysis","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio tracking tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio dashboard page login","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio account login and password reset","label":"OPEN_PORTFOLIO"}
+{"text":"Let me see all of my portfolios and account info at once","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management tool login page","label":"OPEN_PORTFOLIO"}
+{"text":"Show all of my investments in the portfolio and account info","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio analysis and comparison tool","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolio account statements and investment info","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management and tracking tool","label":"OPEN_PORTFOLIO"}
+{"text":"Open Portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio tool","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to Portfolio Manager","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management","label":"OPEN_PORTFOLIO"}
+{"text":"Open Portfolio Manager now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio tool","label":"OPEN_PORTFOLIO"}
+{"text":"Can I go to Portfolio Manager?","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investments","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my assets","label":"OPEN_PORTFOLIO"}
+{"text":"Launch Portfolio Manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio page","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio navigation","label":"OPEN_PORTFOLIO"}
+{"text":"Show all portfolios for me","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management console","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio reports","label":"OPEN_PORTFOLIO"}
+{"text":"Launch Portfolio Manager now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio overview","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio balances","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio updates","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management interface","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments","label":"OPEN_PORTFOLIO"}
+{"text":"Show all my portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio management center","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio performance","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio tracking","label":"OPEN_PORTFOLIO"}
+{"text":"Launch Portfolio Manager application","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio account now","label":"OPEN_PORTFOLIO"}
+{"text":"Show all my portfolio holdings","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management center","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio summary","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio performance here","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio updates today","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management interface now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Show all portfolios for me today","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio management center today","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio tracking","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio reports now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch Portfolio Manager tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio navigation center","label":"OPEN_PORTFOLIO"}
+{"text":"Show all portfolios for today","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio summary center","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio performance here","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio updates today","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management interface now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Show all portfolios for me today","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio management center today","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio tracking","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio reports now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch Portfolio Manager tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio navigation center","label":"OPEN_PORTFOLIO"}
+{"text":"Show all portfolios for today","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio summary center","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio performance here","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio updates today","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management interface now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Show all portfolios for me today","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio management center today","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio tracking","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio reports now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch Portfolio Manager tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio navigation center","label":"OPEN_PORTFOLIO"}
+{"text":"Show all portfolios for today","label":"OPEN_PORTFOLIO"}
+{"text":"Open my asset portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio summary center","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio performance here","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio updates today","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management interface now","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Show all portfolios for me today","label":"OPEN_PORTFOLIO"}
+{"text":"Open my investment portfolios here","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio management center today","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio tracking","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio reports now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch Portfolio Manager tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Let's open the portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Let's access our portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager account","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio management section","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio dashboard for me","label":"OPEN_PORTFOLIO"}
+{"text":"Show my asset portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Let's navigate to the portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to my portfolio manager login","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio dashboard now","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio management account","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio assets today","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio section","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my portfolio for me","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio view now","label":"OPEN_PORTFOLIO"}
+{"text":"Let's access our portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment management view","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio manager account","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio assets view","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to my portfolio manager login page","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio view now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio management account","label":"OPEN_PORTFOLIO"}
+{"text":"Open the portfolio view now","label":"OPEN_PORTFOLIO"}
+{"text":"Let's navigate to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment view","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to my portfolio manager login page","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Let's access our portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment management section","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio manager account","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment portfolios section","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager account","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Let's navigate to the portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment management section","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments today","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment portfolios view","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio assets today","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment view","label":"OPEN_PORTFOLIO"}
+{"text":"Let's access our portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my portfolio for me","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager account","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments today","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment portfolios section","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment view","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager login","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager account","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio section","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Let's navigate to the portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to my portfolio manager login page","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment portfolios section","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio management account","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio assets today","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager account","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments today","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio view now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio assets now","label":"OPEN_PORTFOLIO"}
+{"text":"Let's navigate to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment view","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Let's access our portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio management account","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager account now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments today","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio view now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment view","label":"OPEN_PORTFOLIO"}
+{"text":"Let's navigate to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager account","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio section","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio view now","label":"OPEN_PORTFOLIO"}
+{"text":"Let's access our portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager account now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments today","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Let's navigate to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio assets today","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool now","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager account","label":"OPEN_PORTFOLIO"}
+{"text":"Let's access our portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment view","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio section","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio dashboard now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio management account","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Let's navigate to the portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments today","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my investment portfolios","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment view","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to my portfolio manager login page now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio assets today","label":"OPEN_PORTFOLIO"}
+{"text":"Go to the portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Can I open my portfolio manager account","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio view now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment portfolios section","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio assets","label":"OPEN_PORTFOLIO"}
+{"text":"Let's navigate to the portfolio dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio manager account now","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investments today","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio view","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my investment portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Launch the portfolio tool again","label":"OPEN_PORTFOLIO"}
+{"text":"Open the investment view","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio assets now","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio manager","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolios now","label":"OPEN_PORTFOLIO"}
+{"text":"Launch portfolio manager tool","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio management section","label":"OPEN_PORTFOLIO"}
+{"text":"Let me manage my investments","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio tool page","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my assets portfolio","label":"OPEN_PORTFOLIO"}
+{"text":"Show me my portfolios list","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to portfolio management dashboard","label":"OPEN_PORTFOLIO"}
+{"text":"Open my portfolio dashboard now","label":"OPEN_PORTFOLIO"}
+{"text":"Go to portfolio manager login","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios balance","label":"OPEN_PORTFOLIO"}
+{"text":"Let me view my portfolio status","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio management settings","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my investment portfolios today","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager login page","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio transaction history","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager login now","label":"OPEN_PORTFOLIO"}
+{"text":"Go to my portfolio summary page","label":"OPEN_PORTFOLIO"}
+{"text":"Let me access my portfolio settings","label":"OPEN_PORTFOLIO"}
+{"text":"Show my portfolio performance graph","label":"OPEN_PORTFOLIO"}
+{"text":"Open portfolio manager login screen","label":"OPEN_PORTFOLIO"}
+{"text":"Bring up my portfolio transfer options","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio dashboard now","label":"OPEN_PORTFOLIO"}
+{"text":"Show my current portfolios value","label":"OPEN_PORTFOLIO"}
+{"text":"Take me to the portfolio manager","label":"OPEN_PORTFOLIO"}
