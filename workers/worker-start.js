@@ -38,6 +38,7 @@ async function main() {
 
   while (shouldRun) {
     // get job
+    console.log("Requesting next job...");
     const nextRes = await postJson(`${COORDINATOR_URL}/jobs/next`, {
       workerId: WORKER_ID,
     });
@@ -54,7 +55,6 @@ async function main() {
 
     const job = await nextRes.json();
     const { id, label, batchSize } = job;
-
     console.log(`Allocated job ${id} -> ${label} (${batchSize})`);
 
     // generate prompts using Ollama
@@ -80,6 +80,8 @@ async function main() {
     }
 
     console.log(`Completed job ${id}`);
+
+    await new Promise((resolve) => setTimeout(resolve, 20000));
   }
 }
 
