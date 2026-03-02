@@ -54,6 +54,7 @@ export async function generateJsonlExact({
   while (collected.length < targetLines) {
     const remaining = targetLines - collected.length;
 
+  
     // ask for only what we still need
     const chunkJsonl = await generateJsonlBatch({
       label,
@@ -118,7 +119,8 @@ export async function generateJsonlBatch({
   const prompt = promptTemplate
     .replaceAll("{{N}}", String(amount))
     .replaceAll("{{LABEL}}", label);
-
+ 
+   
   // call ollama
   const raw = await ollamaCall({ model, prompt, numPredict });
 
@@ -133,6 +135,7 @@ export async function generateJsonlBatch({
  * calls ollama local chat endpoint and returns raw text output.
  */
 async function ollamaCall({ model, prompt, numPredict }) {
+
   const res = await fetch("http://localhost:11434/api/chat", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -154,6 +157,7 @@ async function ollamaCall({ model, prompt, numPredict }) {
       },
     }),
   });
+  console.log("Response recieved")
 
   if (!res.ok) {
     const text = await res.text().catch(() => "");

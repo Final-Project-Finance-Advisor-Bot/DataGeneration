@@ -56,7 +56,7 @@ function main() {
 
   // clear all jobs
   cleanupExpiredStagedJobs(jobs);
-  
+
   // grab 1 staged job
   const job = getStagedJob(jobs);
 
@@ -72,7 +72,6 @@ function main() {
   const status = execSync(`git status --porcelain "${file}"`).toString().trim();
 
   if (!status) {
-    console.log("File not changed");
     return;
   }
 

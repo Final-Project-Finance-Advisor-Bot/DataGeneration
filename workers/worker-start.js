@@ -12,6 +12,7 @@ import { generateJsonlExact } from "./prompt-generator.js";
 
 const WORKER_ID = process.env.WORKER_ID;
 const COORDINATOR_URL = process.env.COORDINATOR_URL;
+console.log(COORDINATOR_URL)
 
 function die(msg) {
   console.error(msg);
@@ -41,6 +42,7 @@ async function main() {
     console.log("Requesting next job...");
     const nextRes = await postJson(`${COORDINATOR_URL}/jobs/next`, {
       workerId: WORKER_ID,
+      excludeLabels: ["CONTEXT_LEARNING"]
     });
 
     if (nextRes.status === 204) {
@@ -57,11 +59,13 @@ async function main() {
     const { id, label, batchSize } = job;
     console.log(`Allocated job ${id} -> ${label} (${batchSize})`);
 
+    console.log("Generating Ollama")
     // generate prompts using Ollama
     const jsonl = await generateJsonlExact({
       label,
       targetLines: batchSize,
     });
+    console.log("Generated")
 
     // complete job
     const completeRes = await postJson(
@@ -74,9 +78,11 @@ async function main() {
 
     if (!completeRes.ok) {
       const text = await completeRes.text().catch(() => "");
-      throw new Error(
+      console.log(
         `Failed /jobs/${id}/complete: ${completeRes.status} ${text}`,
       );
+      await new Promise((resolve) => setTimeout(resolve, 20000));
+      continue
     }
 
     console.log(`Completed job ${id}`);

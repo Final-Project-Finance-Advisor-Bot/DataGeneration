@@ -12,7 +12,7 @@ app.use(express.json());
 const PORT = 3001;
 const DATA_DIR = "./data";
 const JOB_FILE = "./jobs.json";
-const BATCH_SIZE = 300;
+let BATCH_SIZE = 300;
 const TARGET_PER_LABEL = 6000;
 const JOB_TTL_HOURS = 6;
 const JOB_TTL_MS = JOB_TTL_HOURS * 60 * 60 * 1000;
@@ -169,11 +169,14 @@ function addJobsToCounts(counts, jobs) {
  * @returns {string|null} The label requiring the next batch of
  * generation, or null if all labels have reached the target.
  */
-function smallestLabel(counts) {
+function smallestLabel(counts, excluded=[]) {
+  const excludedSet = new Set((excluded || []).map(String))
+
   let smallest = null;
   let value = Infinity;
 
   for (const label in counts) {
+    if (excludedSet.has(label)) continue;
     if (counts[label] >= TARGET_PER_LABEL) continue;
     if (counts[label] < value) {
       smallest = label;
@@ -224,7 +227,13 @@ function smallestLabel(counts) {
 app.post("/jobs/next", async (req, res) => {
   // grab worker id
   const workerId = req.body?.workerId || "unknown";
+  if(workerId == "server-worker") {
+      BATCH_SIZE = 50
+  }
+  console.log(BATCH_SIZE)
 
+  const excludeLabels = Array.isArray(req.body?.excludeLabels)? req.body.excludeLabels :[];
+  console.log(excludeLabels)
   // gather data asynchronously
   const [labelCounts, jobsRaw] = await Promise.all([
     fetchLabelCounts(),
@@ -237,7 +246,7 @@ app.post("/jobs/next", async (req, res) => {
   // call the next label
   const jobs = activeJobs(jobsRaw);
   const effectiveCounts = addJobsToCounts(labelCounts, jobs);
-  const label = smallestLabel(effectiveCounts);
+  const label = smallestLabel(effectiveCounts, excludeLabels);
 
   // no more work to complete
   if (!label) return res.status(204).send();
