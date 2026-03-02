@@ -998,3 +998,53 @@
 {"text":"If I delete an asset from my portfolio, does that affect its price in any way?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I switch between different portfolios without losing money? Are there any minimum funds required?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I want to track the performance of a specific company. Can I search for it in the portfolio manager? How do I view the results?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm new here, how do I start using the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio without having any money in it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch between different portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money needed to create a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my wallet value gone down recently?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company within the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the best way to organize my assets in the portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add more graphs/charts to my portfolio performance view?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a limit on how many assets can be added to a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset allocation not showing up in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I remove an asset from my portfolio allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different investment strategies?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the total value of my portfolio right now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my assets in alphabetical order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific asset limit for a particular type of asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio not showing up on the dashboard?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an existing asset allocation in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple graphs/charts for different types of assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete a graph/chart from my portfolio performance view?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific profit target for an asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value not updating properly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company within the portfolio manager's database?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different currency settings?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the total profit made on my investments so far?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new graph/chart to my portfolio performance view?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific asset limit for a particular type of asset within a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset allocation not showing up in the portfolio manager's charts?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I remove an asset from my portfolio view?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different risk settings?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the total amount of money invested in all portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my assets by market capitalization?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific profit target for an entire portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value not being displayed correctly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific asset within the portfolio manager's database?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different time frames for performance tracking?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the total return on investment (ROI) for my investments so far?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to an existing portfolio allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific asset limit for a particular type of asset in an entire portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio not showing up on the dashboard with my name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit a graph/chart within the portfolio performance view?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount I need to deposit to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've added an asset, how do I sort it within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph that I no longer need in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio value going up and down so quickly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch between different portfolios that I've created?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the maximum number of assets I can add to a single portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company within my portfolio to see its details?","label":"CONTEXT_PORTFOLIO"}
