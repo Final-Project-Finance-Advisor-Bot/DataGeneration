@@ -1098,3 +1098,53 @@
 {"text":"Can I switch between portfolios?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How much money is required to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I've added an asset, how do I know it's been successfully added?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch between portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add an asset, how do I do it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I delete this asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I organise my assets in alphabetical order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I calculate the profit on my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit for the number of graphs/charts I can add?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my total wallet value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset allocation not updating correctly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit the name of a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add more assets to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the difference between asset limits and portfolio limits?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my assets by market value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the maximum amount of money that can be invested in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for an asset by ticker symbol?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio not generating profit like it used to?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I change the graph/chart settings?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a custom asset allocation for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of time an asset must be held before selling?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the performance history of a specific asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add multiple assets to a single portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I update my portfolio allocation manually?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I export my portfolio data?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company by industry?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of portfolios I can create?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio allocation by sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset not moving as expected?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I change the time frame for viewing portfolio performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a stop-loss order on an asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my total assets value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for an asset by sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio not generating enough returns?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a graph/chart to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my asset allocation by country?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of assets I can hold in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a target return percentage for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio not generating profit in a specific market?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I change the graph/chart style?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for an asset by ticker symbol in multiple markets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of time required to invest in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's risk level?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a custom asset allocation percentage for each asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset not moving in the expected direction?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete all assets from my portfolio?","label":"CONTEXT_PORTFOLIO"}
