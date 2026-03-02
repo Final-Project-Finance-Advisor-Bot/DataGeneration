@@ -2198,3 +2198,53 @@
 {"text":"What is the best way to categorize a particular asset as a stock or a share?","label":"DOMAIN_QUERIES"}
 {"text":"Can you explain how a portfolio manager decides what to invest in and how it affects my profit?","label":"DOMAIN_QUERIES"}
 {"text":"How does diversifying my investments across different asset types impact the overall capital I have?","label":"DOMAIN_QUERIES"}
+{"text":"Can I buy shares directly?","label":"DOMAIN_QUERIES"}
+{"text":"How does my portfolio grow?","label":"DOMAIN_QUERIES"}
+{"text":"What is the best way to make money from assets?","label":"DOMAIN_QUERIES"}
+{"text":"Is there a limit to capital allocated?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my stock's performance?","label":"DOMAIN_QUERIES"}
+{"text":"How does the financial advisor bot provide profit estimates?","label":"DOMAIN_QUERIES"}
+{"text":"What types of assets are allowed in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Is diversification possible with FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set a share buy limit?","label":"DOMAIN_QUERIES"}
+{"text":"How does the financial advisor bot calculate profit margins?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"Is capital needed to start investing with FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can I get alerts for portfolio performance?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit distribution work in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor bot's goal?","label":"DOMAIN_QUERIES"}
+{"text":"Is there a minimum capital requirement?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my portfolio's performance over time?","label":"DOMAIN_QUERIES"}
+{"text":"How do I make money from my investment?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share in terms of returns?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to diversify my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital when investing?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot work with stocks?","label":"DOMAIN_QUERIES"}
+{"text":"What is a profit share in terms of investment?","label":"DOMAIN_QUERIES"}
+{"text":"How do I track my portfolio performance?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the different types of assets I can invest in?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot determine optimal stock categories for me?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category and how do I use it?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand my investment return?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot calculate capital gains?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager and how do I choose one?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to make money from dividends?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot help with investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker symbol and how do I use it?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to set up a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot account for fees in investment returns?","label":"DOMAIN_QUERIES"}
+{"text":"What is a profit margin and how do I calculate it?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to diversify with ETFs?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot integrate asset allocation into its recommendations?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category and how do I choose it?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand my investment risk tolerance?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot handle capital preservation strategies?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share price and how do I calculate it?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to make money from interest?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot help with retirement investment planning?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio performance report and how do I read it?","label":"DOMAIN_QUERIES"}
+{"text":"How do I keep track of my shares?","label":"DOMAIN_QUERIES"}
+{"text":"What is meant by making money from investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit is calculated for a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification help with capital management?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between an asset and a share in my portfolio?","label":"DOMAIN_QUERIES"}
