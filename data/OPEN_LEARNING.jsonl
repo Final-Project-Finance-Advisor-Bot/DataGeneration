@@ -1608,3 +1608,303 @@
 {"text":"Open Learning Centre","label":"OPEN_LEARNING"}
 {"text":"Take me to the learning page","label":"OPEN_LEARNING"}
 {"text":"Take me to the learning centre","label":"OPEN_LEARNING"}
+{"text":"Open Learning","label":"OPEN_LEARNING"}
+{"text":"Take me to the Learning Centre","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section now","label":"OPEN_LEARNING"}
+{"text":"Show my available learning modules","label":"OPEN_LEARNING"}
+{"text":"I want to start learning again","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Centre directly","label":"OPEN_LEARNING"}
+{"text":"Let me go back to the learning pathway","label":"OPEN_LEARNING"}
+{"text":"I want to explore more topics related to this course","label":"OPEN_LEARNING"}
+{"text":"Take me to the Learning Hub","label":"OPEN_LEARNING"}
+{"text":"Please open up my learning dashboard","label":"OPEN_LEARNING"}
+{"text":"How can I access the learning resources?","label":"OPEN_LEARNING"}
+{"text":"Can you show me the list of completed courses?","label":"OPEN_LEARNING"}
+{"text":"I want to refresh my knowledge on a particular topic","label":"OPEN_LEARNING"}
+{"text":"What's the best way to use the learning tools?","label":"OPEN_LEARNING"}
+{"text":"Can I see a tutorial on how to use this feature?","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in my learning journey","label":"OPEN_LEARNING"}
+{"text":"Show me the list of all available training materials","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about a specific skill set","label":"OPEN_LEARNING"}
+{"text":"Can you open up the learning pathway for me?","label":"OPEN_LEARNING"}
+{"text":"Take me to the skills test section","label":"OPEN_LEARNING"}
+{"text":"I want to learn at my own pace","label":"OPEN_LEARNING"}
+{"text":"How do I earn badges in the learning centre?","label":"OPEN_LEARNING"}
+{"text":"Show me all available quizzes","label":"OPEN_LEARNING"}
+{"text":"I want to learn from industry experts","label":"OPEN_LEARNING"}
+{"text":"Can you open up my favourite course","label":"OPEN_LEARNING"}
+{"text":"Let me view all the completed modules","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about career development","label":"OPEN_LEARNING"}
+{"text":"Take me to my dashboard","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses","label":"OPEN_LEARNING"}
+{"text":"How do I reset my learning progress?","label":"OPEN_LEARNING"}
+{"text":"I want to explore new topics","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated courses","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I was before","label":"OPEN_LEARNING"}
+{"text":"I want to start with an easy course","label":"OPEN_LEARNING"}
+{"text":"How do I mark a course as completed?","label":"OPEN_LEARNING"}
+{"text":"Show me the list of upcoming courses","label":"OPEN_LEARNING"}
+{"text":"Let me view all available training materials","label":"OPEN_LEARNING"}
+{"text":"I want to learn at a faster pace","label":"OPEN_LEARNING"}
+{"text":"Show me the list of completed modules by course","label":"OPEN_LEARNING"}
+{"text":"How do I get certified in a particular skill?","label":"OPEN_LEARNING"}
+{"text":"Take me to my learning dashboard directly","label":"OPEN_LEARNING"}
+{"text":"I want to view all available courses and materials","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated instructors","label":"OPEN_LEARNING"}
+{"text":"Let me view all my completed quizzes","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about soft skills development","label":"OPEN_LEARNING"}
+{"text":"How do I earn points in the learning centre?","label":"OPEN_LEARNING"}
+{"text":"Show me all available courses and training materials","label":"OPEN_LEARNING"}
+{"text":"I want to learn from a industry expert","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in the learning centre","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about technology development","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated courses on a specific topic","label":"OPEN_LEARNING"}
+{"text":"How do I apply my learning to real-life situations?","label":"OPEN_LEARNING"}
+{"text":"Take me to my dashboard directly","label":"OPEN_LEARNING"}
+{"text":"I want to view all available training resources","label":"OPEN_LEARNING"}
+{"text":"How do I create a custom learning plan?","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses for beginners","label":"OPEN_LEARNING"}
+{"text":"Let me view all completed modules by subject","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about career guidance","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated instructors in a specific field","label":"OPEN_LEARNING"}
+{"text":"How do I track my learning progress over time?","label":"OPEN_LEARNING"}
+{"text":"Take me to my learning centre now","label":"OPEN_LEARNING"}
+{"text":"I want to learn from online tutorials","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses for advanced learners","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in my learning journey","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about leadership development","label":"OPEN_LEARNING"}
+{"text":"Show me the list of available courses by category and subject","label":"OPEN_LEARNING"}
+{"text":"How do I apply for certification in a specific skill?","label":"OPEN_LEARNING"}
+{"text":"Take me to my dashboard now","label":"OPEN_LEARNING"}
+{"text":"I want to view all available training resources and materials","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses by rating","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in my learning journey","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about industry trends","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated courses on a specific topic and subject","label":"OPEN_LEARNING"}
+{"text":"How do I track my progress in the learning centre?","label":"OPEN_LEARNING"}
+{"text":"Take me to my learning dashboard directly","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about soft skills development","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses for beginners and advanced learners","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in my learning journey","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about career development","label":"OPEN_LEARNING"}
+{"text":"Show me the list of available courses and training resources by category and subject","label":"OPEN_LEARNING"}
+{"text":"How do I reset my learning speed and progress?","label":"OPEN_LEARNING"}
+{"text":"Take me to my dashboard now","label":"OPEN_LEARNING"}
+{"text":"I want to view all available courses and materials on a specific topic","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses by rating and subject","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in my learning centre","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about industry trends and development","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated courses on a specific topic by subject","label":"OPEN_LEARNING"}
+{"text":"How do I apply my learning to real-life situations and projects?","label":"OPEN_LEARNING"}
+{"text":"Take me to my dashboard directly","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about career guidance and development","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses by category and rating","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in my learning journey","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about technology development and innovation","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated courses by rating and subject","label":"OPEN_LEARNING"}
+{"text":"How do I track my progress and learning over time?","label":"OPEN_LEARNING"}
+{"text":"Take me to my dashboard now","label":"OPEN_LEARNING"}
+{"text":"I want to view all available courses and materials on a specific topic","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses by rating and subject","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in my learning centre","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about leadership development and management","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated courses on a specific topic by subject","label":"OPEN_LEARNING"}
+{"text":"How do I apply my learning to real-life situations and projects?","label":"OPEN_LEARNING"}
+{"text":"Take me to my dashboard directly","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about career development and guidance","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses by category and rating","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in my learning journey","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about industry trends and development","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated courses by rating and subject","label":"OPEN_LEARNING"}
+{"text":"How do I track my progress and learning over time?","label":"OPEN_LEARNING"}
+{"text":"Take me to my dashboard now","label":"OPEN_LEARNING"}
+{"text":"I want to view all available courses and materials on a specific topic","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses by rating and subject","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in my learning centre","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about leadership development and management","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated courses on a specific topic by subject","label":"OPEN_LEARNING"}
+{"text":"How do I apply my learning to real-life situations and projects?","label":"OPEN_LEARNING"}
+{"text":"Take me to my dashboard directly","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about career development and guidance","label":"OPEN_LEARNING"}
+{"text":"Show me the list of recommended courses by category and rating","label":"OPEN_LEARNING"}
+{"text":"Let me go back to where I left off in my learning journey","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about industry trends and development","label":"OPEN_LEARNING"}
+{"text":"Show me the list of top-rated courses by rating and subject","label":"OPEN_LEARNING"}
+{"text":"How do I track my progress and learning over time?","label":"OPEN_LEARNING"}
+{"text":"Take me to my dashboard now","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre","label":"OPEN_LEARNING"}
+{"text":"Take me to learning","label":"OPEN_LEARNING"}
+{"text":"Start my learning session","label":"OPEN_LEARNING"}
+{"text":"Show me the learning modules","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre in full screen","label":"OPEN_LEARNING"}
+{"text":"Show me all learning options","label":"OPEN_LEARNING"}
+{"text":"Go to my learning history","label":"OPEN_LEARNING"}
+{"text":"I'm ready for a new challenge - open the centre","label":"OPEN_LEARNING"}
+{"text":"Open my learning module list","label":"OPEN_LEARNING"}
+{"text":"Go to the learning pathway","label":"OPEN_LEARNING"}
+{"text":"Open the centre in a new tab","label":"OPEN_LEARNING"}
+{"text":"Show me the learning schedule","label":"OPEN_LEARNING"}
+{"text":"I'm lost - open the learning map","label":"OPEN_LEARNING"}
+{"text":"Take me to the course overview","label":"OPEN_LEARNING"}
+{"text":"Show all available training modules","label":"OPEN_LEARNING"}
+{"text":"Go to my learning reports","label":"OPEN_LEARNING"}
+{"text":"Open my training certificates","label":"OPEN_LEARNING"}
+{"text":"Take me back to the start","label":"OPEN_LEARNING"}
+{"text":"I need a refresher - open the centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning modules list","label":"OPEN_LEARNING"}
+{"text":"Take me to the course start page","label":"OPEN_LEARNING"}
+{"text":"Show me the progress chart","label":"OPEN_LEARNING"}
+{"text":"Go to my training records","label":"OPEN_LEARNING"}
+{"text":"Open the centre in a new window","label":"OPEN_LEARNING"}
+{"text":"I'm stuck - open the centre","label":"OPEN_LEARNING"}
+{"text":"Take me to the course content","label":"OPEN_LEARNING"}
+{"text":"Show all available courses","label":"OPEN_LEARNING"}
+{"text":"I need help in the centre - open the support section","label":"OPEN_LEARNING"}
+{"text":"Go to my learning analytics","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the homepage","label":"OPEN_LEARNING"}
+{"text":"Take me to my course outline","label":"OPEN_LEARNING"}
+{"text":"Open the centre on my mobile device","label":"OPEN_LEARNING"}
+{"text":"Show me all available training videos","label":"OPEN_LEARNING"}
+{"text":"Go to my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"I'm not sure where to start - open the centre","label":"OPEN_LEARNING"}
+{"text":"Take me to the course introduction","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the app menu","label":"OPEN_LEARNING"}
+{"text":"I need a refresher - open the centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning modules list","label":"OPEN_LEARNING"}
+{"text":"Show me all available training resources","label":"OPEN_LEARNING"}
+{"text":"I'm not sure what to do - open the centre","label":"OPEN_LEARNING"}
+{"text":"Take me to my course syllabus","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the dashboard","label":"OPEN_LEARNING"}
+{"text":"I need help in the centre - open the support section","label":"OPEN_LEARNING"}
+{"text":"Go to my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Open the centre on my tablet device","label":"OPEN_LEARNING"}
+{"text":"Show me all available training videos","label":"OPEN_LEARNING"}
+{"text":"Take me back to the start","label":"OPEN_LEARNING"}
+{"text":"I need a refresher - open the centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning modules list","label":"OPEN_LEARNING"}
+{"text":"Show me all available training resources","label":"OPEN_LEARNING"}
+{"text":"Go to my learning analytics","label":"OPEN_LEARNING"}
+{"text":"Take me to the course content","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the menu bar","label":"OPEN_LEARNING"}
+{"text":"I'm not sure what to do - open the centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning section in full screen","label":"OPEN_LEARNING"}
+{"text":"Show me all available courses","label":"OPEN_LEARNING"}
+{"text":"I need help in the centre - open the support section","label":"OPEN_LEARNING"}
+{"text":"Go to my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the dashboard","label":"OPEN_LEARNING"}
+{"text":"Show me all available training videos","label":"OPEN_LEARNING"}
+{"text":"Take me to the course introduction","label":"OPEN_LEARNING"}
+{"text":"I'm stuck - open the centre","label":"OPEN_LEARNING"}
+{"text":"Take me to the course content","label":"OPEN_LEARNING"}
+{"text":"Open the learning modules list","label":"OPEN_LEARNING"}
+{"text":"Show all available training resources","label":"OPEN_LEARNING"}
+{"text":"Go to my learning analytics","label":"OPEN_LEARNING"}
+{"text":"Take me back to the start","label":"OPEN_LEARNING"}
+{"text":"I need a refresher - open the centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning section on my mobile device","label":"OPEN_LEARNING"}
+{"text":"Show me all available training materials","label":"OPEN_LEARNING"}
+{"text":"I'm not sure what to do - open the centre","label":"OPEN_LEARNING"}
+{"text":"Take me to my course syllabus","label":"OPEN_LEARNING"}
+{"text":"Open the learning section in a new tab","label":"OPEN_LEARNING"}
+{"text":"I need help in the centre - open the support section","label":"OPEN_LEARNING"}
+{"text":"Go to my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the app menu","label":"OPEN_LEARNING"}
+{"text":"Show me all available courses","label":"OPEN_LEARNING"}
+{"text":"Take me back to the start","label":"OPEN_LEARNING"}
+{"text":"I need a refresher - open the centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning modules list","label":"OPEN_LEARNING"}
+{"text":"Show me all available training resources","label":"OPEN_LEARNING"}
+{"text":"Go to my learning analytics","label":"OPEN_LEARNING"}
+{"text":"Take me to the course content","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the menu bar","label":"OPEN_LEARNING"}
+{"text":"I'm stuck - open the centre","label":"OPEN_LEARNING"}
+{"text":"Take me to my course outline","label":"OPEN_LEARNING"}
+{"text":"Open the centre on my tablet device","label":"OPEN_LEARNING"}
+{"text":"Show me all available training videos","label":"OPEN_LEARNING"}
+{"text":"I need help in the centre - open the support section","label":"OPEN_LEARNING"}
+{"text":"Go to my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the dashboard","label":"OPEN_LEARNING"}
+{"text":"Show me all available training resources","label":"OPEN_LEARNING"}
+{"text":"Take me back to the start","label":"OPEN_LEARNING"}
+{"text":"I need a refresher - open the centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning section in full screen","label":"OPEN_LEARNING"}
+{"text":"Show me all available courses","label":"OPEN_LEARNING"}
+{"text":"I need help in the centre - open the support section","label":"OPEN_LEARNING"}
+{"text":"Go to my learning analytics","label":"OPEN_LEARNING"}
+{"text":"Take me to the course introduction","label":"OPEN_LEARNING"}
+{"text":"I'm stuck - open the centre","label":"OPEN_LEARNING"}
+{"text":"Take me to my course syllabus","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the app menu","label":"OPEN_LEARNING"}
+{"text":"Show me all available training resources","label":"OPEN_LEARNING"}
+{"text":"I need help in the centre - open the support section","label":"OPEN_LEARNING"}
+{"text":"Go to my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the menu bar","label":"OPEN_LEARNING"}
+{"text":"Show me all available training videos","label":"OPEN_LEARNING"}
+{"text":"Take me back to the start","label":"OPEN_LEARNING"}
+{"text":"I need a refresher - open the centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning modules list","label":"OPEN_LEARNING"}
+{"text":"Show me all available training resources","label":"OPEN_LEARNING"}
+{"text":"Go to my learning analytics","label":"OPEN_LEARNING"}
+{"text":"Take me to the course content","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the dashboard","label":"OPEN_LEARNING"}
+{"text":"Show me all available courses","label":"OPEN_LEARNING"}
+{"text":"I need help in the centre - open the support section","label":"OPEN_LEARNING"}
+{"text":"Go to my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Open the centre from the app menu","label":"OPEN_LEARNING"}
+{"text":"Show me all available training resources","label":"OPEN_LEARNING"}
+{"text":"Take me back to the start","label":"OPEN_LEARNING"}
+{"text":"I need a refresher - open the centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning section on my computer device","label":"OPEN_LEARNING"}
+{"text":"Open learning","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning centre","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Show my learning modules now","label":"OPEN_LEARNING"}
+{"text":"Start learning from here","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre page","label":"OPEN_LEARNING"}
+{"text":"Open the learning portal","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning materials","label":"OPEN_LEARNING"}
+{"text":"I want to start a new learning module","label":"OPEN_LEARNING"}
+{"text":"Show me all available learning resources","label":"OPEN_LEARNING"}
+{"text":"Launch the learning app","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning dashboard","label":"OPEN_LEARNING"}
+{"text":"Open my personal learning profile","label":"OPEN_LEARNING"}
+{"text":"Show my completed learning modules","label":"OPEN_LEARNING"}
+{"text":"Launch the learning centre now","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre homepage","label":"OPEN_LEARNING"}
+{"text":"Open the learning materials section","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning certificates","label":"OPEN_LEARNING"}
+{"text":"I want to start a new topic in learning","label":"OPEN_LEARNING"}
+{"text":"Show me all available learning courses","label":"OPEN_LEARNING"}
+{"text":"Launch the learning software","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning management system","label":"OPEN_LEARNING"}
+{"text":"Open my learning analytics dashboard","label":"OPEN_LEARNING"}
+{"text":"Show my current learning status","label":"OPEN_LEARNING"}
+{"text":"Launch the learning centre for students","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre for teachers","label":"OPEN_LEARNING"}
+{"text":"Open the learning support section","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning guides","label":"OPEN_LEARNING"}
+{"text":"I want to start a new chapter in learning","label":"OPEN_LEARNING"}
+{"text":"Show me all available learning tools","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning hub","label":"OPEN_LEARNING"}
+{"text":"Open my learning account dashboard","label":"OPEN_LEARNING"}
+{"text":"Show my current learning level","label":"OPEN_LEARNING"}
+{"text":"Launch the learning centre for employees","label":"OPEN_LEARNING"}
+{"text":"open learning","label":"OPEN_LEARNING"}
+{"text":"take me to the learning centre","label":"OPEN_LEARNING"}
+{"text":"launch the learning section","label":"OPEN_LEARNING"}
+{"text":"show my learning modules","label":"OPEN_LEARNING"}
+{"text":"start learning now","label":"OPEN_LEARNING"}
+{"text":"go to the learning centre","label":"OPEN_LEARNING"}
+{"text":"open up the learning tools","label":"OPEN_LEARNING"}
+{"text":"show me what's new in learning","label":"OPEN_LEARNING"}
+{"text":"i want to see all my learning progress","label":"OPEN_LEARNING"}
+{"text":"open the learning app","label":"OPEN_LEARNING"}
+{"text":"launch the learning centre now","label":"OPEN_LEARNING"}
+{"text":"Open Learning Centre","label":"OPEN_LEARNING"}
+{"text":"Take me to learning modules","label":"OPEN_LEARNING"}
+{"text":"Launch learning section now","label":"OPEN_LEARNING"}
+{"text":"Show me all available learning resources","label":"OPEN_LEARNING"}
+{"text":"Start my learning session","label":"OPEN_LEARNING"}
+{"text":"open learning","label":"OPEN_LEARNING"}
