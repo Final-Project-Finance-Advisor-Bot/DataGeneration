@@ -2698,3 +2698,303 @@
 {"text":"Can you explain how the Learning Centre and capability unlocks work together to support my learning?","label":"CONTEXT_LEARNING"}
 {"text":"What are some common questions that users have when using FA Bot and how can I answer them?","label":"CONTEXT_LEARNING"}
 {"text":"Why do I need to complete the Fundamentals of Finance course before unlocking more advanced portfolio management tools?","label":"CONTEXT_LEARNING"}
+{"text":"What's the process for unlocking the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals of Finance course locked for me right now?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to progress through the learning pathway in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a module and can move on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of unlocking the capabilities in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my portfolio balance changing as I complete learning bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand how FA Bot simulates real investing?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I pass the knowledge check in a module?","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards work in FA Bot, and what can I earn by completing modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of risk appetite in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between volatility and returns in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does diversification work in FA Bot, and why is it important?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how FA Bot uses fake money to simulate real investing?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features or tools until I complete specific modules?","label":"CONTEXT_LEARNING"}
+{"text":"How does progressing through the learning centre affect my portfolio balance and value?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a knowledge check in a module? Can I try again?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of mastery-based progression in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated equity environment help me understand real investing concepts?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common mistakes people make when starting to invest, and how can I avoid them in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through the process of creating a portfolio in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's tool unlock system work, and what are some examples of tools available after completing modules?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a learning bite in FA Bot? Can I see the rewards I've unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of loss aversion in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's portfolio value calculation work, and what factors are taken into account?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the risk vs. volatility discussion in FA Bot, and how can I benefit from it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of diversification in investing, and how FA Bot helps with this concept?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment help me understand real-world market fluctuations?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common misconceptions people have about investing, and how can I avoid them in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of disposition effect in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's tool unlock system help me develop a long-term investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all modules in a course and can move on to the next level?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of portfolio capacity expansion in FA Bot, and how it benefits users?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning centre help me stay engaged and motivated throughout my learning journey?","label":"CONTEXT_LEARNING"}
+{"text":"What are some examples of rewards or capabilities I can unlock by completing modules in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the benefits of using FA Bot's simulated equity environment for real-world investing education?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression model help me develop a solid foundation for long-term investing?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the mastery quiz in FA Bot, and how can I benefit from passing it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of emotional reaction to loss in investing, and how FA Bot helps me understand this phenomenon?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning pathway help me progress through the learning centre, and what are some examples of tools available at each level?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a full course in FA Bot, and how can I benefit from this achievement?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of metacognition in investing, and how FA Bot supports this concept?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression model help me develop a risk management strategy?","label":"CONTEXT_LEARNING"}
+{"text":"What are some examples of tools or capabilities I can unlock by completing specific modules in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of portfolio allocation and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment help me understand real-world market fluctuations and trends?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the capability unlock system in FA Bot, and how can I benefit from unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the benefits of using FA Bot's learning centre for real-world investing education?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's tool unlock system help me develop a long-term investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail to complete a module in FA Bot, and can I try again later?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of diversification in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's portfolio value calculation work, and what factors are taken into account?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the risk vs. volatility discussion in FA Bot, and how can I benefit from it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of metacognition in investing, and how FA Bot supports this concept?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment help me understand real-world market fluctuations?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common misconceptions people have about investing, and how can I avoid them in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of disposition effect in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning centre help me stay engaged and motivated throughout my learning journey?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all modules in a course and can move on to the next level?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the benefits of using FA Bot's simulated equity environment for real-world investing education?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression model help me develop a solid foundation for long-term investing?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the mastery quiz in FA Bot, and how can I benefit from passing it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of emotional reaction to loss in investing, and how FA Bot helps me understand this phenomenon?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning pathway help me progress through the learning centre, and what are some examples of tools available at each level?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a full course in FA Bot, and how can I benefit from this achievement?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of metacognition in investing, and how FA Bot supports this concept?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment help me understand real-world market fluctuations and trends?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the capability unlock system in FA Bot, and how can I benefit from unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the benefits of using FA Bot's learning centre for real-world investing education?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's tool unlock system help me develop a long-term investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail to complete a module in FA Bot, and can I try again later?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of diversification in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's portfolio value calculation work, and what factors are taken into account?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the risk vs. volatility discussion in FA Bot, and how can I benefit from it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of metacognition in investing, and how FA Bot supports this concept?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment help me understand real-world market fluctuations?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common misconceptions people have about investing, and how can I avoid them in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of disposition effect in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning centre help me stay engaged and motivated throughout my learning journey?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all modules in a course and can move on to the next level?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the benefits of using FA Bot's simulated equity environment for real-world investing education?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression model help me develop a solid foundation for long-term investing?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the mastery quiz in FA Bot, and how can I benefit from passing it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of emotional reaction to loss in investing, and how FA Bot helps me understand this phenomenon?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning pathway help me progress through the learning centre, and what are some examples of tools available at each level?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a full course in FA Bot, and how can I benefit from this achievement?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of metacognition in investing, and how FA Bot supports this concept?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment help me understand real-world market fluctuations and trends?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the capability unlock system in FA Bot, and how can I benefit from unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the benefits of using FA Bot's learning centre for real-world investing education?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's tool unlock system help me develop a long-term investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail to complete a module in FA Bot, and can I try again later?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of diversification in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's portfolio value calculation work, and what factors are taken into account?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the risk vs. volatility discussion in FA Bot, and how can I benefit from it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of metacognition in investing, and how FA Bot supports this concept?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment help me understand real-world market fluctuations?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common misconceptions people have about investing, and how can I avoid them in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of disposition effect in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning centre help me stay engaged and motivated throughout my learning journey?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all modules in a course and can move on to the next level?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the benefits of using FA Bot's simulated equity environment for real-world investing education?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression model help me develop a solid foundation for long-term investing?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the mastery quiz in FA Bot, and how can I benefit from passing it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of emotional reaction to loss in investing, and how FA Bot helps me understand this phenomenon?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning pathway help me progress through the learning centre, and what are some examples of tools available at each level?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a full course in FA Bot, and how can I benefit from this achievement?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of metacognition in investing, and how FA Bot supports this concept?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment help me understand real-world market fluctuations and trends?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the capability unlock system in FA Bot, and how can I benefit from unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the benefits of using FA Bot's learning centre for real-world investing education?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's tool unlock system help me develop a long-term investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail to complete a module in FA Bot, and can I try again later?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of diversification in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's portfolio value calculation work, and what factors are taken into account?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the risk vs. volatility discussion in FA Bot, and how can I benefit from it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of metacognition in investing, and how FA Bot supports this concept?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment help me understand real-world market fluctuations?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common misconceptions people have about investing, and how can I avoid them in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of disposition effect in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning centre help me stay engaged and motivated throughout my learning journey?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all modules in a course and can move on to the next level?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the benefits of using FA Bot's simulated equity environment for real-world investing education?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression model help me develop a solid foundation for long-term investing?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the mastery quiz in FA Bot, and how can I benefit from passing it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of emotional reaction to loss in investing, and how FA Bot helps me understand this phenomenon?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning pathway help me progress through the learning centre, and what are some examples of tools available at each level?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a full course in FA Bot, and how can I benefit from this achievement?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of metacognition in investing, and how FA Bot supports this concept?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment help me understand real-world market fluctuations and trends?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the capability unlock system in FA Bot, and how can I benefit from unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the benefits of using FA Bot's learning centre for real-world investing education?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's tool unlock system help me develop a long-term investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail to complete a module in FA Bot, and can I try again later?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of diversification in investing, and how it relates to FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's portfolio value calculation work, and what factors are taken into account?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"I tried to access the Fundamentals module, but it was locked. Why is that?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to progress through the learning pathway or learning centre in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to unlock new capabilities in the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"I finished a module, but no reward appeared. Why is that?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work in FA Bot? Can you explain it step-by-step?","label":"CONTEXT_LEARNING"}
+{"text":"What features or tools become available as I progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble accessing certain features. Is there something wrong with my account?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance in FA Bot? Can you explain the changes I can expect?","label":"CONTEXT_LEARNING"}
+{"text":"What do I gain from completing courses in FA Bot, and how will it impact my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about what investing means within FA Bot. Can you clarify that for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of simulated capital and how it works in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does investing work step-by-step in FA Bot, from choosing a share to seeing its value change?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding shares and company ownership in FA Bot. Can you simplify that for me?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between FA Bot and real investing platforms? How does FA Bot differ from them?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why only shares are available in FA Bot, and what that means for users?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to pass the fundamentals quiz, but I keep getting stuck. Can you offer some tips?","label":"CONTEXT_LEARNING"}
+{"text":"How does my portfolio value change over time in FA Bot, and what factors affect it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if my portfolio loses value in FA Bot, and how can I recover from that?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of diversification in FA Bot and why it's necessary?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about risk appetite in FA Bot. Can you help me understand how it works?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between risk and volatility in FA Bot, and how do they affect my investments?","label":"CONTEXT_LEARNING"}
+{"text":"Can you simplify the concept of returns and performance interpretation in FA Bot for a beginner?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use fake money, and why is that necessary for its learning model?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with the knowledge check or mastery quiz in FA Bot. Can you provide some guidance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the portfolio capacity expansion works in FA Bot, and what it means for users?","label":"CONTEXT_LEARNING"}
+{"text":"How does the allocation cap determination work in FA Bot, and what are its implications?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about the asset limit expansion in FA Bot. Can you clarify how it works?","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of the Bot (AI Mediator) in FA Bot, and how does it support users?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the structure of a bite in FA Bot, including core content and mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks trigger in FA Bot, and what rewards are unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how cross-course interdependency works in FA Bot. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Can you simplify the concept of psychology and behavioural integration in FA Bot for a beginner?","label":"CONTEXT_LEARNING"}
+{"text":"How does the Learning Centre model work in FA Bot, including bite structure and mastery quiz logic?","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of the Chat panel in FA Bot, and how does it support users during learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the completion states in FA Bot, including progress percentages and unlocking mechanisms?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock new features or capabilities as I progress through the learning centre in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in FA Bot, and how does it contribute to my overall learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of structured friction in FA Bot, including cross-course interdependency?","label":"CONTEXT_LEARNING"}
+{"text":"How does the Learning Centre model support cognitive scaffolding and behavioural awareness in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of the FA Bot learning system in promoting metacognition and financial literacy?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system progression engine works in FA Bot, including capability unlocks and rewards?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how the Learning Centre model addresses user uncertainty or curiosity about topics like portfolio capacity expansion","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use fake money to simulate real-world investing experiences for users?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of cognitive load and how FA Bot's design manages it during learning?","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of the Chat panel in managing user uncertainty or frustration within the Learning Centre model?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's structured friction mechanism support long-term retention and engagement among users?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the Learning Centre model uses feedback loops to reinforce learning outcomes in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how the system progression engine integrates with user goals and motivations in FA Bot.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of metacognition in facilitating effective learning within FA Bot's Learning Centre model?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot's cognitive load management strategies support efficient learning experiences for users?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use gamification elements to enhance user engagement and motivation during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about how FA Bot's system progression engine integrates with user feedback and adaptation in the Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of cognitive load in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot's design addresses the need for immediate feedback and assessment during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's Learning Centre model use narrative structures to convey complex concepts in an engaging way?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how FA Bot's gamification elements contribute to long-term retention and engagement among users.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of adaptation in facilitating effective learning within FA Bot's Learning Centre model?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses dynamic feedback mechanisms to reinforce learning outcomes in real-time?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression engine integrate with user goals and motivations to support long-term retention and engagement?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about the relationship between metacognition, cognitive load, and adaptation in FA Bot's Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of cognitive load management strategies in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses real-world examples and case studies to illustrate complex concepts and make them more relatable?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's Learning Centre model use data analytics and insights to inform its learning design and user experience?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how FA Bot's gamification elements contribute to the overall learning experience and user engagement.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of narrative structures in facilitating effective learning within FA Bot's Learning Centre model?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses virtual reality or augmented reality to create immersive learning experiences for users?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression engine integrate with user feedback and adaptation in the Learning Centre model to support long-term retention and engagement?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about how FA Bot addresses the need for social interaction and collaboration during learning within its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of cognitive load management strategies in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses AI-powered chatbots to provide personalized support and guidance to users during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's Learning Centre model use gamification elements, such as rewards and leaderboards, to enhance user engagement and motivation?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how FA Bot addresses the need for immediate feedback and assessment during the learning process in its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of data analytics and insights in informing FA Bot's learning design and user experience?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses virtual reality or augmented reality to create immersive learning experiences for users, including scenarios and simulations?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression engine integrate with user goals and motivations to support long-term retention and engagement among users?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about how FA Bot addresses the need for social interaction and collaboration during learning within its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of metacognition in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses AI-powered analytics to provide real-time insights on user progress and performance during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's Learning Centre model use gamification elements, such as virtual rewards and badges, to enhance user engagement and motivation?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how FA Bot addresses the need for personalized feedback and support during the learning process in its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of cognitive load management strategies in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses narrative structures to convey complex concepts and make them more relatable for users?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression engine integrate with user feedback and adaptation in the Learning Centre model to support long-term retention and engagement among users?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about how FA Bot addresses the need for immediate assessment and evaluation during the learning process in its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of metacognition in facilitating effective learning within FA Bot's Learning Centre model?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses real-world examples and case studies to illustrate complex concepts and make them more relatable for users?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression engine integrate with user goals and motivations to support long-term retention and engagement among users?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how FA Bot addresses the need for structured feedback loops during learning within its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of cognitive load in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses virtual reality or augmented reality to create immersive learning experiences for users, including scenarios and simulations?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's Learning Centre model use data analytics and insights to inform its learning design and user experience?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about how FA Bot addresses the need for social interaction and collaboration during learning within its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of AI-powered chatbots in providing personalized support and guidance to users during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses gamification elements, such as leaderboards and rewards, to enhance user engagement and motivation during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression engine integrate with user feedback and adaptation in the Learning Centre model to support long-term retention and engagement among users?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how FA Bot addresses the need for immediate feedback and assessment during the learning process in its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of narrative structures in facilitating effective learning within FA Bot's Learning Centre model?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses virtual reality or augmented reality to create immersive learning experiences for users, including scenarios and simulations?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's Learning Centre model use gamification elements, such as rewards and badges, to enhance user engagement and motivation during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about how FA Bot addresses the need for personalized feedback and support during the learning process in its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of cognitive load management strategies in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses AI-powered analytics to provide real-time insights on user progress and performance during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's Learning Centre model use gamification elements, such as virtual rewards and badges, to enhance user engagement and motivation during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how FA Bot addresses the need for social interaction and collaboration during learning within its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of metacognition in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses narrative structures to convey complex concepts and make them more relatable for users?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression engine integrate with user feedback and adaptation in the Learning Centre model to support long-term retention and engagement among users?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about how FA Bot addresses the need for immediate assessment and evaluation during the learning process in its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of cognitive load management strategies in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses real-world examples and case studies to illustrate complex concepts and make them more relatable for users?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's Learning Centre model use gamification elements, such as rewards and leaderboards, to enhance user engagement and motivation during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how FA Bot addresses the need for structured feedback loops during learning within its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of AI-powered chatbots in providing personalized support and guidance to users during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses virtual reality or augmented reality to create immersive learning experiences for users, including scenarios and simulations?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's Learning Centre model use gamification elements, such as virtual rewards and badges, to enhance user engagement and motivation during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about how FA Bot addresses the need for social interaction and collaboration during learning within its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of metacognition in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses narrative structures to convey complex concepts and make them more relatable for users?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's Learning Centre model use gamification elements, such as rewards and badges, to enhance user engagement and motivation during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how FA Bot addresses the need for immediate feedback and assessment during the learning process in its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of narrative structures in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses real-world examples and case studies to illustrate complex concepts and make them more relatable for users?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's system progression engine integrate with user feedback and adaptation in the Learning Centre model to support long-term retention and engagement among users?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure about how FA Bot addresses the need for social interaction and collaboration during learning within its Learning Centre model.","label":"CONTEXT_LEARNING"}
+{"text":"What is the role of cognitive load management strategies in facilitating effective learning within FA Bot's structured friction mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses AI-powered analytics to provide real-time insights on user progress and performance during the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning pathway works in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance increasing during coursework?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next bite in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a mastery quiz and a knowledge check in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how capability unlocks work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete all the Learn the Application modules before unlocking Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"How does my portfolio value change over time in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the Portfolio Manager course in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio slots after completing certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance increasing as I complete coursework in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the tool builder in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a share and a portfolio in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock rewards or capabilities after completing certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to access advanced features in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features until I complete specific modules?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a bite or a quiz in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the wallet in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the risk management module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock new tools or features after completing certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my portfolio value decreasing as I complete coursework in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to access the portfolio builder in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a mastery quiz and a knowledge check in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional wallet capacity after completing certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the graph builder in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the behavioral constraints layer in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock rewards or capabilities after completing certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to access advanced features in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features until I complete specific modules?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a bite or a quiz in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the wallet in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the risk management module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock new tools or features after completing certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the graph builder in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the behavioral constraints layer in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock rewards or capabilities after completing certain modules?","label":"CONTEXT_LEARNING"}
