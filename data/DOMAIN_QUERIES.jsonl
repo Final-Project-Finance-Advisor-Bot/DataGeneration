@@ -2298,3 +2298,53 @@
 {"text":"Can I link multiple portfolios to one account?","label":"DOMAIN_QUERIES"}
 {"text":"What is the purpose of having a portfolio manager in place?","label":"DOMAIN_QUERIES"}
 {"text":"Can I use different types of assets to make money?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit works in investing?","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker symbol used for?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit sharing works in finance?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit margins work in finance?","label":"DOMAIN_QUERIES"}
+{"text":"How do I increase my profit?","label":"DOMAIN_QUERIES"}
+{"text":"What is the best way to diversify my investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me a portfolio of assets I own?","label":"DOMAIN_QUERIES"}
+{"text":"How does capital work for investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What are the different stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"Can I buy shares directly in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How do I track my share ownership?","label":"DOMAIN_QUERIES"}
+{"text":"What is a profit percentage?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot determine investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set a budget for my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What are the different types of assets?","label":"DOMAIN_QUERIES"}
+{"text":"How do I add a new asset to my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how capital gains work?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category filter?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot calculate profits?","label":"DOMAIN_QUERIES"}
+{"text":"Can I create a custom portfolio in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What are the benefits of diversification?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me my current share holdings?","label":"DOMAIN_QUERIES"}
+{"text":"How does asset pricing work in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager role?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set a stop-loss for my shares?","label":"DOMAIN_QUERIES"}
+{"text":"How do I track my investment performance?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how capital is allocated in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What are the different stock categories for retail investors?","label":"DOMAIN_QUERIES"}
+{"text":"Can I create a custom asset filter in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot calculate capital gains tax?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me my portfolio dashboard?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock and a share?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set a budget for specific asset classes?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot handle dividend reinvestment?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit margins work in business?","label":"DOMAIN_QUERIES"}
+{"text":"What are the benefits of having a diversified portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can I create a custom investment strategy in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot calculate returns on investment (ROI)?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me my share price history?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot handle fee charges for assets?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how making money works in the stock market?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use a single asset to make multiple types of investments?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit accumulation work when using a Financial Advisor Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What constitutes a share in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can I make money with a single asset?","label":"DOMAIN_QUERIES"}
+{"text":"How does my portfolio's value change when I buy more shares of a certain category?","label":"DOMAIN_QUERIES"}
