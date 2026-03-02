@@ -1048,3 +1048,53 @@
 {"text":"How do I switch between different portfolios that I've created?","label":"CONTEXT_PORTFOLIO"}
 {"text":"What's the maximum number of assets I can add to a single portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I search for a specific company within my portfolio to see its details?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount needed for a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch between portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I added an asset but it’s not showing up","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I remove an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio value going down?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have more than 10 graphs/charts on my dashboard?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how much money I've made from my portfolio","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a custom graph/chart for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have two portfolios and I want to know which one has more assets","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum amount of money that can be in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio’s performance over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I change the order of my assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how much profit I’ve made on a specific asset","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different investment goals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum number of assets required for a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how much my total portfolio value is increasing","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use the portfolio manager on my mobile device?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an asset’s allocation in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of assets can be added to a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a budget for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how much money is needed to start investing in a portfolio","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the top performing assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I assign multiple asset types to a single asset in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how much money I can invest in each asset type","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a custom dashboard for my portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use the portfolio manager with multiple currencies?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the benefit of having a diversified portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how my portfolio performs in different market conditions","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic investments for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the performance of a specific asset over time on a graph?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum number of assets that can be added to a single portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how much money I can save by investing in a tax-efficient portfolio","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio’s performance compared to the market?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a custom alert for changes in my portfolio’s value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of time required for a portfolio to generate returns?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how to use the portfolio manager with multiple user profiles?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio’s performance in different asset classes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new graph/chart type to my dashboard?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the benefit of having regular portfolio rebalancing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how much money can be saved by investing in low-cost index funds","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use the portfolio manager with different investment timelines?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio’s performance compared to my goals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum number of portfolios that can be created within a single account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much money is required to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've added an asset, how do I know it's been successfully added?","label":"CONTEXT_PORTFOLIO"}
