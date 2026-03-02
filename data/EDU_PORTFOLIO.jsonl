@@ -2538,3 +2538,303 @@
 {"text":"Can you give me an overview of what the Portfolio Manager does?","label":"EDU_PORTFOLIO"}
 {"text":"How will using the Portfolio Manager impact my investment portfolio?","label":"EDU_PORTFOLIO"}
 {"text":"What is the main benefit of having a Portfolio Manager in our application?","label":"EDU_PORTFOLIO"}
+{"text":"What is the Portfolio Manager used for?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager work at a high level?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain what the Portfolio Manager tool does?","label":"EDU_PORTFOLIO"}
+{"text":"What is this Portfolio Manager thing used for?","label":"EDU_PORTFOLIO"}
+{"text":"Why do I need to use the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How can I get started with the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"What is the purpose of the Portfolio Manager system?","label":"EDU_PORTFOLIO"}
+{"text":"Is the Portfolio Manager a replacement for anything else?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with my investments?","label":"EDU_PORTFOLIO"}
+{"text":"What can I expect to find inside the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I want to use the Portfolio Manager over something else?","label":"EDU_PORTFOLIO"}
+{"text":"Can you walk me through how to use the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main goal of the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager fit into my overall investment strategy?","label":"EDU_PORTFOLIO"}
+{"text":"Is the Portfolio Manager a core part of our platform?","label":"EDU_PORTFOLIO"}
+{"text":"Can you compare the Portfolio Manager to other similar tools?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help me manage risk?","label":"EDU_PORTFOLIO"}
+{"text":"What are some benefits of using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you provide more information about the Portfolio Manager's features?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager integrate with other tools or services?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical workflow for using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain why we need to use the Portfolio Manager in our application?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager contribute to my investment success?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential drawbacks or limitations of the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you provide more context about the Portfolio Manager's role in our application?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager align with my investment goals?","label":"EDU_PORTFOLIO"}
+{"text":"What is the future direction for the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me more about the Portfolio Manager's technical implementation?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with portfolio optimization?","label":"EDU_PORTFOLIO"}
+{"text":"What are some best practices for using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you provide more information about the Portfolio Manager's scalability?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager contribute to a better user experience?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential future developments for the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain why we need to use the Portfolio Manager in our investment workflow?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with portfolio rebalancing?","label":"EDU_PORTFOLIO"}
+{"text":"What are some common pain points when using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you provide more information about the Portfolio Manager's user interface?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with risk management?","label":"EDU_PORTFOLIO"}
+{"text":"What are some benefits of using the Portfolio Manager in conjunction with other tools?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me more about the Portfolio Manager's history or development?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with portfolio monitoring?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential challenges when using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain why we need to use the Portfolio Manager in our investment strategy?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager contribute to a more efficient investment process?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential downsides of using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you provide more information about the Portfolio Manager's technical requirements?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with portfolio diversification?","label":"EDU_PORTFOLIO"}
+{"text":"What are some common questions people ask when using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me more about the Portfolio Manager's customization options?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with portfolio optimization?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential future features for the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain why we need to use the Portfolio Manager in our investment workflow?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager contribute to a better investment experience?","label":"EDU_PORTFOLIO"}
+{"text":"What are some common pain points when using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you provide more information about the Portfolio Manager's security features?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with portfolio tracking?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential challenges when using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me more about the Portfolio Manager's integration capabilities?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with portfolio performance analysis?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential benefits of using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"What is the Portfolio Manager used for?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager work at a high level?","label":"EDU_PORTFOLIO"}
+{"text":"Is this Portfolio Manager tool useful in general?","label":"EDU_PORTFOLIO"}
+{"text":"What can I do inside the Portfolio Manager system?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the portfolio manager's purpose?","label":"EDU_PORTFOLIO"}
+{"text":"How does using the Portfolio Manager affect my portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"What is this Portfolio Manager tool supposed to do?","label":"EDU_PORTFOLIO"}
+{"text":"Do I really need the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help me with my portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"What is the point of having a Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I want to use the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager contribute to my portfolio management?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain what this Portfolio Manager does in general?","label":"EDU_PORTFOLIO"}
+{"text":"Is it worth using the Portfolio Manager for my investment portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help me manage my portfolios?","label":"EDU_PORTFOLIO"}
+{"text":"What is this tool used to do in general?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my investment strategy?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main purpose of this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can I trust this Portfolio Manager to help me with my portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"How does using the Portfolio Manager benefit me?","label":"EDU_PORTFOLIO"}
+{"text":"What is the best way to use the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me more about how this Portfolio Manager works?","label":"EDU_PORTFOLIO"}
+{"text":"How does this Portfolio Manager help me manage risk?","label":"EDU_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager important for my investment portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"Can I rely on the Portfolio Manager to make smart investment decisions?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager integrate with other tools?","label":"EDU_PORTFOLIO"}
+{"text":"Can I customize the Portfolio Manager to fit my needs?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential downsides of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does this Portfolio Manager compare to other portfolio management tools?","label":"EDU_PORTFOLIO"}
+{"text":"Can the Portfolio Manager help me with tax optimization?","label":"EDU_PORTFOLIO"}
+{"text":"What are some key benefits of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my portfolio performance?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how this Portfolio Manager works technically?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help me achieve my investment goals?","label":"EDU_PORTFOLIO"}
+{"text":"Can the Portfolio Manager integrate with other financial tools?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical workflow for using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my investment returns?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential risks associated with using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall investment strategy?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about how to use this Portfolio Manager effectively?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help me monitor my portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"What are some common questions people ask about using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my investment horizon?","label":"EDU_PORTFOLIO"}
+{"text":"Can I use this Portfolio Manager to compare different investment options?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical user experience of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my risk tolerance?","label":"EDU_PORTFOLIO"}
+{"text":"What are some common metrics used by the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my investment goals over time?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main limitation of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my investment strategy over time?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential benefits of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my investment returns over time?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical user feedback for using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What are some common questions people ask about using the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my risk management?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical workflow for using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall investment experience?","label":"EDU_PORTFOLIO"}
+{"text":"What are some potential downsides of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management goals?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main purpose of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall risk management?","label":"EDU_PORTFOLIO"}
+{"text":"What are some common metrics used by the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical user experience of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall investment strategy?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main limitation of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management goals?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall risk management?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical workflow for using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main purpose of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall investment strategy?","label":"EDU_PORTFOLIO"}
+{"text":"What are some common metrics used by the Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management goals?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical user experience of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall risk management?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main purpose of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall investment strategy?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical user experience of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management goals?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main purpose of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall investment strategy?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical user experience of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management goals?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall risk management?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical user experience of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main purpose of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall investment strategy?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management goals?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main purpose of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall investment strategy?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management goals?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main purpose of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall risk management?","label":"EDU_PORTFOLIO"}
+{"text":"What is the typical user experience of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main purpose of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management goals?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What is the main advantage of using this Portfolio Manager tool?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager impact my overall portfolio management process?","label":"EDU_PORTFOLIO"}
+{"text":"What is the purpose of the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager tool help me manage my investments?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the Portfolio Manager's functionality?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management tool used for?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager work at a high level?","label":"EDU_PORTFOLIO"}
+{"text":"Why do I need to use the Portfolio Manager in my application?","label":"EDU_PORTFOLIO"}
+{"text":"What is the portfolio manager's main goal?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain the Portfolio Manager's purpose?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager integrate into my application?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio tool designed to do?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the benefits of using the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment tracking?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management system used for?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager works?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager in my application?","label":"EDU_PORTFOLIO"}
+{"text":"What is the portfolio manager's main function?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the Portfolio Manager's features?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment analysis?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management tool used for in my application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain the purpose of the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment planning?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio tool designed to achieve?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the benefits of using the Portfolio Manager in my application?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment reporting?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management system used to do?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager works in my application?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager to manage my investments?","label":"EDU_PORTFOLIO"}
+{"text":"What is the portfolio manager's main purpose?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the Portfolio Manager's capabilities?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment tracking in my application?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management tool used for in the application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain the benefits of using the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment analysis and planning?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio tool designed to achieve in my application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the Portfolio Manager's role in the application?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment reporting and tracking?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management system used for in my investments?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager works in relation to other tools in the application?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager to manage my investment portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"What is the portfolio manager's main goal in the context of my application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the benefits of using the Portfolio Manager to manage my investments?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment planning and analysis?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management tool used for in the context of my investment portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager integrates into the overall application?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager to manage my investments effectively?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio manager's main purpose in the context of the application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the benefits of using the Portfolio Manager to manage my investment portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment tracking and reporting?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management system used for in the context of the application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager works to achieve its goals?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager to manage my investments and portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio manager's main goal in the context of my investment portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the benefits of using the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment planning and analysis?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management tool used for in the context of my investments?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager integrates into the application?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio manager's main purpose in the context of the application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the benefits of using the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment tracking and reporting?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management system used for in the context of my investments?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager works to achieve its goals?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager to manage my investments?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio manager's main goal in the context of my investment portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the benefits of using the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment planning and analysis?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management tool used for in the context of my investments?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager integrates into the application?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio manager's main purpose in the context of the application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the benefits of using the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment tracking and reporting?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management system used for in the context of my investments?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager works to achieve its goals?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager to manage my investments?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio manager's main goal in the context of my investment portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the benefits of using the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help with investment planning and analysis?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio management tool used for in the context of my investments?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager integrates into the application?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"What is this portfolio manager's main purpose in the context of the application?","label":"EDU_PORTFOLIO"}
+{"text":"What is the purpose of the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager tool function?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me what this portfolio manager thing is for?","label":"EDU_PORTFOLIO"}
+{"text":"What is the use case for the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"Why would I need to use a portfolio manager like this?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help me manage my investments?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how the Portfolio Manager works its magic?","label":"EDU_PORTFOLIO"}
+{"text":"What is the role of the Portfolio Manager in the application?","label":"EDU_PORTFOLIO"}
+{"text":"How does using the Portfolio Manager benefit me as a user?","label":"EDU_PORTFOLIO"}
+{"text":"Can you clarify what the Portfolio Manager actually does?","label":"EDU_PORTFOLIO"}
+{"text":"What are the key features of the Portfolio Manager that I should know about?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager align with the application's goals?","label":"EDU_PORTFOLIO"}
+{"text":"Why do we need a Portfolio Manager in the first place?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the Portfolio Manager's capabilities?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager simplify portfolio management?","label":"EDU_PORTFOLIO"}
+{"text":"What is the Portfolio Manager's primary function in the application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you walk me through how to use the Portfolio Manager effectively?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager enhance portfolio management for users?","label":"EDU_PORTFOLIO"}
+{"text":"What is the Portfolio Manager's relationship with other application features?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain why a Portfolio Manager would be useful?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager support portfolio management best practices?","label":"EDU_PORTFOLIO"}
+{"text":"What are the benefits of using the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the Portfolio Manager's features and capabilities?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager help users achieve their investment goals?","label":"EDU_PORTFOLIO"}
+{"text":"What is the Portfolio Manager's purpose in the context of the application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how to get started with using the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager contribute to portfolio management overall?","label":"EDU_PORTFOLIO"}
+{"text":"What is the Portfolio Manager's role in ensuring portfolio compliance?","label":"EDU_PORTFOLIO"}
+{"text":"Can you tell me about the Portfolio Manager's key performance indicators (KPIs)?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager facilitate portfolio optimization?","label":"EDU_PORTFOLIO"}
+{"text":"What is the Portfolio Manager's relationship with risk management in the application?","label":"EDU_PORTFOLIO"}
+{"text":"Can you explain how to customize the Portfolio Manager for individual needs?","label":"EDU_PORTFOLIO"}
+{"text":"How does the Portfolio Manager support portfolio monitoring and reporting?","label":"EDU_PORTFOLIO"}
+{"text":"What is the Portfolio Manager's purpose in ensuring portfolio security?","label":"EDU_PORTFOLIO"}
+{"text":"What is the purpose of the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"How do I get started with the Portfolio Manager?","label":"EDU_PORTFOLIO"}
+{"text":"Is the Portfolio Manager part of the overall application?","label":"EDU_PORTFOLIO"}
+{"text":"What does it mean for me to have a Portfolio Manager within my portfolio?","label":"EDU_PORTFOLIO"}
+{"text":"What is the Portfolio Manager?","label":"EDU_PORTFOLIO"}
