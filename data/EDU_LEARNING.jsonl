@@ -2628,3 +2628,303 @@
 {"text":"Can you describe how the learning system learns from user behavior?","label":"EDU_LEARNING"}
 {"text":"Can you explain what the learning centre is used for in your application?","label":"EDU_LEARNING"}
 {"text":"I'm not sure how the learning system works. Can you tell me more about how it's structured?","label":"EDU_LEARNING"}
+{"text":"What does the learning centre do?","label":"EDU_LEARNING"}
+{"text":"How does the learning system work?","label":"EDU_LEARNING"}
+{"text":"Why is there a learning pathway in this app?","label":"EDU_LEARNING"}
+{"text":"What's the point of the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does learning work on this platform?","label":"EDU_LEARNING"}
+{"text":"Why can't I skip the learning part?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway optional?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of using the learning tool?","label":"EDU_LEARNING"}
+{"text":"How does the app know when I'm ready to learn?","label":"EDU_LEARNING"}
+{"text":"Why do I have to go through the learning section first?","label":"EDU_LEARNING"}
+{"text":"Can I customize my learning experience?","label":"EDU_LEARNING"}
+{"text":"How does the app assess my knowledge?","label":"EDU_LEARNING"}
+{"text":"Why do I need to complete all lessons?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway customizable?","label":"EDU_LEARNING"}
+{"text":"What if I'm not sure about something?","label":"EDU_LEARNING"}
+{"text":"How does the app help me track progress?","label":"EDU_LEARNING"}
+{"text":"Can I go back to previous lessons?","label":"EDU_LEARNING"}
+{"text":"Why can't I move on without learning more?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the learning dashboard?","label":"EDU_LEARNING"}
+{"text":"How does the app evaluate my understanding?","label":"EDU_LEARNING"}
+{"text":"Can I change my learning plan?","label":"EDU_LEARNING"}
+{"text":"Why do I have to complete a full cycle?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of setting goals in the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the app provide feedback on my progress?","label":"EDU_LEARNING"}
+{"text":"Can I share my progress with others?","label":"EDU_LEARNING"}
+{"text":"Why do I need to take breaks during learning?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the learning tracker?","label":"EDU_LEARNING"}
+{"text":"How does the app encourage consistent learning?","label":"EDU_LEARNING"}
+{"text":"Can I learn at my own pace?","label":"EDU_LEARNING"}
+{"text":"Why do I have to review material before moving on?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a personalized learning plan?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay motivated?","label":"EDU_LEARNING"}
+{"text":"Can I take advantage of additional resources?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section regularly?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the progress report?","label":"EDU_LEARNING"}
+{"text":"How does the app help me identify areas for improvement?","label":"EDU_LEARNING"}
+{"text":"Can I get certified after completing the learning pathway?","label":"EDU_LEARNING"}
+{"text":"Why do I have to complete all the lessons in a row?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a dedicated learning space?","label":"EDU_LEARNING"}
+{"text":"How does the app provide support for beginners?","label":"EDU_LEARNING"}
+{"text":"Can I learn from my mistakes?","label":"EDU_LEARNING"}
+{"text":"Why do I need to set realistic goals in the learning centre?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the community forum?","label":"EDU_LEARNING"}
+{"text":"How does the app help me track my progress over time?","label":"EDU_LEARNING"}
+{"text":"Can I get rewards for completing lessons?","label":"EDU_LEARNING"}
+{"text":"Why do I have to use the learning tool regularly?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear learning plan?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay organized?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts in the field?","label":"EDU_LEARNING"}
+{"text":"Why do I need to be consistent with my learning?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the assessment tool?","label":"EDU_LEARNING"}
+{"text":"How does the app help me set achievable goals?","label":"EDU_LEARNING"}
+{"text":"Can I learn at my own pace without tracking progress?","label":"EDU_LEARNING"}
+{"text":"Why do I have to complete all lessons before moving on?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a learning companion?","label":"EDU_LEARNING"}
+{"text":"How does the app help me recognize my strengths and weaknesses?","label":"EDU_LEARNING"}
+{"text":"Can I learn from real-world examples?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool for a certain amount of time?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the review section?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop good study habits?","label":"EDU_LEARNING"}
+{"text":"Can I get personalized feedback on my work?","label":"EDU_LEARNING"}
+{"text":"Why do I have to practice consistently?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear learning goal?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay motivated and engaged?","label":"EDU_LEARNING"}
+{"text":"Can I learn with others who have similar goals?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool for an extended period?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the analytics report?","label":"EDU_LEARNING"}
+{"text":"How does the app help me identify my areas of improvement?","label":"EDU_LEARNING"}
+{"text":"Can I get support from teachers or mentors?","label":"EDU_LEARNING"}
+{"text":"Why do I have to be patient during the learning process?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a dedicated coach?","label":"EDU_LEARNING"}
+{"text":"How does the app help me set realistic expectations?","label":"EDU_LEARNING"}
+{"text":"Can I learn from different sources simultaneously?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool consistently?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the progress tracker?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop a growth mindset?","label":"EDU_LEARNING"}
+{"text":"Can I get personalized recommendations for improvement?","label":"EDU_LEARNING"}
+{"text":"Why do I have to be accountable during learning?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of the learning process?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay focused?","label":"EDU_LEARNING"}
+{"text":"Can I learn from my mistakes and weaknesses?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool for a set amount of time?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the reflection section?","label":"EDU_LEARNING"}
+{"text":"How does the app help me build confidence?","label":"EDU_LEARNING"}
+{"text":"Can I get feedback on my progress from others?","label":"EDU_LEARNING"}
+{"text":"Why do I have to be consistent in my efforts?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear learning schedule?","label":"EDU_LEARNING"}
+{"text":"How does the app help me identify areas where I need improvement?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts who have achieved success?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool for a certain period of time?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the assessment results?","label":"EDU_LEARNING"}
+{"text":"How does the app help me set realistic goals and deadlines?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources at once?","label":"EDU_LEARNING"}
+{"text":"Why do I have to practice regularly?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my strengths and weaknesses?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay motivated and engaged?","label":"EDU_LEARNING"}
+{"text":"Can I get support from friends or family members?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool consistently?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the progress report?","label":"EDU_LEARNING"}
+{"text":"How does the app help me identify my areas for improvement?","label":"EDU_LEARNING"}
+{"text":"Can I learn from real-world examples and case studies?","label":"EDU_LEARNING"}
+{"text":"Why do I have to be patient during the learning process?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my learning style?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop good habits?","label":"EDU_LEARNING"}
+{"text":"Can I get feedback on my work from others?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool for an extended period?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the analytics report?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay focused and on track?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts who have achieved success?","label":"EDU_LEARNING"}
+{"text":"Why do I need to practice regularly?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my goals and objectives?","label":"EDU_LEARNING"}
+{"text":"How does the app help me identify areas where I need improvement?","label":"EDU_LEARNING"}
+{"text":"Can I get personalized recommendations for improvement?","label":"EDU_LEARNING"}
+{"text":"Why do I have to be accountable during learning?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the reflection section?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop a growth mindset?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources at once?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool for a set amount of time?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the assessment results?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay motivated and engaged?","label":"EDU_LEARNING"}
+{"text":"Can I get feedback on my progress from others?","label":"EDU_LEARNING"}
+{"text":"Why do I have to practice regularly?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my learning style?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop good habits?","label":"EDU_LEARNING"}
+{"text":"Can I learn from real-world examples and case studies?","label":"EDU_LEARNING"}
+{"text":"Why do I need to be patient during the learning process?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my goals and objectives?","label":"EDU_LEARNING"}
+{"text":"How does the app help me identify areas where I need improvement?","label":"EDU_LEARNING"}
+{"text":"Can I get personalized recommendations for improvement?","label":"EDU_LEARNING"}
+{"text":"Why do I have to be accountable during learning?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the reflection section?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop a growth mindset?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources at once?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool for a set amount of time?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the assessment results?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay motivated and engaged?","label":"EDU_LEARNING"}
+{"text":"Can I get feedback on my progress from others?","label":"EDU_LEARNING"}
+{"text":"Why do I have to practice regularly?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my learning style?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop good habits?","label":"EDU_LEARNING"}
+{"text":"Can I learn from real-world examples and case studies?","label":"EDU_LEARNING"}
+{"text":"Why do I need to be patient during the learning process?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my goals and objectives?","label":"EDU_LEARNING"}
+{"text":"How does the app help me identify areas where I need improvement?","label":"EDU_LEARNING"}
+{"text":"Can I get personalized recommendations for improvement?","label":"EDU_LEARNING"}
+{"text":"Why do I have to be accountable during learning?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the reflection section?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop a growth mindset?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts who have achieved success?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool for an extended period?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the analytics report?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay focused and on track?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources at once?","label":"EDU_LEARNING"}
+{"text":"Why do I need to practice regularly?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my goals and objectives?","label":"EDU_LEARNING"}
+{"text":"How does the app help me identify areas where I need improvement?","label":"EDU_LEARNING"}
+{"text":"Can I get personalized recommendations for improvement?","label":"EDU_LEARNING"}
+{"text":"Why do I have to be accountable during learning?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the reflection section?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop a growth mindset?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts who have achieved success?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool for a set amount of time?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the assessment results?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay motivated and engaged?","label":"EDU_LEARNING"}
+{"text":"Can I get feedback on my progress from others?","label":"EDU_LEARNING"}
+{"text":"Why do I have to practice regularly?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my learning style?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop good habits?","label":"EDU_LEARNING"}
+{"text":"Can I learn from real-world examples and case studies?","label":"EDU_LEARNING"}
+{"text":"Why do I need to be patient during the learning process?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my goals and objectives?","label":"EDU_LEARNING"}
+{"text":"How does the app help me identify areas where I need improvement?","label":"EDU_LEARNING"}
+{"text":"Can I get personalized recommendations for improvement?","label":"EDU_LEARNING"}
+{"text":"Why do I have to be accountable during learning?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the reflection section?","label":"EDU_LEARNING"}
+{"text":"How does the app help me develop a growth mindset?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts who have achieved success?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning tool for a set amount of time?","label":"EDU_LEARNING"}
+{"text":"What's the purpose of the assessment results?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay focused and on track?","label":"EDU_LEARNING"}
+{"text":"Can I get feedback on my progress from others?","label":"EDU_LEARNING"}
+{"text":"Why do I have to practice regularly?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of having a clear understanding of my learning style?","label":"EDU_LEARNING"}
+{"text":"What is this learning pathway thingy?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre help me learn?","label":"EDU_LEARNING"}
+{"text":"Is there a way to track my progress in the app?","label":"EDU_LEARNING"}
+{"text":"What is the point of this learning thing?","label":"EDU_LEARNING"}
+{"text":"How does it know what I need to learn?","label":"EDU_LEARNING"}
+{"text":"Can I skip certain parts of the pathway?","label":"EDU_LEARNING"}
+{"text":"Is the learning section free?","label":"EDU_LEARNING"}
+{"text":"Does it work with my existing schedule?","label":"EDU_LEARNING"}
+{"text":"What happens when I complete the learning pathway?","label":"EDU_LEARNING"}
+{"text":"How often should I check in with the app?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the learning experience?","label":"EDU_LEARNING"}
+{"text":"What if I get stuck or need help?","label":"EDU_LEARNING"}
+{"text":"Can I share my progress on social media?","label":"EDU_LEARNING"}
+{"text":"How does it adapt to my learning style?","label":"EDU_LEARNING"}
+{"text":"Is there a limit to how many lessons I can complete?","label":"EDU_LEARNING"}
+{"text":"What if I need to go back and review something?","label":"EDU_LEARNING"}
+{"text":"How does it know when I'm ready for a new challenge?","label":"EDU_LEARNING"}
+{"text":"Is there a way to export my progress?","label":"EDU_LEARNING"}
+{"text":"What if I have multiple learning goals?","label":"EDU_LEARNING"}
+{"text":"How does it prioritize my learning goals?","label":"EDU_LEARNING"}
+{"text":"Is there a way to set reminders for upcoming lessons?","label":"EDU_LEARNING"}
+{"text":"What if I need to slow down my learning pace?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get feedback on my progress?","label":"EDU_LEARNING"}
+{"text":"How does it ensure accurate tracking of my progress?","label":"EDU_LEARNING"}
+{"text":"What if I forget how to log in or reset password?","label":"EDU_LEARNING"}
+{"text":"Is there a way to contact support for the app?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble with the app's UI?","label":"EDU_LEARNING"}
+{"text":"How does it handle different device types and sizes?","label":"EDU_LEARNING"}
+{"text":"Is there a way to track my progress over time?","label":"EDU_LEARNING"}
+{"text":"What if I need to pause or cancel my learning sessions?","label":"EDU_LEARNING"}
+{"text":"Is there a way to schedule my lessons in advance?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble understanding certain concepts?","label":"EDU_LEARNING"}
+{"text":"How does it ensure that I'm meeting my learning goals?","label":"EDU_LEARNING"}
+{"text":"Is there a way to take breaks or rest when needed?","label":"EDU_LEARNING"}
+{"text":"What if I forget how to log out of the app?","label":"EDU_LEARNING"}
+{"text":"Is there a way to contact customer support for assistance?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble with the app's notifications?","label":"EDU_LEARNING"}
+{"text":"How does it ensure data security and privacy?","label":"EDU_LEARNING"}
+{"text":"Is there a way to export my learning history?","label":"EDU_LEARNING"}
+{"text":"What if I need help with setting up the app?","label":"EDU_LEARNING"}
+{"text":"How does it adapt to different internet connection speeds?","label":"EDU_LEARNING"}
+{"text":"Is there a way to take a break from the app without losing progress?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble understanding certain features?","label":"EDU_LEARNING"}
+{"text":"How does it prioritize accessibility for users with disabilities?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get help finding specific content in the app?","label":"EDU_LEARNING"}
+{"text":"What if I need assistance with tracking my progress?","label":"EDU_LEARNING"}
+{"text":"How does it ensure that users are not overwhelmed by too much content?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the app's appearance?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble with the app's search function?","label":"EDU_LEARNING"}
+{"text":"How does it ensure that users are not bored or disengaged?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get help finding specific content in the app?","label":"EDU_LEARNING"}
+{"text":"What if I need assistance with resetting my progress?","label":"EDU_LEARNING"}
+{"text":"How does it prioritize personalized learning for each user?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get help understanding certain concepts?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble with the app's navigation?","label":"EDU_LEARNING"}
+{"text":"How does it ensure that users are not confused or overwhelmed?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get help with creating a learning schedule?","label":"EDU_LEARNING"}
+{"text":"What if I need assistance with finding specific content in the app?","label":"EDU_LEARNING"}
+{"text":"How does it prioritize user engagement and motivation?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the app's layout?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble understanding certain terminology?","label":"EDU_LEARNING"}
+{"text":"How does it ensure that users are not frustrated or discouraged?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get help with setting up the app's notifications?","label":"EDU_LEARNING"}
+{"text":"What if I need assistance with accessing certain features?","label":"EDU_LEARNING"}
+{"text":"How does it prioritize accessibility for users with disabilities?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the app's sound settings?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble understanding certain instructions?","label":"EDU_LEARNING"}
+{"text":"How does it ensure that users are not left behind or falling behind?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get help with finding specific content in the app?","label":"EDU_LEARNING"}
+{"text":"What if I need assistance with resetting my app settings?","label":"EDU_LEARNING"}
+{"text":"How does it prioritize user engagement and motivation?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the app's font settings?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble understanding certain vocabulary?","label":"EDU_LEARNING"}
+{"text":"How does it ensure that users are not confused or overwhelmed?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get help with setting up the app's reminders?","label":"EDU_LEARNING"}
+{"text":"What if I need assistance with finding specific content in the app?","label":"EDU_LEARNING"}
+{"text":"How does it prioritize personalized learning for each user?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the app's background color?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble understanding certain concepts?","label":"EDU_LEARNING"}
+{"text":"How does it ensure that users are not left behind or falling behind?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get help with resetting my app settings?","label":"EDU_LEARNING"}
+{"text":"What if I need assistance with accessing certain features?","label":"EDU_LEARNING"}
+{"text":"How does it prioritize accessibility for users with disabilities?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the app's audio settings?","label":"EDU_LEARNING"}
+{"text":"What if I have trouble understanding certain instructions?","label":"EDU_LEARNING"}
+{"text":"How does it ensure that users are not frustrated or discouraged?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get help with setting up the app's notifications?","label":"EDU_LEARNING"}
+{"text":"What if I need assistance with finding specific content in the app?","label":"EDU_LEARNING"}
+{"text":"How does it prioritize personalized learning for each user?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the app's layout?","label":"EDU_LEARNING"}
+{"text":"What is the learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre work?","label":"EDU_LEARNING"}
+{"text":"Is the learning section optional?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use it?","label":"EDU_LEARNING"}
+{"text":"Can you explain how learning works in this app?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning pathway?","label":"EDU_LEARNING"}
+{"text":"Is it possible to skip certain parts of the learning pathway?","label":"EDU_LEARNING"}
+{"text":"Can you show me how to access the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the learning system track my progress?","label":"EDU_LEARNING"}
+{"text":"Is there a limit to how much I can learn with the centre?","label":"EDU_LEARNING"}
+{"text":"Can you tell me about the different types of learning in this app?","label":"EDU_LEARNING"}
+{"text":"Does the learning pathway change over time?","label":"EDU_LEARNING"}
+{"text":"How do I know when it's time to move on to the next part of the learning centre?","label":"EDU_LEARNING"}
+{"text":"Can I get help if I'm struggling with the learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the learning system make recommendations for my learning?","label":"EDU_LEARNING"}
+{"text":"Is there a way to fast-track my learning with the centre?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning pathway is designed?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre help me set goals for my learning?","label":"EDU_LEARNING"}
+{"text":"Does everyone have a unique experience with the learning system?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me learn?","label":"EDU_LEARNING"}
+{"text":"Can you explain what a learning pathway is?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section of this app?","label":"EDU_LEARNING"}
+{"text":"Is there a limit to how many pathways I can create?","label":"EDU_LEARNING"}
+{"text":"Can I customize my own learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the app know what I need help with in terms of learning?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning centre works?","label":"EDU_LEARNING"}
