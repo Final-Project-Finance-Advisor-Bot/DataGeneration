@@ -2098,3 +2098,303 @@
 {"text":"What happens if I fail a mastery quiz, but then continue to work on my knowledge and come back later to try again?","label":"CONTEXT_LEARNING"}
 {"text":"Why is there a limit on how long I can take between attempts at a learning pathway or course within FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How does FA Bot's system of rewards and capabilities affect my overall experience as a user?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to progress?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing a module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work?","label":"CONTEXT_LEARNING"}
+{"text":"What tools become available as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"What do I gain from completing courses?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what simulated capital is?","label":"CONTEXT_LEARNING"}
+{"text":"I see that I can only buy shares. Why is that?","label":"CONTEXT_LEARNING"}
+{"text":"How does investing work step-by-step in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if my portfolio loses value?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of diversification in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why only shares are available in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot differ from real investing platforms?","label":"CONTEXT_LEARNING"}
+{"text":"What does capital actually mean here?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about the concept of risk appetite. Can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to interpret portfolio value changes?","label":"CONTEXT_LEARNING"}
+{"text":"How do returns get calculated in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why is FA Bot using fake money?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of volatility in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Is diversification supposed to remove risk?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the knowledge check. Can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"How does my portfolio value change over time?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't complete a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks affect my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I progress too quickly?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of asset allocation in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I buy more than 5 assets?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance affect my progression?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to use the Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I view more than 4 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access advanced comparison tools?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of risk vs volatility?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I invest in more than 50 assets?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance affect my capability unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of per-portfolio allocation constraints?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with a low wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How do my portfolio and wallet balances affect my overall progression?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I progress too slowly?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of cross-course interdependency?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock a capability with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of psychological factors in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 3 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability with a high enough wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of learning centres in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of AI-mediated guidance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock a capability with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of system progression in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 4 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of per-portfolio allocation constraints in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of psychological factors in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 4 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of cross-course interdependency?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of AI-mediated guidance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 4 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of system progression in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of psychological factors in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 3 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of cross-course interdependency?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of AI-mediated guidance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 4 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of system progression in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of psychological factors in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 3 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of cross-course interdependency?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of AI-mediated guidance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 4 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of system progression in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of psychological factors in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 2 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of cross-course interdependency?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of AI-mediated guidance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 3 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of system progression in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of psychological factors in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 4 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of cross-course interdependency?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of AI-mediated guidance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 2 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of system progression in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of psychological factors in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 1 graph at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of cross-course interdependency?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of AI-mediated guidance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 3 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of system progression in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of psychological factors in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 4 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of cross-course interdependency?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features with an incomplete module?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my ability to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of AI-mediated guidance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see more than 4 graphs at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do my progress and wallet balances affect my overall experience in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t unlock a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of system progression in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What does capital actually mean here?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how investing works step by step. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Why can I only buy shares? Is there anything else available?","label":"CONTEXT_LEARNING"}
+{"text":"What does volatility look like in practice? Can you give me an example?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the risk appetite means. Can you clarify that for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway? Are there any specific steps I need to take?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if my portfolio value changes? Do I get notified?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about how the mastery quiz works. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features yet? Is there something I need to do to unlock them?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing a module? Can I see them?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work? Do they expire or reset?","label":"CONTEXT_LEARNING"}
+{"text":"What tools become available as I progress? Are there any new features?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the knowledge check. Can you walk me through it step by step?","label":"CONTEXT_LEARNING"}
+{"text":"Why only shares are available in FA Bot? Is that a security measure?","label":"CONTEXT_LEARNING"}
+{"text":"How does my portfolio value change over time? Are there any patterns I should be aware of?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the disposition effect means. Can you explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the fundamentals quiz? Do I get penalized?","label":"CONTEXT_LEARNING"}
+{"text":"Why is FA Bot using fake money? Is that a testing method?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what diversification purpose means in the context of FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how risk appetite works. Can you give me an example?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite? Do I get any rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance? Does it change?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the graph tools do. Can you explain them to me?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to progress in the learning pathway? Are there any specific requirements?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock the Fundamentals of Finance course? What steps do I need to take?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals of Finance course locked for me? Is there something I need to complete first?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from one module to another in the learning pathway? Are there any specific steps I need to take?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach the end of a course? Do I get rewarded?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how the rewards system works. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the portfolio capacity expansion means in the context of FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What do I gain from completing courses in FA Bot? Are there any benefits?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the graph tools can do. Can you give me an example?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my portfolio capacity? Does it change?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a learning bite? Do I get any rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the mastery quiz is used for in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features until I unlock them? Is there something I need to do to unlock them?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a module? Can I see them?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning pathway work in FA Bot? Are there any specific steps I need to take?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how the wallet balance affects my progress. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to unlock new features or tools in FA Bot? Are there any specific requirements?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to access the Fundamentals of Finance course after unlocking it? What steps do I need to take?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the wallet balance important in FA Bot? How does it affect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the learning centre is used for in FA Bot. Can you explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a course in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression work in FA Bot? Is there a specific path I need to follow?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the graph tools are used for in FA Bot? How do they work?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a learning bite in FA Bot? Do I get any rewards?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to use the mastery quiz in FA Bot. Can you give me an example?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to complete courses in FA Bot? What benefits do they offer?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I progress through the learning pathway in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my portfolio capacity in FA Bot? Does it change?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the learning centre is used for in FA Bot? How do I access it?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a course in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the graph tools are used for in FA Bot. Can you give me an example?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression work in FA Bot? Is there a specific path I need to follow?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the mastery quiz is used for in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features until I unlock them? Is there something I need to do to unlock them?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a module? Can I see them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to use the wallet balance in FA Bot. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to access the Fundamentals of Finance course after unlocking it? What steps do I need to take?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the wallet balance important in FA Bot? How does it affect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the learning centre is used for in FA Bot. Can you explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a course in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression work in FA Bot? Is there a specific path I need to follow?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the graph tools are used for in FA Bot? How do they work?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a learning bite? Can I see them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to use the mastery quiz in FA Bot. Can you give me an example?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to complete courses in FA Bot? What benefits do they offer?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the learning centre is used for in FA Bot? How do I access it?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I progress through the learning pathway in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my portfolio capacity in FA Bot? Does it change?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the graph tools are used for in FA Bot? How do I use them?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a course in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the learning centre is used for in FA Bot. Can you explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression work in FA Bot? Is there a specific path I need to follow?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the mastery quiz is used for in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a module? Can I see them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to use the wallet balance in FA Bot. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to access the Fundamentals of Finance course after unlocking it? What steps do I need to take?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the wallet balance important in FA Bot? How does it affect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the learning centre is used for in FA Bot. Can you explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a course in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression work in FA Bot? Is there a specific path I need to follow?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the graph tools are used for in FA Bot? How do they work?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a learning bite? Can I see them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to use the mastery quiz in FA Bot. Can you give me an example?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to complete courses in FA Bot? What benefits do they offer?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the learning centre is used for in FA Bot? How do I access it?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I progress through the learning pathway in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my portfolio capacity in FA Bot? Does it change?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the graph tools are used for in FA Bot? How do I use them?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a course in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the learning centre is used for in FA Bot. Can you explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression work in FA Bot? Is there a specific path I need to follow?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the mastery quiz is used for in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a module? Can I see them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to use the wallet balance in FA Bot. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to access the Fundamentals of Finance course after unlocking it? What steps do I need to take?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the wallet balance important in FA Bot? How does it affect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the learning centre is used for in FA Bot. Can you explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a course in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression work in FA Bot? Is there a specific path I need to follow?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the graph tools are used for in FA Bot? How do they work?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a learning bite? Can I see them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to use the mastery quiz in FA Bot. Can you give me an example?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to complete courses in FA Bot? What benefits do they offer?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the learning centre is used for in FA Bot? How do I access it?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I progress through the learning pathway in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my portfolio capacity in FA Bot? Does it change?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the graph tools are used for in FA Bot? How do I use them?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock when I complete a course in FA Bot? Are they visible?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the learning centre is used for in FA Bot. Can you explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to unlock the Fundamentals of Finance course. Why is it locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the Learn the Application course after completing my Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a knowledge check in FA Bot's learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how portfolio value changes over time. Can you explain that to me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio slots after completing my Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility in FA Bot's learning centre? Can you give an example?","label":"CONTEXT_LEARNING"}
