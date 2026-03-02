@@ -38,6 +38,21 @@ function cleanupExpiredStagedJobs(jobs) {
   }
 }
 
+function clearStagedForLabel(jobs, label) {
+  const now = Date.now();
+  let count = 0;
+
+  for (const j of jobs) {
+    if (j.label === label && j.IS_DONE === true && j.STAGED === true) {
+      j.STAGED = false;
+      j.pushedAt = now;
+      count++;
+    }
+  }
+
+  console.log(`Cleared STAGED for ${count} job(s) of label ${label}`);
+}
+
 function readJobs() {
   // check if job file exists
   if (!fs.existsSync(JOB_FILE)) return [];
@@ -69,9 +84,12 @@ function main() {
   console.log(file);
 
   // check git changes
-  const status = execSync(`git status --porcelain "${file}"`).toString().trim();
+  const status = execSync(`git status --porcelain`).toString();
 
-  if (!status) {
+  if (status.includes(file)) {
+    console.log("File changed");
+  } else{
+     console.log("File not changed");
     return;
   }
 
@@ -81,8 +99,7 @@ function main() {
   run(`git push`);
 
   // clear staged flag
-  job.STAGED = false;
-  job.pushedAt = Date.now();
+  clearStagedForLabel(jobs, job.label);
 
   // update job file
   fs.writeFileSync(JOB_FILE, JSON.stringify(jobs, null, 2));

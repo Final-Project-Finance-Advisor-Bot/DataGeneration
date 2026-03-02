@@ -186,6 +186,27 @@ function smallestLabel(counts, excluded=[]) {
   return smallest;
 }
 
+function computeDoneByWorker(jobsRaw) {
+  const doneJobs = jobsRaw.filter((j) => j && j.IS_DONE === true);
+
+  const jobsDoneByWorker = {};
+  const linesAddedByWorker = {};
+
+  for (const j of doneJobs) {
+    const worker = j.workerId || "unknown";
+    const batch = Number(j.batchSize) || 0;
+
+    jobsDoneByWorker[worker] = (jobsDoneByWorker[worker] || 0) + 1;
+    linesAddedByWorker[worker] = (linesAddedByWorker[worker] || 0) + batch;
+  }
+
+  return {
+    doneJobsCount: doneJobs.length,
+    jobsDoneByWorker,
+    linesAddedByWorker,
+  };
+}
+
 // ---------------- Routes ----------------
 /**
  * @openapi
@@ -315,6 +336,8 @@ app.get("/stats", async (_req, res) => {
     };
   }
 
+  const doneStats = computeDoneByWorker(jobsRaw);
+
   // returns response
   res.json({
     targetPerLabel: TARGET_PER_LABEL,
@@ -326,6 +349,9 @@ app.get("/stats", async (_req, res) => {
     labelCounts,
     effectiveCounts,
     progress,
+    doneJobsCount: doneStats.doneJobsCount,
+    jobsDoneByWorker: doneStats.jobsDoneByWorker,
+    linesAddedByWorker: doneStats.linesAddedByWorker,
   });
 });
 

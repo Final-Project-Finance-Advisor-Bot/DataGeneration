@@ -91,7 +91,16 @@ async function main() {
   }
 }
 
-main().catch((err) => {
-  console.error("Worker crashed:", err);
-  process.exit(1);
-});
+async function startWorker() {
+  while (true) {
+    try {
+      await main();
+    } catch (err) {
+      console.error("Worker crashed:", err);
+      console.log("Retrying in 5 minutes...");
+      await new Promise((r) => setTimeout(r, 5 * 60 * 1000));
+    }
+  }
+}
+
+startWorker();

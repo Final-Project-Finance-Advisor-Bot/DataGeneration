@@ -1914,3 +1914,2396 @@ No staged jobs
 No staged jobs
 No staged jobs
 No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:708c9735-0914-4589-a0a1-09a8f573ef39 completed"
+[main 4dc8f0b] Data generation for job:708c9735-0914-4589-a0a1-09a8f573ef39 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   7fbb1da..4dc8f0b  main -> main
+Job pushed: 708c9735-0914-4589-a0a1-09a8f573ef39
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:35a98a3e-4423-4b3b-918c-1de6ebdefa34 completed"
+[main 32a1368] Data generation for job:35a98a3e-4423-4b3b-918c-1de6ebdefa34 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   4dc8f0b..32a1368  main -> main
+Job pushed: 35a98a3e-4423-4b3b-918c-1de6ebdefa34
+data/OPEN_LEARNING.jsonl
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:0ccf1ef4-4208-40b4-9070-803ee0aaca23 completed"
+[main 06c672b] Data generation for job:0ccf1ef4-4208-40b4-9070-803ee0aaca23 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   32a1368..06c672b  main -> main
+Job pushed: 0ccf1ef4-4208-40b4-9070-803ee0aaca23
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:1b617b40-3c6a-4567-a589-1eb7ed3cd83d completed"
+[main 82cc18c] Data generation for job:1b617b40-3c6a-4567-a589-1eb7ed3cd83d completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   06c672b..82cc18c  main -> main
+Job pushed: 1b617b40-3c6a-4567-a589-1eb7ed3cd83d
+data/EDU_LEARNING.jsonl
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:4a854623-c451-46aa-b299-6e9cb12c8ea4 completed"
+[main f0bcfd1] Data generation for job:4a854623-c451-46aa-b299-6e9cb12c8ea4 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   82cc18c..f0bcfd1  main -> main
+Job pushed: 4a854623-c451-46aa-b299-6e9cb12c8ea4
+data/EDU_PORTFOLIO.jsonl
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:0478efc8-b99d-4791-afbd-421a370ec81c completed"
+[main 1a6c139] Data generation for job:0478efc8-b99d-4791-afbd-421a370ec81c completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   f0bcfd1..1a6c139  main -> main
+Job pushed: 0478efc8-b99d-4791-afbd-421a370ec81c
+data/CONTEXT_PORTFOLIO.jsonl
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:2bca57c8-5cca-4bed-84ea-7cb73680c24d completed"
+[main a6b6511] Data generation for job:2bca57c8-5cca-4bed-84ea-7cb73680c24d completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   1a6c139..a6b6511  main -> main
+Job pushed: 2bca57c8-5cca-4bed-84ea-7cb73680c24d
+data/DOMAIN_QUERIES.jsonl
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:5380a2e1-4a19-4e84-b1d6-f60f5ee78f3a completed"
+[main 41dc3e6] Data generation for job:5380a2e1-4a19-4e84-b1d6-f60f5ee78f3a completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   a6b6511..41dc3e6  main -> main
+Job pushed: 5380a2e1-4a19-4e84-b1d6-f60f5ee78f3a
+data/LLM_CHAT.jsonl
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:b981558c-160a-4133-a535-58cbe3aa2605 completed"
+[main 56e2f9e] Data generation for job:b981558c-160a-4133-a535-58cbe3aa2605 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   41dc3e6..56e2f9e  main -> main
+Job pushed: b981558c-160a-4133-a535-58cbe3aa2605
+data/OPEN_PORTFOLIO.jsonl
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:0cebc480-38fb-4aa8-860d-af07dabe05ec completed"
+[main e12e35d] Data generation for job:0cebc480-38fb-4aa8-860d-af07dabe05ec completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   56e2f9e..e12e35d  main -> main
+Job pushed: 0cebc480-38fb-4aa8-860d-af07dabe05ec
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+<Buffer >
+<Buffer 4f 6e 20 62 72 61 6e 63 68 20 6d 61 69 6e 0a 59 6f 75 72 20 62 72 61 6e 63 68 20 69 73 20 75 70 20 74 6f 20 64 61 74 65 20 77 69 74 68 20 27 6f 72 69 ... 552 more bytes>
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+<Buffer >
+<Buffer 4f 6e 20 62 72 61 6e 63 68 20 6d 61 69 6e 0a 59 6f 75 72 20 62 72 61 6e 63 68 20 69 73 20 75 70 20 74 6f 20 64 61 74 65 20 77 69 74 68 20 27 6f 72 69 ... 591 more bytes>
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron.log
+	modified:   cron/stage-and-push.js
+	modified:   data/CONTEXT_PORTFOLIO.jsonl
+	modified:   data/DOMAIN_QUERIES.jsonl
+	modified:   data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+	modified:   data/EDU_LEARNING.jsonl
+	modified:   data/EDU_PORTFOLIO.jsonl
+	modified:   data/OPEN_LEARNING.jsonl
+	modified:   jobs.json
+	modified:   server.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron.log
+	modified:   cron/stage-and-push.js
+	modified:   data/CONTEXT_PORTFOLIO.jsonl
+	modified:   data/DOMAIN_QUERIES.jsonl
+	modified:   data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+	modified:   data/EDU_LEARNING.jsonl
+	modified:   data/EDU_PORTFOLIO.jsonl
+	modified:   data/OPEN_LEARNING.jsonl
+	modified:   jobs.json
+	modified:   server.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron.log
+	modified:   cron/stage-and-push.js
+	modified:   data/CONTEXT_PORTFOLIO.jsonl
+	modified:   data/DOMAIN_QUERIES.jsonl
+	modified:   data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+	modified:   data/EDU_LEARNING.jsonl
+	modified:   data/EDU_PORTFOLIO.jsonl
+	modified:   data/OPEN_LEARNING.jsonl
+	modified:   jobs.json
+	modified:   server.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cron.log
+	modified:   cron/stage-and-push.js
+	modified:   data/CONTEXT_PORTFOLIO.jsonl
+	modified:   data/DOMAIN_QUERIES.jsonl
+	modified:   data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+	modified:   data/EDU_LEARNING.jsonl
+	modified:   data/EDU_PORTFOLIO.jsonl
+	modified:   data/OPEN_LEARNING.jsonl
+	modified:   jobs.json
+	modified:   server.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:1ad3bab5-a089-4864-8c47-753fa9c4d474 completed"
+[main b9f8080] Data generation for job:1ad3bab5-a089-4864-8c47-753fa9c4d474 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   e12e35d..b9f8080  main -> main
+file:///home/bot/Desktop/coord/DataGeneration/cron/stage-and-push.js:103
+  clearStagedForLabel(jobs, job.label);
+  ^
+
+ReferenceError: clearStagedForLabel is not defined
+    at main (file:///home/bot/Desktop/coord/DataGeneration/cron/stage-and-push.js:103:3)
+    at file:///home/bot/Desktop/coord/DataGeneration/cron/stage-and-push.js:111:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:195:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:336:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:106:12)
+
+Node.js v18.19.1
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File not changed
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:1ad3bab5-a089-4864-8c47-753fa9c4d474 completed"
+[main bc414ab] Data generation for job:1ad3bab5-a089-4864-8c47-753fa9c4d474 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   b9f8080..bc414ab  main -> main
+Cleared STAGED for 3 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: 1ad3bab5-a089-4864-8c47-753fa9c4d474
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:983c0206-1600-4509-9d53-7842c4dd75c7 completed"
+[main 622b07e] Data generation for job:983c0206-1600-4509-9d53-7842c4dd75c7 completed
+ 1 file changed, 100 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   bc414ab..622b07e  main -> main
+Cleared STAGED for 2 job(s) of label OPEN_LEARNING
+Job pushed: 983c0206-1600-4509-9d53-7842c4dd75c7
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:b1efef09-deb2-4078-ba97-32edafeae266 completed"
+[main 456ef11] Data generation for job:b1efef09-deb2-4078-ba97-32edafeae266 completed
+ 1 file changed, 100 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   622b07e..456ef11  main -> main
+Cleared STAGED for 2 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: b1efef09-deb2-4078-ba97-32edafeae266
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:24e2316d-1e9f-41fb-8d6b-94349f88aea8 completed"
+[main 6937541] Data generation for job:24e2316d-1e9f-41fb-8d6b-94349f88aea8 completed
+ 1 file changed, 100 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   456ef11..6937541  main -> main
+Cleared STAGED for 2 job(s) of label EDU_LEARNING
+Job pushed: 24e2316d-1e9f-41fb-8d6b-94349f88aea8
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:d3ee3874-22a5-4e85-9332-2706ae73fb33 completed"
+[main ae4c6ff] Data generation for job:d3ee3874-22a5-4e85-9332-2706ae73fb33 completed
+ 1 file changed, 100 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   6937541..ae4c6ff  main -> main
+Cleared STAGED for 2 job(s) of label EDU_PORTFOLIO
+Job pushed: d3ee3874-22a5-4e85-9332-2706ae73fb33
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:9c3d8c6a-3c4f-4b6b-9957-d5d1fdc17cd0 completed"
+[main 27511cf] Data generation for job:9c3d8c6a-3c4f-4b6b-9957-d5d1fdc17cd0 completed
+ 1 file changed, 100 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   ae4c6ff..27511cf  main -> main
+Cleared STAGED for 2 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 9c3d8c6a-3c4f-4b6b-9957-d5d1fdc17cd0
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:a1ce011b-274e-456c-98b1-391fdc9cd8a7 completed"
+[main 84cb701] Data generation for job:a1ce011b-274e-456c-98b1-391fdc9cd8a7 completed
+ 1 file changed, 100 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   27511cf..84cb701  main -> main
+Cleared STAGED for 2 job(s) of label DOMAIN_QUERIES
+Job pushed: a1ce011b-274e-456c-98b1-391fdc9cd8a7
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:c06ebf8d-9639-42d4-97f4-f771a28bd0a8 completed"
+[main 5892653] Data generation for job:c06ebf8d-9639-42d4-97f4-f771a28bd0a8 completed
+ 1 file changed, 100 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   84cb701..5892653  main -> main
+Cleared STAGED for 2 job(s) of label LLM_CHAT
+Job pushed: c06ebf8d-9639-42d4-97f4-f771a28bd0a8
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:713528a6-e0a1-4c1d-8a16-f2ffe65b2aeb completed"
+[main c717c5d] Data generation for job:713528a6-e0a1-4c1d-8a16-f2ffe65b2aeb completed
+ 1 file changed, 100 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   5892653..c717c5d  main -> main
+Cleared STAGED for 2 job(s) of label OPEN_PORTFOLIO
+Job pushed: 713528a6-e0a1-4c1d-8a16-f2ffe65b2aeb
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:1237ef0b-8a59-47b9-a650-c2157a1f9963 completed"
+[main 7051a3d] Data generation for job:1237ef0b-8a59-47b9-a650-c2157a1f9963 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   c717c5d..7051a3d  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: 1237ef0b-8a59-47b9-a650-c2157a1f9963
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:429d37fb-7435-48d9-9cc0-84ffe47843c8 completed"
+[main 7952a01] Data generation for job:429d37fb-7435-48d9-9cc0-84ffe47843c8 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   7051a3d..7952a01  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: 429d37fb-7435-48d9-9cc0-84ffe47843c8
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:b301f306-89ed-4b81-b6de-3cdd0221e9d5 completed"
+[main 77085a3] Data generation for job:b301f306-89ed-4b81-b6de-3cdd0221e9d5 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   7952a01..77085a3  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: b301f306-89ed-4b81-b6de-3cdd0221e9d5
+No staged jobs
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:7417c47e-f02f-4cb5-8f1f-677d60817b82 completed"
+[main 12b84dc] Data generation for job:7417c47e-f02f-4cb5-8f1f-677d60817b82 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   77085a3..12b84dc  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: 7417c47e-f02f-4cb5-8f1f-677d60817b82
+No staged jobs
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:c2cd928a-34d9-492d-b1f6-016b6bab63ad completed"
+[main 72aea84] Data generation for job:c2cd928a-34d9-492d-b1f6-016b6bab63ad completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   12b84dc..72aea84  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: c2cd928a-34d9-492d-b1f6-016b6bab63ad
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:cb02522c-195b-41a1-aa88-4d6d611d00db completed"
+[main 9789af8] Data generation for job:cb02522c-195b-41a1-aa88-4d6d611d00db completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   72aea84..9789af8  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: cb02522c-195b-41a1-aa88-4d6d611d00db
+data/CONTEXT_LEARNING.jsonl
+File changed
+Running: git add "data/CONTEXT_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:62276ec4-08ef-4167-a998-c7522269cf2f completed"
+[main 8ebbbf6] Data generation for job:62276ec4-08ef-4167-a998-c7522269cf2f completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   9789af8..8ebbbf6  main -> main
+Cleared STAGED for 2 job(s) of label CONTEXT_LEARNING
+Job pushed: 62276ec4-08ef-4167-a998-c7522269cf2f
+No staged jobs
+No staged jobs
+data/CONTEXT_LEARNING.jsonl
+File changed
+Running: git add "data/CONTEXT_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:4405fd07-c8e7-45d0-8067-634ce7145967 completed"
+[main c8cdecd] Data generation for job:4405fd07-c8e7-45d0-8067-634ce7145967 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   8ebbbf6..c8cdecd  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_LEARNING
+Job pushed: 4405fd07-c8e7-45d0-8067-634ce7145967
+No staged jobs
+data/CONTEXT_LEARNING.jsonl
+File changed
+Running: git add "data/CONTEXT_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:3979087e-d503-42fd-89ec-7938ed142780 completed"
+[main 632b7de] Data generation for job:3979087e-d503-42fd-89ec-7938ed142780 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   c8cdecd..632b7de  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_LEARNING
+Job pushed: 3979087e-d503-42fd-89ec-7938ed142780
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:16b78d2a-807f-4337-95f4-d19ab3e66c29 completed"
+[main 4bd8c76] Data generation for job:16b78d2a-807f-4337-95f4-d19ab3e66c29 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   632b7de..4bd8c76  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: 16b78d2a-807f-4337-95f4-d19ab3e66c29
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:e6774d13-881f-4862-bcda-bc00cb4023f6 completed"
+[main 84c31be] Data generation for job:e6774d13-881f-4862-bcda-bc00cb4023f6 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   4bd8c76..84c31be  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: e6774d13-881f-4862-bcda-bc00cb4023f6
+No staged jobs
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:adcb8e25-0daf-45ce-ae5e-83da0f699d56 completed"
+[main e44cf25] Data generation for job:adcb8e25-0daf-45ce-ae5e-83da0f699d56 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   84c31be..e44cf25  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: adcb8e25-0daf-45ce-ae5e-83da0f699d56
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:c74213c9-fd15-4dd2-9de0-8051cddd4be4 completed"
+[main 89bdf0a] Data generation for job:c74213c9-fd15-4dd2-9de0-8051cddd4be4 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   e44cf25..89bdf0a  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: c74213c9-fd15-4dd2-9de0-8051cddd4be4
+No staged jobs
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:b9f610c3-38dd-4409-a246-2ccf2099c4a5 completed"
+[main f05bfdc] Data generation for job:b9f610c3-38dd-4409-a246-2ccf2099c4a5 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   89bdf0a..f05bfdc  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: b9f610c3-38dd-4409-a246-2ccf2099c4a5
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:c1d0af6e-fa17-47e5-9f07-ac4bd03a58c3 completed"
+[main 17d3001] Data generation for job:c1d0af6e-fa17-47e5-9f07-ac4bd03a58c3 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   f05bfdc..17d3001  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: c1d0af6e-fa17-47e5-9f07-ac4bd03a58c3
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:d7d9be1a-c91b-4db1-bf52-e98203ff20b0 completed"
+[main b6b8090] Data generation for job:d7d9be1a-c91b-4db1-bf52-e98203ff20b0 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   17d3001..b6b8090  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: d7d9be1a-c91b-4db1-bf52-e98203ff20b0
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:e2b7a45f-ad1b-4986-b059-6a3fcb0588ff completed"
+[main 9f38605] Data generation for job:e2b7a45f-ad1b-4986-b059-6a3fcb0588ff completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   b6b8090..9f38605  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: e2b7a45f-ad1b-4986-b059-6a3fcb0588ff
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:89b546e2-d00e-471a-ac78-f32b3050c23b completed"
+[main 8721ada] Data generation for job:89b546e2-d00e-471a-ac78-f32b3050c23b completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   9f38605..8721ada  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: 89b546e2-d00e-471a-ac78-f32b3050c23b
+No staged jobs
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:a3e1e6c9-565d-4d99-8824-e061d32ae24c completed"
+[main 1b9f8c8] Data generation for job:a3e1e6c9-565d-4d99-8824-e061d32ae24c completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   8721ada..1b9f8c8  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: a3e1e6c9-565d-4d99-8824-e061d32ae24c
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:0b88205c-e883-42a6-a837-cc2f8583d90e completed"
+[main 2e1702b] Data generation for job:0b88205c-e883-42a6-a837-cc2f8583d90e completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   1b9f8c8..2e1702b  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: 0b88205c-e883-42a6-a837-cc2f8583d90e
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:1cfcb009-7d50-4c80-a331-84ab965685b6 completed"
+[main 47aa82e] Data generation for job:1cfcb009-7d50-4c80-a331-84ab965685b6 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   2e1702b..47aa82e  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: 1cfcb009-7d50-4c80-a331-84ab965685b6
+No staged jobs
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:e4b727af-9cdf-4b51-aea9-d6bc472828cd completed"
+[main ae271b8] Data generation for job:e4b727af-9cdf-4b51-aea9-d6bc472828cd completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   47aa82e..ae271b8  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: e4b727af-9cdf-4b51-aea9-d6bc472828cd
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:4a13865c-a34f-4c48-a0cc-d41d8a33419b completed"
+[main ea17b56] Data generation for job:4a13865c-a34f-4c48-a0cc-d41d8a33419b completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   ae271b8..ea17b56  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: 4a13865c-a34f-4c48-a0cc-d41d8a33419b
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:112b2556-d8bb-475c-bf63-44302737479a completed"
+[main 1f63927] Data generation for job:112b2556-d8bb-475c-bf63-44302737479a completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   ea17b56..1f63927  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 112b2556-d8bb-475c-bf63-44302737479a
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:9baa65bd-d939-4549-a766-5a729e982357 completed"
+[main 4b9c806] Data generation for job:9baa65bd-d939-4549-a766-5a729e982357 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   1f63927..4b9c806  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 9baa65bd-d939-4549-a766-5a729e982357
+No staged jobs
+data/CONTEXT_LEARNING.jsonl
+File changed
+Running: git add "data/CONTEXT_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:d11618ec-8cad-46e3-998a-00f8aba120c9 completed"
+[main 8a95161] Data generation for job:d11618ec-8cad-46e3-998a-00f8aba120c9 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   4b9c806..8a95161  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_LEARNING
+Job pushed: d11618ec-8cad-46e3-998a-00f8aba120c9
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:f75485dc-79a6-477e-af06-71e1a80bdc2c completed"
+[main a167e20] Data generation for job:f75485dc-79a6-477e-af06-71e1a80bdc2c completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   8a95161..a167e20  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: f75485dc-79a6-477e-af06-71e1a80bdc2c
+No staged jobs
+No staged jobs
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:e0a3045e-8a03-42ff-b6d2-b3d64e044c8f completed"
+[main fb9c24a] Data generation for job:e0a3045e-8a03-42ff-b6d2-b3d64e044c8f completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   a167e20..fb9c24a  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: e0a3045e-8a03-42ff-b6d2-b3d64e044c8f
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:32c23380-29be-4fd9-a2e5-b700ab7dbfcb completed"
+[main 60a9d95] Data generation for job:32c23380-29be-4fd9-a2e5-b700ab7dbfcb completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   fb9c24a..60a9d95  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: 32c23380-29be-4fd9-a2e5-b700ab7dbfcb
+No staged jobs
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:62aa898c-bc40-4731-b6c3-05d30b8c0942 completed"
+[main 73a9037] Data generation for job:62aa898c-bc40-4731-b6c3-05d30b8c0942 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   60a9d95..73a9037  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: 62aa898c-bc40-4731-b6c3-05d30b8c0942
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:99b0482b-4318-4d31-ac42-1e4f457014a8 completed"
+[main 08e5d00] Data generation for job:99b0482b-4318-4d31-ac42-1e4f457014a8 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   73a9037..08e5d00  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: 99b0482b-4318-4d31-ac42-1e4f457014a8
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:257fdfc3-5856-40cb-b759-ca57a7b96024 completed"
+[main e4aeaf8] Data generation for job:257fdfc3-5856-40cb-b759-ca57a7b96024 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   08e5d00..e4aeaf8  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: 257fdfc3-5856-40cb-b759-ca57a7b96024
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:62b9df76-e5c2-4ea4-8fec-14bedee7f368 completed"
+[main fd2049b] Data generation for job:62b9df76-e5c2-4ea4-8fec-14bedee7f368 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   e4aeaf8..fd2049b  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: 62b9df76-e5c2-4ea4-8fec-14bedee7f368
+No staged jobs
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:95d63788-657d-4a9f-8426-cdcc26d3289d completed"
+[main 385b99b] Data generation for job:95d63788-657d-4a9f-8426-cdcc26d3289d completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   fd2049b..385b99b  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: 95d63788-657d-4a9f-8426-cdcc26d3289d
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:b4b76602-df49-4070-8957-0aa5d90ef945 completed"
+[main 2729b01] Data generation for job:b4b76602-df49-4070-8957-0aa5d90ef945 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   385b99b..2729b01  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: b4b76602-df49-4070-8957-0aa5d90ef945
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:2bee4998-3241-4eae-9623-3e28bba09e8a completed"
+[main cea84ff] Data generation for job:2bee4998-3241-4eae-9623-3e28bba09e8a completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   2729b01..cea84ff  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: 2bee4998-3241-4eae-9623-3e28bba09e8a
+No staged jobs
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:dea2229f-ed4f-4e08-b809-824a12c08ae5 completed"
+[main 0172231] Data generation for job:dea2229f-ed4f-4e08-b809-824a12c08ae5 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   cea84ff..0172231  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: dea2229f-ed4f-4e08-b809-824a12c08ae5
+No staged jobs
+No staged jobs
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:34c879dd-f05f-47d7-a2b3-3c488ff4899e completed"
+[main 305f128] Data generation for job:34c879dd-f05f-47d7-a2b3-3c488ff4899e completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   0172231..305f128  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: 34c879dd-f05f-47d7-a2b3-3c488ff4899e
+No staged jobs
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:3a076828-6f6b-435e-ad5a-812fc7130545 completed"
+[main 7c5e2f8] Data generation for job:3a076828-6f6b-435e-ad5a-812fc7130545 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   305f128..7c5e2f8  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: 3a076828-6f6b-435e-ad5a-812fc7130545
+No staged jobs
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:3026db8e-7253-47ae-b8c6-b59e353e8b93 completed"
+[main 8d68558] Data generation for job:3026db8e-7253-47ae-b8c6-b59e353e8b93 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   7c5e2f8..8d68558  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: 3026db8e-7253-47ae-b8c6-b59e353e8b93
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:22b6bbbc-22c7-4a2f-a4e1-c1edbec10776 completed"
+[main fe58693] Data generation for job:22b6bbbc-22c7-4a2f-a4e1-c1edbec10776 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   8d68558..fe58693  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 22b6bbbc-22c7-4a2f-a4e1-c1edbec10776
+data/CONTEXT_LEARNING.jsonl
+File changed
+Running: git add "data/CONTEXT_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:71d566cb-db3a-4a3e-a6c9-d7dbbfac52fe completed"
+[main 0f66ed6] Data generation for job:71d566cb-db3a-4a3e-a6c9-d7dbbfac52fe completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   fe58693..0f66ed6  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_LEARNING
+Job pushed: 71d566cb-db3a-4a3e-a6c9-d7dbbfac52fe
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:4297f51e-609d-42a3-a325-815af1279a5f completed"
+[main f1676ea] Data generation for job:4297f51e-609d-42a3-a325-815af1279a5f completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   0f66ed6..f1676ea  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 4297f51e-609d-42a3-a325-815af1279a5f
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:4aa5a7e0-3639-49ae-9fa1-2e192084498a completed"
+[main 7452870] Data generation for job:4aa5a7e0-3639-49ae-9fa1-2e192084498a completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   f1676ea..7452870  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 4aa5a7e0-3639-49ae-9fa1-2e192084498a
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:f0ea0b54-2988-440a-bff7-357a31e689e6 completed"
+[main 23a3712] Data generation for job:f0ea0b54-2988-440a-bff7-357a31e689e6 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   7452870..23a3712  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: f0ea0b54-2988-440a-bff7-357a31e689e6
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:f1f81511-34be-445e-b14a-ff30edcec83f completed"
+[main 1c9f13e] Data generation for job:f1f81511-34be-445e-b14a-ff30edcec83f completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   23a3712..1c9f13e  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: f1f81511-34be-445e-b14a-ff30edcec83f
+No staged jobs
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:09778581-5ae5-491c-a45d-c18b726ae90b completed"
+[main cd7a31f] Data generation for job:09778581-5ae5-491c-a45d-c18b726ae90b completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   1c9f13e..cd7a31f  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: 09778581-5ae5-491c-a45d-c18b726ae90b
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:9def774e-7866-4398-8f77-fea158d4956f completed"
+[main fb11425] Data generation for job:9def774e-7866-4398-8f77-fea158d4956f completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   cd7a31f..fb11425  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: 9def774e-7866-4398-8f77-fea158d4956f
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:c582a168-4de0-4c71-916e-9ddcbe65e3f0 completed"
+[main 8ec2d44] Data generation for job:c582a168-4de0-4c71-916e-9ddcbe65e3f0 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   fb11425..8ec2d44  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: c582a168-4de0-4c71-916e-9ddcbe65e3f0
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:7753797f-de14-4918-8b7c-0ed11543c31a completed"
+[main d8e968b] Data generation for job:7753797f-de14-4918-8b7c-0ed11543c31a completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   8ec2d44..d8e968b  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: 7753797f-de14-4918-8b7c-0ed11543c31a
+No staged jobs
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:892794da-3487-4b4d-b116-e2fb80a9bec5 completed"
+[main d349072] Data generation for job:892794da-3487-4b4d-b116-e2fb80a9bec5 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   d8e968b..d349072  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: 892794da-3487-4b4d-b116-e2fb80a9bec5
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:24a82fb7-53c7-40e0-842a-a467869c8246 completed"
+[main 05d67d4] Data generation for job:24a82fb7-53c7-40e0-842a-a467869c8246 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   d349072..05d67d4  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: 24a82fb7-53c7-40e0-842a-a467869c8246
+No staged jobs
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:b742c3c5-ca88-45be-a8af-cbd05f6cc303 completed"
+[main cadebf4] Data generation for job:b742c3c5-ca88-45be-a8af-cbd05f6cc303 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   05d67d4..cadebf4  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: b742c3c5-ca88-45be-a8af-cbd05f6cc303
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:f80f1924-259e-4c3b-bd62-ce82888d0152 completed"
+[main 25874c4] Data generation for job:f80f1924-259e-4c3b-bd62-ce82888d0152 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   cadebf4..25874c4  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: f80f1924-259e-4c3b-bd62-ce82888d0152
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:d4cd3dfe-b0c5-4253-8caf-6463f0d70a50 completed"
+[main 210bd55] Data generation for job:d4cd3dfe-b0c5-4253-8caf-6463f0d70a50 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   25874c4..210bd55  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: d4cd3dfe-b0c5-4253-8caf-6463f0d70a50
+No staged jobs
+data/CONTEXT_LEARNING.jsonl
+File changed
+Running: git add "data/CONTEXT_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:641b4d3c-9d8e-4b39-8aa1-bfd47c633ec4 completed"
+[main 43679a0] Data generation for job:641b4d3c-9d8e-4b39-8aa1-bfd47c633ec4 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   210bd55..43679a0  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_LEARNING
+Job pushed: 641b4d3c-9d8e-4b39-8aa1-bfd47c633ec4
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:e47ecab9-e10f-4c68-b741-3a5a17c51133 completed"
+[main 08fabe7] Data generation for job:e47ecab9-e10f-4c68-b741-3a5a17c51133 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   43679a0..08fabe7  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: e47ecab9-e10f-4c68-b741-3a5a17c51133
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:a81100fd-65ec-4581-bc91-d77bfbe157a5 completed"
+[main 2c4dd64] Data generation for job:a81100fd-65ec-4581-bc91-d77bfbe157a5 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   08fabe7..2c4dd64  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: a81100fd-65ec-4581-bc91-d77bfbe157a5
+No staged jobs
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:47dfd78f-a0d8-4351-9094-5ba73294ba6a completed"
+[main d29215b] Data generation for job:47dfd78f-a0d8-4351-9094-5ba73294ba6a completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   2c4dd64..d29215b  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 47dfd78f-a0d8-4351-9094-5ba73294ba6a
+No staged jobs
+No staged jobs
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:ac2196ad-d629-4d75-9e23-195cd4ada470 completed"
+[main 2ed68aa] Data generation for job:ac2196ad-d629-4d75-9e23-195cd4ada470 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   d29215b..2ed68aa  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: ac2196ad-d629-4d75-9e23-195cd4ada470
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:abe036b8-df62-4f3c-9b3f-8cf241bd86d7 completed"
+[main 9bb169f] Data generation for job:abe036b8-df62-4f3c-9b3f-8cf241bd86d7 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   2ed68aa..9bb169f  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: abe036b8-df62-4f3c-9b3f-8cf241bd86d7
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:c300514a-ac12-4866-ba17-d00323679364 completed"
+[main d7574be] Data generation for job:c300514a-ac12-4866-ba17-d00323679364 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   9bb169f..d7574be  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: c300514a-ac12-4866-ba17-d00323679364
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:660297bb-1a12-40ba-8154-8d43e03fc03c completed"
+[main ecf7fa0] Data generation for job:660297bb-1a12-40ba-8154-8d43e03fc03c completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   d7574be..ecf7fa0  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: 660297bb-1a12-40ba-8154-8d43e03fc03c
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:f71eb78a-6743-4922-94a6-6e53bd08ebc3 completed"
+[main 3cc5c4a] Data generation for job:f71eb78a-6743-4922-94a6-6e53bd08ebc3 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   ecf7fa0..3cc5c4a  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: f71eb78a-6743-4922-94a6-6e53bd08ebc3
+No staged jobs
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:cd1bbed6-83b1-4476-ace8-625efd7af705 completed"
+[main 246e5e4] Data generation for job:cd1bbed6-83b1-4476-ace8-625efd7af705 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   3cc5c4a..246e5e4  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: cd1bbed6-83b1-4476-ace8-625efd7af705
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:bc14e90c-3b2e-4caf-83fc-14ca89dd63dd completed"
+[main 9351b62] Data generation for job:bc14e90c-3b2e-4caf-83fc-14ca89dd63dd completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   246e5e4..9351b62  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: bc14e90c-3b2e-4caf-83fc-14ca89dd63dd
+No staged jobs
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:eab2d05c-8a8c-4335-87a8-98d1b3ce1f79 completed"
+[main 28bb813] Data generation for job:eab2d05c-8a8c-4335-87a8-98d1b3ce1f79 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   9351b62..28bb813  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: eab2d05c-8a8c-4335-87a8-98d1b3ce1f79
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:429f93be-15e1-4975-8f32-abf4da6a6c76 completed"
+[main f6ff2c0] Data generation for job:429f93be-15e1-4975-8f32-abf4da6a6c76 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   28bb813..f6ff2c0  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: 429f93be-15e1-4975-8f32-abf4da6a6c76
+No staged jobs
+No staged jobs
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:9fd9eb0c-aaaa-417f-ba52-53019d206083 completed"
+[main ffd6f09] Data generation for job:9fd9eb0c-aaaa-417f-ba52-53019d206083 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   f6ff2c0..ffd6f09  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: 9fd9eb0c-aaaa-417f-ba52-53019d206083
+No staged jobs
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:86acb884-64b1-4ce8-8e2d-8caebe751dbe completed"
+[main 3315bbf] Data generation for job:86acb884-64b1-4ce8-8e2d-8caebe751dbe completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   ffd6f09..3315bbf  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: 86acb884-64b1-4ce8-8e2d-8caebe751dbe
+No staged jobs
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:82b1b951-858d-4849-ab8f-218071ce4a2f completed"
+[main c8db0ef] Data generation for job:82b1b951-858d-4849-ab8f-218071ce4a2f completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   3315bbf..c8db0ef  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: 82b1b951-858d-4849-ab8f-218071ce4a2f
+No staged jobs
+data/CONTEXT_LEARNING.jsonl
+File changed
+Running: git add "data/CONTEXT_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:27e81556-e947-4541-bd74-0fc4957b5113 completed"
+[main 2063a78] Data generation for job:27e81556-e947-4541-bd74-0fc4957b5113 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   c8db0ef..2063a78  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_LEARNING
+Job pushed: 27e81556-e947-4541-bd74-0fc4957b5113
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:ff93cc2a-a199-4d71-b962-ea6d1d1bf20e completed"
+[main d7eba51] Data generation for job:ff93cc2a-a199-4d71-b962-ea6d1d1bf20e completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   2063a78..d7eba51  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: ff93cc2a-a199-4d71-b962-ea6d1d1bf20e
+No staged jobs
+No staged jobs
+No staged jobs
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:aee9e11f-646a-4dc7-ad21-fc9b8fdc5b8e completed"
+[main 7ce7c1d] Data generation for job:aee9e11f-646a-4dc7-ad21-fc9b8fdc5b8e completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   d7eba51..7ce7c1d  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: aee9e11f-646a-4dc7-ad21-fc9b8fdc5b8e
+No staged jobs
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:78c28b39-6a18-4f74-984c-01406f52c005 completed"
+[main 8e6641c] Data generation for job:78c28b39-6a18-4f74-984c-01406f52c005 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   7ce7c1d..8e6641c  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: 78c28b39-6a18-4f74-984c-01406f52c005
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:2abc5fad-908e-4872-b24d-068802f755f9 completed"
+[main e4b88a4] Data generation for job:2abc5fad-908e-4872-b24d-068802f755f9 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   8e6641c..e4b88a4  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 2abc5fad-908e-4872-b24d-068802f755f9
+No staged jobs
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:a24e614b-671f-4e7c-8686-52462924de8b completed"
+[main 86b970b] Data generation for job:a24e614b-671f-4e7c-8686-52462924de8b completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   e4b88a4..86b970b  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: a24e614b-671f-4e7c-8686-52462924de8b
+No staged jobs
+No staged jobs
+No staged jobs
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:f6e0ae7e-e8f5-4f59-848a-3c791d6e9e8f completed"
+[main e2259f7] Data generation for job:f6e0ae7e-e8f5-4f59-848a-3c791d6e9e8f completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   86b970b..e2259f7  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: f6e0ae7e-e8f5-4f59-848a-3c791d6e9e8f
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:50d2fb7a-b3db-4859-9164-7a0a04061ee7 completed"
+[main 29af280] Data generation for job:50d2fb7a-b3db-4859-9164-7a0a04061ee7 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   e2259f7..29af280  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: 50d2fb7a-b3db-4859-9164-7a0a04061ee7
+No staged jobs
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:803c0767-b29e-4ca0-8cd6-c335af25dc96 completed"
+[main 0fbfbf3] Data generation for job:803c0767-b29e-4ca0-8cd6-c335af25dc96 completed
+ 1 file changed, 300 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   29af280..0fbfbf3  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: 803c0767-b29e-4ca0-8cd6-c335af25dc96
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:14f63c17-3cb1-4592-8c35-c264c1bde08b completed"
+[main d4e04b1] Data generation for job:14f63c17-3cb1-4592-8c35-c264c1bde08b completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   0fbfbf3..d4e04b1  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: 14f63c17-3cb1-4592-8c35-c264c1bde08b
+No staged jobs
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:1cd46d1a-8ed1-4762-93c4-f4ee009f1f4a completed"
+[main de25331] Data generation for job:1cd46d1a-8ed1-4762-93c4-f4ee009f1f4a completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   d4e04b1..de25331  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: 1cd46d1a-8ed1-4762-93c4-f4ee009f1f4a
+No staged jobs
+No staged jobs
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:907d044b-4537-4278-95f5-4d72308e7384 completed"
+[main ac2c16d] Data generation for job:907d044b-4537-4278-95f5-4d72308e7384 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   de25331..ac2c16d  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: 907d044b-4537-4278-95f5-4d72308e7384
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:a7ba404d-ba58-4847-a627-4bb934482224 completed"
+[main 7f7dbf8] Data generation for job:a7ba404d-ba58-4847-a627-4bb934482224 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   ac2c16d..7f7dbf8  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: a7ba404d-ba58-4847-a627-4bb934482224
+No staged jobs
+No staged jobs
+No staged jobs
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:87770911-4481-4134-ac12-9650b159679d completed"
+[main 1e18412] Data generation for job:87770911-4481-4134-ac12-9650b159679d completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   7f7dbf8..1e18412  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: 87770911-4481-4134-ac12-9650b159679d
+No staged jobs
+No staged jobs
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:de89fd20-012b-4c74-82a4-c3de788df749 completed"
+[main d92e83b] Data generation for job:de89fd20-012b-4c74-82a4-c3de788df749 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   1e18412..d92e83b  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: de89fd20-012b-4c74-82a4-c3de788df749
+No staged jobs
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:24443ef7-9ca1-4add-84c2-4023f95a5196 completed"
+[main bac0078] Data generation for job:24443ef7-9ca1-4add-84c2-4023f95a5196 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   d92e83b..bac0078  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 24443ef7-9ca1-4add-84c2-4023f95a5196
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:c5c1a7c6-323a-428f-ba6b-e9a081d2f611 completed"
+[main ac65cfb] Data generation for job:c5c1a7c6-323a-428f-ba6b-e9a081d2f611 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   bac0078..ac65cfb  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: c5c1a7c6-323a-428f-ba6b-e9a081d2f611
+No staged jobs
+No staged jobs
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:778cf902-8f63-4f3c-b84b-dc807adee590 completed"
+[main 0add74a] Data generation for job:778cf902-8f63-4f3c-b84b-dc807adee590 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   ac65cfb..0add74a  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: 778cf902-8f63-4f3c-b84b-dc807adee590
+No staged jobs
+No staged jobs
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:be4c8ba9-ab22-47f5-9376-dcb57e95d79d completed"
+[main 4f645e1] Data generation for job:be4c8ba9-ab22-47f5-9376-dcb57e95d79d completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   0add74a..4f645e1  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: be4c8ba9-ab22-47f5-9376-dcb57e95d79d
+No staged jobs
+No staged jobs
+No staged jobs
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:6f5c787f-b359-4853-ab0c-73f2319d4f3f completed"
+[main f361dfd] Data generation for job:6f5c787f-b359-4853-ab0c-73f2319d4f3f completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   4f645e1..f361dfd  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: 6f5c787f-b359-4853-ab0c-73f2319d4f3f
+No staged jobs
+No staged jobs
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:e1b59874-9b3f-4dde-ac9b-f1730ff93a72 completed"
+[main 01c6325] Data generation for job:e1b59874-9b3f-4dde-ac9b-f1730ff93a72 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   f361dfd..01c6325  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: e1b59874-9b3f-4dde-ac9b-f1730ff93a72
+No staged jobs
+No staged jobs
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:58819866-7163-45de-91b2-42965a252371 completed"
+[main 2b1d3af] Data generation for job:58819866-7163-45de-91b2-42965a252371 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   01c6325..2b1d3af  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 58819866-7163-45de-91b2-42965a252371
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:a370d83e-5dd0-4b17-86c1-7c601b438c4a completed"
+[main 863c720] Data generation for job:a370d83e-5dd0-4b17-86c1-7c601b438c4a completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   2b1d3af..863c720  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: a370d83e-5dd0-4b17-86c1-7c601b438c4a
+No staged jobs
+No staged jobs
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:915ec6fc-ccd3-4035-8ce7-316ddd2f8373 completed"
+[main c4b5583] Data generation for job:915ec6fc-ccd3-4035-8ce7-316ddd2f8373 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   863c720..c4b5583  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: 915ec6fc-ccd3-4035-8ce7-316ddd2f8373
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:36201dad-df7a-4f06-a547-6148dcd08fdd completed"
+[main 16437e3] Data generation for job:36201dad-df7a-4f06-a547-6148dcd08fdd completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   c4b5583..16437e3  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: 36201dad-df7a-4f06-a547-6148dcd08fdd
+No staged jobs
+No staged jobs
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:72d2c118-6dfa-4992-9e63-25e542715656 completed"
+[main 06cbbaf] Data generation for job:72d2c118-6dfa-4992-9e63-25e542715656 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   16437e3..06cbbaf  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: 72d2c118-6dfa-4992-9e63-25e542715656
+No staged jobs
+No staged jobs
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:ad77f2e8-c30f-4dfe-a760-2fbbcea6cd9c completed"
+[main bd75ba5] Data generation for job:ad77f2e8-c30f-4dfe-a760-2fbbcea6cd9c completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   06cbbaf..bd75ba5  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: ad77f2e8-c30f-4dfe-a760-2fbbcea6cd9c
+No staged jobs
+No staged jobs
+No staged jobs
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:d565dcc3-3705-4cd3-8b54-845417e3ce63 completed"
+[main a6c88ff] Data generation for job:d565dcc3-3705-4cd3-8b54-845417e3ce63 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   bd75ba5..a6c88ff  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: d565dcc3-3705-4cd3-8b54-845417e3ce63
+No staged jobs
+No staged jobs
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:be741217-02e2-4f81-8bfc-bf668255996a completed"
+[main f9732f1] Data generation for job:be741217-02e2-4f81-8bfc-bf668255996a completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   a6c88ff..f9732f1  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: be741217-02e2-4f81-8bfc-bf668255996a
+No staged jobs
+No staged jobs
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:f7274daf-886b-4822-9390-546c72ff8703 completed"
+[main 15c3f76] Data generation for job:f7274daf-886b-4822-9390-546c72ff8703 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   f9732f1..15c3f76  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: f7274daf-886b-4822-9390-546c72ff8703
+No staged jobs
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:3725615e-2b6c-437e-97ae-e5b7289f78e2 completed"
+[main 986017a] Data generation for job:3725615e-2b6c-437e-97ae-e5b7289f78e2 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   15c3f76..986017a  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 3725615e-2b6c-437e-97ae-e5b7289f78e2
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:495ceed8-8774-42c8-a49c-764eb764d6ed completed"
+[main 8f28828] Data generation for job:495ceed8-8774-42c8-a49c-764eb764d6ed completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   986017a..8f28828  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: 495ceed8-8774-42c8-a49c-764eb764d6ed
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:dcb50a3f-2805-406b-8069-302dc52e6ad5 completed"
+[main 8941860] Data generation for job:dcb50a3f-2805-406b-8069-302dc52e6ad5 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   8f28828..8941860  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: dcb50a3f-2805-406b-8069-302dc52e6ad5
+No staged jobs
+No staged jobs
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:add5f610-92e8-4bcc-95e8-8b9700a32e2c completed"
+[main 2e83d9d] Data generation for job:add5f610-92e8-4bcc-95e8-8b9700a32e2c completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   8941860..2e83d9d  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: add5f610-92e8-4bcc-95e8-8b9700a32e2c
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:fdcb043b-e7b8-4381-9c55-c3b6a497cba8 completed"
+[main 1767a81] Data generation for job:fdcb043b-e7b8-4381-9c55-c3b6a497cba8 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   2e83d9d..1767a81  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: fdcb043b-e7b8-4381-9c55-c3b6a497cba8
+No staged jobs
+No staged jobs
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:a6896bdc-8170-4435-ab57-88476022f597 completed"
+[main 8018cfe] Data generation for job:a6896bdc-8170-4435-ab57-88476022f597 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   1767a81..8018cfe  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: a6896bdc-8170-4435-ab57-88476022f597
+No staged jobs
+No staged jobs
+No staged jobs
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:0ff377c1-2c6e-4db4-9bf0-46daea949d60 completed"
+[main 9bcf2c7] Data generation for job:0ff377c1-2c6e-4db4-9bf0-46daea949d60 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   8018cfe..9bcf2c7  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: 0ff377c1-2c6e-4db4-9bf0-46daea949d60
+No staged jobs
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:7670859d-5603-4cf8-bae3-e2d0d2748e80 completed"
+[main 4bd7fa8] Data generation for job:7670859d-5603-4cf8-bae3-e2d0d2748e80 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   9bcf2c7..4bd7fa8  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: 7670859d-5603-4cf8-bae3-e2d0d2748e80
+No staged jobs
+No staged jobs
+No staged jobs
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:ecf97bf5-e3d4-41a4-9ba7-5edb64168a68 completed"
+[main ee351a9] Data generation for job:ecf97bf5-e3d4-41a4-9ba7-5edb64168a68 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   4bd7fa8..ee351a9  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: ecf97bf5-e3d4-41a4-9ba7-5edb64168a68
+No staged jobs
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:5ee3849d-9d8d-4fab-b6b0-47501ac20eec completed"
+[main 818ff24] Data generation for job:5ee3849d-9d8d-4fab-b6b0-47501ac20eec completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   ee351a9..818ff24  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 5ee3849d-9d8d-4fab-b6b0-47501ac20eec
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:e5b3472b-c129-4436-9cbd-547ea47840b3 completed"
+[main 03f8c81] Data generation for job:e5b3472b-c129-4436-9cbd-547ea47840b3 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   818ff24..03f8c81  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: e5b3472b-c129-4436-9cbd-547ea47840b3
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:0b991e2a-2f23-4fa0-ba01-8f7644613ead completed"
+[main 1bd676e] Data generation for job:0b991e2a-2f23-4fa0-ba01-8f7644613ead completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   03f8c81..1bd676e  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: 0b991e2a-2f23-4fa0-ba01-8f7644613ead
+No staged jobs
+No staged jobs
+data/OPEN_PORTFOLIO.jsonl
+File changed
+Running: git add "data/OPEN_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:52177fe6-cee9-4b46-97b8-860c230d3653 completed"
+[main 04cb004] Data generation for job:52177fe6-cee9-4b46-97b8-860c230d3653 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   1bd676e..04cb004  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_PORTFOLIO
+Job pushed: 52177fe6-cee9-4b46-97b8-860c230d3653
+No staged jobs
+No staged jobs
+data/OPEN_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/OPEN_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:3e865524-a229-4e72-8947-437e780209a8 completed"
+[main 03e9339] Data generation for job:3e865524-a229-4e72-8947-437e780209a8 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   04cb004..03e9339  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_FEE_IMPACT_CALCULATOR
+Job pushed: 3e865524-a229-4e72-8947-437e780209a8
+No staged jobs
+No staged jobs
+data/OPEN_LEARNING.jsonl
+File changed
+Running: git add "data/OPEN_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:db93a60d-014b-4b85-8eba-f7964415c9b2 completed"
+[main f2c1b85] Data generation for job:db93a60d-014b-4b85-8eba-f7964415c9b2 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   03e9339..f2c1b85  main -> main
+Cleared STAGED for 1 job(s) of label OPEN_LEARNING
+Job pushed: db93a60d-014b-4b85-8eba-f7964415c9b2
+No staged jobs
+No staged jobs
+No staged jobs
+data/EDU_FEE_IMPACT_CALCULATOR.jsonl
+File changed
+Running: git add "data/EDU_FEE_IMPACT_CALCULATOR.jsonl"
+Running: git commit -m "Data generation for job:c484e8ae-5929-41b6-8372-b1420307e258 completed"
+[main e71d54f] Data generation for job:c484e8ae-5929-41b6-8372-b1420307e258 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   f2c1b85..e71d54f  main -> main
+Cleared STAGED for 1 job(s) of label EDU_FEE_IMPACT_CALCULATOR
+Job pushed: c484e8ae-5929-41b6-8372-b1420307e258
+No staged jobs
+No staged jobs
+data/EDU_LEARNING.jsonl
+File changed
+Running: git add "data/EDU_LEARNING.jsonl"
+Running: git commit -m "Data generation for job:b381d19f-535a-4088-b40a-fb8216bdfa0c completed"
+[main 1e0fea3] Data generation for job:b381d19f-535a-4088-b40a-fb8216bdfa0c completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   e71d54f..1e0fea3  main -> main
+Cleared STAGED for 1 job(s) of label EDU_LEARNING
+Job pushed: b381d19f-535a-4088-b40a-fb8216bdfa0c
+No staged jobs
+No staged jobs
+data/EDU_PORTFOLIO.jsonl
+File changed
+Running: git add "data/EDU_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:e6b5c06c-c503-4f45-ac54-98e5b2468d53 completed"
+[main ab17fc9] Data generation for job:e6b5c06c-c503-4f45-ac54-98e5b2468d53 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   1e0fea3..ab17fc9  main -> main
+Cleared STAGED for 1 job(s) of label EDU_PORTFOLIO
+Job pushed: e6b5c06c-c503-4f45-ac54-98e5b2468d53
+No staged jobs
+No staged jobs
+data/CONTEXT_PORTFOLIO.jsonl
+File changed
+Running: git add "data/CONTEXT_PORTFOLIO.jsonl"
+Running: git commit -m "Data generation for job:81c08008-1099-4e7f-8afe-634431a379d2 completed"
+[main 12cd79b] Data generation for job:81c08008-1099-4e7f-8afe-634431a379d2 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   ab17fc9..12cd79b  main -> main
+Cleared STAGED for 1 job(s) of label CONTEXT_PORTFOLIO
+Job pushed: 81c08008-1099-4e7f-8afe-634431a379d2
+No staged jobs
+No staged jobs
+data/DOMAIN_QUERIES.jsonl
+File changed
+Running: git add "data/DOMAIN_QUERIES.jsonl"
+Running: git commit -m "Data generation for job:a8ee3a3f-c978-406c-b2c4-aadf435c7346 completed"
+[main bdd23e1] Data generation for job:a8ee3a3f-c978-406c-b2c4-aadf435c7346 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   12cd79b..bdd23e1  main -> main
+Cleared STAGED for 1 job(s) of label DOMAIN_QUERIES
+Job pushed: a8ee3a3f-c978-406c-b2c4-aadf435c7346
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+No staged jobs
+data/LLM_CHAT.jsonl
+File changed
+Running: git add "data/LLM_CHAT.jsonl"
+Running: git commit -m "Data generation for job:cd502455-8423-4c28-992d-7162756ff2e0 completed"
+[main 5997761] Data generation for job:cd502455-8423-4c28-992d-7162756ff2e0 completed
+ 1 file changed, 50 insertions(+)
+Running: git push
+To https://github.com/Final-Project-Finance-Advisor-Bot/DataGeneration.git
+   bdd23e1..5997761  main -> main
+Cleared STAGED for 1 job(s) of label LLM_CHAT
+Job pushed: cd502455-8423-4c28-992d-7162756ff2e0
+No staged jobs
