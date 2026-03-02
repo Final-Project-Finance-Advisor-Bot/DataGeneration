@@ -1598,3 +1598,53 @@
 {"text":"Why did my asset allocation change without me touching it?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I search for a specific company in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I delete an asset from one of my portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm new to this, how do I start using the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money needed to create a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my wallet value gone down?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add more than one graph/chart to my dashboard?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure what type of graphs/charts are available. Can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my assets in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios using a specific key?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the difference between 'active' and 'inactive' portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add funds to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit an existing asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my profit not updating correctly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a custom graph/chart background color?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm running low on funds. How do I top up my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many portfolios can I create?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add multiple assets to a single transaction?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset's price not updating in real-time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an entire portfolio at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a budget for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What happens if I exceed the maximum allowed asset value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I undo a previous transaction?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see historical performance data for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure what type of assets are available. Can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific asset in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set reminders for portfolio updates or transactions?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum number of days required to close a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a graph/chart with multiple lines?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit an existing asset's name or description?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my profit percentage not displayed correctly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view portfolio performance over a specific time period?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a custom alert threshold for portfolio updates?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What happens if I try to create an empty portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I download my portfolio data in CSV format?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a graph/chart with multiple categories?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset's allocation not updating correctly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view portfolio performance by asset type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a custom graph/chart zoom level?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the difference between 'buy' and 'sell' orders in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I place an order to buy/sell an asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio performance history over a specific time period?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio not displaying correctly in the dashboard?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a custom graph/chart title?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the maximum allowed number of transactions per day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio performance by date range?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a graph/chart with a custom label?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm new here, how do I use the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
