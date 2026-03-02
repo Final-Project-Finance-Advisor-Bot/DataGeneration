@@ -1498,3 +1498,303 @@
 {"text":"What's the purpose of the Learning Centre - can you explain how it works?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain why I need to complete a certain course before I can access a new tool or feature in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know when I've completed all the required learning bites for a course?","label":"CONTEXT_LEARNING"}
+{"text":"I want to unlock Fundamentals, but it says I need to complete Learn the Application first. How do I get started?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access Fundamentals yet? Did I not meet the requirements?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which course to start with? Should I choose Learn the Application or Fundamentals first?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of passing the knowledge check in Fundamentals? Will it unlock something new?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding volatility. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value keep going up and down? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more shares in my portfolio? Are there specific requirements?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility again? Can you give me an example?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see any other courses besides Fundamentals and Learn the Application? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a learning bite in Fundamentals. Will I get rewarded with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what disposition effect is in simple terms? How does it affect my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the graph builder in Portfolio Manager? Is there a specific requirement?","label":"CONTEXT_LEARNING"}
+{"text":"What's this 'overconfidence bias' thing? Why should I care about it?","label":"CONTEXT_LEARNING"}
+{"text":"I want to compare my portfolio with others. Can you tell me how to access the comparison tool?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep changing? Is that normal when I'm learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how returns work in FA Bot? How is it different from real investing platforms?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a quiz in Fundamentals. Will I unlock more content now?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having multiple portfolios in FA Bot? Can you explain how they work?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value increase exponentially over time? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock more shares in my portfolio again? I forgot the steps.","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of diversification. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many portfolios I can create in FA Bot? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ' capability unlock engine' thing? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a learning bite in Portfolio Manager. Will I get rewarded with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what risk appetite is and how it affects my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value decrease when I'm not actively using FA Bot? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the learning centre again? I think I forgot the link.","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system progression works again? How does it unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what rewards I can earn in FA Bot. Can you list them out?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value keep going up and down like that? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many learning bites are there in Fundamentals? Are they all equally hard?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a quiz in Learn the Application. Will I unlock more content now?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ' AI mediator' thing? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to pass the knowledge check again? What are the requirements?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what portfolio capacity expansion means. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many portfolios I can create again? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of overconfidence bias. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value keep going up and down like that? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock more shares in my portfolio again? I forgot the steps.","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a learning bite in Fundamentals. Will I get rewarded with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ' capability-based progression' thing? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how to access the graph builder again? Is there a specific requirement?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what rewards I can earn in FA Bot. Can you list them out?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system progression works again? How does it unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of diversification. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value keep going up and down like that? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many portfolios I can create again? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a quiz in Learn the Application. Will I unlock more content now?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ' AI mediator' thing? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to pass the knowledge check again? What are the requirements?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what rewards I can earn in FA Bot. Can you list them out?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how to access the learning centre again? I think I forgot the link.","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of overconfidence bias. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value keep going up and down like that? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock more shares in my portfolio again? I forgot the steps.","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a learning bite in Portfolio Manager. Will I get rewarded with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ' capability-based progression' thing? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system progression works again? How does it unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what portfolio capacity expansion means. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many portfolios I can create again? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of diversification. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value keep going up and down like that? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock more shares in my portfolio again? I forgot the steps.","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a learning bite in Fundamentals. Will I get rewarded with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ' AI mediator' thing? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to pass the knowledge check again? What are the requirements?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what rewards I can earn in FA Bot. Can you list them out?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how to access the learning centre again? I think I forgot the link.","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a quiz in Learn the Application. Will I unlock more content now?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ' capability-based progression' thing? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system progression works again? How does it unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what portfolio capacity expansion means. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many portfolios I can create again? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a learning bite in Portfolio Manager. Will I get rewarded with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ' capability-based progression' thing? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system progression works again? How does it unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what rewards I can earn in FA Bot. Can you list them out?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how to access the learning centre again? I think I forgot the link.","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of diversification. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value keep going up and down like that? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock more shares in my portfolio again? I forgot the steps.","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a learning bite in Fundamentals. Will I get rewarded with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ' AI mediator' thing? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to pass the knowledge check again? What are the requirements?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what rewards I can earn in FA Bot. Can you list them out?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many portfolios I can create again? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of overconfidence bias. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value keep going up and down like that? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock more shares in my portfolio again? I forgot the steps.","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a learning bite in Fundamentals. Will I get rewarded with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ' capability-based progression' thing? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system progression works again? How does it unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what portfolio capacity expansion means. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many portfolios I can create again? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what rewards I can earn in FA Bot. Can you list them out?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system progression works again? How does it unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what portfolio capacity expansion means. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many portfolios I can create again? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what rewards I can earn in FA Bot. Can you list them out?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system progression works again? How does it unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know what portfolio capacity expansion means. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance keep resetting to $100 when I complete a course? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many portfolios I can create again? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"What exactly does the Fundamentals of Finance course teach me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course if it's locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I need to complete a specific Learn the Application module before accessing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does completing a bite in the learning centre mean for my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Will I get any rewards or recognition after finishing each bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of unlocking specific modules in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Will accessing the Fundamentals course affect how much fake money I have?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'conceptual literacy' means in this context?","label":"CONTEXT_LEARNING"}
+{"text":"Is there a specific risk level associated with investing in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I get to try out real investments or is it just simulated?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a bite impact my wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio allocation?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to compare different portfolios or strategies?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to completing specific modules?","label":"CONTEXT_LEARNING"}
+{"text":"How do mastery quizzes work in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a quiz in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to all tools and features once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how capability unlocks work in the system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a module or a course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a mastery quiz or bite?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'behavioural awareness' means in this context?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress and unlock rewards throughout the system?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between completing Fundamentals and unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how simulated money is used in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have to pay anything or is it free?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning centre's bite-based mastery model work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation changes as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a portfolio and a wallet in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to compare my portfolio with others or is it private?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how learning bites impact portfolio value?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a capability unlock bundle?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed enough modules to unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase significantly after completing all Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'simulated equity environment' means?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation is affected by completing bites?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to try out different investment strategies or is it limited?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked a new capability or feature in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase exponentially as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'platform fluency' means in this context?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio growth?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have to pay fees or is it free?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation changes as I unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a wallet balance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to compare different portfolios or is it private?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio value changes over time?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a learning outcome in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed enough modules to unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase significantly after completing all Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'simulated equity environment' means?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation is affected by completing bites?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to try out different investment strategies or is it limited?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked a new capability or feature in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase exponentially as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'platform fluency' means in this context?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio growth?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have to pay fees or is it free?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation changes as I unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a wallet balance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to compare different portfolios or is it private?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio value changes over time?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a learning outcome in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed enough modules to unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase significantly after completing all Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'simulated equity environment' means?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation is affected by completing bites?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to try out different investment strategies or is it limited?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked a new capability or feature in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase exponentially as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'platform fluency' means in this context?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio growth?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have to pay fees or is it free?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation changes as I unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a wallet balance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to compare different portfolios or is it private?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio value changes over time?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a learning outcome in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed enough modules to unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase significantly after completing all Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'simulated equity environment' means?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation is affected by completing bites?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to try out different investment strategies or is it limited?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked a new capability or feature in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase exponentially as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'platform fluency' means in this context?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio growth?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have to pay fees or is it free?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation changes as I unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a wallet balance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to compare different portfolios or is it private?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio value changes over time?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a learning outcome in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed enough modules to unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase significantly after completing all Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'simulated equity environment' means?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation is affected by completing bites?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to try out different investment strategies or is it limited?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked a new capability or feature in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase exponentially as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'platform fluency' means in this context?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio growth?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have to pay fees or is it free?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation changes as I unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a wallet balance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to compare different portfolios or is it private?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio value changes over time?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a learning outcome in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed enough modules to unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase significantly after completing all Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'simulated equity environment' means?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation is affected by completing bites?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to try out different investment strategies or is it limited?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked a new capability or feature in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase exponentially as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'platform fluency' means in this context?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio growth?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have to pay fees or is it free?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation changes as I unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a wallet balance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to compare different portfolios or is it private?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio value changes over time?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a learning outcome in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed enough modules to unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase significantly after completing all Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'simulated equity environment' means?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more features or tools once I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my portfolio allocation is affected by completing bites?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to try out different investment strategies or is it limited?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are tied to specific learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked a new capability or feature in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance increase exponentially as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the first module in Learn the Application. Can you explain what it's all about again?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Manager yet? What am I missing?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how rewards work in FA Bot? How do I get them?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a bite in the Fundamentals of Finance course. What's next?","label":"CONTEXT_LEARNING"}
+{"text":"How does my portfolio value change when I complete a bite? Does it affect my overall progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what's meant by 'simulated ('fake') capital' in FA Bot? Is it real money?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of diversification. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to pass the knowledge check in the Fundamentals course? What happens if I fail?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how volatility works in FA Bot? How does it affect my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression work in FA Bot? Do I need to complete all the modules before unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new bite in the Fundamentals of Finance course. What's the next step?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what's meant by 'loss aversion' in FA Bot? How does it affect my investment decisions?","label":"CONTEXT_LEARNING"}
