@@ -2048,3 +2048,53 @@
 {"text":"Can I add more than one graph/chart to my portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"What's the minimum number of assets required for a portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I edit the asset allocation in my existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm new to this, how do I start using the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between different portfolios easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure what kind of graphs/charts I can use in my portfolio,","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you show me how to organise my assets in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have a low balance, can I still use the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What happens if my asset allocation goes above 100%?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio if I want to?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when my wallet value has gone up?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my profit not updating in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a custom graph for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when I have reached my asset limits?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm trying to add more assets but it's saying I've reached the limit","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you explain how asset allocation works in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know which assets are increasing in value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to delete a graph from my portfolio, can you show me how?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the point of having multiple portfolios in the first place?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use different types of graphs/charts with my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch from one graph type to another?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I add more than 5 assets to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you tell me the minimum amount of money needed for a specific asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm trying to search for a company but it's not showing up","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when my portfolio is performing well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a custom profit threshold for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset limit so low?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to delete all my assets from the portfolio manager, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you explain what happens when an asset's value changes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know if my portfolio is within its limits?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm trying to add a new asset but it's saying the type isn't supported","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you show me how to edit an existing asset in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my profit showing as negative?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to switch from a cash-based portfolio to one with assets","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use multiple graphs/charts in the same portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know which graph is currently showing for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I add more than one asset of the same type to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you explain how the portfolio manager handles changes in the market?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm trying to search for a company but it's not showing up in the results","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when my wallet has reached its limits?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a custom date range for graphing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset value not updating correctly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio with a specific asset allocation","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use different types of assets in the same portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know which company is behind an asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I delete a graph that's being used by another asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you show me how to change the type of assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm trying to add an asset but it's saying I don't have enough funds","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when my profit is greater than 50%?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use multiple portfolios at the same time?","label":"CONTEXT_PORTFOLIO"}
