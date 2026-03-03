@@ -4598,3 +4598,53 @@
 {"text":"What counts as a share of capital in my portfolio?","label":"DOMAIN_QUERIES"}
 {"text":"I'm new to investing, what's a share?","label":"DOMAIN_QUERIES"}
 {"text":"How does profit work with different asset types?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work?","label":"DOMAIN_QUERIES"}
+{"text":"How do I calculate profit from my investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share in the context of investing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how diversification works with assets?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot determine capital requirements for investors?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a portfolio and a shareholdings list?","label":"DOMAIN_QUERIES"}
+{"text":"How do I maximize my returns on investment (ROI) with stocks?","label":"DOMAIN_QUERIES"}
+{"text":"Can you provide examples of different stock categories and their characteristics?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot calculate profit from dividend-paying stocks?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of risk capital and its application to investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker in relation to stock exchange listings?","label":"DOMAIN_QUERIES"}
+{"text":"How do I optimize my portfolio for maximum returns over time?","label":"DOMAIN_QUERIES"}
+{"text":"Can you provide guidance on how to determine the right asset allocation strategy?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's role in helping investors achieve their goals?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot account for fees and expenses when calculating investment returns?","label":"DOMAIN_QUERIES"}
+{"text":"What are some common mistakes to avoid when investing in stocks?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot handle investment losses or declines in portfolio value?","label":"DOMAIN_QUERIES"}
+{"text":"What is the importance of diversification in a portfolio of assets?","label":"DOMAIN_QUERIES"}
+{"text":"What are some popular stock categories or asset classes to invest in?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a financial advisor in creating a customized investment plan?","label":"DOMAIN_QUERIES"}
+{"text":"What are some common indicators or metrics used to evaluate investment performance?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between asset allocation and portfolio returns?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's perspective on alternative investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of ESG investing in financial planning or portfolio management?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a ticker and an asset?","label":"DOMAIN_QUERIES"}
+{"text":"How do I calculate my profit from investing in stocks?","label":"DOMAIN_QUERIES"}
+{"text":"What constitutes capital for investing in shares?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how a portfolio manager works?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of diversification in investment strategies?","label":"DOMAIN_QUERIES"}
+{"text":"How do I link my share holdings to my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the impact of asset categorization on profit calculation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to set up a new investment in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How do I know if my investments are making money?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create a diversified portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do I track my share holdings in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how profit margins work?","label":"DOMAIN_QUERIES"}
+{"text":"How do I manage my capital effectively in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to set up a new financial advisor for my account?","label":"DOMAIN_QUERIES"}
+{"text":"What is the impact of diversification on investment returns?","label":"DOMAIN_QUERIES"}
+{"text":"How do I track my progress towards making money with investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my share ownership using just a single symbol?","label":"DOMAIN_QUERIES"}
+{"text":"How does making money with stocks work for beginners?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between asset and portfolio in financial terms?","label":"DOMAIN_QUERIES"}
+{"text":"I'm trying to understand how diversification affects my overall profit","label":"DOMAIN_QUERIES"}
+{"text":"Can I access all available categories for stocks on FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can someone explain what a ticker is and how it relates to my investment?","label":"DOMAIN_QUERIES"}
+{"text":"How does the financial advisor bot help me maximize my profit from investments?","label":"DOMAIN_QUERIES"}
+{"text":"What exactly constitutes capital for a portfolio manager, and how do they use it to make money?","label":"DOMAIN_QUERIES"}
