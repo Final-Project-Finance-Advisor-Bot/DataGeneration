@@ -4048,3 +4048,53 @@
 {"text":"How many assets can I have in each portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why is my portfolio not displaying any graphs/charts?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can you help me figure out how many assets I can add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add more than one asset to my portfolio at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch between different portfolios in the manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio if it’s not performing well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have two portfolios, how do I add a new graph to each one?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum amount of money I can put into a single asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out the current value of my portfolio today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why isn’t my new investment going up in value like I expected?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see a list of all my available assets to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs can I use to track my investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I remove an asset from my investment portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I get an idea of how much money I have left to invest in a month?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to sort and categorize my investments by asset type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I calculate the return on investment for each of my assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic transfers from my main account to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum number of charts that can be added to a single graph?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I need help with setting up a new portfolio - step by step instructions please.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I transfer money from one portfolio to another within my account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out which assets are currently increasing in value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of time required for a new investment to start showing returns?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple sub-portfolios within my main portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out how much money has been made in total through my investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum amount of time that can be invested in a single asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my portfolio by highest returning investment first?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for specific companies or assets to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum amount of money that can be invested in a single day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic withdrawals from my investments when certain conditions are met?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out how many assets make up 50% of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum amount of money that can be spent on fees per year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create custom labels for my investments to better organize them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view historical data on specific assets over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum number of search results that can be returned at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I transfer money from my portfolio to a linked bank account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out how much money is currently in each sub-portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of time required for my investments to mature?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic diversification of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out how many assets make up my total portfolio value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum amount of money that can be invested in a single day via automatic transfers?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up alerts when certain conditions are met for my investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out which assets have had the highest return over a specific period?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum number of portfolio managers that can be created within an account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I transfer money from my main account to multiple sub-portfolios at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the total value of all my investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of information required for each investment to be tracked?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I use the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a portfolio with only $100?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure how to add a graph to my portfolio, can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the limit on the number of assets I can have in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've switched to a new portfolio, but I'm still seeing some graphs from my old one - how do I get rid of them?","label":"CONTEXT_PORTFOLIO"}
