@@ -4598,3 +4598,53 @@
 {"text":"Can I edit an existing asset within my portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I'm trying to understand how to use the asset limits feature to prevent losses.","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I view my overall portfolio performance in a summary dashboard?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m new here what is this portfolio manager thingy?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see my current wallet value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum amount to start investing in this system?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to switch between portfolios, is that easy?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my asset price keep changing on me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the point of limits on assets and wallets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find a specific company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my assets by name or something?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have too many graphs, can I delete some?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the deal with asset allocation, does it make a difference?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t my wallet value update right away?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit an existing portfolio name or description?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of assets can I add to a portfolio, stocks or what?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when my asset has reached its limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I organize my assets by type, like bonds only?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have so many portfolios, how do I switch between them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the story with profit and money made in this system?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see my portfolio's history of changes or something?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset value going down so fast?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add more assets to a portfolio if it’s already at max limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use cash in this system or not?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the deal with asset performance, does it make sense?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have a portfolio and I want to give some money away, is that possible?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I see my current portfolio value on this system?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic asset transfers or something?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have a lot of assets, how do I organize them all?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum amount to add to an existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I change my investment strategy in mid-stream?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have a portfolio and I want to sell some assets, how do I do it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the deal with fees in this system, are they charged?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see my portfolio's tax implications or something?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t my asset value go up when it’s due to dividends?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find the most profitable assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use a credit card to fund an investment or not?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the deal with withdrawal limits, are they too restrictive?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have a portfolio and I want to set up automatic rebalancing, can I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see my portfolio’s performance over time or something?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset value so volatile in this system?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find the best assets to add to a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use a robo-advisor with this portfolio manager or not?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the deal with investment limits, are they too strict?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have a portfolio and I want to set up a tax-advantaged account, can I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see my portfolio’s asset allocation percentage breakdown or something?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t my wallet balance update when I transfer assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new graph or chart to my portfolio, is it easy?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use multiple asset classes in one portfolio, like stocks and bonds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the deal with liquidity fees, are they necessary?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have a portfolio and I want to close it down, is that possible?","label":"CONTEXT_PORTFOLIO"}
