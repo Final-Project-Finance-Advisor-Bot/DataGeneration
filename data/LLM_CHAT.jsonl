@@ -3948,3 +3948,53 @@
 {"text":"I always hear people talk about hedging. Can you tell me more about that in simple terms?","label":"LLM_CHAT"}
 {"text":"Can you just give me some general thoughts on the state of the economy right now. Is it looking good or bad?","label":"LLM_CHAT"}
 {"text":"I'm thinking of investing for the first time, what's the best way to get started?","label":"LLM_CHAT"}
+{"text":"Can you explain what happens to my money when I invest?","label":"LLM_CHAT"}
+{"text":"I'm trying to decide between a high-interest savings account and a certificate of deposit. What's the difference?","label":"LLM_CHAT"}
+{"text":"I've heard of dollar-cost averaging, but I'm not sure how it works. Can you explain?","label":"LLM_CHAT"}
+{"text":"Is it better to invest in the stock market or real estate? I'm not sure what's right for me.","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular investment apps? I'm looking for something user-friendly.","label":"LLM_CHAT"}
+{"text":"I've got a tax-advantaged retirement account. What are my options for withdrawals?","label":"LLM_CHAT"}
+{"text":"I'm curious about ETFs. Can you explain what they are and how they work?","label":"LLM_CHAT"}
+{"text":"What's the difference between a brokerage account and an investment account?","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular robo-advisors? I'm looking for low fees.","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular investment books? I'm looking for something insightful.","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular investment podcasts? I'm looking for something informative.","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular investment apps for beginners? I'm looking for something user-friendly.","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular investment communities online? I'm looking for something active.","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular investment apps for advanced users? I'm looking for something powerful.","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular investment podcasts on investing in real estate? I'm looking for something informative.","label":"LLM_CHAT"}
+{"text":"What’s the point of compound interest?","label":"LLM_CHAT"}
+{"text":"What’s the difference between a Roth IRA and a traditional IRA?","label":"LLM_CHAT"}
+{"text":"I’m worried about inflation, how can I protect my savings?","label":"LLM_CHAT"}
+{"text":"Is it better to save or invest during a recession?","label":"LLM_CHAT"}
+{"text":"Can you tell me about different types of savings accounts?","label":"LLM_CHAT"}
+{"text":"I don’t really understand credit scores. Can you explain?","label":"LLM_CHAT"}
+{"text":"What’s the best way to budget for a big purchase?","label":"LLM_CHAT"}
+{"text":"Can you recommend some low-risk investment options?","label":"LLM_CHAT"}
+{"text":"I have student loans, how can I pay them off faster?","label":"LLM_CHAT"}
+{"text":"What’s the deal with ETFs? Are they a good investment?","label":"LLM_CHAT"}
+{"text":"Can you tell me about different types of insurance?","label":"LLM_CHAT"}
+{"text":"I’m not sure what my net worth is. Can you help me calculate it?","label":"LLM_CHAT"}
+{"text":"What’s the difference between a market index fund and a actively managed fund?","label":"LLM_CHAT"}
+{"text":"Can you explain how dividends work?","label":"LLM_CHAT"}
+{"text":"What’s the best way to avoid taxes on my investment gains?","label":"LLM_CHAT"}
+{"text":"Can you tell me about different types of retirement accounts?","label":"LLM_CHAT"}
+{"text":"I’m worried about market volatility, how can I protect myself?","label":"LLM_CHAT"}
+{"text":"What’s the deal with robo-advisors? Are they a good investment option?","label":"LLM_CHAT"}
+{"text":"Can you recommend some budgeting apps?","label":"LLM_CHAT"}
+{"text":"What’s the difference between a money market fund and a savings account?","label":"LLM_CHAT"}
+{"text":"Is it better to invest in a high-growth company or a stable one?","label":"LLM_CHAT"}
+{"text":"I don't really understand compound interest. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bull market and a bear market?","label":"LLM_CHAT"}
+{"text":"I'm curious about cryptocurrency. Is it a good investment opportunity?","label":"LLM_CHAT"}
+{"text":"Can you tell me a joke about money?","label":"LLM_CHAT"}
+{"text":"Hi, I'm feeling a bit overwhelmed by all the financial news lately. Can you summarize what's happening in the market?","label":"LLM_CHAT"}
+{"text":"Can you explain what a market correction is and how it affects me?","label":"LLM_CHAT"}
+{"text":"Is it true that investing in real estate is always a good idea? What are the pros and cons?","label":"LLM_CHAT"}
+{"text":"Is it true that the stock market is always going up? Sounds too good to be true.","label":"LLM_CHAT"}
+{"text":"I've heard people talk about compound interest, but I don't really understand how it works. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"Can you tell me about different types of investments and how they work? I'm feeling a bit overwhelmed.","label":"LLM_CHAT"}
+{"text":"I've heard people talk about dollar-cost averaging, but what does it actually mean for my investments?","label":"LLM_CHAT"}
+{"text":"Is it true that some investments are riskier than others? Can you explain the difference between high-risk and low-risk investments?","label":"LLM_CHAT"}
+{"text":"I've been hearing a lot about robo-advisors lately, are they really worth it?","label":"LLM_CHAT"}
+{"text":"I'm thinking of investing for the first time, what's the best way to get started?","label":"LLM_CHAT"}
