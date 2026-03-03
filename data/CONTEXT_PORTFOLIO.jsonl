@@ -4198,3 +4198,53 @@
 {"text":"Why is my portfolio value not updating in real-time?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can you explain why some of my assets have a ' Limited' label next to them?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I've added 2 new graphs/charts, can I delete one of them now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to see how much money is in my portfolio.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch from a UK portfolio to an American one?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount I need to start investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've just added £500, how much is my new balance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see a list of all the assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how much money I've made on my investments.","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my assets by market value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add 10% more assets to my portfolio.","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my wallet value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my investment going up and down so much?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit the asset allocation for a specific asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many graphs can I add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know what type of graphs I can use.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio and get a refund?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my assets by category?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know what are the minimum funds required for each type of portfolio.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between different types of portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's performance over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've just added a new asset, how does it affect my portfolio balance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an entire category of assets from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the total value of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my investment not performing well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit the name and description of a specific asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new graph to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how much money is in each type of portfolio.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio and sell it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the asset limits for a specific portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've just changed my investment strategy, how does it affect my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for assets by type (e.g. stocks, bonds)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to a specific portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know what are the benefits of using different types of portfolios.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an entire category of assets from my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's profit/loss over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've just added a new asset, how does it affect the overall balance of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit the investment amount for a specific asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the graph limits for a specific portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know what are the different types of graphs that can be used.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio and get it back if I change my mind?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's performance by asset type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've just added a new investment, how does it affect the overall value of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for assets by ticker symbol?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know what are the fees associated with different types of portfolios.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an entire portfolio and get a refund?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's value over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to switch between portfolios, how do I do it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum amount required to create a portfolio in this tool?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many graphs/charts can I add to my portfolio before they start taking up too much space?","label":"CONTEXT_PORTFOLIO"}
