@@ -5898,3 +5898,303 @@
 {"text":"Can I set up multiple portfolios under one financial advisor?","label":"DOMAIN_QUERIES"}
 {"text":"How do I choose the right asset class for making money?","label":"DOMAIN_QUERIES"}
 {"text":"How can I track my profits from different assets?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work for an individual?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital in investing?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager's role?","label":"DOMAIN_QUERIES"}
+{"text":"How do I make money from my investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between asset types?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain diversification strategies?","label":"DOMAIN_QUERIES"}
+{"text":"How does one track their portfolio performance?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category exactly?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand ticker symbols?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot determine profit margins?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a financial advisor in managing capital?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create a diversified portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do I find my target asset class?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting capital allocation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand stock performance indicators?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle profit distribution?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in making investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to calculate investment returns?","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my investment risk tolerance?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for creating an asset allocation strategy?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand financial planning tools?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle capital gains tax?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a financial advisor in tax planning?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an emergency fund?","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my retirement savings goals?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up a long-term investment plan?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate investment products?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle fees and charges?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in fee management?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create a sustainable investment strategy?","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my investment horizon?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up a regular investment plan?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate asset allocation","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle market fluctuations?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a financial advisor in mitigating risk?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an income-generating portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my investment goals and objectives?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up a tax-advantaged retirement account?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate investment performance","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle customer support?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in risk management?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create a diversified investment portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my target return on investment?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up an automatic investment plan?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate investment strategies","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle portfolio rebalancing?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a financial advisor in providing education and resources?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an investment plan based on your financial goals","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my investment risk tolerance level?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up a systematic investment strategy?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate investment products and services","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle customer onboarding?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in ensuring compliance with regulations?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an investment plan based on your financial situation","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my investment time horizon?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up a dividend-focused portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate the fees associated with an investment product","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle investment order execution?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a financial advisor in providing personalized investment advice?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an income-generating portfolio with stocks","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my target asset allocation for a diversified portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up an investment plan based on your retirement goals","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate the tax implications of an investment strategy","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle customer support for investment products?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in ensuring alignment with client goals?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an investment plan based on your investment horizon and risk tolerance","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my target return on investment for a diversified portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up an automatic investment plan with a brokerage account","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate the fees associated with a financial advisor service","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle investment product recommendations?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in ensuring compliance with regulatory requirements?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an income-generating portfolio with bonds","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my target investment strategy based on my financial goals and risk tolerance?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up an investment plan based on your age and retirement goals","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate the tax implications of an investment strategy with a financial advisor","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle investment order execution and settlement?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in ensuring alignment with client risk tolerance?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an investment plan based on your investment horizon and return expectations","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my target asset allocation for a tax-advantaged retirement account?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up an investment plan based on your income and expenses","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate the fees associated with an investment product with a financial advisor","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle customer support for investment products and services?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in ensuring compliance with regulatory requirements and aligning with client goals?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an income-generating portfolio with real estate investments","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my target return on investment for a diversified portfolio with stocks and bonds?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up an automatic investment plan with a financial advisor","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate the tax implications of an investment strategy with real estate investments","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle investment order execution and settlement for real estate investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in ensuring alignment with client goals and risk tolerance when investing in real estate?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an investment plan based on your financial situation and investment horizon","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my target asset allocation for a diversified portfolio with real estate investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up an investment plan based on your age and retirement goals","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate the fees associated with a financial advisor service that specializes in real estate investments","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle customer support for real estate investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in ensuring compliance with regulatory requirements and aligning with client goals when investing in real estate?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create an investment plan based on your financial situation and return expectations","label":"DOMAIN_QUERIES"}
+{"text":"How do I determine my target return on investment for a diversified portfolio with real estate investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for setting up an automatic investment plan with a financial advisor that specializes in real estate investments","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to evaluate the tax implications of an investment strategy with real estate investments and a financial advisor","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform handle investment order execution and settlement for real estate investments with a financial advisor?","label":"DOMAIN_QUERIES"}
+{"text":"How can I make more money with my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share? Can you explain it in simple terms?","label":"DOMAIN_QUERIES"}
+{"text":"Is there a certain asset type that's best for beginners?","label":"DOMAIN_QUERIES"}
+{"text":"How does the profit system work on FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What's the difference between a stock category and a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand capital gains tax?","label":"DOMAIN_QUERIES"}
+{"text":"I'm trying to diversify my investments. Can you give me some tips?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor bot exactly? How does it work?","label":"DOMAIN_QUERIES"}
+{"text":"How do I choose the right asset for my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot's portfolio manager system work?","label":"DOMAIN_QUERIES"}
+{"text":"What does a high profit margin mean for a company?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my portfolio performance using an asset tracker?","label":"DOMAIN_QUERIES"}
+{"text":"How do financial advisors categorize stocks for risk assessment?","label":"DOMAIN_QUERIES"}
+{"text":"Can I make money by buying shares in a low-capital company?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock and a share in terms of ownership?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up a portfolio manager to optimize my investments?","label":"DOMAIN_QUERIES"}
+{"text":"How do financial advisors calculate capital gains from asset sales?","label":"DOMAIN_QUERIES"}
+{"text":"What is the best way to make money from a stock category with high risk?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor determine the best asset class for diversification?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in managing risk and returns?","label":"DOMAIN_QUERIES"}
+{"text":"Can I make money by investing in a low-profit company?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of asset allocation in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor determine the best stock category for investment?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between capital gains and dividend income from investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can I make money by investing in multiple stocks with different profit margins?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of risk management in investment portfolios?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor determine the best asset class for short-term gains?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of regularly reviewing and adjusting investment portfolios?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between long-term and short-term investment goals?","label":"DOMAIN_QUERIES"}
+{"text":"Can I make money by investing in a low-capital company with high profit potential?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of regular portfolio audits to ensure risk management?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor determine the best stock category for long-term investment?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between investment returns and capital gains?","label":"DOMAIN_QUERIES"}
+{"text":"Can I make money by investing in multiple asset classes to diversify my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in ensuring risk management?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor determine the best asset class for short-term gains?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of regularly reviewing and adjusting investment portfolios to ensure alignment with goals?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between dividend income and capital gains from investments?","label":"DOMAIN_QUERIES"}
+{"text":"What's the best way to make money in my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit is calculated on a stock?","label":"DOMAIN_QUERIES"}
+{"text":"How do I diversify my investments using the asset options available?","label":"DOMAIN_QUERIES"}
+{"text":"What's the difference between a share and a ticker?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to manage my capital allocation within the FA Bot platform?","label":"DOMAIN_QUERIES"}
+{"text":"How do I start building a portfolio with stocks in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What's the best stock category for beginners?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to sell shares on the platform?","label":"DOMAIN_QUERIES"}
+{"text":"How do I track my portfolio's performance over time?","label":"DOMAIN_QUERIES"}
+{"text":"What's the purpose of a financial advisor in managing investments?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me my capital balance?","label":"DOMAIN_QUERIES"}
+{"text":"What are the different stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"How do I diversify my investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share worth?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand financial advisor options?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform track my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the best way to make money with stocks?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain asset allocation strategies?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up a new portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock and a bond?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand investment returns?","label":"DOMAIN_QUERIES"}
+{"text":"How do I check my portfolio performance?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a financial advisor bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to buy stocks?","label":"DOMAIN_QUERIES"}
+{"text":"How do I create a diversified investment portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the value of a single share?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain tax implications of investing?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a long-term and short-term investment?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand risk management strategies?","label":"DOMAIN_QUERIES"}
+{"text":"How do I monitor my portfolio for changes?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a financial advisor in investing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of compound interest?","label":"DOMAIN_QUERIES"}
+{"text":"How do I understand investment fees and charges?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio rebalancing strategy?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to sell stocks?","label":"DOMAIN_QUERIES"}
+{"text":"How do I create a budget for investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the importance of asset allocation in investing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand investment goals and objectives?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic dividend payments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a brokerage account and a robo-advisor?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the role of credit in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How do I understand credit scores and their impact on lending?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio tracking service?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to use stop-loss orders?","label":"DOMAIN_QUERIES"}
+{"text":"How do I understand the difference between a deposit and a withdrawal?","label":"DOMAIN_QUERIES"}
+{"text":"What is a robo-advisor's algorithm for investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to set up tax-loss harvesting?","label":"DOMAIN_QUERIES"}
+{"text":"How do I understand the benefits of dollar-cost averaging?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's fiduciary duty?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand inflation expectations in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic income reinvestment?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a financial advisor in retirement planning?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to use options strategies for income generation?","label":"DOMAIN_QUERIES"}
+{"text":"How do I understand the difference between a forward contract and a futures contract?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio diversification strategy?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic rebalancing?","label":"DOMAIN_QUERIES"}
+{"text":"What is a robo-advisor's investment thesis?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of risk management in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic dividend reinvestment?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio performance metric?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of a tax-efficient investment strategy?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic income transfer?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's conflict of interest?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of asset allocation in risk management?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic tax-loss selling?","label":"DOMAIN_QUERIES"}
+{"text":"What is a robo-advisor's investment strategy?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of dollar-cost averaging in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic stop-loss orders?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's expected return?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of inflation in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic income reinvestment?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's duty of care?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of tax-loss harvesting in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic dividend reinvestment?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of asset allocation in investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic income transfer?","label":"DOMAIN_QUERIES"}
+{"text":"What is a robo-advisor's algorithm for portfolio rebalancing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of diversification in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic tax-loss selling?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's fiduciary duty to clients?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of risk management in investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic stop-loss orders?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's expected return on investment?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic dividend reinvestment?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's duty to disclose conflicts of interest?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of asset allocation in investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What is a robo-advisor's algorithm for portfolio management?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of tax-efficient investment strategies?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic stop-loss orders?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's fiduciary duty to clients regarding investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of diversification in risk management?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's expected return over time?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of using stop-loss orders in investing?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's duty to act in the best interest of clients?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of asset allocation in investment goals?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set up automatic dividend reinvestment?","label":"DOMAIN_QUERIES"}
+{"text":"What is a robo-advisor's algorithm for portfolio rebalancing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of using dollar-cost averaging in investing?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's fiduciary duty to clients regarding investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of risk management in portfolio performance?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's expected return over time and inflation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of tax-efficient investment strategies?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's duty to disclose conflicts of interest regarding investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of diversification in investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's risk profile and expected return?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of using stop-loss orders in investing?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's fiduciary duty to clients regarding investment decisions and assets?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of asset allocation in risk management?","label":"DOMAIN_QUERIES"}
+{"text":"What is a robo-advisor's algorithm for portfolio rebalancing and tax efficiency?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of using dollar-cost averaging in investing?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's expected return over time and inflation and asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of diversification in investment goals?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's duty to disclose conflicts of interest regarding assets?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of tax-efficient investment strategies?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's fiduciary duty to clients regarding investments and assets?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of risk management in investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's expected return over time and inflation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of using stop-loss orders in investing?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's duty to act in the best interest of clients regarding investments and assets?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of asset allocation in risk management?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's expected return over time and inflation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of using dollar-cost averaging in investing?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's fiduciary duty to clients regarding investment decisions and asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of diversification in investment goals?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's expected return over time and inflation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of tax-efficient investment strategies?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's duty to disclose conflicts of interest regarding investments and asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of risk management in investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's expected return over time and inflation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of using stop-loss orders in investing?","label":"DOMAIN_QUERIES"}
+{"text":"What is a financial advisor's fiduciary duty to clients regarding investment decisions and asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand the role of diversification in investment goals?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio's expected return over time and inflation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the benefits of tax-efficient investment strategies?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do I make money with assets?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain capital in simple terms?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work for investors?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share of stock?","label":"DOMAIN_QUERIES"}
+{"text":"I'm not sure what a ticker is. Can you explain?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot calculate profit?","label":"DOMAIN_QUERIES"}
+{"text":"What categories of stocks should I diversify into?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me an example of a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do I set capital for my investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the best way to invest in assets for beginners?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of making money from stocks?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot help with investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category exactly?","label":"DOMAIN_QUERIES"}
+{"text":"Can you provide an example of a profitable portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do I choose the right assets for my investment goals?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of capital gains?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work for individual investors?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share in stock terminology?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit distribution work for investors?","label":"DOMAIN_QUERIES"}
+{"text":"How can I track my share performance?","label":"DOMAIN_QUERIES"}
+{"text":"Can I invest with less than $100 to start making money?","label":"DOMAIN_QUERIES"}
+{"text":"What's the difference between a stock and an asset in terms of returns on investment?","label":"DOMAIN_QUERIES"}
