@@ -4348,3 +4348,53 @@
 {"text":"Why is my wallet value not updating correctly? Is there something wrong with it?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How many graphs/charts can I have in a single portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I'm new to this portfolio manager, how do I use it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I start using the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money needed to create a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete assets from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my wallet value gone down recently?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the best way to organise my assets for optimal performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I change the asset allocation for an existing asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add graphs/charts to my portfolio to track performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs/charts can I use in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between different portfolios on the same account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the limit for the number of assets I can add to a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios with different asset allocations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum percentage of assets required for a portfolio to be active?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an existing asset within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic rebalancing for my portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the limit for the amount of money that can be invested in a single asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's performance over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add multiple assets to a single investment?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the best way to diversify my portfolios for maximum risk reduction?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I export my portfolio data for further analysis?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use multiple wallets to track different investment goals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the limit for the number of wallets I can create?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up regular portfolio updates and rebalancing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use budgeting features to manage my investment expenses?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of time required for a portfolio to be considered active?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's cash balance and available funds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up alerts for when my portfolios reach specific performance thresholds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the limit for the number of alerts I can receive at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I export my portfolio's historical data?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use external accounting tools to integrate with my portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of information required for a company to be included in my search results?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's performance metrics and key statistics?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use machine learning algorithms to predict portfolio performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the limit for the amount of data that can be downloaded from my portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up a customised watchlist of companies within my portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use social media analytics to track portfolio performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of time required for a portfolio to be considered optimally diversified?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's tax implications and potential losses?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use real-time market data to inform my portfolio decisions?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the limit for the number of watchlists I can create?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up automatic portfolio rebalancing based on market changes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use blockchain technology to track my portfolio's ownership and transactions?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of information required for an asset to be included in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's risk profile and potential losses?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use machine learning algorithms to identify trends within my portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the limit for the amount of data that can be stored on my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up a customised portfolio report based on my specific needs?","label":"CONTEXT_PORTFOLIO"}
