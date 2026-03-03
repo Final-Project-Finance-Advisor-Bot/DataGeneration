@@ -5578,3 +5578,303 @@
 {"text":"What's the role of the learning centre in achieving long-term financial stability?","label":"EDU_LEARNING"}
 {"text":"What is the learning pathway and how does it help me learn?","label":"EDU_LEARNING"}
 {"text":"Can you explain what the learning centre does and why I need it?","label":"EDU_LEARNING"}
+{"text":"What is this learning pathway thing?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use it?","label":"EDU_LEARNING"}
+{"text":"How does it help me learn?","label":"EDU_LEARNING"}
+{"text":"Is it like a course or something?","label":"EDU_LEARNING"}
+{"text":"Can you explain what the learning centre is?","label":"EDU_LEARNING"}
+{"text":"Does it have to be completed?","label":"EDU_LEARNING"}
+{"text":"How does it fit into the app?","label":"EDU_LEARNING"}
+{"text":"Can I skip it if I want?","label":"EDU_LEARNING"}
+{"text":"Does it make me smarter?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway always required?","label":"EDU_LEARNING"}
+{"text":"Can I customize my learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does it keep track of my progress?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any limitations?","label":"EDU_LEARNING"}
+{"text":"What if I get stuck?","label":"EDU_LEARNING"}
+{"text":"Is there a way to make it easier?","label":"EDU_LEARNING"}
+{"text":"Can I see how much time I spent on the pathway?","label":"EDU_LEARNING"}
+{"text":"Does the learning system work for everyone?","label":"EDU_LEARNING"}
+{"text":"Is there a way to go back and try again?","label":"EDU_LEARNING"}
+{"text":"Can I share my progress with others?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any real-world applications?","label":"EDU_LEARNING"}
+{"text":"How does it help me make better decisions?","label":"EDU_LEARNING"}
+{"text":"Is there a way to accelerate my learning?","label":"EDU_LEARNING"}
+{"text":"What if I forget how to use it?","label":"EDU_LEARNING"}
+{"text":"Does the learning system have any built-in games or challenges?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get more in-depth information?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any partnerships or collaborations?","label":"EDU_LEARNING"}
+{"text":"How does it make me a better person?","label":"EDU_LEARNING"}
+{"text":"Is there a way to give feedback on the pathway?","label":"EDU_LEARNING"}
+{"text":"Can I see my overall learning progress?","label":"EDU_LEARNING"}
+{"text":"Does the learning system have any user reviews or ratings?","label":"EDU_LEARNING"}
+{"text":"What if I get bored with it?","label":"EDU_LEARNING"}
+{"text":"Is there a way to make the learning more engaging?","label":"EDU_LEARNING"}
+{"text":"What if I forget what I learned?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any specific goals or objectives?","label":"EDU_LEARNING"}
+{"text":"How does it help me identify areas for improvement?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get personalized recommendations?","label":"EDU_LEARNING"}
+{"text":"Can I see how long it took me to complete the pathway?","label":"EDU_LEARNING"}
+{"text":"Does the learning system have any educational metrics or analytics?","label":"EDU_LEARNING"}
+{"text":"Is there a way to go back and try again on a different topic?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning progress with others?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any resources for students?","label":"EDU_LEARNING"}
+{"text":"How does it make me more confident in my abilities?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the learning pace?","label":"EDU_LEARNING"}
+{"text":"Can I see how many credits or points I have earned?","label":"EDU_LEARNING"}
+{"text":"Does the learning system have any real-world applications for employers?","label":"EDU_LEARNING"}
+{"text":"What if I forget what I learned in a previous lesson?","label":"EDU_LEARNING"}
+{"text":"Is there a way to make it more interactive?","label":"EDU_LEARNING"}
+{"text":"Is there a way to report any issues with the learning system?","label":"EDU_LEARNING"}
+{"text":"Can I see how much time I spent on each lesson?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any specific career paths or job targets?","label":"EDU_LEARNING"}
+{"text":"How does it help me make informed decisions?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get more information on how to use the pathway?","label":"EDU_LEARNING"}
+{"text":"What if I forget what I learned in a previous lesson?","label":"EDU_LEARNING"}
+{"text":"Is there a way to make it more challenging?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning progress with others on social media?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any resources for teachers or instructors?","label":"EDU_LEARNING"}
+{"text":"How does it help me set goals and targets?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get more information on how to use the pathway?","label":"EDU_LEARNING"}
+{"text":"Can I see my overall progress in the learning system?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any specific educational objectives or outcomes?","label":"EDU_LEARNING"}
+{"text":"What if I forget what I learned in a previous lesson?","label":"EDU_LEARNING"}
+{"text":"Is there a way to report any technical issues with the learning system?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get more information on how to customize the pathway?","label":"EDU_LEARNING"}
+{"text":"Can I see my learning progress in real-time?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any partnerships with other educational institutions?","label":"EDU_LEARNING"}
+{"text":"How does it help me stay motivated and engaged?","label":"EDU_LEARNING"}
+{"text":"Is there a way to make it more engaging for students?","label":"EDU_LEARNING"}
+{"text":"What if I forget what I learned in a previous lesson?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get more information on how to report technical issues?","label":"EDU_LEARNING"}
+{"text":"Can I see my learning progress in relation to specific goals or targets?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any resources for students with disabilities?","label":"EDU_LEARNING"}
+{"text":"How does it help me track my progress over time?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the learning pace for specific topics or lessons?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get more information on how to report technical issues with the system?","label":"EDU_LEARNING"}
+{"text":"Can I see my overall progress in the learning system and compare it to other users?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any resources for students who are not using the app regularly?","label":"EDU_LEARNING"}
+{"text":"How does it help me make more informed decisions about my education?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the learning pace for specific topics or lessons and track progress?","label":"EDU_LEARNING"}
+{"text":"What if I forget what I learned in a previous lesson?","label":"EDU_LEARNING"}
+{"text":"Is there a way to report any technical issues with the learning system and get help?","label":"EDU_LEARNING"}
+{"text":"Can I see my learning progress in relation to specific goals or targets and track progress?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any partnerships with other educational institutions and organizations?","label":"EDU_LEARNING"}
+{"text":"How does it help me stay motivated and engaged in my education?","label":"EDU_LEARNING"}
+{"text":"Is there a way to make it more interactive for students?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get more information on how to report technical issues with the system and get help?","label":"EDU_LEARNING"}
+{"text":"Can I see my overall progress in the learning system and compare it to other users and track progress?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any resources for students who are not using the app regularly and need extra support?","label":"EDU_LEARNING"}
+{"text":"How does it help me make more informed decisions about my education and career?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the learning pace for specific topics or lessons and track progress and get feedback?","label":"EDU_LEARNING"}
+{"text":"What if I forget what I learned in a previous lesson?","label":"EDU_LEARNING"}
+{"text":"Is there a way to report any technical issues with the learning system and get help from experts?","label":"EDU_LEARNING"}
+{"text":"Can I see my learning progress in relation to specific goals or targets and track progress and compare it to other users?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre have any partnerships with other educational institutions and organizations and resources for students?","label":"EDU_LEARNING"}
+{"text":"How does it help me stay motivated and engaged in my education and make more informed decisions?","label":"EDU_LEARNING"}
+{"text":"Is there a way to make it more interactive for students and get personalized feedback?","label":"EDU_LEARNING"}
+{"text":"What is the learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre help me learn?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning system works?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre fit into the app?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway optional?","label":"EDU_LEARNING"}
+{"text":"Can I skip the learning section?","label":"EDU_LEARNING"}
+{"text":"What is the benefit of using the learning tool?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre guide me?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway free?","label":"EDU_LEARNING"}
+{"text":"What if I need help with the learning tool?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre adapt to my needs?","label":"EDU_LEARNING"}
+{"text":"How does the learning system track my progress?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning achievements?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway accessible on all devices?","label":"EDU_LEARNING"}
+{"text":"What if I have questions about the learning tool?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre provide feedback?","label":"EDU_LEARNING"}
+{"text":"How does the learning system evaluate my knowledge?","label":"EDU_LEARNING"}
+{"text":"Can I learn at my own pace?","label":"EDU_LEARNING"}
+{"text":"What if I get stuck with the learning tool?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre offer support?","label":"EDU_LEARNING"}
+{"text":"Can I customize my learning experience?","label":"EDU_LEARNING"}
+{"text":"How does the learning system prevent cheating?","label":"EDU_LEARNING"}
+{"text":"What if I have a learning issue?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre provide extra resources?","label":"EDU_LEARNING"}
+{"text":"Can I connect with other learners?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway secure?","label":"EDU_LEARNING"}
+{"text":"What if I forget my login credentials?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre offer real-time feedback?","label":"EDU_LEARNING"}
+{"text":"Can I learn with other people?","label":"EDU_LEARNING"}
+{"text":"How does the learning system reward my progress?","label":"EDU_LEARNING"}
+{"text":"What is the role of the learning pathway in the app?","label":"EDU_LEARNING"}
+{"text":"Is the learning tool accessible on all platforms?","label":"EDU_LEARNING"}
+{"text":"How does the learning system measure my success?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre provide a progress report?","label":"EDU_LEARNING"}
+{"text":"Can I review my past learning activities?","label":"EDU_LEARNING"}
+{"text":"What if I need help with technical issues?","label":"EDU_LEARNING"}
+{"text":"Is the learning tool free to download?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre offer a tutorial?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts in the field?","label":"EDU_LEARNING"}
+{"text":"How does the learning system track my improvement?","label":"EDU_LEARNING"}
+{"text":"What is the goal of the learning centre?","label":"EDU_LEARNING"}
+{"text":"Can I set my own goals for the learning tool?","label":"EDU_LEARNING"}
+{"text":"Does the learning system offer a feedback loop?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway gamified?","label":"EDU_LEARNING"}
+{"text":"Can I connect with teachers or mentors?","label":"EDU_LEARNING"}
+{"text":"What if I need help with motivation?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre provide a learning journal?","label":"EDU_LEARNING"}
+{"text":"Can I learn at my own speed?","label":"EDU_LEARNING"}
+{"text":"Is the learning tool accessible on all devices?","label":"EDU_LEARNING"}
+{"text":"What if I have questions about my progress?","label":"EDU_LEARNING"}
+{"text":"Does the learning system offer a certification program?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway aligned with industry standards?","label":"EDU_LEARNING"}
+{"text":"Does the learning system provide real-time analytics?","label":"EDU_LEARNING"}
+{"text":"What if I need help with time management?","label":"EDU_LEARNING"}
+{"text":"Can I learn from past mistakes?","label":"EDU_LEARNING"}
+{"text":"Is the learning tool secure and reliable?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre offer a support team?","label":"EDU_LEARNING"}
+{"text":"Can I set reminders for my learning schedule?","label":"EDU_LEARNING"}
+{"text":"What if I need help with organization?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre offer a virtual classroom experience?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts in the field?","label":"EDU_LEARNING"}
+{"text":"Is the learning tool accessible on all platforms?","label":"EDU_LEARNING"}
+{"text":"What if I need help with focus and concentration?","label":"EDU_LEARNING"}
+{"text":"Can I set goals for myself?","label":"EDU_LEARNING"}
+{"text":"Does the learning system provide a progress tracker?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway tailored to my needs?","label":"EDU_LEARNING"}
+{"text":"Can I learn at my own pace?","label":"EDU_LEARNING"}
+{"text":"What if I need help with motivation?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre offer a community feature?","label":"EDU_LEARNING"}
+{"text":"Is the learning tool free to download?","label":"EDU_LEARNING"}
+{"text":"Does the learning system provide a feedback loop?","label":"EDU_LEARNING"}
+{"text":"What if I need help with technical issues?","label":"EDU_LEARNING"}
+{"text":"Can I learn from past mistakes?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway gamified?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre offer a tutorial?","label":"EDU_LEARNING"}
+{"text":"Can I set reminders for my learning schedule?","label":"EDU_LEARNING"}
+{"text":"What if I need help with organization?","label":"EDU_LEARNING"}
+{"text":"Is the learning tool secure and reliable?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre provide real-time feedback?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts in the field?","label":"EDU_LEARNING"}
+{"text":"What if I need help with focus and concentration?","label":"EDU_LEARNING"}
+{"text":"Can I set goals for myself?","label":"EDU_LEARNING"}
+{"text":"Does the learning system track my progress?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway tailored to my needs?","label":"EDU_LEARNING"}
+{"text":"Can I learn at my own pace?","label":"EDU_LEARNING"}
+{"text":"What if I need help with motivation?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre offer a support team?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway aligned with industry standards?","label":"EDU_LEARNING"}
+{"text":"Does the learning system provide real-time analytics?","label":"EDU_LEARNING"}
+{"text":"What if I need help with time management?","label":"EDU_LEARNING"}
+{"text":"Can I learn from past mistakes?","label":"EDU_LEARNING"}
+{"text":"Is the learning tool secure and reliable?","label":"EDU_LEARNING"}
+{"text":"Does the learning centre offer a community feature?","label":"EDU_LEARNING"}
+{"text":"What is the learning pathway for?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre help me learn?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning system works?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway a requirement for all users?","label":"EDU_LEARNING"}
+{"text":"Can I customize my learning experience in the centre?","label":"EDU_LEARNING"}
+{"text":"How does the learning system keep track of progress?","label":"EDU_LEARNING"}
+{"text":"What are the benefits of using the learning pathway?","label":"EDU_LEARNING"}
+{"text":"Can I skip the learning centre and go straight to lessons?","label":"EDU_LEARNING"}
+{"text":"How does the learning system adapt to my needs?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre available on all devices?","label":"EDU_LEARNING"}
+{"text":"What happens if I make a mistake in the learning centre?","label":"EDU_LEARNING"}
+{"text":"Can I get help if I'm stuck in the learning pathway?","label":"EDU_LEARNING"}
+{"text":"How long does it take to complete the learning pathway?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a one-time setup or ongoing process?","label":"EDU_LEARNING"}
+{"text":"Can I set my own pace in the learning centre?","label":"EDU_LEARNING"}
+{"text":"What kind of feedback can I expect from the learning system?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway a requirement for advanced users?","label":"EDU_LEARNING"}
+{"text":"Can I compare my progress to others in the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the learning system prevent cheating?","label":"EDU_LEARNING"}
+{"text":"What are the goals of the learning pathway?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a substitute for real-world experience?","label":"EDU_LEARNING"}
+{"text":"How does the learning system ensure consistency across devices?","label":"EDU_LEARNING"}
+{"text":"What kind of support does the learning pathway offer?","label":"EDU_LEARNING"}
+{"text":"Can I track my progress over time in the learning centre?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a personal assistant for learning?","label":"EDU_LEARNING"}
+{"text":"How does the learning system stay up-to-date with new content?","label":"EDU_LEARNING"}
+{"text":"What are the long-term benefits of using the learning pathway?","label":"EDU_LEARNING"}
+{"text":"Is the learning system designed for different age groups?","label":"EDU_LEARNING"}
+{"text":"Can I ask questions or get help from a tutor in the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the learning system measure success?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway a required part of my daily routine?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn new skills outside of work?","label":"EDU_LEARNING"}
+{"text":"What kind of feedback can I expect from peers in the learning centre?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a personal goal-setting tool?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me stay motivated?","label":"EDU_LEARNING"}
+{"text":"Can I share my progress with others in the learning centre?","label":"EDU_LEARNING"}
+{"text":"What are the consequences of not using the learning pathway?","label":"EDU_LEARNING"}
+{"text":"Is the learning system designed to be fun and engaging?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn a new language?","label":"EDU_LEARNING"}
+{"text":"How does the learning system accommodate different learning styles?","label":"EDU_LEARNING"}
+{"text":"What kind of guidance can I expect from the learning pathway?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a self-paced learning environment?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about career development?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me stay organized?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre a required part of my job requirements?","label":"EDU_LEARNING"}
+{"text":"What kind of support does the learning pathway offer for beginners?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a valuable resource for lifelong learning?","label":"EDU_LEARNING"}
+{"text":"Can I compare my progress to others in terms of time taken?","label":"EDU_LEARNING"}
+{"text":"What kind of guidance can I expect from the learning centre?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a personal growth tool?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about soft skills?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me stay accountable?","label":"EDU_LEARNING"}
+{"text":"What kind of feedback can I expect from peers in terms of quality?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway a required part of my daily routine for work?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about workplace skills?","label":"EDU_LEARNING"}
+{"text":"What kind of guidance can I expect from the learning system in terms of pacing?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre a valuable resource for career development?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning pathway to learn about industry trends?","label":"EDU_LEARNING"}
+{"text":"What kind of support does the learning pathway offer for advanced users?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a self-paced and personalized learning environment?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about leadership skills?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me stay motivated and engaged?","label":"EDU_LEARNING"}
+{"text":"What kind of guidance can I expect from the learning pathway in terms of setting goals?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre a required part of my job requirements for promotion?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about time management skills?","label":"EDU_LEARNING"}
+{"text":"What kind of feedback can I expect from peers in terms of progress?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a valuable resource for personal growth and development?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning pathway to learn about communication skills?","label":"EDU_LEARNING"}
+{"text":"How does the learning system accommodate different learning styles and preferences?","label":"EDU_LEARNING"}
+{"text":"What kind of guidance can I expect from the learning centre in terms of using resources?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre a required part of my daily routine for personal growth?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning pathway to learn about problem-solving skills?","label":"EDU_LEARNING"}
+{"text":"What kind of support does the learning pathway offer for users who are struggling?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a valuable resource for building confidence and self-esteem?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about teamwork skills?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me stay accountable and on track?","label":"EDU_LEARNING"}
+{"text":"What kind of guidance can I expect from the learning pathway in terms of using technology?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre a required part of my job requirements for professional development?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning pathway to learn about customer service skills?","label":"EDU_LEARNING"}
+{"text":"What kind of feedback can I expect from peers in terms of quality and accuracy?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a valuable resource for building resilience and perseverance?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about digital literacy skills?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me stay motivated and engaged in the long term?","label":"EDU_LEARNING"}
+{"text":"What kind of guidance can I expect from the learning pathway in terms of setting goals and objectives?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre a required part of my daily routine for self-improvement?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning pathway to learn about sales skills?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a valuable resource for building leadership skills?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about marketing skills?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me stay accountable and on track in my career development?","label":"EDU_LEARNING"}
+{"text":"What kind of feedback can I expect from peers in terms of progress and quality?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre a required part of my job requirements for professional certification?","label":"EDU_LEARNING"}
+{"text":"What kind of guidance can I expect from the learning system in terms of using resources and tools?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre a valuable resource for building confidence and self-esteem?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning pathway to learn about human resources skills?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me stay motivated and engaged in my career development?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a valuable resource for building innovation and creativity?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about project management skills?","label":"EDU_LEARNING"}
+{"text":"What kind of feedback can I expect from peers in terms of quality and accuracy?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway a required part of my daily routine for personal growth?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about entrepreneurship skills?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me stay accountable and on track in my career goals?","label":"EDU_LEARNING"}
+{"text":"What kind of guidance can I expect from the learning pathway in terms of using technology and tools?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre a required part of my job requirements for employee development?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning pathway to learn about international business skills?","label":"EDU_LEARNING"}
+{"text":"What kind of support does the learning pathway offer for users who are looking to advance their careers?","label":"EDU_LEARNING"}
+{"text":"Is the learning system a valuable resource for building emotional intelligence?","label":"EDU_LEARNING"}
+{"text":"Can I use the learning centre to learn about supply chain management skills?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me stay motivated and engaged in my career development journey?","label":"EDU_LEARNING"}
+{"text":"What kind of guidance can I expect from the learning pathway in terms of using resources and tools?","label":"EDU_LEARNING"}
