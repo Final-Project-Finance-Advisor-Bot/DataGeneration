@@ -48,3 +48,53 @@
 {"text":"What's the difference between these different types of tools in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the system ensures users are staying motivated and engaged throughout their learning journey?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know if I've met the requirements for a new capability unlock based on my progress and past performance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a bite is in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from one bite to another?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any rewards for completing each bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the learning pathway works?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of the mastery quiz in a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Will I get feedback on my mistakes during the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites are there in total, and how do I access them?","label":"CONTEXT_LEARNING"}
+{"text":"What kind of rewards can I unlock after completing all bites in a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give me an example of what it means to 'unlock' a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Will the learning pathway change based on my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access tools and features that unlock as I complete courses?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system tracks my progress through the courses?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'complete' mean in this context, exactly?","label":"CONTEXT_LEARNING"}
+{"text":"How often will I get reminders to continue learning and progressing?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any ways for me to review material before moving on to the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the rewards system works within each course?","label":"CONTEXT_LEARNING"}
+{"text":"What if I'm not ready to move forward with a new bite, can I come back later?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing one bite affect my ability to unlock others in different courses?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning centre adapts based on my performance and progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've unlocked a new capability, or what it does exactly?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any limitations to how many capabilities can be unlocked in total?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the relationship between learning bites and portfolio growth?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance affect what capabilities I can unlock?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of the 'Capability Unlock' reminder, exactly?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system ensures I'm not progressing too quickly or slowly?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access and review my past progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Will the learning pathway change based on which courses I complete first?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the tool unlocks work, exactly?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any tools or features that unlock as a result of completing specific bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've completed all required bites for a course, and what happens next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system adapts to my learning style, exactly?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing courses unlock more bites in future learning pathways?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track which capabilities I've unlocked and what they look like?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system prevents users from progressing too quickly or unevenly?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any other limitations to wallet growth beyond those outlined in the documentation?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach a certain milestone, like completing 10 bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system ensures users have enough funds for portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Will unlocking certain capabilities affect my ability to access tools and features in other courses?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which courses are unlocked based on my progress, exactly?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system tracks wallet growth and its implications for unlocking capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any tools or features that become available as a result of completing specific learning bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my portfolio capacity expansion progression within the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Will unlocking certain capabilities unlock new wallet balances or allocation caps?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system adapts to user feedback and suggestions, exactly?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any limitations to the number of portfolios I can unlock?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach a certain milestone, like unlocking 3 capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system ensures users have enough funds for asset allocation expansion?","label":"CONTEXT_LEARNING"}
