@@ -5548,3 +5548,53 @@
 {"text":"Can you explain how to use FA Bot's portfolio builder to visualize my investments?","label":"CONTEXT_LEARNING"}
 {"text":"What is the benefit of using FA Bot's simulated environment to learn about investing?","label":"CONTEXT_LEARNING"}
 {"text":"Why can't I unlock certain features until I complete courses?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean in the FA Bot system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what's wrong with my account - why can't I access the Fundamentals course yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what simulated “fake” money means in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the quizzes - how do I know what to choose?","label":"CONTEXT_LEARNING"}
+{"text":"How does my portfolio value change over time in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a knowledge check at the end of each bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why only shares are available for investment in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know what tools are available after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio capacity increase as I complete bites?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure how to calculate returns in FA Bot - can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of diversification in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the wallet balance change after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a limit to the number of portfolios I can create?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what's meant by 'capability unlocks' in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system determine when I'm ready for the next course?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to use the Portfolio Builder - can you help?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk appetite and portfolio capacity in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle loss aversion in investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to interpret performance data in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a delay between completing a bite and unlocking rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system prevent overconfidence bias in investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what's meant by 'spaced repetition' in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure how to compare portfolios in FA Bot - can you show me an example?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the Chat panel in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle user frustration or confusion during learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the graph tools in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a limit to the number of assets I can hold in each portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system prevent premature portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what's meant by 'cognitive scaffolding' in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to unlock rewards for completing courses","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between portfolio capacity and wallet balance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle user feedback or suggestions during learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to review completed bites and quizzes in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a need for a mastery quiz after completing each bite?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system prevent early overwhelm during learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what's meant by 'behavioural progression' in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure how to compare performance across different portfolios","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the Tool Holder's full-screen mode?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle user burnout or disengagement during learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to unlock new tools and capabilities as I progress through courses","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a need for a structured progression model in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system prevent excessive use of advanced features or tools?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what's meant by 'metacognition' in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to integrate learning with real-life experience","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the graph visualization tools in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle user requests for additional features or functionality?","label":"CONTEXT_LEARNING"}
