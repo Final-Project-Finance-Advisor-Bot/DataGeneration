@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/storage": "^7.19.0",
+    "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-dist": "^5.32.0",
