@@ -5798,3 +5798,53 @@
 {"text":"Why is there a limit on the number of portfolios I can unlock?","label":"CONTEXT_LEARNING"}
 {"text":"How do I track my progress through the learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me about the concept of goal loops in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how simulated ('fake') capital works. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone please tell me what shares are and why they're the only thing available in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio value change over time? Is this normal?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about risk appetite - can you explain it in a way that makes sense to me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility in FA Bot? How do they relate to each other?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how diversification is supposed to remove risk in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding why I need to pass the fundamentals quiz. Can someone explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What's going on with returns in FA Bot? How are they calculated?","label":"CONTEXT_LEARNING"}
+{"text":"How does my portfolio value change when I buy or sell shares in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of compound interest in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I view my full portfolio balance in FA Bot? Is there something I'm missing?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to use the risk assessment tool in FA Bot. Can someone help me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a stock and a share in FA Bot? Can you explain it simply?","label":"CONTEXT_LEARNING"}
+{"text":"How does my portfolio value change when I hold multiple shares in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to interpret my returns data in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about why my portfolio is locked - can someone explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with simulated money in FA Bot? Why can't I use real money?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the investment tracker in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to compare my portfolio to others in FA Bot. Can someone help me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a diversified portfolio and a concentrated one in FA Bot? Can you explain it simply?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to use the risk assessment tool in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about why my returns are lower than expected in FA Bot. Can someone explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with portfolio growth in FA Bot? Why is it important?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the learning centre in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to progress through the learning pathway in FA Bot. Can someone help me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a stock and a share in FA Bot? Can you explain it simply?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to interpret my returns data in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about why I need to complete certain modules before unlocking new features in FA Bot. Can someone explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with rewards in FA Bot? How do they work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the portfolio builder in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to manage my risk exposure in FA Bot. Can someone help me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a diversified portfolio and a concentrated one in FA Bot? Can you explain it simply?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to use the investment tracker in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about why my portfolio value is fluctuating wildly in FA Bot. Can someone explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with simulated money in FA Bot? Why can't I use real money?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to compare my portfolio to others in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to progress through the learning pathway in FA Bot. Can someone help me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility in FA Bot? How do they relate to each other?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to interpret my returns data in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about why I need to pass the fundamentals quiz. Can someone explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What's going on with portfolio growth in FA Bot? Why is it important?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the learning centre in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to manage my risk exposure in FA Bot. Can someone help me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with rewards in FA Bot? How do they work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the portfolio builder in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about why my returns are lower than expected in FA Bot. Can someone explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What does capital actually mean in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can I only buy shares in FA Bot? Are there other assets available as well?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course? Is it locked because I don't have enough progress or is there something specific I'm missing?","label":"CONTEXT_LEARNING"}
