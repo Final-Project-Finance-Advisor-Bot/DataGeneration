@@ -19,17 +19,17 @@ Portfolio usage and navigation
 - Portfolio limits
 - Minimum funds required
 
-Assets
-- Adding assets
-- Deleting assets
-- Organising or sorting assets
-- Asset limits
-- Editing asset allocation
+asset / shares
+- Adding asset / shares
+- Deleting asset / shares
+- Organising or sorting asset / shares
+- asset / shares limits
+- Editing asset / shares allocation
 
 Wallet / Performance
 - Wallet value
 - Profit or money made
-- Asset increases or decreases
+- asset / shares increases or decreases
 
 Search
 - Searching for a company
@@ -63,10 +63,19 @@ Rules:
 - Some users may sound confused or exploratory.
 - Avoid repeating sentence structures.
 - Do NOT explain concepts academically.
-- Do NOT ask finance theory questions.
+- Do NOT generate questions about financial theory, investing strategies,diversification, risk, or market concepts.Focus strictly on using the portfolio tool.
 - Output exactly {{N}} examples.
 - Output one JSON object per line (JSONL format).
 - Output ONLY JSON objects.
+- Where you see <company>, replace with a realistic company name (e.g. Apple, Google, Amazon).
+- Some users may send confused or observational messages instead of clear questions. Include statements describing unexpected behaviour or uncertainty. See example below:
+
+```
+{"text":"My portfolio value dropped a lot today, what happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add another share but it won’t let me","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see the company but I don’t know how to add it","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet show more money than I can invest?","label":"CONTEXT_PORTFOLIO"}
+```
 
 ##########################################
 
@@ -74,13 +83,25 @@ Rules:
 
 Examples of intent style (do not copy directly):
 
-- How do I add a new asset?
+- How do I add a new asset / shares?
 - Can I switch between portfolios?
-- Why has my asset gone down?
+- Why has my asset / shares gone down?
 - How many graphs/charts can I add?
 - What’s the minimum money needed to create a portfolio?
-- How do I organise my assets?
+- How do I organise my asset / shares?
 - What type of graphs/charts can I have?
+- How do I sort my asset / shares?
+- Can I delete a graph/chart?
+- How do I delete an asset / shares?
+- Why can’t I add more asset / shares?
+- How do I create a new portfolio?
+- Can I have multiple portfolios?
+- How do I see my profit or money made?
+- How do I search for a company to add to my portfolio?
+- How many asset / shares do I have?
+- What is the value of my wallet?
+- Why has my wallet value changed?
+- How is the <company> asset performing?
 
 Questions should reflect real usage behaviour inside the Portfolio Manager.
 

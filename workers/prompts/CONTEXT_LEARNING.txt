@@ -358,6 +358,7 @@ Rules:
 - Do NOT include explanations, comments, markdown, or code blocks.
 - Do NOT include numbering or additional text.
 - Only output JSON objects.
+- You must NOT mention portfolios, assets, portfolio limits, allocation limits, or any functionality related to the portfolio management tool. Focus only on learning progression, courses, quizzes, rewards, and system progression.
 
 ############## OUTPUT FORMAT EXAMPLE ##############
 
@@ -377,7 +378,7 @@ Focus on questions covering topics such as:
 - How to progress through the learning pathway or learning centre
 - How learning bites, quizzes, or progression work
 - What rewards, tools, or capabilities can be unlocked
-- Portfolio or wallet progression linked to learning completion
+- Wallet progression linked to learning completion
 - Understanding system progression or requirements
 
 Example question themes include:
@@ -417,7 +418,6 @@ Focus on realistic learner uncertainty or curiosity about topics such as:
 - Simulated (“fake”) capital
 - How investing works step-by-step
 - Shares and company ownership
-- Portfolio value changes
 - Returns and performance interpretation
 - Risk appetite
 - Risk vs volatility
@@ -430,8 +430,6 @@ Example learning-style questions include:
 
 - What does capital actually mean here?
 - Why can I only buy shares?
-- How does my portfolio value change over time?
-- What happens if my portfolio loses value?
 - Why do I need to pass the fundamentals quiz?
 - What does volatility look like in practice?
 - Is diversification supposed to remove risk?
