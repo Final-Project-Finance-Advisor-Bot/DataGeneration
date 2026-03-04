@@ -4398,3 +4398,53 @@
 {"text":"Can you walk me through how to use the FA Bot learning centre effectively and efficiently?","label":"CONTEXT_LEARNING"}
 {"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
 {"text":"Why can't I access the Portfolio Manager until I finish Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean within FA Bot","label":"CONTEXT_LEARNING"}
+{"text":"My portfolio value seems to be changing rapidly - what's going on?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to calculate my returns and performance in FA Bot, but I'm not sure where to start","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of risk vs. volatility in FA Bot, and how they affect my investments?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of using a portfolio value drop threshold in FA Bot, and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of using a portfolio value drop threshold in FA Bot, and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of using a portfolio value drop threshold in FA Bot, and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of using a portfolio value drop threshold in FA Bot, and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I buy other types of investments besides shares?","label":"CONTEXT_LEARNING"}
+{"text":"How does my portfolio value change when I invest in shares?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see the full list of available shares?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility?","label":"CONTEXT_LEARNING"}
+{"text":"Can I set a risk appetite for my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"How does the knowledge check work in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to invest in real companies with FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the fundamentals quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why is FA Bot using fake money instead of real money?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which shares to buy?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my portfolio value in pounds?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of diversification in investing?","label":"CONTEXT_LEARNING"}
+{"text":"Will FA Bot teach me about other types of investments?","label":"CONTEXT_LEARNING"}
+{"text":"How does investing work step-by-step in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio to others?","label":"CONTEXT_LEARNING"}
+{"text":"What's the maximum amount of money I can invest with FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Will FA Bot recommend investments for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my investment performance?","label":"CONTEXT_LEARNING"}
+{"text":"Can I sell my shares at any time?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a portfolio and an investment?","label":"CONTEXT_LEARNING"}
+{"text":"Will FA Bot teach me about tax implications of investing?","label":"CONTEXT_LEARNING"}
+{"text":"How do I withdraw money from my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"Can I invest in shares with no minimum amount?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of a risk assessment in investing?","label":"CONTEXT_LEARNING"}
+{"text":"Will FA Bot provide investment advice?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my portfolio history?","label":"CONTEXT_LEARNING"}
+{"text":"Can I invest in international companies with FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a broker and an investor?","label":"CONTEXT_LEARNING"}
+{"text":"Will FA Bot allow me to set a budget for my investments?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if my investment is performing well?","label":"CONTEXT_LEARNING"}
+{"text":"Can I invest in companies with no minimum amount?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of an investment calendar?","label":"CONTEXT_LEARNING"}
+{"text":"Will FA Bot provide investment news and updates?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my portfolio diversification?","label":"CONTEXT_LEARNING"}
+{"text":"Can I invest in other types of investments besides shares?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a portfolio manager and an investor?","label":"CONTEXT_LEARNING"}
+{"text":"Will FA Bot allow me to set investment goals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if my investment is aligned with my risk appetite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I invest in companies with a minimum amount requirement?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of an investment tracker?","label":"CONTEXT_LEARNING"}
+{"text":"Will FA Bot provide investment education and resources?","label":"CONTEXT_LEARNING"}
