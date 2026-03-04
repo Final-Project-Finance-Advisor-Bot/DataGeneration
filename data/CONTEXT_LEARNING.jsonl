@@ -4648,3 +4648,53 @@
 {"text":"Can you explain how the system prevents users from over-investing or losing too much money in one go? What mechanisms are in place to limit risk?","label":"CONTEXT_LEARNING"}
 {"text":"I'm trying to understand the benefits of using FA Bot's AI mediator - what features does it provide and how can I use them?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the system tracks user progress and provides feedback on their learning journey? What insights can users gain from this data?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I complete a bite in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"I see that my wallet only has £100, but it says I should be able to start investing. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which modules are required for unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I get after completing the Learn the Application course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what simulated ('fake') money is and how it works in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting confused about the difference between risk and volatility. Can you help clarify?","label":"CONTEXT_LEARNING"}
+{"text":"How does my portfolio value change when I invest in a new share?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check or mastery quiz? Do I have to start over?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features, like the Portfolio Builder, yet? Is it because I'm not ready?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway and unlock new modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what diversification is and why it's important in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to pass a knowledge check or mastery quiz, and how often do I need to take them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure which tool to use when creating my portfolio. Can you recommend one?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take me to unlock new capabilities and features in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the ' Capability Unlock & Progression Engine' does, and how it affects my learning?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common mistakes people make when investing in FA Bot, and how can I avoid them?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress and see what I've completed so far in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what 'behavioural constraint layer' means, and how it affects my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I try to invest more money than I have available? Will I lose some of my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I'm ready to unlock a new feature or capability in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the ' wallet growth' system works, and how it affects my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure which bite to take next. Can you recommend one based on my current progress?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common questions people ask when they're just starting out with FA Bot, and how can I get help if I have them?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what 'per-portfolio allocation constraints' mean, and how they affect my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a module or bite, and what happens next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the 'graph & tool unlocks' system works, and how it affects my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common pitfalls to watch out for when investing in FA Bot, and how can I avoid them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure which course to take next. Can you recommend one based on my current progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the 'behavioural constraint layer' does, and how it affects my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I try to access a feature or capability that's not unlocked yet? What should I do instead?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the 'portfolio capacity expansion' system works, and how it affects my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting confused about the difference between risk and volatility again. Can you clarify again?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my wallet balance and see what's available to invest?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the 'asset limit expansion' system works, and how it affects my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I complete a course or module, but not enough bites or quizzes? Will I still get some kind of reward?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the 'completion states' mean, and how they affect my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure which tool to use for creating a portfolio when I have multiple options available. Can you recommend one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I'm on the right track with my investments in FA Bot, and what should I do if I'm not?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the 'cross-course interdependency model' means, and how it affects my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I try to invest more than my available capital? Will I lose some of my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure which feature or capability I need to unlock next. Can you recommend one based on my current progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the 'Psychology & Behaviour Integration' means, and how it affects my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a quiz or mastery check? Do I have to start over from scratch?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the 'role of the bot (AI mediator)' does, and how it affects my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure which bite to take next. Can you recommend one based on my current progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a course or module, and what happens next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the 'Learning Journey' means, and how it affects my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I try to access a feature or capability that's not unlocked yet? What should I do instead?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting confused about the difference between risk and volatility again. Can you clarify again?","label":"CONTEXT_LEARNING"}
