@@ -5398,3 +5398,53 @@
 {"text":"What's the difference between a mastery quiz and a knowledge check?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me more about how my portfolio value changes over time?","label":"CONTEXT_LEARNING"}
 {"text":"I'm not sure what to expect from the Fundamentals of Finance course. Can you help?","label":"CONTEXT_LEARNING"}
+{"text":"What does capital actually mean in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can I only buy shares? Is this normal?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about the knowledge check. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which shares to invest in?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if my portfolio loses value? Will I still get rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Why did my fundamentals quiz fail? What can I do differently?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how volatility works in practice?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what diversification means. Can you explain it?","label":"CONTEXT_LEARNING"}
+{"text":"What if I fail the knowledge check? Will I lose progress?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use fake money compared to real investing platforms?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why only shares are available in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the portfolio value changes. Can you help?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to pass a knowledge check? Is it difficult?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how returns get calculated in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the risk appetite is. Can you explain it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when to stop learning a module? Is there a deadline?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the Fundamentals of Finance course is locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about how the learning pathway works. Can you walk me through it?","label":"CONTEXT_LEARNING"}
+{"text":"What if I don't have enough fake money? Can I still access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I complete a bite? What rewards do I unlock?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bites to start with? Are there recommended paths?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of shares and company ownership. Can you help?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the portfolio capacity is limited? Is it normal to have a cap?","label":"CONTEXT_LEARNING"}
+{"text":"What if I want to invest in more than one type of asset? Are there limitations?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed enough learning to unlock the next feature?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why some features are only available after completing a certain module?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about how the system tracks my progress. Can you walk me through it?","label":"CONTEXT_LEARNING"}
+{"text":"What if I lose access to a feature because I didn't complete a prerequisite? Can I still use it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I reach the maximum portfolio capacity? What are my options then?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tools and features are available to me based on my learning progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how the simulated equity environment works. Can you help?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why some rewards are only unlocked after completing a certain number of bites?","label":"CONTEXT_LEARNING"}
+{"text":"What if I don't have enough fake money to unlock a new feature? What options do I have?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've reached my maximum wallet balance? Are there any limitations?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why some features are only available during certain times or days?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about how the system integrates different courses and learning pathways. Can you help?","label":"CONTEXT_LEARNING"}
+{"text":"What if I want to compare my portfolio with others? Are there any comparison tools?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bites to prioritize based on my goals and progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I complete a course? What rewards do I unlock?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how the system tracks my learning progress over time. Can you walk me through it?","label":"CONTEXT_LEARNING"}
+{"text":"What if I want to explore different investment strategies? Are there any tools for that?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've reached a certain level of expertise in a particular area?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why some features are only available after completing a specific module or course?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about how the system balances learning with rewards and progress. Can you help?","label":"CONTEXT_LEARNING"}
+{"text":"What if I don't have enough fake money to unlock a certain feature? What options do I have?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all necessary modules for a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I reach my maximum wallet capacity?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how the system integrates different courses and learning pathways. Can you help?","label":"CONTEXT_LEARNING"}
+{"text":"What if I want to explore different investment strategies? Are there any tools for that?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've reached a certain level of expertise in a particular area?","label":"CONTEXT_LEARNING"}
