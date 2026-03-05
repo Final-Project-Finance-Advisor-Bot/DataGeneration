@@ -3018,3 +3018,33 @@
 {"text":"Why is my wallet value showing a large amount of money that I don’t have?","label":"CONTEXT_PORTFOLIO"}
 {"text":"What is the minimum amount I need to invest in a portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I’m trying to add Apple as an asset but can’t. Can you help me figure out why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m trying to switch between portfolios but I don’t see an option","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value is higher than what I can invest, why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have 100 shares of Apple but how many is that in pounds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know which company is the largest share holder in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t you let me add another asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m trying to sort my asset / shares but can’t find an option","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I calculate the profit on my asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a graph/chart of my portfolio value over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m trying to edit an asset in my portfolio but can’t find it","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my asset value gone down?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m trying to add more shares to an existing asset in my portfolio but it won’t let me","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I see the value of my wallet at any given time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I delete a share from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have graphs/charts for different portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the highest share holder in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between different types of assets (shares vs bonds)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t you let me remove an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with specific investment goals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have graphs/charts for different time periods?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m trying to find the asset with the highest return in my portfolio","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my portfolio value dropped and what can I do about it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add more than one asset type (shares and bonds) to a single portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my assets by market capitalisation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I edit the name of an existing asset in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use a search function to find all assets with a certain keyword?","label":"CONTEXT_PORTFOLIO"}
