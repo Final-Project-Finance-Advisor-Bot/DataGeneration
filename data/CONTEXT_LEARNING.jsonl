@@ -5118,3 +5118,33 @@
 {"text":"What is the difference between completing a module and unlocking a capability in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"I'm having trouble understanding why my wallet balance increases after completing a course but not after reaching certain milestones","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the 'mastery' aspect of FA Bot works?","label":"CONTEXT_LEARNING"}
+{"text":"I’m trying to unlock the Fundamentals of Finance course. How do I get started?","label":"CONTEXT_LEARNING"}
+{"text":"I completed Learn the Application and still can’t access Fundamentals. Why is it locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I complete a bite in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"I don’t understand how capability unlocks work. Can you give an example?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet increase after completing a course? Is it linked to progress?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing the Learn the Application module?","label":"CONTEXT_LEARNING"}
+{"text":"How many portfolio slots can I unlock after completing the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why some features are locked until certain requirements are met?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail the knowledge check or mastery quiz in a learning bite?","label":"CONTEXT_LEARNING"}
+{"text":"I’m confused about the wallet progression. Is it based on completion percentage?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the Portfolio Builder after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give an example of how progress affects my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"What does the CAPABILITY UNLOCK button do when clicked?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a reminder to use chat even after I’ve completed certain tasks?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what’s meant by ‘simulated (“fake”) capital’ in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which course to start with if I’m new to investing?","label":"CONTEXT_LEARNING"}
+{"text":"What does the phrase ‘loss aversion’ mean in the context of investing? Can you give an example?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning pathway progresses after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve reached the maximum portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the difference between volatility and risk in investing? Can you give an example?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what ‘behavioural psychology’ means in FA Bot? How does it relate to learning?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning centre? Is there a leaderboard?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all bites in a course? What’s next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what’s meant by ‘cognitive scaffolding’ in FA Bot? How does it help learning?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the reward preview before starting a bite? Can you explain what rewards are?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a reminder to use chat when I’m on full-screen mode? Can you give an example of when this happens?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the purpose of the CAPABILITY UNLOCK message when I complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning pathway integrates with real-world investing platforms? How does FA Bot differ?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which course to upgrade to after completing the Fundamentals of Finance module?","label":"CONTEXT_LEARNING"}
