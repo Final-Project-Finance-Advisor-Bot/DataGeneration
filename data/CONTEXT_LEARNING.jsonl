@@ -5568,3 +5568,33 @@
 {"text":"How does FA Bot's learning centre handle multiple users with different learning paths and progression rates? Can you explain its approach?","label":"CONTEXT_LEARNING"}
 {"text":"Can I view my overall progress, including completed bites, unlocked capabilities, and simulated capital, in one place?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I complete all courses and unlock the maximum number of capabilities in FA Bot? Are there any further benefits or opportunities?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not seeing the Fundamentals of Finance course. Why is it locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course? Can I get some guidance on what I need to complete?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Manager yet? What's required to progress to that level?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to understand about risk before moving forward with the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How does the simulated 'fake' money system work in FA Bot? Can you explain it?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not getting any progress updates for my learning pathway. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get more information about how the learning bites work? How do I know when I've mastered a module?","label":"CONTEXT_LEARNING"}
+{"text":"What kind of rewards can I unlock after completing the Fundamentals course? Are they really just simulated money?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding volatility in FA Bot. Can you provide some examples or clarification?","label":"CONTEXT_LEARNING"}
+{"text":"How does the mastery quiz work? Is it just a simple multiple-choice test?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing all the Fundamentals modules before moving on to Portfolio Manager? What benefits will I get?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed the first learning bite, but my wallet balance isn't increasing. Is there something wrong with my setup?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I need to pass the knowledge check for each module before unlocking new content? Is it just to make sure I understand?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the required modules to unlock a new course or tool in FA Bot? Can you provide some guidance?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility in FA Bot? How do they relate to each other?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask questions about the tools available in Portfolio Manager without completing it first? Or do I need to have some knowledge of what's coming up?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system determine when I've mastered a module and can unlock new content? Is there a specific threshold or percentage?","label":"CONTEXT_LEARNING"}
+{"text":"I'm feeling stuck in the Fundamentals course. Can you offer some tips on how to get unstuck and move forward again?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check for a module? Do I have to start over or is there another way to continue?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why FA Bot uses a simulated 'fake' money system and how it affects my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed all the required modules for a course, but I'm still not seeing the rewards or capabilities unlock. Is there something I'm doing wrong?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tools and features are available to me based on my learning progress in FA Bot? Can you provide some guidance?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing all the modules before unlocking new courses or tools in FA Bot? Is it just to make sure I'm thorough?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask questions about my own learning progress or progress without completing a module first? How does that work?","label":"CONTEXT_LEARNING"}
+{"text":"How do the rewards and capabilities unlock in FA Bot compared to other platforms or tools? Is it more challenging to earn them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm feeling overwhelmed by the number of options and features available in Portfolio Manager. Can you help me break it down and prioritize what I need to focus on next?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk appetite and volatility in FA Bot? How do they relate to each other?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system tracks my progress and updates my wallet balance accordingly? Is it real-time or delayed?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not seeing any progress on my learning pathway. Can you help me identify where I might be getting stuck or what's missing?","label":"CONTEXT_LEARNING"}
+{"text":"How do the mastery quizzes and knowledge checks work together to ensure I've mastered a module before unlocking new content?","label":"CONTEXT_LEARNING"}
