@@ -448,3 +448,53 @@
 {"text":"What are some ways to optimize my investment strategy in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know when I've unlocked a new capability in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"Can you clarify how the system calculates returns and performance?","label":"CONTEXT_LEARNING"}
+{"text":"I want to unlock the Fundamentals of Finance course. What do I need to do?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Fundamentals course yet? Is there something wrong with my learning?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from the Learn the Application module to the next one? Can I just skip it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in the learning centre? Do I get more fake money?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how capability unlocks work in FA Bot? How do I unlock new tools and rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance in FA Bot? Does completing courses give me more real money?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the Fundamentals quiz. Can you explain what's going on again? What do I need to get right?","label":"CONTEXT_LEARNING"}
+{"text":"What are some rewards I can unlock by completing bites in the learning centre? How many fake dollars will I get?","label":"CONTEXT_LEARNING"}
+{"text":"Can I try a different path if I'm not good at one skill? How does FA Bot accommodate different learners?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know what's required to unlock a new module or course in FA Bot? Can you show me the prerequisites?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing a learning bite give me more real-world investing skills? How does FA Bot prepare me for that?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask questions about specific modules or topics if I'm confused? Will someone help me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of earning fake money in FA Bot? Can I use it to invest in real stocks?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot help me understand risk and volatility better? Are there specific tools or lessons for that?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress in the learning centre so I can come back later? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between completing bites and unlocking new capabilities in FA Bot? Is there a direct link?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to compare my performance with others who have completed similar courses in FA Bot? Can I see leaderboards?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot track my progress and what do the percentages mean? Can you explain how that works?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask about real-world applications of learning from FA Bot or investing in general? Are there experts available to answer questions?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot ensure I'm not just memorizing information but actually retaining it and applying it to real-world scenarios?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of earning more fake money by completing bites in the learning centre? Can I use it for something specific?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how my understanding of investing concepts is progressing over time in FA Bot? Are there tools or insights available to track that?","label":"CONTEXT_LEARNING"}
+{"text":"What's the goal of the learning centre in FA Bot? Is it just about completing bites for rewards? Or is there something more to it?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot help me manage my fake money effectively and make smart investment decisions? Are there specific lessons or tools for that?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get feedback on my mistakes in the learning centre? How does FA Bot respond to errors?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which modules are relevant to me based on my current level of knowledge and interests in FA Bot? Can you recommend courses?","label":"CONTEXT_LEARNING"}
+{"text":"Can I take a break from the learning centre and come back later without losing progress? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between earning fake money and unlocking new capabilities in FA Bot? Is there a direct link?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot ensure that I'm not skipping important lessons or concepts in my learning journey? Are there warning signs or indicators?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use the fake money earned in FA Bot to buy assets or stocks? Or is it only for rewards and progression?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the mastery quiz in FA Bot? Is it just a test of my knowledge or does it serve a larger goal?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot help me understand the importance of diversification in investing? Are there specific lessons or tools for that?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask about my learning style or how to optimize my learning in FA Bot? Are there experts available to answer questions?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of earning more fake money by completing bites in the learning centre? Is it just for rewards or is there something else?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how my progress compares to others who have completed similar courses or modules in FA Bot? Are there leaderboards or rankings?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot help me understand the concept of risk appetite and how it relates to investing? Are there specific lessons or tools for that?","label":"CONTEXT_LEARNING"}
+{"text":"Can I take a risk assessment test in FA Bot to gauge my risk tolerance? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What's the goal of earning fake money in FA Bot? Is it just to accumulate rewards or is there something more to it?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot ensure that I'm not overspending or mismanaging my fake money? Are there tools or insights available to track that?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a personalized learning plan in FA Bot based on my current knowledge and interests? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between earning fake money and my overall performance in FA Bot? Is there a direct link?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask about the real-world applications of learning from FA Bot or investing in general? Are there experts available to answer questions?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot help me understand the concept of volatility and how it affects investing? Are there specific lessons or tools for that?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance stuck at £100 after completing the Learn the Application course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what diversification means in the context of FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the Portfolio Manager tool if I haven't completed the Fundamentals course yet?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting a message that I need to complete more modules before unlocking the Portfolio Manager - what does this mean?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of passing the mastery quiz in each learning bite, and how does it help me progress?","label":"CONTEXT_LEARNING"}
