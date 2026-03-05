@@ -1668,3 +1668,33 @@
 {"text":"Can you provide more information about how portfolio capacity expands as I complete modules and pass knowledge checks in FA Bot? What specific capabilities become available then?","label":"CONTEXT_LEARNING"}
 {"text":"I’m having trouble understanding what rewards look like within the FA Bot learning system. Can you show me an example of a reward or unlocked capability after completing a module or passing a knowledge check?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how progress affects my wallet balance in FA Bot? Will I receive additional simulated money as I complete modules or pass knowledge checks?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"I am stuck on a specific bite, how do I get help?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all 5 bites in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what FA Bot means?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet not increasing as quickly as it should be?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a module in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of simulated capital?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of the mastery quiz in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access more tools and features as I progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"I am having trouble with a specific concept, can you provide an example?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards will I unlock after completing the Learn the Application course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the required bites for a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how portfolio management works in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the learning pathway and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete all bites in a course before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of diversification and its benefits?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail to complete a bite or module?","label":"CONTEXT_LEARNING"}
+{"text":"I am getting confused about the progression through the system, can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access more bites and modules in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of risk appetite and its importance?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing all the required bites for a course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed my learning objectives in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards and capabilities work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to pass the mastery quiz in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"I am having trouble understanding the concept of volatility, can you provide an explanation?","label":"CONTEXT_LEARNING"}
+{"text":"What are the long-term benefits of progressing through FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my progress affects my ability to access more tools and features?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked a new capability or reward in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I am getting frustrated with the learning system, can you offer some encouragement?","label":"CONTEXT_LEARNING"}
