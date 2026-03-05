@@ -2598,3 +2598,33 @@
 {"text":"Can you explain how the system uses behavioural insights and psychology in its design?","label":"CONTEXT_LEARNING"}
 {"text":"What is the purpose of the Chat panel in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How does my progress affect my ability to access certain features or tools?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to unlock the Fundamentals of Finance course. Why is it locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move through the learning pathway? Are there specific steps I need to complete?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I get when I finish a bite in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting stuck on the knowledge check for Fundamentals of Finance. Can you help me understand what's expected?","label":"CONTEXT_LEARNING"}
+{"text":"How does wallet progression work in FA Bot? Does it affect my ability to unlock new features?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure how to access certain tools or features in Portfolio Manager. Can you tell me more about the progression requirements?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in Learn the Application? Do I get rewards or something else?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about the Fundamentals of Finance course being locked. Is there a specific requirement I need to meet?","label":"CONTEXT_LEARNING"}
+{"text":"How does capability unlocking work in FA Bot? What are the requirements for each level?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what the 'mastery quiz' means in Fundamentals of Finance? Is it like a regular test?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand the relationship between learning progression and wallet balance. Does one affect the other?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features in FA Bot until I complete specific modules? What's the point of that?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to do to unlock new portfolio capacity? Is there a specific number of bites or quizzes required?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what 'risk appetite' means in FA Bot? How does it affect my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning pathway progress from Fundamentals to Portfolio Manager? Are there any prerequisites I need to meet?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a 'bite' and a regular quiz in FA Bot? How do they work together?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the rewards system in FA Bot? What kind of rewards can I expect to receive?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting stuck on a specific concept in Fundamentals of Finance. Can you provide some extra clarification or examples?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment affect my learning experience? Is it realistic enough?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what 'behavioural psychology' means in the context of FA Bot? How does it relate to investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a 'mastery checkpoint' in Fundamentals of Finance? Is it just for validation purposes?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how wallet balance affects my ability to unlock new features or progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's 'capability unlock engine' work? What are the requirements for unlocking each level?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about why certain modules are locked until I complete specific prerequisites. Can you explain the logic behind it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide some examples of how 'diversification' works in FA Bot's Portfolio Manager? How does it affect my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a 'bite' and a regular lesson in FA Bot? How do they differ in terms of content and structure?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how FA Bot's 'learning centre' works? How does it help me progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how the rewards system works in FA Bot. Do I get rewards for every bite or quiz I complete?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what 'loss aversion' means in the context of FA Bot's Portfolio Manager? How does it affect my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a 'completion state' in FA Bot? How does it track my progress and provide feedback?","label":"CONTEXT_LEARNING"}
