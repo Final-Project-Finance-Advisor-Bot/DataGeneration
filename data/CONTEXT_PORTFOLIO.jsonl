@@ -5418,3 +5418,33 @@
 {"text":"How do I reset my portfolio to its default settings?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I want to view my asset / shares’ current value, how can I do that?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I use this portfolio tool with multiple currencies?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m new here, how do I get started with the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much money is required to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add another share but it won’t let me, why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value keep changing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know how much money is in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I don’t understand why my asset allocation has changed, can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different asset allocations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how much money is needed for minimum funds required, can you tell me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio value drop when the market goes down?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my asset / shares in descending order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit the allocation of an existing asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more asset / shares to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see my profit or money made from my investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares in alphabetical order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the value of my portfolio right now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a graph/chart for each company in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet show more money than I can invest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I change the asset allocation of an existing asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a company from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio value keep increasing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with different settings?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple graphs/charts for each asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my graph/chart keep disappearing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know how much money is left in my wallet after transactions?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a list of all my companies in alphabetical order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add a new company to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out what the <company> asset is worth?","label":"CONTEXT_PORTFOLIO"}
