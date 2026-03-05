@@ -5328,3 +5328,33 @@
 {"text":"What’s the total amount of money in my wallet?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I add a new portfolio with a different asset allocation?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why is my portfolio showing a loss when I expect a gain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount I need to invest in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can't see my portfolio value, how do I check it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add another asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to delete an asset but it won't let me, why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value keep changing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my asset / shares by value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know if a company is already in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add a graph of the <Apple> stock, how do I do it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the difference between the different types of asset / shares I can buy?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a company by name to add it to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have more than $10,000 in my wallet, how do I withdraw it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio is empty, what should I do next?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How often does the Portfolio Manager update the asset / shares prices?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to limit my daily spend on asset / shares, how do I set it up?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see a list of all the companies in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I add more asset / shares than my wallet allows?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm new to investing, what's the best way to get started with the Portfolio Manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific goal for my portfolio, like 'conservative' or 'aggressive'?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know if an asset / shares is a good investment?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to see a graph of the <Google> stock in real-time, how do I set it up?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios with different investment strategies?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my portfolio value drop today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure what type of account I have, how do I check?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a custom graph to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much does it cost to open and manage the Portfolio Manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to see a list of all the asset / shares in my portfolio sorted by value","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic investments from my bank account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I delete an asset / shares that is worth more than my wallet allows?","label":"CONTEXT_PORTFOLIO"}
