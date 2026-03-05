@@ -4788,3 +4788,33 @@
 {"text":"Can I set a budget for my portfolio and receive alerts when it’s reached?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I want to create a new watchlist, how do I start?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why is my asset/shares limit showing as ‘unknown’?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I forgot how to switch between portfolios on this platform. Can you remind me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios within the same account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money required to start investing in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have <company> shares, but I don’t know how to add more. Can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset allocation within the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t my portfolio let me delete a specific asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my total profit or money made from investing in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to change the graph of my portfolio. Can you show me how?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have more than one graph for my portfolio at a time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an existing asset allocation within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value is showing a lot of money, but I only invested a small amount. Can you explain why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t the system let me add another <company> share if it will put me over my limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see how my portfolio is performing compared to a specific benchmark or index?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organize my asset allocation by market sector or industry?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t find the search function for companies within the portfolio manager. Can you help me locate it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific target profit or return on investment for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset allocation not matching what I see in the reports?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to delete all of my <company> shares, but I don’t know how. Can you walk me through it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use multiple wallets or accounts within the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I see a detailed breakdown of my portfolio’s performance over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio is showing a significant drop in value today. Can you explain why that happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I compare my portfolio to others, or join a community to see how they are performing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add a new graph type, such as a candlestick chart. Can you show me how?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t the system let me invest more money than my available balance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create custom investment rules or stop-loss orders for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see the value of my wallet, but I don’t understand how it’s being calculated. Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set a specific rebalancing frequency for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use historical data to inform my investment decisions within the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
