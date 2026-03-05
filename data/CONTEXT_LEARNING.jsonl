@@ -2808,3 +2808,33 @@
 {"text":"How does the system ensure users understand and apply learning concepts before unlocking new capabilities?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how my progress affects my ability to access different tools and features within the system?","label":"CONTEXT_LEARNING"}
 {"text":"What's the difference between 'simulated' fake money and real-world financial scenarios in this learning system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can I start learning the Portfolio Manager without completing the Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing a bite in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress on completing the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the Portfolio Manager until I’ve completed Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can I buy shares directly in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the mastery quiz in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio slots?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet limit increasing over time?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review the knowledge checks I completed in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to be 'locked' in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain tools or features until I’ve completed a specific module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio allocations across different portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete the Fundamentals of Finance course and unlock the Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot simulate 'fake money' in its learning environment?","label":"CONTEXT_LEARNING"}
+{"text":"Can I adjust my investment strategy within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why is risk considered a fundamental concept in investing?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use multiple portfolios to diversify my investments?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to 'pass' the knowledge check in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a learning bite in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress towards unlocking capabilities or rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Why is diversification important in investing?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle losses and volatility?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between 'capital' and 'wealth' in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I withdraw my 'fake money' at any time?","label":"CONTEXT_LEARNING"}
