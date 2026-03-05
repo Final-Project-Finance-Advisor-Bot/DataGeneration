@@ -4398,3 +4398,33 @@
 {"text":"Can I undo a decision or action made within the learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"How does the system track my progress through the different courses and capabilities?","label":"CONTEXT_LEARNING"}
 {"text":"What's the purpose of the rewards system in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean in the context of FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I can only buy shares here?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with the knowledge check - is it a pass/fail quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how returns get calculated in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what 'volatility' means - can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"How does diversification work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check - do I get penalized?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure why FA Bot is using fake money - can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how to progress through the Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'simulated capital' mean in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I need help understanding the concept of risk - can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock new features in the Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between 'shares' and 'company ownership' in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to pass the knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about returns - can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of diversification in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete the Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"How does volatility affect investments in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why only shares are available in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with a specific concept in the Fundamentals Module - can you help me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing the Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to access new features after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what 'risk appetite' means - can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"How do I manage my simulated capital in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a knowledge check and a mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to pass a mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about the relationship between risk and volatility - can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"What are the rewards for completing a module in FA Bot?","label":"CONTEXT_LEARNING"}
