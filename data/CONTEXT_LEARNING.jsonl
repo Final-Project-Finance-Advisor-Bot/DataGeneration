@@ -3708,3 +3708,33 @@
 {"text":"What's the difference between a completed learning bite and an unlocked capability?","label":"CONTEXT_LEARNING"}
 {"text":"Can you give me tips on how to stay motivated and engaged in the learning process?","label":"CONTEXT_LEARNING"}
 {"text":"How does FA Bot ensure that users are making progress towards their learning goals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I'm on page 2 of the learning pathway, what's next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how learning bites work?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing a module in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features yet? Is there something I'm missing?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a bite, but my progress isn't updating. What should I do?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about risk appetite and how it affects investing in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how volatility works. Can you explain it?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a delay between completing a bite and unlocking my next reward?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what happens to my wallet balance when I complete a course in Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"How do I navigate the learning pathway if I'm not sure where to start?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between passing and mastering a knowledge check in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how diversification works within Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting frustrated with the learning bites, can you give me an example of what to expect?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the CAPABILITY UNLOCK bundle in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the simulated equity environment affects my investments?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new tool in Portfolio Manager, can you show me how it works?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between completing courses and increasing wallet capacity?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what happens to my allocation limits when I complete a course in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding why my progress isn't updating after completing a bite. Can you check on that?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a learning pathway and a course in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the wallet balance affects my ability to invest?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a bite, but I'm still seeing the same old options. Can you refresh my page?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between risk appetite and the number of shares I can buy in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what happens to my portfolio when I complete a course in Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how the CAPABILITY UNLOCK bundle affects my progress. Can you explain it?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the Behavioural Constraint Layer in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how the learning pathway is structured?","label":"CONTEXT_LEARNING"}
