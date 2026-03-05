@@ -4158,3 +4158,33 @@
 {"text":"How do I know when I've unlocked a new capability or reward?","label":"CONTEXT_LEARNING"}
 {"text":"What is the purpose of the completion states in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"I'm having trouble understanding how my learning progression affects my ability to access certain features. Can you help me?","label":"CONTEXT_LEARNING"}
+{"text":"I am trying to access the Fundamentals of Finance course, but it is locked. What does this mean for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a learning bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what is meant by ‘risk appetite’ in the context of FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I need help understanding how to progress through the learning pathway. Can you guide me?","label":"CONTEXT_LEARNING"}
+{"text":"What are the rewards I unlock after completing a module in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more wallet growth after finishing the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"I am having trouble understanding the concept of simulated ‘fake’ money. Can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to be a Portfolio Manager in FA Bot, and how do I get there?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features until I complete specific modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of risk vs. volatility in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does wallet growth work after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"What tools become available as I progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"I am confused about how to unlock certain capabilities. Can you help me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what it means to pass a knowledge check or mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I have completed all the required modules for a course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a learning bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system uses fake money to simulate real-world investing?","label":"CONTEXT_LEARNING"}
+{"text":"How does the Portfolio Manager role relate to my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"I need clarification on what constitutes a risk appetite in FA Bot. Can you help?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how I unlock more portfolios after completing specific modules?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the graph tool in FA Bot, and when can I access it?","label":"CONTEXT_LEARNING"}
+{"text":"How does progress in one course affect my ability to access others?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system tracks my wallet growth and rewards me for completing courses?","label":"CONTEXT_LEARNING"}
+{"text":"I am having trouble understanding the concept of diversification in FA Bot. Can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"What are the different types of rewards I can unlock in FA Bot, and how do they work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system uses mastery quizzes to ensure learning is retained?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a course impact my overall wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"I need help understanding the concept of return on investment (ROI) in FA Bot. Can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how I unlock new portfolios and allocation limits as I progress through the system?","label":"CONTEXT_LEARNING"}
