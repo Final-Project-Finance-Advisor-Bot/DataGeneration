@@ -3438,3 +3438,33 @@
 {"text":"What is the difference between the 'Learning Centre' and the main FA Bot interface? How do they relate to each other?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the system's risk appetite model affects my investment decisions in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How do I access historical graph data or previous progress within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What is the goal of the Fundamentals course and how does it relate to the broader learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I unable to access the Portfolio Manager course until I complete the Learn the Application module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a 'bite' is in the Learning Centre and how it relates to mastery?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock rewards or capabilities after completing a learning bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens to my wallet balance when I complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system tracks completion percentage for courses?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it necessary to pass the knowledge check or mastery quiz in each learning bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the Chat panel during full-screen mode in the Tool Holder?","label":"CONTEXT_LEARNING"}
+{"text":"What are some ways that the system encourages users to continue progressing through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'capability unlocks' means and how it relates to learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system determine when a user is ready for advanced tools or features in the Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"What are some benefits of completing courses and progressing through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system integrates psychological concepts into the learning content?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to understand risk appetite in investing within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system balance accessibility and challenge when presenting new concepts or tools?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the Learning Centre uses a bite-based mastery model for progress tracking?","label":"CONTEXT_LEARNING"}
+{"text":"What happens to my wallet balance after I complete a learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users gain a comprehensive understanding of investing concepts before progressing?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'structured friction' means in the context of FA Bot's learning design?","label":"CONTEXT_LEARNING"}
+{"text":"What are some ways that the system rewards or motivates users for completing courses and progressing through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle user uncertainty or confusion when navigating the learning content?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system integrates feedback mechanisms into the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"What are some potential benefits of using a simulated equity environment for learning about investing?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system balance the need for users to take calculated risks with the importance of minimizing risk?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the Learning Centre's design takes into account user cognitive load and engagement?","label":"CONTEXT_LEARNING"}
+{"text":"What are some ways that the system uses gamification or motivational elements to support learning?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users develop a deep understanding of investing concepts before being challenged with more advanced topics?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'capability-based progression' means and how it relates to the Learning Centre's design?","label":"CONTEXT_LEARNING"}
+{"text":"What are some potential drawbacks or limitations of using a simulated equity environment for learning about investing?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system address the need for users to develop practical skills or real-world experience in investing?","label":"CONTEXT_LEARNING"}
