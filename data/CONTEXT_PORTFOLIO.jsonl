@@ -5688,3 +5688,33 @@
 {"text":"I'm not sure how to change the graph settings for a specific asset. Can you help?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why does my asset / shares quantity not match what I'm seeing in my portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I search for a company by sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum money needed to create a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add another share but it won’t let me, can I increase my limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares by market value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how to add a new asset / shares, can you show me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value change every time I add/ remove asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios and still see my total wallet value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to organise my asset / shares by category?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio limit is low, how do I increase it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different asset / shares allocations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My asset / shares limit is too low, can you help me increase it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add more graphs/charts to my portfolio, how many can I have?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset / shares from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs/charts can I use in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value is low, how do I increase it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit an asset / shares allocation in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see a company listed but don’t know why, what does it mean?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my profit calculation incorrect?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I export my portfolio data?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My asset / shares are not updating in real time, why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set a specific budget for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a custom graph/chart for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio limit is too high, can you help me lower it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how many asset / shares I have in total, can you show me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart that’s not being used?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value change when I log out and log back in?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how to add a new asset / shares with dividends, can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific date range for my portfolio data?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio is showing an incorrect balance, what should I do?","label":"CONTEXT_PORTFOLIO"}
