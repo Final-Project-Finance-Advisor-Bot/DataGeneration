@@ -3468,3 +3468,33 @@
 {"text":"How do I export my portfolio data?","label":"CONTEXT_PORTFOLIO"}
 {"text":"What is the total value of my asset / shares?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why can I not find a specific company in search results?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I just started using the portfolio manager, how do I create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios if I have multiple ones created?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add another share to my portfolio if it already exists?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to delete a graph/chart but the option doesn’t appear in the menu.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I edit the asset allocation of an existing asset/share?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my portfolio by market value or alphabetical order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I just added a new asset to my portfolio, how do I know if it's been successful?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many graphs/charts can I have on my dashboard at the same time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different assets and shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure how to find the value of a specific asset in my portfolio.","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my portfolio by market performance or risk level?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset/share if it's no longer needed?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value is showing as negative, what has gone wrong?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to search for a company by name but couldn't find it.","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new graph/chart to my portfolio dashboard?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have more than one asset/share per portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure how the profit/loss on my portfolio is calculated.","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know if my portfolio is over-diversified or not?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch from one asset to another in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My graph/chart is showing an error message, what does it mean?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I just created a new portfolio and it's empty, how do I add assets shares now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an entire portfolio if I want to start over?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set the minimum amount required for each asset/share in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure how often my portfolio is updated with new market data.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a detailed breakdown of my portfolio's performance by asset/share?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I see the value of an asset/share that I own in full?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new search filter to find specific assets shares quickly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to edit an existing graph/chart but got an error message.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I save my portfolio and come back to it later?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value is fluctuating wildly, what's happening to it?","label":"CONTEXT_PORTFOLIO"}
