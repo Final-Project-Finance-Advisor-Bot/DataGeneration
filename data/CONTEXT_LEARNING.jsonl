@@ -3918,3 +3918,33 @@
 {"text":"Can you explain how the learning centre works?","label":"CONTEXT_LEARNING"}
 {"text":"What are the benefits of completing the Fundamentals course?","label":"CONTEXT_LEARNING"}
 {"text":"How do I get started with the learning pathway in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of doing all these bites in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"I completed a bite, but it says I need to review my learning. What does that mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get more rewards unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what 'simulated' capital means in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me right now?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access my wallet balance anywhere within the application?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my ability to unlock new features?","label":"CONTEXT_LEARNING"}
+{"text":"I don't understand why I need to complete all these bites in a specific order. Can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of having multiple portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to use the Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a bite or not?","label":"CONTEXT_LEARNING"}
+{"text":"What are these 'capability unlocks' everyone's talking about?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me what it means to complete a module in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain tools or features yet? Is there something wrong with my account?","label":"CONTEXT_LEARNING"}
+{"text":"How do I activate rewards after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system tracks my progress and completion percentage?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all the bites in a course? Do I get more rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How does the Learning Centre relate to the overall learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand what these 'learning pathways' mean for my education?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of having multiple rewards or capabilities unlocked at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my wallet balance within the application? Can't I just check it anywhere?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system simulates real-world investing scenarios?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a 'full-screen mode' where chat is temporarily hidden? Is that related to the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a specific bite or module? Can you send me reminders?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to use the graph tools in Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between progress and capability unlocks? How do they work together?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a course affect my ability to access new features or tools?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system ensures users understand the risks associated with simulated investing?","label":"CONTEXT_LEARNING"}
