@@ -1638,3 +1638,33 @@
 {"text":"I added a graph/chart but it’s not showing up in my portfolio, what should I do?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why can’t I add a company to my portfolio if it’s not available on the platform?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I view my profit or money made per asset / shares type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to start investing, what do I need to know about portfolio limits?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch between portfolios? Can I create multiple ones?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried adding a share but it says the asset limit has been reached. How can I increase this limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money needed to start investing with your portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio dashboard?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I don’t understand why my asset allocation isn’t showing up correctly. Can you help me organize it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value keep fluctuating? Is this normal?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new company to my portfolio search list?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit the asset allocation of an existing share in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My profit/returns are showing as negative. What’s going on with my portfolio performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company to add to my portfolio? Can I filter by industry or sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have 100 shares of XYZ Inc and want to know their current value. How can I find this out?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up a budget for my portfolio and track it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio show more asset allocation than the amount I invested?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure what type of graphs/charts would be best for my portfolio. Can you recommend some options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my assets by market value or price change?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet shows a deposit from XYZ Inc, but I didn’t make the purchase. What’s going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know more about asset limits and how they affect my portfolio growth","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set reminders for dividend payments or other important events in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add another share of the same company to my portfolio? Is there a limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create multiple portfolios for different investment goals. Can you show me how to do this?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio shows a significant decrease in value overnight. What could have caused this?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio performance over the past year or 5 years?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m having trouble finding a specific asset in my search results. Can you help me refine my search?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet show more money than I have invested? Is this a bug or normal?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic portfolio rebalancing to maintain optimal asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My graph/chart shows an incorrect value for XYZ Inc. Can you help me correct it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know more about the company’s performance and what affects their stock price. Is there any additional information available?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I schedule automatic transactions for buying or selling assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio shows an unexpected asset allocation due to market fluctuations. Can you explain how this happened?","label":"CONTEXT_PORTFOLIO"}
