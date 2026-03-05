@@ -708,3 +708,33 @@
 {"text":"What's the point of taking a mastery quiz, and why is it required to unlock rewards?","label":"CONTEXT_LEARNING"}
 {"text":"Can you help me understand how to interpret returns and performance data in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"I'm stuck on the second bite - what's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me? I just started learning about stocks and investing in FA Bot.","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite? Will I see my wallet balance update in real time?","label":"CONTEXT_LEARNING"}
+{"text":"I don't understand how the mastery quiz works. Can you explain it to me again?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move through the learning pathway? Are there specific tasks or modules that need to be completed first?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me with my wallet balance after completing a course? How much money will I get?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing a module? Are they tied to specific learning milestones?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance? Will it increase or decrease as I complete courses?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this bite and don't understand the material. Can you provide more context or explanation?","label":"CONTEXT_LEARNING"}
+{"text":"What tools become available as I progress through the system? Are there new features or functionalities unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet? Is there a specific course or milestone I need to complete first?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what capability unlocks are and how they work? How do I get them?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve completed a course? What’s the difference between completing a bite and completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete multiple bites in a row? Will my wallet balance increase or decrease?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me with my progress in FA Bot? How do I see what I’ve completed and what I need to work on next?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the relationship between risk appetite and volatility. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"How does learning a new topic affect my portfolio capacity? Will I be able to add more assets or shares?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of completing all the bites in a course? Do they unlock any rewards or capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide an overview of how the system works and how progress is tracked? I feel like I’m missing something.","label":"CONTEXT_LEARNING"}
+{"text":"How often will my wallet balance increase? Is it tied to specific milestones or learning completions?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the difference between a mastery quiz and a regular quiz? How do they impact my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me with navigating the learning centre? Are there any specific tasks or modules that I need to complete first?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progression affect my ability to access certain features or tools in FA Bot? Is it tied to specific learning milestones?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the relationship between my portfolio capacity and my wallet balance? Will increasing one impact the other?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how capability unlocks work? How do I get them, and what benefits do they provide?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding how to use the graph tool in FA Bot. Can you provide some examples or explanations?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a course affect my ability to start new bites or modules? Is there a specific timeframe or milestone that I need to complete?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me with understanding the concept of risk appetite and how it relates to investing in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of completing all the bites in a course if I’m not going to be able to access them later? Is there a way to revisit previous material?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress in one area of FA Bot impact my ability to progress in other areas? Are there any cross-course connections or dependencies?","label":"CONTEXT_LEARNING"}
