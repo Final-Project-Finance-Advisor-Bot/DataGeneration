@@ -3558,3 +3558,33 @@
 {"text":"What happens when I fail a knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"Can I view my learning progress over time?","label":"CONTEXT_LEARNING"}
 {"text":"Why does the Chat panel disappear while in full-screen mode?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to unlock the Fundamentals of Finance course but I see it's locked for me. What does this mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course and what prerequisites are there?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what investing means in FA Bot and how it differs from real investing platforms?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what my risk appetite is or how to interpret returns in FA Bot. Can you help me understand these concepts better?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Manager course until I've completed the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between volatility and risk in FA Bot, and how do they relate to each other?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to progress through the learning pathway but I keep getting stuck on certain modules. Can you provide more guidance or clarification?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards or capabilities can I unlock after completing the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding why only shares are available in FA Bot. Is this a security feature or something else?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the knowledge check or mastery quiz in more detail and how it relates to the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"I'm curious about the relationship between diversification and risk in FA Bot. Can you provide some examples or scenarios?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of passing the knowledge check, and what benefits do I gain from completing the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through the process of unlocking new capabilities as I progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure how to interpret my wallet balance or returns performance in FA Bot. Can you provide some guidance on this topic?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's AI mediator work, and what kind of support can I expect from the system as I learn?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite or finish a module? Can you explain the sequence of events and any rewards I'll receive?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how the system's progression works and what triggers unlocking new capabilities. Can you clarify this process for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide some examples of how FA Bot's simulated environment can help me better understand real-world investing concepts?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of loss aversion in FA Bot. Can you explain it in more detail and provide some scenarios or examples?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's psychological framework integrate with its learning system, and what kind of benefits can I expect from this integration?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of disposition effect and how it relates to risk tolerance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between overconfidence bias and strategic thinking in FA Bot, and how do they relate to each other?","label":"CONTEXT_LEARNING"}
+{"text":"I'm curious about the role of behavioural learning in FA Bot. Can you explain how this aspect integrates with its overall system architecture?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide some guidance on how to use the graph and tool unlocks feature in FA Bot, and what kind of benefits can I expect from this functionality?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the wallet progression model in FA Bot. Can you explain how it works and what triggers unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having multiple portfolios available in FA Bot, and how do I choose which one to use?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of asset allocation in FA Bot and how it relates to portfolio management?","label":"CONTEXT_LEARNING"}
+{"text":"I'm curious about the relationship between wallet growth and learning progress in FA Bot. Can you provide some examples or scenarios?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment work, and what are its implications for learning and development?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of cognitive scaffolding in FA Bot and how it relates to user progress?","label":"CONTEXT_LEARNING"}
