@@ -1008,3 +1008,33 @@
 {"text":"What's the point of the mastery quizzes in the learning centre and how do they help me progress through the system?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain why some features or tools are locked until I complete specific modules or bites? Is this normal?","label":"CONTEXT_LEARNING"}
 {"text":"How do I access my completed bites or quizzes in the learning centre? Can I review my progress?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I don't understand how simulated money works in FA Bot. Can you explain it better?","label":"CONTEXT_LEARNING"}
+{"text":"Can I really just buy shares in the FA Bot learning environment?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to pass a quiz on the basics of investing before I can unlock more content?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility in FA Bot? Can you give an example?","label":"CONTEXT_LEARNING"}
+{"text":"How does diversification work in FA Bot, and why is it important?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use real money in the FA Bot learning environment?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the knowledge check in the Fundamentals module. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access more advanced content until I complete the basics?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of passing a quiz on investing basics if I'm just going to play with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how returns are calculated in FA Bot? I'm not sure I understand it.","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated environment differ from real-life investing platforms?","label":"CONTEXT_LEARNING"}
+{"text":"I just got stuck on the first learning bite. Can you help me out?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to learn about risk appetite in FA Bot? Is it really that important?","label":"CONTEXT_LEARNING"}
+{"text":"Can I try playing with more assets than are available in the FA Bot environment?","label":"CONTEXT_LEARNING"}
+{"text":"What's the best way to prepare for the knowledge check in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning pathway work, and how do I progress through it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I need to unlock more capabilities before I can access certain tools?","label":"CONTEXT_LEARNING"}
+{"text":"I'm feeling overwhelmed by all the different options in the FA Bot environment. Can you help me prioritize?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the reward system in FA Bot, and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can I really make progress through the learning pathway if I fail a quiz or bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked all the capabilities in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a mastery quiz and a knowledge check? Can you explain it better?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give me more examples of how diversification works in FA Bot? I'm still having trouble understanding it.","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning environment affect my wallet balance, and why is that important?","label":"CONTEXT_LEARNING"}
+{"text":"Can I try playing with different asset combinations to see how they perform?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a progress tracker in FA Bot, and how does it help me learn?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on a particular learning bite. Can you walk me through it step by step?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've reached my wallet limit in the FA Bot environment?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why FA Bot uses a simulated environment instead of real money? Is it safe?","label":"CONTEXT_LEARNING"}
