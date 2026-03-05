@@ -1038,3 +1038,33 @@
 {"text":"I'm stuck on a particular learning bite. Can you walk me through it step by step?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know when I've reached my wallet limit in the FA Bot environment?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain why FA Bot uses a simulated environment instead of real money? Is it safe?","label":"CONTEXT_LEARNING"}
+{"text":"I want to unlock the Fundamentals of Finance course. Why is it locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the Fundamentals module after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of passing the knowledge check in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the 3rd question in the Fundamentals quiz. Can you explain what 'volatility' means again?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the requirements for unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why there are only shares available in FA Bot? Is this like real-life investing?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand what 'risk appetite' means. Can you provide an example?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning centre? Are there any milestones I should be aware of?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how much money I'll have after completing the Fundamentals module and unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with 'fake' money in FA Bot? Is it like real money or something different?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting confused about how the learning centre works. Can you walk me through it?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any rewards I can earn by completing certain tasks or modules? If so, what are they?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance affect my ability to access new features and capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of 'diversification' in FA Bot and how it relates to risk management?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a bite, but I'm not seeing any reward or capability unlock yet. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tools are available to me after completing certain modules or capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the 'capability unlock engine' and how it works?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how my progress in FA Bot is tied to real-world investing concepts. Can you explain the connection?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any additional resources or support available for users who are struggling with certain topics or modules?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that I'm not moving too quickly through the learning centre and that I have time to review and absorb the material?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of 'risk vs. volatility' and how it relates to investing in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I want to earn more rewards and unlock new capabilities, but I'm not sure what I need to do to get there. Can you provide guidance?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system track my progress and identify areas where I need additional support or review?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the 'mastery quiz' and how it works within the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting frustrated with the learning centre and feel like I'm not making progress. Can you offer some encouragement and guidance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the requirements for unlocking a new feature or capability in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of 'portfolio capacity expansion' and how it relates to my progress in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I want to earn more money and unlock new capabilities, but I'm not sure what specific actions I need to take. Can you provide a step-by-step guide?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that I'm not relying too heavily on one particular feature or capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the 'behavioural progression engine' and how it works within FA Bot?","label":"CONTEXT_LEARNING"}
