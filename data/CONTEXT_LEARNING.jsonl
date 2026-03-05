@@ -4488,3 +4488,33 @@
 {"text":"Can you provide an example of how to create a new portfolio and allocate assets?","label":"CONTEXT_LEARNING"}
 {"text":"How does FA Bot handle unexpected market fluctuations or economic downturns?","label":"CONTEXT_LEARNING"}
 {"text":"What's the difference between a bite in Learning Centre and a course in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I see my wallet balance increase but how does it affect unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work in the FA Bot system?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet? What am I missing?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite? Do I get rewards?","label":"CONTEXT_LEARNING"}
+{"text":"I see multiple graphs in the Portfolio Builder but how do they unlock?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance and what are the wallet limits?","label":"CONTEXT_LEARNING"}
+{"text":"What tools become available as I progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use fake money in real-life investing or is it just for FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why only shares are available in FA Bot and not other assets like stocks or bonds?","label":"CONTEXT_LEARNING"}
+{"text":"What does volatility look like in practice? Can you give an example?","label":"CONTEXT_LEARNING"}
+{"text":"How do I pass the knowledge check or mastery quiz in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"I want to diversify my portfolio but how can I unlock more portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"What is risk appetite and why is it important in investing?","label":"CONTEXT_LEARNING"}
+{"text":"How do returns get calculated in the FA Bot system? Can you explain it?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a certain number of learning bites before unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo or delete my learning progress at any point?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between risk and volatility in investing? Can you give an example?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I’m completing my learning bites correctly? What are some common mistakes?","label":"CONTEXT_LEARNING"}
+{"text":"I see a lot of terms like ‘portfolio capacity’ what does it mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of compounding in investing and how it works?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common mistakes people make when trying to diversify their portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"How do I understand the relationship between risk and return in investing? Can you give an example?","label":"CONTEXT_LEARNING"}
+{"text":"I want to unlock more advanced tools but how can I demonstrate my knowledge first?","label":"CONTEXT_LEARNING"}
+{"text":"What is behavioral awareness in the context of FA Bot learning system? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I’m overconfident in my investment decisions and what can I do about it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of loss aversion and its impact on investing?","label":"CONTEXT_LEARNING"}
+{"text":"What is disposition effect and how does it affect my investment decisions?","label":"CONTEXT_LEARNING"}
