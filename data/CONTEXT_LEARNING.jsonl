@@ -4038,3 +4038,33 @@
 {"text":"Can you explain how the AI mediator works within FA Bot? What kind of support can I expect?","label":"CONTEXT_LEARNING"}
 {"text":"How does FA Bot handle different learning styles or preferences? Are there any accommodations for users with disabilities?","label":"CONTEXT_LEARNING"}
 {"text":"What's the importance of psychological awareness and risk management in investing? Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I complete a learning bite?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards can I expect to unlock after completing this module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from the Learn the Application course to the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting an error message saying I need to complete a specific module. Can you help me figure out which one that is?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how my wallet balance increases when I complete this module?","label":"CONTEXT_LEARNING"}
+{"text":"What does the Mastery quiz cover, and why is it required for each bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to start with if there are multiple options available?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of risk appetite in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a knowledge check? Can I try again or does it reset my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Why is diversification necessary in investing with FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide an example of how volatility works in practice within the simulation?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding why my wallet balance increases exponentially. Can you break it down step by step?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between shares and company ownership, and how do they relate to investing in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the process of completing a portfolio in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression through the learning pathway affect my overall understanding of investing?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock a new capability or tool within the system? Can you show me an example?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the simulated capital works and how it increases as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features or tools yet? Is there a specific requirement I need to meet first?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users have enough knowledge before unlocking new capabilities or tools?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide an example of how the Mastery quiz helps me build confidence in my understanding of investing concepts?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the graph tool in FA Bot, and how does it help with portfolio management?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which rewards or capabilities are available for me to unlock based on my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of risk vs. volatility and how they relate to investing in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a course or module? Can I expect any significant changes to my wallet balance or capability unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users have enough time to learn and understand new concepts before being required to move on?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how the portfolio capacity expansion works and how it relates to my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a mastery check and a knowledge check, and why are they both important in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle users who need more time or practice with certain concepts before moving on to the next one?","label":"CONTEXT_LEARNING"}
