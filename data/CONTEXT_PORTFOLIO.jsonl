@@ -4308,3 +4308,33 @@
 {"text":"Why has my <company> asset gone up/down so much today?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I sort my portfolios by value?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I have multiple graphs/charts for different asset / shares in one portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t see the company I want to add, how do I search for it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio shows $1000 but I only put in $500, what’s going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add Apple shares but it says there are limits, how much can I add?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet showing a negative value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have 100 asset / shares, how many graphs/charts can I add?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the graph for Apple stock keep changing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares alphabetically?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio with Google shares, can I?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value dropped $500 today, why did that happen?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios for different investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more asset / shares than the limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to see my profit or money made over time, how do I view that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my asset / shares by value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many companies can I have in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to delete a graph/chart from my portfolio, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value is higher than the amount I invested, why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit an asset / shares allocation in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the graph for Amazon stock not update?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out how much money is left in my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios using a dropdown menu?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio with Microsoft shares, can I?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset / shares showing 0 value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple wallet values for different investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the performance of a specific company in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add more asset / shares than the daily limit, is that possible?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the graph for Google stock keep changing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my portfolio by profit or money made?","label":"CONTEXT_PORTFOLIO"}
