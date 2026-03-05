@@ -2118,3 +2118,33 @@
 {"text":"Can I cancel an asset / shares allocation from my portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I access the platform's help or support feature?","label":"CONTEXT_PORTFOLIO"}
 {"text":"What's the typical time frame for my investment to be reflected in my wallet value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t my wallet show the money I invested?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add another asset/share to my existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum amount of money needed to start investing in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete all asset/shares from my portfolio at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my wallet value drop suddenly today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my asset/shares alphabetically by name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs/charts can I have in my portfolio view?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add a new share but it says I’ve reached my portfolio limit. How do I remove some shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the <Apple> asset value fluctuate so much daily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios with different investment goals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my total profit/return on investment for the month/year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the difference between a cash asset and a share asset in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more than 100 shares to my portfolio at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit the name of an existing share in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum amount of time a share must be held before it can be sold for profit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I see two different wallet values - one for cash and one for shares. What does this mean?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete all graphs/charts from my portfolio view at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t my portfolio automatically rebalance when the market changes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my asset allocation breakdown (e.g. 60% shares, 40% cash)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a budget for regular investment amounts in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the difference between a share split and dividend distribution?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my asset value drop when I sell shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for specific companies within my portfolio by name or ticker symbol?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I export my portfolio data (e.g. CSV, Excel) for further analysis?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum number of shares required to qualify for a dividend payment?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t my wallet show the money I transferred from another account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple asset/shares with different purchase prices within the same portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my performance metrics (e.g. Sharpe ratio, Sortino ratio)?","label":"CONTEXT_PORTFOLIO"}
