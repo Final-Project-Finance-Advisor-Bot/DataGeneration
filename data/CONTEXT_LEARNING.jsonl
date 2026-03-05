@@ -5508,3 +5508,33 @@
 {"text":"What's the purpose of the wallet growth in FA Bot? How does it relate to completing courses?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me more about how the allocation limits work in FA Bot? Are they strict?","label":"CONTEXT_LEARNING"}
 {"text":"I'm not sure what kind of progress I can expect after completing a course. Can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to unlock the Fundamentals of Finance course. What do I need to do?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals of Finance course locked for me? Did I not complete a prerequisite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move through the learning pathway? Is it linear or can I skip modules?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing this bite? Are there any benefits to completing all bites in a module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite? Do I get more fake money or something else?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work? What triggers them, and what's the point of unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What tools become available as I progress through the system? Are there any specific tools tied to completing certain modules or bites?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features yet? Is it because I'm not ready for them, or is something wrong with my account?","label":"CONTEXT_LEARNING"}
+{"text":"What do I gain from completing courses? Do I get more fake money or does that help me in some way?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance? Does it just add up as I complete more bites?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand what investing means within FA Bot. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"How does investing work step-by-step in FA Bot? Are there any tutorials or guides to help me learn?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what shares mean in the context of FA Bot. Can you clarify that for me?","label":"CONTEXT_LEARNING"}
+{"text":"Why can I only buy shares in FA Bot, and is it because they're a safer investment?","label":"CONTEXT_LEARNING"}
+{"text":"What does volatility look like in practice within FA Bot? How do I interpret its effects on my investments?","label":"CONTEXT_LEARNING"}
+{"text":"Is diversification supposed to remove risk entirely in FA Bot? Or are there any limitations to that?","label":"CONTEXT_LEARNING"}
+{"text":"I failed the knowledge check after completing a bite. What does that mean, and how do I improve my score?","label":"CONTEXT_LEARNING"}
+{"text":"Why is FA Bot using fake money instead of real money for its simulations? Is there a specific reason for this design choice?","label":"CONTEXT_LEARNING"}
+{"text":"How do returns get calculated in FA Bot, and what factors affect those calculations?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand the relationship between risk appetite and volatility. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of completing all bites in a module, and how does that benefit me?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip modules or bite steps if I'm not interested in certain topics? Is there a way to do so without losing progress?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a few bites, but my wallet balance doesn't seem to be increasing. Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system determine when I'm ready for new capabilities or features? Are there specific milestones or performance metrics?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of loss aversion in FA Bot and how it relates to my investments?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between risk and volatility, and how do they impact my investments in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand why I can only access certain features or modules after completing specific bites. Is it because of progress or something else?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of disposition effect in FA Bot and how it relates to my portfolio management?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle overconfidence bias, and what strategies can I use to avoid it?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a few courses, but I'm not sure if I've reached the desired level of proficiency. How do I know?","label":"CONTEXT_LEARNING"}
