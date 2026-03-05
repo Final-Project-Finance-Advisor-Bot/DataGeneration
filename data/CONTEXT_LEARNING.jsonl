@@ -3228,3 +3228,33 @@
 {"text":"Can I see my progress towards unlocking capabilities in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How does FA Bot use psychology to help with learning?","label":"CONTEXT_LEARNING"}
 {"text":"I'm having trouble understanding the concept of loss aversion in FA Bot, can someone explain?","label":"CONTEXT_LEARNING"}
+{"text":"I’m trying to unlock the Fundamentals of Finance course. Can you tell me why it’s locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway? Are there any specific steps I need to follow?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I get when I complete a bite in the Learning Centre? Can you tell me more about the progression system?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access my wallet balance anywhere within the application? Or is it only visible after completing certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a module, but I still see the ‘Complete this module to unlock’ prompt. What does that mean exactly?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which rewards are available to me? Are there any specific requirements or milestones I need to meet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I reach the 100% completion mark in a course? What kind of progression occurs then?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to unlock a new capability within the system? Are there any immediate benefits or rewards?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding how my wallet balance is affected by the learning pathway. Can you clarify this for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from one course to another in the Learning Centre? Is it a linear progression or can I choose which modules to complete first?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system tracks my progress and completion of courses? How does that affect my overall experience?","label":"CONTEXT_LEARNING"}
+{"text":"I’m curious about the role of psychology in the FA Bot learning system. Can you explain how psychological concepts are introduced and used throughout the application?","label":"CONTEXT_LEARNING"}
+{"text":"What kind of support can I expect from the Chat panel while I’m using the application? Are there any specific times when I might need help or clarification?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system handles failed attempts at completing a bite or quiz within the Learning Centre? What happens next in those cases?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tools and features are available to me based on my current level of progress? Are there any specific requirements or milestones I need to meet?","label":"CONTEXT_LEARNING"}
+{"text":"I’m trying to understand how the simulated equity environment works within FA Bot. Can you explain the concept of ‘fake money’ and its implications for investing?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the role of risk in the FA Bot learning system? How is risk managed and mitigated throughout the application?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to have a high or low risk appetite within the context of FA Bot? Can you explain how that affects my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding why I can only buy shares in FA Bot. Is there something specific about the platform that limits this functionality?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how diversification works within the FA Bot learning system? What are its benefits and purposes?","label":"CONTEXT_LEARNING"}
+{"text":"What kind of returns can I expect to see in my simulated equity environment within FA Bot? How does that relate to real-world investing outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the concept of overconfidence bias within FA Bot? How is it introduced and addressed throughout the application?","label":"CONTEXT_LEARNING"}
+{"text":"I’m trying to understand how the system handles learning from failures or setbacks. Can you explain what happens when I fail a quiz or bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the simulated equity environment affects my emotional response to losses or gains within FA Bot? Are there any specific strategies or techniques used to mitigate these effects?","label":"CONTEXT_LEARNING"}
+{"text":"What kind of support can I expect from the Chat panel while I’m using the application? Can I ask for help with specific concepts or topics?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system handles different types of learners within FA Bot? Are there any accommodations or modifications made for users who need extra support?","label":"CONTEXT_LEARNING"}
+{"text":"I’m curious about the role of metacognition in the FA Bot learning system. Can you explain how I can develop a better understanding of my own learning and progress within the application?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what kind of progression occurs when I reach the 100% completion mark in a course within FA Bot? What kind of rewards or benefits do I receive then?","label":"CONTEXT_LEARNING"}
+{"text":"What kind of tools and features become available to me as I progress through the Learning Centre? Are there any specific requirements or milestones I need to meet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system tracks my wallet balance and affects my overall experience within FA Bot? Is there a direct correlation between learning completion and financial gains?","label":"CONTEXT_LEARNING"}
