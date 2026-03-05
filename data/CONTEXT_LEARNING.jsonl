@@ -1248,3 +1248,33 @@
 {"text":"What's the purpose of the 'Behavioural Constraint Layer' in FA Bot - how does it help me learn?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what a 'capability unlock' looks like in FA Bot - what are the different capabilities I can unlock?","label":"CONTEXT_LEARNING"}
 {"text":"How do I track my progress through Portfolio Manager - where can I find my progress percentage?","label":"CONTEXT_LEARNING"}
+{"text":"What does capital actually mean here?","label":"CONTEXT_LEARNING"}
+{"text":"Why can I only buy shares?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I'm ready for the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to pass the fundamentals quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does volatility look like in practice?","label":"CONTEXT_LEARNING"}
+{"text":"Is diversification supposed to remove risk?","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a hint about the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a module?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance not updating?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I take the quiz again if I didn't get it right?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'completion of specific Learn the Application module' mean?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress not showing up in the dashboard?","label":"CONTEXT_LEARNING"}
+{"text":"How do I compare my portfolio to others?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo a bite if I'm not satisfied with it?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How long does it take to unlock rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see the full list of available bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn badges for completing milestones?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't complete a module within a certain timeframe?","label":"CONTEXT_LEARNING"}
+{"text":"How do I report any issues with the system?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance not increasing after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I create multiple portfolios to compare different strategies?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'capability unlock' mean in this context?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the full list of available rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see my progress towards unlocking a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can I take a shortcut to skip certain learning modules?","label":"CONTEXT_LEARNING"}
+{"text":"What are the system requirements for running FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the full dashboard after completing all courses?","label":"CONTEXT_LEARNING"}
