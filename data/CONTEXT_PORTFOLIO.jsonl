@@ -3348,3 +3348,33 @@
 {"text":"Can I change the graph/chart type on my portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I want to create a new portfolio with only asset / shares from Google. How do I do that?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why can’t I add more asset / shares to my portfolio? Is there a limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio, how do I start?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add more asset / shares than my available funds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum money needed to invest in the <company> asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch from one portfolio to another?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have 10 shares of Apple and it’s not showing up in my portfolio value. Why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart that I don’t need?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won't the system let me add another asset / shares to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares by market value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the current profit made from my investment in <company>?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a graph/chart of my portfolio performance over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have two portfolios, how do I switch between them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the <company> asset value dropping so quickly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a new asset / shares to my portfolio and automatically adjust other assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit the asset / shares allocation for the <company> asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value showing more money than my available funds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple graphs/charts of different types in my portfolio view?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add a new asset / shares but the system says it’s not supported. What does that mean?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares by market value in descending order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset / shares without deleting all of them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the <company> asset not showing up in my search results?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with a specific investment strategy?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have my portfolio value displayed in different currencies?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add a graph/chart that shows the historical performance of the <company> asset. How do I do it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my profit made not being updated correctly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a new asset / shares to my portfolio and receive automatic tax calculations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for an asset / shares by its ticker symbol?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the system asking me to verify my identity every time I log in?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio with a specific investment goal, like saving for a down payment on a house?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I export my portfolio data to a CSV file?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add a graph/chart that shows the correlation between different assets in my portfolio. How can I do that?","label":"CONTEXT_PORTFOLIO"}
