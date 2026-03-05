@@ -1698,3 +1698,33 @@
 {"text":"Can you explain how my progress affects my ability to access more tools and features?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know when I've unlocked a new capability or reward in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"I am getting frustrated with the learning system, can you offer some encouragement?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use real money in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I can only buy shares, why is that?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I'm passing the knowledge check or not?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between volatility and risk in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how returns are calculated. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of diversification in FA Bot? Is it just to reduce risk?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've passed the fundamental module quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use more than one portfolio at a time in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I view all of my portfolios at once? Is it just because they're not fully unlocked yet?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check in the fundamentals module? Can I try again later?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot determine when a user is ready to unlock a new capability or reward?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my progress towards unlocking a new capability or reward on the dashboard?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between the learning centre and the capability unlock engine?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning pathway work in FA Bot? Is it linear or can I skip certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the portfolio builder tool in FA Bot? Can I use it to create custom portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I view all of my past bites and quizzes in FA Bot? Is it just because they're not fully completed yet?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system track progress towards completing a bite or quiz? What happens if I fail?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk appetite and volatility in FA Bot? Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Why does FA Bot have different rewards for completing bites versus quizzes?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my total portfolio value at any time in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the capability unlock engine in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've completed all required modules to unlock a new capability or reward?","label":"CONTEXT_LEARNING"}
+{"text":"Why does FA Bot have a learning pathway instead of just offering pre-made portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between diversification and risk management in FA Bot? Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my progress towards unlocking new capabilities or rewards on the dashboard? Is it visible to others?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle users who are struggling with a particular concept or bite? Can I get extra help?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I view my past bites and quizzes in FA Bot's analytics section? Is it just because they're not fully completed yet?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the behavioural constraint layer in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Why does FA Bot have different rewards for completing bites versus quizzes? Is it just because one is harder than the other?","label":"CONTEXT_LEARNING"}
