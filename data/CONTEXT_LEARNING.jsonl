@@ -3858,3 +3858,33 @@
 {"text":"What happens when I unlock new capabilities or rewards in FA Bot? Can you show me the process?","label":"CONTEXT_LEARNING"}
 {"text":"Can you clarify how my learning progression affects my wallet balance within the system?","label":"CONTEXT_LEARNING"}
 {"text":"How does FA Bot's learning environment support strategic thinking and decision-making skills?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble unlocking the Fundamentals of Finance course. What do I need to complete first?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a few bites in Learn the Application, but I still can't access the Fundamentals course. Is there something I missed?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway once I've finished the introductory course?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing a bite if it just triggers another quiz afterwards?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to unlock the Portfolio Manager course, but I haven't completed all the Fundamentals modules. What should I do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain how the rewards work in FA Bot? I've unlocked a few capabilities already.","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a quiz and got a bunch of random information about risk management. Is that really relevant to my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I'm making progress in the system? Shouldn't my wallet balance be going up more quickly?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to allocate my capital between different portfolios. Can someone explain the process step-by-step?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a quiz in FA Bot? Are they interchangeable terms?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed the Fundamentals course, but I still can't access the Portfolio Manager. Is there something specific I need to do differently?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users are making informed decisions about their investments? Are there any checks in place to prevent reckless behavior?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain how the learning centre works? How do I navigate through it and unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new capability in FA Bot, but I'm not sure what it does or how to use it. Can someone walk me through the process?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a wallet balance in FA Bot if I can't actually use it for anything?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a few bites, but my progress seems to be stagnating. Is there something I'm doing wrong?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system determine when a user is ready to move on to the next level or unlock new content? Are there any specific criteria that need to be met?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain how risk management works in FA Bot? I've heard it's similar to real-world investing, but I'm not sure.","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new feature in FA Bot, but I'm not sure what the benefits are or how to use it. Can someone provide more information?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle situations where a user is struggling with a particular concept or topic? Are there any additional resources available?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in FA Bot? Are they interchangeable terms?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed all the Fundamentals modules, but I still can't access the Portfolio Manager. Is there something specific I need to do differently?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain how the learning centre is organized and structured? How do users navigate through it?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new capability in FA Bot, but I'm not sure what it does or how to use it. Can someone provide more information?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a mastery quiz in FA Bot if it just checks for knowledge completion?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle situations where a user is struggling with a particular concept or topic? Are there any additional resources available?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed all the bites and quizzes, but I'm still having trouble understanding the concepts. Can someone provide more information or clarification?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain how the system ensures that users are making informed decisions about their investments? Are there any checks in place to prevent reckless behavior?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new feature in FA Bot, but I'm not sure what the benefits are or how to use it. Can someone provide more information?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in FA Bot? Are they interchangeable terms?","label":"CONTEXT_LEARNING"}
