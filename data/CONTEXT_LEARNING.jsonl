@@ -3738,3 +3738,33 @@
 {"text":"I'm having trouble understanding how the CAPABILITY UNLOCK bundle affects my progress. Can you explain it?","label":"CONTEXT_LEARNING"}
 {"text":"What's the purpose of the Behavioural Constraint Layer in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"Can you walk me through how the learning pathway is structured?","label":"CONTEXT_LEARNING"}
+{"text":"I need to unlock the Fundamentals of Finance course. Why is it locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course? Is there a specific module I need to complete first?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the Fundamentals course is and why I can't access it yet?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of unlocking the Fundamentals course? What does it mean for my learning journey?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a specific module in Learn the Application before I can unlock Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How many times can I try to unlock Fundamentals if I fail the knowledge check? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of unlocking Fundamentals compared to not being able to access it? How will my learning be impacted?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have to start over from the beginning if I fail to complete the knowledge check in Fundamentals? Can I keep any progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide more information about what I need to do to unlock Fundamentals? What resources are available to help me get started?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing Fundamentals affect my ability to access other courses or tools in the learning centre? Are there any prerequisites?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a knowledge check and a mastery quiz? How do I prepare for either one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give me an example of what the Fundamentals course content might look like? What topics would it cover?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress in Fundamentals impact my wallet growth and portfolio capacity? Are there any specific milestones or rewards associated with completing the course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask for clarification on a specific concept from Fundamentals before moving forward with the knowledge check? How can I do that?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of earning badges or rewards in Fundamentals compared to just completing the course? How will they impact my learning journey?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide more information about how the Fundamentals course fits into my overall learning pathway and progression? Are there any connections between modules?","label":"CONTEXT_LEARNING"}
+{"text":"How can I track my progress in Fundamentals, including completed modules and knowledge checks? Are there any reports or analytics available?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to review the course material before moving forward with the knowledge check? Is there a way to refresh my memory on key concepts?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I need to complete Fundamentals before unlocking other courses or tools in the learning centre? What's the reasoning behind this progression?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete the Fundamentals course, and how will it impact my access to more advanced content or features?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide an example of a bite from Fundamentals that I might encounter in the learning centre? What would be the quiz question, and what's the expected answer?","label":"CONTEXT_LEARNING"}
+{"text":"How does earning badges or rewards in Fundamentals contribute to my overall learning objectives and goals? Are there any specific criteria for earning these rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip certain modules or topics within Fundamentals if I'm already proficient in a particular area? How can I demonstrate my existing knowledge?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a knowledge check and a mastery quiz, and how do these assessments impact my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide more information about how Fundamentals connects to other courses or tools in the learning centre, such as Learn the Application or Portfolio Manager? Are there any prerequisites or dependencies?","label":"CONTEXT_LEARNING"}
+{"text":"How can I ensure that I'm adequately prepared for the knowledge check in Fundamentals before moving forward with the course? What resources are available to help me review key concepts?","label":"CONTEXT_LEARNING"}
+{"text":"What's the impact of completing Fundamentals on my ability to access other courses or tools, and how does this progression affect my learning journey as a whole?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why earning badges or rewards in Fundamentals is important for my learning objectives and goals, and what specific criteria are used to determine eligibility?","label":"CONTEXT_LEARNING"}
+{"text":"How can I track my progress through the Fundamentals course, including completed modules and knowledge checks? Are there any reports or analytics available to help me stay on track?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of unlocking Fundamentals compared to not being able to access it, and how will this impact my learning experience as a whole?","label":"CONTEXT_LEARNING"}
