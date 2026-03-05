@@ -1548,3 +1548,33 @@
 {"text":"How does FA Bot calculate returns on investment? Can you walk me through the process?","label":"CONTEXT_LEARNING"}
 {"text":"I'm not sure how to use the knowledge check feature in FA Bot. Can you explain it in more detail?","label":"CONTEXT_LEARNING"}
 {"text":"Can you show me how to view my portfolio allocation and adjust my investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to unlock the Fundamentals of Finance course, but it says I need to complete Learn the Application first. Is that correct?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of the Fundamentals of Finance course if it's locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I'm on the learning pathway and can't move forward because one of the bites is stuck. What do I need to do?","label":"CONTEXT_LEARNING"}
+{"text":"How many rewards or capabilities will I unlock by completing a full module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between wallet balance and course completion? Will my balance change when I finish a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access more than one graph at a time in Portfolio Builder? What are the limits?","label":"CONTEXT_LEARNING"}
+{"text":"How does progress on one module affect unlockability of others? Are there prerequisites for unlocking certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of completing the Fundamentals of Finance course if it doesn't give me access to any tools or features immediately?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Manager until I complete Learn the Application? Is that a requirement?","label":"CONTEXT_LEARNING"}
+{"text":"What's the best way to navigate through the learning centre and make sure I'm on track with my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing all the Fundamentals of Finance bites increase my wallet balance? How much will it be?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a bite or finished a module - are there any visual indicators?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with the wallet growth progression - how does it work and what's the limit?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask for clarification on something if I'm unsure about how to complete a quiz or bite? How do I access help?","label":"CONTEXT_LEARNING"}
+{"text":"How long does it take to unlock new capabilities after completing a full module? Is there a wait period?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any shortcuts or ways to advance faster through the learning centre than just completing each bite in order?","label":"CONTEXT_LEARNING"}
+{"text":"Can I revisit previous bites if I don't get a question right on my first try - are there opportunities for spaced repetition?","label":"CONTEXT_LEARNING"}
+{"text":"What's the recommended approach to using the Learning Centre and ensuring I'm staying on track with my progress? Are there any specific strategies?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing certain bites or modules automatically grant me access to more advanced tools or features in Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle users who are not ready for certain topics or concepts - will they be stuck at a particular point?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards or badges by completing specific milestones or achieving certain goals within the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any external resources available to supplement my learning, such as articles or tutorials outside of the FA Bot system?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress in one area affect my overall wallet balance and capability unlocks? Are there any trade-offs?","label":"CONTEXT_LEARNING"}
+{"text":"Can I customize my learning pathway to focus on specific topics or areas of interest? How do I access these options?","label":"CONTEXT_LEARNING"}
+{"text":"What's the role of the Bot (AI Mediator) in the Learning Centre - can I ask questions and get clarification directly from it?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing a full module significantly increase my wallet balance or unlock new capabilities? How much will it affect my overall progress?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system track my progress and identify areas where I need improvement - are there any analytics or insights provided?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review previously completed bites or modules to reinforce my understanding of the material? Are there opportunities for self-study?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any consequences for failing a quiz or bite within the Learning Centre - do I lose progress or face penalties?","label":"CONTEXT_LEARNING"}
+{"text":"Can I work on multiple bites or modules simultaneously to accelerate my progress and increase my earnings?","label":"CONTEXT_LEARNING"}
