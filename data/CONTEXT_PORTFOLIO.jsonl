@@ -3318,3 +3318,33 @@
 {"text":"Why does my wallet value show more money than I have?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I export my portfolio data?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I set a budget for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount I need to invest in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I added another share, but it doesn’t show up in my portfolio. What’s going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares by market cap?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios without logging out?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add another share but it won’t let me – is there a limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet show more money than I can invest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see the value of each individual asset / shares in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I created a new portfolio, but it doesn’t appear on the list – what happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my wallet value changed so much today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares by price?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset / shares from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the value of my portfolio today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add a share but it wouldn’t let me – what’s the limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a new asset / shares to multiple portfolios at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio value drop sometimes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the performance of each individual asset / shares in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios using the search bar?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio with only asset / shares from Apple. How do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many graphs/charts can I add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit the labels on my graph/chart?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the difference between a share and an asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have two portfolios, but they don’t show up in the list – what’s going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a graph/chart from another portfolio to my current one?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my total profit/loss for all asset / shares in my portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I change the graph/chart type on my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio with only asset / shares from Google. How do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more asset / shares to my portfolio? Is there a limit?","label":"CONTEXT_PORTFOLIO"}
