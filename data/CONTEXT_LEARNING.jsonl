@@ -248,3 +248,53 @@
 {"text":"Can you tell me how to use the completion state for each course in FA Bot to track my progress?","label":"CONTEXT_LEARNING"}
 {"text":"What's the goal of having a behavioral constraint layer in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How do I compare my investment strategies with others who are still learning or progressing in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What does capital actually mean here?","label":"CONTEXT_LEARNING"}
+{"text":"Can I start the Fundamentals course right now?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I getting this error message when trying to complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the knowledge check, but why can't I proceed?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system know I've completed a module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of this risk vs. volatility concept?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use real money to invest in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding diversification. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete the Learn the Application module before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"How often will my wallet balance increase, and how much will each increase be?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a quiz or bite? Will I lose progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get hints or clarification on a specific question in the mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system determine when to unlock new capabilities or rewards?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this bite. Can you help me understand what's going wrong?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a progress bar and a learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my past bites or quizzes to review my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that I'm making progress, not just clicking through exercises?","label":"CONTEXT_LEARNING"}
+{"text":"What are some strategies for maximizing my portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed all the Fundamentals of Finance modules. What's next?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system prevent me from over-investing in a single asset?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get feedback on my investment decisions or portfolio allocation?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common mistakes to avoid when building my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of compound interest. Can you explain it in simpler terms?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle unexpected market fluctuations or economic downturns?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and come back to it later, or do I need to start from the beginning?","label":"CONTEXT_LEARNING"}
+{"text":"What are some benefits of using a simulated equity environment like FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users are making informed investment decisions based on their knowledge and risk tolerance?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my portfolio or investment strategy with others?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the relationship between risk and return. Can you provide more context?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system reward users for completing learning modules or achieving milestones?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common myths or misconceptions about investing that FA Bot addresses?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get personalized investment advice or recommendations based on my profile and goals?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle users who are new to investing or finance?","label":"CONTEXT_LEARNING"}
+{"text":"What are some key takeaways from completing the Fundamentals of Finance module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my learning history and progress over time?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users are engaged and motivated throughout their learning journey?","label":"CONTEXT_LEARNING"}
+{"text":"What are some potential career paths or industries that align with the skills learned in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get support or feedback from a mentor or coach within the FA Bot community?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle users who are struggling to complete modules or achieve milestones?","label":"CONTEXT_LEARNING"}
+{"text":"What are some real-world examples of how the concepts learned in FA Bot apply to investing and finance?","label":"CONTEXT_LEARNING"}
+{"text":"Can I export my portfolio or investment strategy to a spreadsheet or other tool?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users are held accountable for their actions and progress?","label":"CONTEXT_LEARNING"}
+{"text":"What are some potential risks or downsides to using FA Bot's simulated equity environment?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a transcript or recording of my learning sessions or quizzes?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle users who want to accelerate their learning or progress?","label":"CONTEXT_LEARNING"}
+{"text":"What are some additional resources or tools available within FA Bot for further learning and development?","label":"CONTEXT_LEARNING"}
+{"text":"Can I connect my FA Bot account with other financial or investing platforms?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users understand the importance of risk management and diversification?","label":"CONTEXT_LEARNING"}
+{"text":"What are some potential benefits of using FA Bot's learning model for professional development?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a certificate or badge upon completing all modules or achieving certain milestones?","label":"CONTEXT_LEARNING"}
