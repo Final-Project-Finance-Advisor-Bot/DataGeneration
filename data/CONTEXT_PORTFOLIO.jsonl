@@ -3828,3 +3828,33 @@
 {"text":"I want to understand why my wallet value is going down, can you explain?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I search for a company and then add it to my portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I create a new graph/chart?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add <company> to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares in ascending order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value dropped suddenly, what happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio limit say it’s 10,000£ but my balance is less?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset / shares from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to edit <company> asset but it won’t let me","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet showing £500 when the minimum is £1,000?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares alphabetically?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs/charts can I have on my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add more <company> assets, but it won’t let me","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I see my profit or money made from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the <company> asset going down in value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many graphs/charts can I add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I don’t know how to edit an asset / shares allocation","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a graph/chart for <company>’s market performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add <company> to my watchlist?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio value not updating?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I save a portfolio snapshot for later?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the difference between ‘Add’ and ‘Buy’ asset / shares options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset / shares from my watchlist?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a graph/chart for the overall portfolio performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to sell <company> asset but it won’t let me","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio not load properly on this device?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I just created a new portfolio, how do I add an asset / shares to it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see how much money I have in my wallet?","label":"CONTEXT_PORTFOLIO"}
