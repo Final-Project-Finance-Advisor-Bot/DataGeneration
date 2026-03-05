@@ -3618,3 +3618,33 @@
 {"text":"Why does my portfolio limit say ‘asset share allocation’?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I want to see the performance of all my assets combined, can you show me?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I sort my assets by sector or industry?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add another share of Apple to my existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see Google as an available asset, but I don’t know how to add it","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value dropped a lot today, what happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio limit keep going up by $100 every week?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios without losing any assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to delete an asset but it wouldn’t let me – why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares by company name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different asset limits?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more asset / shares to my portfolio? Is there a limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with a specific asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the value of my total wallet? – it looks really high!","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my <company> asset gone down in value so much?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my asset / shares by performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add a graph to show how my portfolio is doing – where do I start?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many asset / shares can I have in one portfolio? Is there a limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My profit amount keeps changing – how often does it update?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m trying to search for Amazon, but I keep getting no results – is it not available?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my asset / shares alphabetically?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add more funds to my portfolio? Can I do it online?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet showing a negative value – did something go wrong?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic portfolio rebalancing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I change the asset limit on an existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the difference between a ‘holding’ and a ‘portfolio’ in the system?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I share my portfolio with someone else? Is that possible?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view historical performance data for a specific asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to delete a graph but got an error – what happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up a custom asset allocation plan for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the value of my <company> asset different on the system versus on market reports?","label":"CONTEXT_PORTFOLIO"}
