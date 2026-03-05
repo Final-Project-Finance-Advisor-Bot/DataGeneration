@@ -5088,3 +5088,33 @@
 {"text":"What’s the minimum money needed to create an asset / shares allocation?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why does my wallet show more money than I can invest?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I sort my assets by market capitalisation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio, what’s the minimum amount I need to start?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios in the app?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I added Apple as an asset but can’t find it on the list, how do I add it again?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the limit for the number of graphs/charts I can add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value dropped a lot today, what happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares in alphabetical order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see Apple as a company to add but don’t know how to proceed, help!","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet show more money than I can invest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset / shares from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares by market cap?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add another share but it won’t let me, what’s the limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the value of my wallet right now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios in the app?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio with a specific asset allocation, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many shares can I add to my portfolio at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the <company> asset value fluctuate so much?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I change the asset / shares limit on an individual asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value changed unexpectedly, what’s going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio with a specific investment goal in mind, how do I set it up?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum amount required to add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see my profit or money made over time on the app?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an existing asset / shares allocation in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add Google as a new company to my portfolio, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I sell some of the asset / shares in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic investment transfers from my bank account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the limit for graph/charts updates per day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio with a specific asset allocation strategy, how do I get started?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see my overall portfolio performance over time on the app?","label":"CONTEXT_PORTFOLIO"}
