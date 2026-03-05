@@ -2388,3 +2388,33 @@
 {"text":"What's the relationship between completing a course and gaining access to new features or tools?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how FA Bot's learning environment supports real-world investing?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know if I've completed all the necessary modules to unlock a new feature or tool?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to unlock Fundamentals of Finance but it's locked. Why?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to move from Learn the Application to Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites am I required to complete in Fundamentals of Finance before unlocking rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how wallet growth works after completing a bite in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Manager course until I've completed Learn the Application and Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"What's the significance of passing the mastery quiz in each bite for unlocking rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how capability unlocks work within the system?","label":"CONTEXT_LEARNING"}
+{"text":"How many portfolio slots are available initially, and how do I unlock more?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having multiple portfolios, and how do they relate to learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what happens when I complete a bite in Portfolio Manager? What rewards can I expect?","label":"CONTEXT_LEARNING"}
+{"text":"How does progress in Fundamentals of Finance affect my wallet balance in the long run?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between risk appetite and portfolio allocation within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of diversification and its role in portfolio management?","label":"CONTEXT_LEARNING"}
+{"text":"How does mastering bites contribute to overall learning progression and unlocking capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it essential to complete a course before moving on to the next one in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you describe how rewards are structured within each bite in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between learning bites and mastery quizzes in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I activate the reward preview feature in a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system ensures users don't overwhelm themselves with too many portfolios or allocations?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail to complete a bite in Fundamentals of Finance - do I lose progress?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's learning pathway progression relate to real-world investing concepts?","label":"CONTEXT_LEARNING"}
+{"text":"Can you demonstrate how completing a course unlocks new capabilities or features within the system?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between wallet growth and portfolio capacity expansion in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated equity environment impact learning outcomes?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system enforces mastery-based progression to avoid overwhelming users?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in Portfolio Manager - do I get instant access to new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's behavioral constraint layer ensure users don't rush through the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how completing bites affects my ability to unlock rewards and capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What's the significance of risk management in FA Bot's investment simulation?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's interactive nature encourage users to explore different learning pathways?","label":"CONTEXT_LEARNING"}
