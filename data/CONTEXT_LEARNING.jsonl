@@ -1638,3 +1638,33 @@
 {"text":"Why is there a limit to how much money I can make with FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How does the system ensure that users are making informed decisions?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what the 'ability' meter is and how it works?","label":"CONTEXT_LEARNING"}
+{"text":"I want to unlock the Fundamentals of Finance course but it’s locked. Why is that?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what simulated money means in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I tried to start the Learn the Application course, but I got a message saying I need to complete the Fundamentals Module first. Is that right?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway or learning centre in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing the Learn the Application module?","label":"CONTEXT_LEARNING"}
+{"text":"I got a bit confused about how risk works in FA Bot. Can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what mastering a knowledge check means in FA Bot? Does it have anything to do with getting more rewards or unlocked capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance in FA Bot? Will I get more simulated money as I complete modules?","label":"CONTEXT_LEARNING"}
+{"text":"What does volatility look like in practice within the FA Bot learning system? Can it help me avoid losses or increase gains?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding why only shares are available for investment in FA Bot. Is that a deliberate design choice?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot differ from real investing platforms like Robinhood or eToro? What unique features does it offer?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of diversification within the FA Bot learning system? Does it help with risk management or portfolio growth?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me what a mastery quiz looks like in FA Bot and how I can prepare for it?","label":"CONTEXT_LEARNING"}
+{"text":"I tried to start the Fundamentals of Finance course, but the UI keeps asking me to unlock new capabilities. What does that mean and how do I get there?","label":"CONTEXT_LEARNING"}
+{"text":"How often will I receive rewards or unlocked capabilities after completing a module or passing a knowledge check in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what tool unlocks are within the FA Bot learning system? What tools become available as I progress through the courses?","label":"CONTEXT_LEARNING"}
+{"text":"I got stuck on a question within the Learn the Application module. Can you clarify why I need to pass this knowledge check before moving forward?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between wallet growth and progression in FA Bot? Will I get more simulated money as I complete modules or pass knowledge checks?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how I can unlock new capabilities within the Fundamentals Module of FA Bot? What specific actions need to be taken?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding what simulated “fake” money means in FA Bot. Can you explain it in simple terms?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle risk management within the learning system? Are there any built-in safety nets or features to prevent losses?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to access the comparison tools within FA Bot after completing a module or passing a knowledge check? How do these tools help with portfolio growth?","label":"CONTEXT_LEARNING"}
+{"text":"I want to unlock more capabilities but I’m not sure what specific modules or knowledge checks I need to complete. Can you provide guidance on my next steps?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of the simulated equity environment in FA Bot? Is it meant to mimic real-world investing experiences?","label":"CONTEXT_LEARNING"}
+{"text":"I got confused about how mastery quizzes work within FA Bot. How do I prepare for these quizzes and what rewards can I expect after passing them?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the difference between learning bites, knowledge checks, and mastery quizzes in FA Bot? What are the purposes of each component?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle overconfidence or loss aversion within its learning system? Are there any built-in features to help users recognize these biases?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide more information about how portfolio capacity expands as I complete modules and pass knowledge checks in FA Bot? What specific capabilities become available then?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding what rewards look like within the FA Bot learning system. Can you show me an example of a reward or unlocked capability after completing a module or passing a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how progress affects my wallet balance in FA Bot? Will I receive additional simulated money as I complete modules or pass knowledge checks?","label":"CONTEXT_LEARNING"}
