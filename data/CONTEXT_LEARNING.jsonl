@@ -5388,3 +5388,33 @@
 {"text":"What is the benefit of completing all courses in the system before accessing advanced features or tools?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know if I've mastered a particular learning bite and can move on to the next one?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the system uses simulated money to teach users about different types of investments?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I trade in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"How does simulated capital work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I don't understand why my wallet balance is increasing slowly","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a quiz to unlock the next module?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot calculate returns?","label":"CONTEXT_LEARNING"}
+{"text":"Can I buy more than one share at once?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of diversification in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features until I complete a module?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle losses?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my portfolio's performance graph?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to pass the knowledge check to unlock a new feature?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use fake money?","label":"CONTEXT_LEARNING"}
+{"text":"Can I trade with real money in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the maximum number of shares I can buy?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a course to unlock a new feature?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle risk appetite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my wallet balance before I start a module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the mastery quiz in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a bite to unlock a new feature?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot calculate my total capital?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my portfolio's performance chart?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to pass the knowledge check to unlock a new feature?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle progress tracking?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my wallet balance after I complete a module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the maximum number of portfolios I can create?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a course to unlock a new feature?","label":"CONTEXT_LEARNING"}
