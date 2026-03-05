@@ -798,3 +798,33 @@
 {"text":"How does my wallet balance affect my progress in the system?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what the 'capability unlock' feature means?","label":"CONTEXT_LEARNING"}
 {"text":"Why is it important to complete a course before unlocking its next level?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to unlock the Fundamentals of Finance course. Can you tell me why it's locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway once I've unlocked the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing a mastery quiz in each bite? Will it unlock anything new?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this particular quiz. Can you explain what risk appetite means and how it affects my investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a learning bite if I've already mastered the previous one? Is that even possible?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with the wallet growth progression? How does it relate to unlocking new capabilities or rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio slots once I've completed the Fundamentals course? Can you explain the process in more detail?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the behavioural progression engine? How does it interact with the learning pathway and wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the Portfolio Builder tool once I've unlocked the Fundamentals course? What features will be available?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see any progress on my portfolio allocation until I complete a specific module? Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a learning bite affect my ability to unlock new rewards or capabilities? Can you give me an example of what I might gain?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a mastery quiz if it's not going to automatically unlock anything new? Is there something else I'm missing?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how my wallet growth progression works. Can you explain the doubling pattern and what it means for my investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a course if I've already mastered all of its content? Will that affect my overall progress or wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which modules to focus on next if I'm not sure what's required for unlocking new capabilities or rewards? Can you provide some guidance?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and the overall progression of the system? How does it impact my ability to unlock new features or rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access my progress in real-time within the application? Are there any tools that help me track my advancements?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of risk appetite. Can you explain it in more detail and provide an example of how it might be applied to my investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a course affect my ability to access certain tools or features within the system? Are there any specific requirements or qualifications needed?","label":"CONTEXT_LEARNING"}
+{"text":"What's the significance of the behavioural progression engine in terms of unlocking new capabilities or rewards for users? Can you elaborate on its role in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my progress across multiple courses and learning bites? Are there any specific metrics or KPIs that I can track?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how my wallet balance is affected by my investment strategy. Can you explain the relationship between wallet growth and unlocking new features or rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've reached a milestone in my progress through the system? Are there any specific indicators or notifications that I should be aware of?","label":"CONTEXT_LEARNING"}
+{"text":"Can I customize my learning experience within the application? Are there any options for adjusting the pace or focus of my training?","label":"CONTEXT_LEARNING"}
+{"text":"What's the role of the Chat panel in terms of providing guidance and support throughout the system? Can users interact with the bot to clarify their progress or ask questions?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a course affect my ability to access certain features or tools within the Portfolio Builder? Are there any specific requirements or qualifications needed?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my past progress and accomplishments within the system? Are there any features that allow me to review my growth and development?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how my risk tolerance affects my investment strategy. Can you explain the concept in more detail and provide an example of how it might be applied?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system integrate multiple courses and learning bites to provide a comprehensive learning experience? Are there any specific synergies or benefits that arise from combining different topics?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access my wallet balance and investment strategy in real-time within the application? Are there any tools that help me track my progress and make adjustments as needed?","label":"CONTEXT_LEARNING"}
