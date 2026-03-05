@@ -2178,3 +2178,33 @@
 {"text":"Can I see how my progress and completion rate affect my overall score or ranking within the system? Is it public?","label":"CONTEXT_LEARNING"}
 {"text":"How do I access the detailed breakdown of what rewards or capabilities are unlocked after completing a certain number of bites or capabilities? Is there a leaderboard?","label":"CONTEXT_LEARNING"}
 {"text":"Can I see how unlocking new capabilities and learning bites affects my progress towards reaching specific milestones in terms of wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what simulated fake money means in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet? Is there something I need to complete first?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing a module of Learn the Application course?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what diversification means in the context of FA Bot and how it helps with risk?","label":"CONTEXT_LEARNING"}
+{"text":"What tools become available as I progress through the Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"Why only shares are available in FA Bot? Is there something else I can invest in?","label":"CONTEXT_LEARNING"}
+{"text":"How does investing work step-by-step within FA Bot for a beginner like me?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check or mastery quiz? Can I retry?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance increase after completing a course in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio slots as I progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the loss aversion concept in FA Bot and how can it help me make better investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I not able to access certain bites or modules yet? Is there something specific I need to complete first?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the difference between investing in shares and other types of investments available on FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common mistakes that new users like me make when investing in FA Bot, and how can I avoid them?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my progress through the Fundamentals Module and what steps do I need to take to unlock the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"What are some real-world scenarios where diversification is important for investors, and how does FA Bot help with that?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance decrease after completing a course in FA Bot? Is there something I need to do differently?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of risk vs volatility in FA Bot and how it affects investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"How can I prioritize which bites or modules to complete first to make the most progress in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common questions that new users like me have when trying to understand investing in FA Bot, and how can I get help with them?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what is meant by 'simulated fake money' in FA Bot and how it works?","label":"CONTEXT_LEARNING"}
+{"text":"How does the loss aversion concept relate to my investment decisions in FA Bot, and can I avoid overconfidence biases?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common pitfalls or challenges that users face when trying to master the Fundamentals Module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the portfolio capacity limit is important for investors, and how it helps with risk management?","label":"CONTEXT_LEARNING"}
+{"text":"How can I maximize my returns on investment in FA Bot by diversifying my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"What are some real-world examples of how diversification can help mitigate risks in investing?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what is meant by 'risk appetite' in FA Bot and how it affects investment decisions?","label":"CONTEXT_LEARNING"}
