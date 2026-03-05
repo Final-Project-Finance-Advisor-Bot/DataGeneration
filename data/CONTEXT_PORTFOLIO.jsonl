@@ -198,3 +198,53 @@
 {"text":"How many asset / shares can I hold in one portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"My wallet shows $1000 but it says I need $500 for minimum funds. What happened to the other money?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I add Apple to my portfolio if it’s not listed yet? Will I be able to search for it or can only pre-added companies be added?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t see my portfolio on the dashboard, where is it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio value keep going up?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios quickly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset / shares from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value keep dropping?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares by type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add more than 10 assets / shares to a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t see the graph of my portfolio, where is it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the value of my total asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio not allow me to buy more asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with different settings?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with the same name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the maximum number of asset / shares that can be added to a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an existing asset / shares allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet show more money than I have invested?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a graph/chart to my portfolio overview page?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares by market value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t see the <company> asset in my portfolio, where is it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum number of assets / shares required to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an entire portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for asset / shares by name or ticker?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio value keep dropping due to fees?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add more than one asset / shares to a portfolio at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio with the same settings as an existing one?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the maximum number of portfolios that can be created?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t see my profit or money made on the dashboard, where is it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by ticker symbol?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value keep changing due to interest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a graph/chart to a specific asset / shares allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares by market cap?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t see the graphs/charts of my portfolio, where are they?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum investment required to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset / shares from a specific allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio not allow me to buy asset / shares from a specific company?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares by sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t see the value of my total wallet, where is it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a graph/chart to the portfolio overview page?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the maximum number of asset / shares that can be deleted from a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value keep changing due to dividends?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for an asset / shares by name or description?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio with the same settings as another user’s?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t see my graph/charts of the <company> asset, where are they?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum investment required to buy a single asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a graph/chart to a specific portfolio dashboard?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio not allow me to sell asset / shares from a specific company?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares by date of purchase?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t see the total value of my wallet, how do I calculate it?","label":"CONTEXT_PORTFOLIO"}
