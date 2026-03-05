@@ -5838,3 +5838,33 @@
 {"text":"Why does my wallet value not update immediately?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I have more than 5 asset / shares in each graph/chart?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I tried to add a company that doesn’t exist but it won’t let me, why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I don’t see any options to create a new portfolio, where can I start?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios if I have multiple ones?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum money needed to invest in your platform?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio value keep dropping?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset / shares to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to delete an asset but it won’t let me because it’s worth too much, is there a limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value keep increasing when I’m not adding money?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have 10 asset / shares, how many can I add?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of assets can I invest in on your platform?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t my portfolio update when the market changes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares by value or name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to invest in Apple, how do I add it to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more asset / shares than the allowed limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with a specific asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a portfolio with both growth and income assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the difference between my wallet value and my portfolio value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have $1000, can I invest in your platform?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio show more money than I invested?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios on the go?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an asset / shares allocation in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What happens if I delete all my assets from a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple graphs/charts for different portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my graph/chart show the wrong data?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares in alphabetical order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to invest in Google, how can I add it to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio show a loss when the market is high?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a budget for my portfolio investments?","label":"CONTEXT_PORTFOLIO"}
