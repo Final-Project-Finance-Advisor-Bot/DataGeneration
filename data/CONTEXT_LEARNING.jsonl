@@ -5658,3 +5658,33 @@
 {"text":"Can you explain what 'simulated' investments mean?","label":"CONTEXT_LEARNING"}
 {"text":"What's the point of taking a mastery quiz?","label":"CONTEXT_LEARNING"}
 {"text":"Why do I need to understand diversification before unlocking more portfolio slots?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to progress?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing a module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work?","label":"CONTEXT_LEARNING"}
+{"text":"What tools become available as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"What do I gain from completing courses?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"I’m stuck on the Learn the Application course, what’s next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how wallet growth works?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my portfolio builder?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble with the fundamentals of finance module, what can I do?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a maximum number of portfolios available?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me an example of how to increase my portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"How does the bite-based mastery model work?","label":"CONTEXT_LEARNING"}
+{"text":"I’m not sure what type of questions to ask in a mastery quiz","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach the end of a learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how capabilities are unlocked and tied to rewards?","label":"CONTEXT_LEARNING"}
+{"text":"I’m confused about how asset limits work in FA Bot","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my ability to access tools like graphs and charts?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me an example of a graph I can unlock in the portfolio builder?","label":"CONTEXT_LEARNING"}
+{"text":"I’m not sure what I need to do to progress from Learn the Application to Fundamentals","label":"CONTEXT_LEARNING"}
+{"text":"How does the system prevent users from accessing advanced features without completing required modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how user agency is preserved throughout the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble with understanding risk and volatility in FA Bot","label":"CONTEXT_LEARNING"}
