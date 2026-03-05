@@ -5088,3 +5088,33 @@
 {"text":"I'm stuck on the Learn the Application course, can you clarify what I need to do next?","label":"CONTEXT_LEARNING"}
 {"text":"How does the learning pathway work in FA Bot? Are there any prerequisites for progressing through the different courses?","label":"CONTEXT_LEARNING"}
 {"text":"I just completed a learning bite and a reward pop-up appeared. What's that all about?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my wallet is still 0 after completing a learning bite?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the Learn the Application module, how do I proceed?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"How does progress tracking work for individual modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand what 'risk appetite' means in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure why my portfolio capacity is still 1 after completing a learning pathway","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards work for unlocking new capabilities or features?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of simulated ('fake') capital in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between completing a learning bite and finishing a module?","label":"CONTEXT_LEARNING"}
+{"text":"I need help understanding how volatility works in FA Bot","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify why my wallet balance increases after completing a course but not after unlocking a capability?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolios after completing the Learn the Application module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the mastery quiz in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding why my wallet still has 0 when I've completed multiple learning bites","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how progress tracking affects my overall score or grade?","label":"CONTEXT_LEARNING"}
+{"text":"How does the Learn the Application module affect my ability to unlock other courses?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I skip a learning bite in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand how the 'tool holder' view affects my experience with FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the full-screen mode and return to the main interface?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between completing a course and unlocking a capability in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I need help understanding how the 'behavioural' aspect of FA Bot works","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my wallet balance decreases after completing a learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional features or capabilities in FA Bot beyond what's available in the Learn the Application module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the 'capability unlock' mechanism in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand how the 'progression' aspect of FA Bot works?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through multiple learning pathways or modules?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between completing a module and unlocking a capability in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding why my wallet balance increases after completing a course but not after reaching certain milestones","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the 'mastery' aspect of FA Bot works?","label":"CONTEXT_LEARNING"}
