@@ -2388,3 +2388,33 @@
 {"text":"My wallet value is very low, what are the options?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I delete an asset / shares?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why doesn’t my portfolio value update when I make a change?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how to use this portfolio thing, can someone help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch between portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I added another Apple share but it didn’t go through, what happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my shares by market value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios for different types of investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio value went up, how did it happen?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I change the asset allocation of my existing shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add another share but it won’t let me, is there a limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the current value of my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see my profit or money made from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset shares by type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My graph doesn’t show the data I want, what should I do?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I don’t know how to add a new asset to my portfolio, can someone help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many shares do I currently have in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value changing every day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch from a cash account to a trading account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My asset allocation is not making sense, can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I export my portfolio data?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic investment plans for new shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know more about the performance of my Apple shares, can you tell me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of time I have to invest in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a new graph to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I view my entire portfolio history?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I use the search function to find specific assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I change the currency for my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My shares are not being updated, what should I do?","label":"CONTEXT_PORTFOLIO"}
