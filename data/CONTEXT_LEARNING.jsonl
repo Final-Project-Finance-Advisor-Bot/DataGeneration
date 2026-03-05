@@ -5148,3 +5148,33 @@
 {"text":"What’s the purpose of the CAPABILITY UNLOCK message when I complete a course?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the learning pathway integrates with real-world investing platforms? How does FA Bot differ?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which course to upgrade to after completing the Fundamentals of Finance module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what the Fundamentals of Finance course is all about?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access this module yet? Is it because I didn't complete the required learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a mastery quiz in each bite? Does it just make sure I understand what I'm doing?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bites to start with? Are they randomly assigned or can I choose?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the wallet balance works after completing a module? Is it just a multiplier effect?","label":"CONTEXT_LEARNING"}
+{"text":"What are these 'capabilities' I hear about? How do they relate to unlocking new rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access all tools and resources from the start, or is there a progression system at play?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing one bite affect my overall progress in the system? Do I get any benefits or penalties?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a 'Continue Learning' button if I'm already on track to finish the course? Can't it just auto-advance me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which rewards are available for me to unlock after completing each module? Is there a list somewhere?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system tracks my progress and what that means for my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I just buy assets or execute trades right away like on real investing platforms? What's the purpose of this simulated environment?","label":"CONTEXT_LEARNING"}
+{"text":"What does ' behavioural progression' mean in the context of FA Bot? Is it about learning to manage risk?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which courses are the most relevant or useful for my learning goals, given all these options? Can you provide some guidance?","label":"CONTEXT_LEARNING"}
+{"text":"What's the significance of having a 'full-screen mode' in the application? Does it improve focus on tasks?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure I don't feel overwhelmed with too many features or options at once? Is there some kind of prioritization mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how 'cognitive scaffolding' works in FA Bot, and what benefits it brings to learners?","label":"CONTEXT_LEARNING"}
+{"text":"What are these 'psychological modules' I hear about? How do they relate to learning and decision-making processes?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system helps me recognize my own biases or blind spots in investing? What resources can I use for this purpose?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot balance providing enough guidance with giving learners sufficient autonomy to make their own decisions? Is it a delicate balancing act?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between 'risk appetite' and 'volatility' in the context of investing, and how do I understand them better?","label":"CONTEXT_LEARNING"}
+{"text":"How can I tell if I'm making progress through the system, and what metrics or indicators would be most helpful for me to track my own learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through an example of how the system tracks my wallet balance after completing a module, and how that affects my overall progress?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of having 'graph' tools in FA Bot, and how do they relate to learning and visualizing financial concepts?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how 'capability unlocks' work within the system, and what benefits or rewards can I expect when I unlock each new capability?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use rewards to motivate learners and reinforce positive behaviors? What's the thought process behind designing these reward systems?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system's 'behavioural constraint' layer affects my learning experience, particularly in terms of managing risk or volatility?","label":"CONTEXT_LEARNING"}
+{"text":"What's the significance of having a gradual progression system that unlocks new features and capabilities as I learn and complete modules? How does this impact the overall learning curve?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses 'learning pathways' to organize its content and guide learners through their journey? What's the logic behind this structure?","label":"CONTEXT_LEARNING"}
+{"text":"How can I tell if I'm on track to meet my learning goals, given all these different courses and modules available in FA Bot? Are there any specific milestones or checkpoints that I should be aware of?","label":"CONTEXT_LEARNING"}
