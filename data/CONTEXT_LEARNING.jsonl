@@ -3468,3 +3468,33 @@
 {"text":"Can you clarify what 'capability-based progression' means and how it relates to the Learning Centre's design?","label":"CONTEXT_LEARNING"}
 {"text":"What are some potential drawbacks or limitations of using a simulated equity environment for learning about investing?","label":"CONTEXT_LEARNING"}
 {"text":"How does the system address the need for users to develop practical skills or real-world experience in investing?","label":"CONTEXT_LEARNING"}
+{"text":"I want to unlock the Fundamentals of Finance course, what do I need to do?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Fundamentals course yet? Is it because I haven't completed Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway? What's the next step after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"I just finished a bite in the Portfolio Manager, what rewards can I expect to unlock?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all the Fundamentals courses? Will I get more wallet money?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning bites work again? How many questions are there in each bite?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding risk appetite - can you explain it to me again?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the Fundamentals courses and unlocked the Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how the simulated equity works again? How does it relate to real investing?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see more than one graph at a time in the Portfolio Builder? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of the mastery quiz - is it really necessary?","label":"CONTEXT_LEARNING"}
+{"text":"I just got my first reward for completing a Fundamentals course, what does it mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've unlocked the next level in the learning pathway? What's the criteria?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to complete a bite and unlock rewards again?","label":"CONTEXT_LEARNING"}
+{"text":"I want to understand what happens when I fail a quiz - is it really bad news?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features until I've completed more courses? Is that supposed to be part of the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"How does progress in one course affect my overall wallet balance and capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning centre works - what's the difference between a bite and a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a Fundamentals course, when can I expect to unlock new rewards and capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't complete all the courses in a certain order - will it affect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to review completed courses again - what's the point of reviewing?","label":"CONTEXT_LEARNING"}
+{"text":"How does progress in one course impact my ability to access more advanced tools or capabilities in the future?","label":"CONTEXT_LEARNING"}
+{"text":"I want to understand what kind of questions I'll be asked in the mastery quiz - are they really that tough?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I unlock all the rewards at once - is it supposed to take time?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my wallet balance and capabilities progress over time - what's the pattern?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new reward for completing a Fundamentals course, what does it look like?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I'm on track to complete all the courses and unlock all the rewards? What's the goal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to use the Portfolio Builder again - what's the point of building a portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"I want to understand how my progress affects my ability to access more advanced features or tools in the future.","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see my overall wallet balance and capabilities until I've completed all the courses? Is that supposed to be part of the learning process?","label":"CONTEXT_LEARNING"}
