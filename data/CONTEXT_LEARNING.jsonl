@@ -1458,3 +1458,33 @@
 {"text":"What are some potential drawbacks to using FA Bot for investment education?","label":"CONTEXT_LEARNING"}
 {"text":"Can you clarify how FA Bot's learning progression model affects my portfolio growth?","label":"CONTEXT_LEARNING"}
 {"text":"How does FA Bot's simulated environment impact my understanding of real-world investing?","label":"CONTEXT_LEARNING"}
+{"text":"What does capital actually mean here?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding risk appetite. Can you explain it like I'm a beginner?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to pass the fundamentals quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does volatility look like in practice?","label":"CONTEXT_LEARNING"}
+{"text":"Is diversification supposed to remove risk?","label":"CONTEXT_LEARNING"}
+{"text":"How do returns get calculated in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why is FA Bot using fake money? Is this a normal way to invest?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how shares and company ownership work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check? Do I have to start over from the beginning?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the difference between risk and volatility. Can you clarify that for me?","label":"CONTEXT_LEARNING"}
+{"text":"How does investing in FA Bot differ from real-life investing platforms like Robinhood or Vanguard?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see any examples of how returns are calculated in the Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of diversification if it's supposed to reduce risk? Is that not just a trade-off?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why only shares are available for investment in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which stocks to buy in the Fundamentals Module? Can I just invest in any stock?","label":"CONTEXT_LEARNING"}
+{"text":"I'm feeling overwhelmed by all the options. Can you help me simplify things?","label":"CONTEXT_LEARNING"}
+{"text":"What's a good risk appetite for someone starting out with investing in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the knowledge check in the Fundamentals Module work? Is it multiple choice?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide some real-life examples of how volatility affects investment returns in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding why I need to pass the quiz. Can you explain what will happen after I complete it?","label":"CONTEXT_LEARNING"}
+{"text":"How does diversification help reduce risk in my portfolio? Can you provide some examples?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a high-risk stock and a low-risk stock in FA Bot? Can you explain that with an example?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand how returns are calculated for different stocks in FA Bot? Is it a simple formula?","label":"CONTEXT_LEARNING"}
+{"text":"Why is FA Bot using fake money instead of real money? Is this just for educational purposes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which stocks to buy when I'm starting out with investing in FA Bot? Can you provide some recommendations?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the risk appetite slider works in FA Bot? How does it affect my investment returns?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of the Fundamentals Module if I'm already familiar with investing? Can I skip it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've reached my risk appetite level in FA Bot? Is there a limit?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide some examples of how volatility can affect investment returns in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm feeling stuck on the Fundamentals Module. Can you help me understand where I went wrong?","label":"CONTEXT_LEARNING"}
