@@ -4278,3 +4278,33 @@
 {"text":"What is the goal of the system's mastery-based learning model? Is it supposed to be challenging?","label":"CONTEXT_LEARNING"}
 {"text":"How do I access more assets or portfolio capacity as I progress through the system?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the learning centre works, and how I can move forward?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use real money in the simulated environment?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system determine what rewards can be unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance affected by learning completion?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of passing the knowledge check quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access tools or features before completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"How does system progression affect my ability to unlock capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see certain rewards or capabilities yet?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between learning completion and wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards by completing specific bites?","label":"CONTEXT_LEARNING"}
+{"text":"Why does the system use a simulated environment for learning?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of passing the mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do capabilities unlock relate to learning completion?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access my progress or completed bites in the dashboard?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to complete a course before unlocking the next one?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system track my learning progress?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach 100% completion on a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio with others in the community?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it beneficial to diversify my investments?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system prevent over-reliance on a single investment strategy?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between learning completion and wallet allocation?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my completed bites or knowledge checks in a history log?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users are not overwhelmed with too many capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the capability unlock mechanism?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features or tools until I meet specific requirements?","label":"CONTEXT_LEARNING"}
+{"text":"How does learning completion affect my ability to compare portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn badges or rewards for completing courses?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to review and reflect on my progress regularly?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach the maximum number of portfolios or allocation slots?","label":"CONTEXT_LEARNING"}
