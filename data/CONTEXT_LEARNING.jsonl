@@ -2508,3 +2508,33 @@
 {"text":"Can you explain the role of the AI mediator (chat bot) in FA Bot? Is it like having a personal financial advisor?","label":"CONTEXT_LEARNING"}
 {"text":"How does FA Bot handle situations where I've completed all available learning content and want to proceed with investing?","label":"CONTEXT_LEARNING"}
 {"text":"What's the deal with the different types of investments in FA Bot (e.g., shares, bonds)? How do these impact my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to unlock the Fundamentals of Finance course but it says I need to complete a Learn the Application module. Can you help me figure out what that means?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Manager tool yet? I've completed all the required modules.","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've mastered a bite in the Learning Centre? Do I need to get 100% right on every question?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing the Fundamentals course if I won't have access to actual money management tools afterwards?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to figure out my risk appetite. Can you explain how volatility works in the context of FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a Learn the Application module and it unlocked the Fundamentals course for me. Now what's next?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone help me understand why my wallet balance isn't increasing as quickly as I expected after completing a bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more portfolio capacity beyond the initial 5 slots? Is there a specific number of bites or courses I need to complete?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of diversification in FA Bot? Does it really help reduce risk?","label":"CONTEXT_LEARNING"}
+{"text":"I just got access to the Portfolio Manager tool and I'm not sure what the 'Disposition Effect' means. Can you explain that?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a reminder of how much money I have in my wallet at any given time? I feel like it's hard to keep track of.","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand why my allocation capacity isn't increasing yet. Is there something I need to do or complete before then?","label":"CONTEXT_LEARNING"}
+{"text":"How do the different rewards and capabilities unlock in FA Bot? What's the connection between them?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone help me figure out what 'Loss Aversion' means in the context of investing and risk management in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a bite in the Learning Centre and it unlocked a new tool. How do I access it now?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a limited number of portfolio capacity slots? Is there a specific reason why FA Bot limits them?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get clarification on what 'Overconfidence Bias' means in the context of investing and decision-making in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how the learning pathway works. Do I need to complete all bites in a specific order or can I jump around?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've reached my maximum allocation capacity? Is there a specific threshold I need to exceed?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone help me figure out what 'Spaced Repetition' means in the context of bite learning in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed the Fundamentals course and it unlocked some new rewards. How do I redeem them now?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of having a structured learning pathway in FA Bot? Does it really help me become a better investor?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get clarification on what 'Cognitive Scaffolding' means in the context of learning and investment in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how the rewards system works. Do I get rewarded for completing bites or is it just a bonus?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've mastered a specific topic or skill in FA Bot? Is there a specific threshold I need to exceed?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone help me figure out what 'Return on Investment' means in the context of investing and risk management in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a bite in the Learning Centre and I'm not sure if I've unlocked a new tool or capability. Can you help me figure it out?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a 'Wallet Growth' progression system in FA Bot? Does it really help me see my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get clarification on what 'Tool Holder' means in the context of FA Bot? Is it just a fancy name for 'user'?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how the different learning bites and quizzes work together. Are they all part of a larger puzzle?","label":"CONTEXT_LEARNING"}
