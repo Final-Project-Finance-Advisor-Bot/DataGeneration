@@ -4068,3 +4068,33 @@
 {"text":"Can you walk me through how the portfolio capacity expansion works and how it relates to my learning progression?","label":"CONTEXT_LEARNING"}
 {"text":"What is the difference between a mastery check and a knowledge check, and why are they both important in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How does the system handle users who need more time or practice with certain concepts before moving on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed Learn the Application, but my Fundamentals of Finance course is still locked. Why is this?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens after I finish a bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I get for completing the Fundamentals Module in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"I see that my wallet is only £100, but I've completed some bites. Why can't I access more tools yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio slots after completing a few bites?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of the mastery quiz in a bite? Does it really matter if I get 100% correct?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I reach 100% completion on a course?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding risk appetite. Can you give an example?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system know when I've completed a course or module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I try again on a quiz if I get it wrong, or is that just part of the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a tool and a feature in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what to do with my £500 wallet. Can you help me understand how it works?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features or tools until I've completed the Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why diversification is important in investing? Is it just about reducing risk?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tools to use for each bite, and how do they help with learning?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finish all the bites in a course? Do I get some kind of reward or unlock new things?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the wallet growth progression? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the Learning Centre, and what does each number mean?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how the system unlocks new capabilities. Can you explain that process?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the tool unlocks, and how do they help with learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what happens when I'm in full-screen mode and can't access certain features or tools?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble finding a specific feature or tool. Can you give me some tips on where to look?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system know that I've completed each bite, and what happens after that?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the rewards work in FA Bot? Are they just a way to motivate learning?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of the graph tool, and how do I use it?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what to expect when I finish all the bites. Can you give me an idea of what happens next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my progress affects my wallet balance and access to tools?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which learning paths or modules are recommended for me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the role of the bot in FA Bot, and how does it help with learning?","label":"CONTEXT_LEARNING"}
