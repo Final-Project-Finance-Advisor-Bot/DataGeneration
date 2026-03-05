@@ -298,3 +298,53 @@
 {"text":"Can I delete all asset / shares from my portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I search for a specific company by industry?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I want to add a graph/chart that shows the performance of all asset / shares in my portfolio, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a portfolio with no limits?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add an asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount required for a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I delete a share from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset shares by value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add more than 10 shares to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value keep changing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different asset shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs can I create for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete a graph from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio value go up and down?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the total number of asset shares I have?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organize my asset shares alphabetically?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific amount for each share in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I add a new asset if it's not available?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I see my profit or money made from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a free trial with no limits on assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the system say I need to deposit more funds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the best way to keep track of my asset shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio with a specific asset as the starting point?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out how much each asset share is worth?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I add a graph to my portfolio if it's not available?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific date for when the assets in my portfolio are bought?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the difference between a standard and premium portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the system say I need to confirm my portfolio changes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset shares by price?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio and add it automatically to a specific account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I delete an asset share if it's the last one in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I see how many assets are in my portfolio at any given time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a portfolio with no fees or commissions?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the system say I need to update my portfolio information?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset share to an existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios and switch between them easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount required for a portfolio update?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I delete all asset shares from my portfolio at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out how much money I have available to invest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a new graph to my portfolio and customize it easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the best way to track my portfolio's performance over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the system say I need to confirm asset share purchases?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio and add it automatically to a specific investment account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset shares by ticker symbol?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific date for when the assets in my portfolio are sold?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the system say I need to update my wallet information?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum money needed to create a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add more shares of <company> than my wallet can cover?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried adding a new asset but it kept telling me it’s not available, what do I do?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many graphs/charts can I add to my portfolio at one time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet says I have $1000 but I only put in $500 – why does it show more money?","label":"CONTEXT_PORTFOLIO"}
