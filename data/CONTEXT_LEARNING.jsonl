@@ -4728,3 +4728,33 @@
 {"text":"Are there any real-world equivalents or correlations between the concepts learned in each bite?","label":"CONTEXT_LEARNING"}
 {"text":"Can I learn at my own pace without feeling locked into a specific progression order? Are there options for flexibility?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I reach the maximum number of portfolios unlocked - can I continue learning and progressing?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean within FA Bot","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this knowledge check in Fundamentals. Can you explain the question again?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone help me understand why I need to pass this quiz to unlock the next module?","label":"CONTEXT_LEARNING"}
+{"text":"What does volatility look like in practice, and how can I minimize its impact?","label":"CONTEXT_LEARNING"}
+{"text":"Why is diversification supposed to reduce risk, but I'm still seeing high returns on my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"How do returns get calculated in FA Bot, and what factors affect them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about the difference between shares and company ownership. Can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to have a risk appetite, and how can I adjust mine within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I only able to buy shares in FA Bot, and are there other investment options available?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the Fundamentals module is locked for me, and what I need to do to unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the knowledge check in Fundamentals. Can someone help me understand the correct answer?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'passing' the quiz mean in FA Bot, and how will it impact my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How can I minimize my losses if I fail the knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why FA Bot is using fake money instead of real capital?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'risk vs volatility' mean, and how do these factors interact within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How can I diversify my portfolio in FA Bot to reduce risk and increase returns?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I only seeing shares available for investment in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone help me understand the difference between 'returns' and 'volatility' in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I adjust my risk appetite within FA Bot, and what are the benefits of doing so?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to have a 'risk aversion', and how can I overcome this within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the Fundamentals module is not automatically unlocked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if my portfolio is diversified enough in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What are the implications of 'passing' the quiz in Fundamentals on my overall progress in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I optimize my returns in FA Bot, and what factors contribute to this outcome?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'risk management' mean in the context of FA Bot, and how can I implement it?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone help me understand why the Fundamentals module requires a knowledge check before unlocking the next module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I evaluate my progress within the Fundamentals module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What are the consequences of failing the knowledge check in Fundamentals, and how can I mitigate these risks?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the Fundamentals module is structured as a series of bite-sized learning modules?","label":"CONTEXT_LEARNING"}
+{"text":"How do I prioritize my learning objectives within the Fundamentals module in FA Bot?","label":"CONTEXT_LEARNING"}
