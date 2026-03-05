@@ -4938,3 +4938,33 @@
 {"text":"Can I have more than one wallet? Can you explain the rules and benefits?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I’m not sure if the system is charging me any fees. Can you tell me?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why does my asset / share value fluctuate so much? Is this normal?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add an asset to my existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I switch between portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money required to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios at the same time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What happens when I sell an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I see my total wallet value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio value not updating correctly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific asset to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many assets can I have in each portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the difference between a graph and a chart?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add more assets to my existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I edit an asset’s allocation in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between different types of assets (e.g. stocks vs bonds)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organize my assets by type or location?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the current value of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a budget for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view historical performance of an asset in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet showing more money than I have available to invest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I split my assets across multiple portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset from a specific industry (e.g. tech)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What are the different types of graphs/charts available in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I compare my portfolio’s performance to others?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set a target date for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more graphs/charts than allowed by the limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I save my portfolio as a template for future use?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I export my portfolio data to a CSV file?","label":"CONTEXT_PORTFOLIO"}
