@@ -4788,3 +4788,33 @@
 {"text":"How do I know when I've reached a milestone in my learning journey, such as completing a certain number of courses or reaching a specific wallet balance?","label":"CONTEXT_LEARNING"}
 {"text":"What's the 'behavioural constraint layer' in FA Bot, and how does it impact user engagement and motivation throughout the learning process?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me more about how FA Bot uses 'cross-course interdependency' to connect different learning modules and create a cohesive learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I'm ready for the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the learning centre yet?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what rewards unlock as I progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance change after completing the first course?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of passing the knowledge check in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip the quiz in the learning centre or do I have to complete it?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress affect my ability to unlock new features?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my completed bites and quizzes in one place?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've unlocked a new feature or tool?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with the simulated 'fake money' in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I trade using real money in FA Bot or is it just for practice?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access my portfolio yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I compare my portfolios and see what's working best?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of completing the Fundamentals of Finance course before Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use my wallet balance to unlock a new feature or tool in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system know when I'm ready for a new challenge?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of setting goals and milestones in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress on completing bites and quizzes over time?","label":"CONTEXT_LEARNING"}
+{"text":"How do I earn rewards for completing courses or achieving certain milestones?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with the system's ' capability unlock engine'?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see a list of all my completed bites and quizzes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've reached my financial goals in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of using FA Bot's simulated 'fake money' over real money?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how different investment strategies perform in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I compare my portfolio to others in the system?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of using FA Bot's 'Portfolio Builder' tool?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see a detailed breakdown of how my wallet balance changes over time in FA Bot?","label":"CONTEXT_LEARNING"}
