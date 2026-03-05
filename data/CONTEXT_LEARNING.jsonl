@@ -4848,3 +4848,33 @@
 {"text":"Will there be any social features or community aspect to the application where I can connect with other learners?","label":"CONTEXT_LEARNING"}
 {"text":"Can I view my learning history and see how far I've come since starting the application?","label":"CONTEXT_LEARNING"}
 {"text":"Are there any real-world applications or scenarios that I can learn about through interactive simulations within the Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to 'pass' a mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how investing works step-by-step in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'simulated capital' mean in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why is risk appetite important in investing?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what rewards I unlock after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance change as I complete courses?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to take the knowledge check or mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what diversification means in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tools are available to me?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access Portfolio Builder yet?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of capability unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how progression affects my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset my progress if I'm stuck on a course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to understand risk when investing?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of returns in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know what tools are locked or available?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between risk and performance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how much simulated capital I start with?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to diversify my investments?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between 'Continue Learning' and 'Review Learning'?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how learning bites work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to take breaks from studying?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the Bite-Based Mastery Model?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between mastery quizzes and learning progression?","label":"CONTEXT_LEARNING"}
