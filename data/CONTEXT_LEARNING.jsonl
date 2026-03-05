@@ -2718,3 +2718,33 @@
 {"text":"I’m interested in understanding the different types of tools available as I progress through this system - can you explain?","label":"CONTEXT_LEARNING"}
 {"text":"What’s the best way to get clarification on specific concepts or topics within this system?","label":"CONTEXT_LEARNING"}
 {"text":"Can you show me an example of how completing a learning pathway unlocks new capabilities or rewards in this system?","label":"CONTEXT_LEARNING"}
+{"text":"I see Fundamentals of Finance course is locked for me. Can I unlock it now?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock next bite in Learning Centre after completing current one?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean within FA Bot learning platform?","label":"CONTEXT_LEARNING"}
+{"text":"I have completed 2 bites, why is my wallet still low?","label":"CONTEXT_LEARNING"}
+{"text":"How to unlock portfolio capacity expansion after completing specific Learn the Application module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how risk appetite affects investing in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing Fundamentals of Finance course before moving on to Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"I have passed the knowledge check, but my wallet still hasn't increased. Is there something wrong with it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in Learning Centre and what does each stage mean?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features or tools until I complete specific learning modules?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock a new capability in FA Bot learning system?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand how wallet progression works after completing bites and courses?","label":"CONTEXT_LEARNING"}
+{"text":"How to unlock additional graphs visible in Portfolio Builder after completing certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"I see that I need to complete Learn the Application module before unlocking Fundamentals of Finance. Is this really necessary?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of completing bites and quizzes if I'm not getting a reward or bonus?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what is meant by 'simulated ('fake') capital' in FA Bot learning platform?","label":"CONTEXT_LEARNING"}
+{"text":"How does risk affect investing in FA Bot, and how can I manage it?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing bites and quizzes consistently to unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"I have completed a bite, but my wallet hasn't increased yet. Is there something wrong with the system?","label":"CONTEXT_LEARNING"}
+{"text":"How can I move forward in the learning pathway if I'm stuck on a specific module or concept?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'mastery-based' mean in the context of FA Bot learning platform?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the Learning Centre system tracks user progress and what that means for me?","label":"CONTEXT_LEARNING"}
+{"text":"How to unlock next level of portfolio capacity after completing specific Learn the Application module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of 'Behavioural Progression Engine' in FA Bot learning platform?","label":"CONTEXT_LEARNING"}
+{"text":"I see that I have completed a certain number of bites, but my wallet still hasn't increased. Is there something wrong with it?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use 'behavioural progression engine' to learn user's skills and adapt the learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between 'behavioural awareness' and ' behavioural progress ion'?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how wallet growth works after completing bites and courses in FA Bot platform?","label":"CONTEXT_LEARNING"}
+{"text":"How to unlock new tools and features in Portfolio Builder after completing specific learning modules?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of 'capability unlock engine' in FA Bot learning system?","label":"CONTEXT_LEARNING"}
