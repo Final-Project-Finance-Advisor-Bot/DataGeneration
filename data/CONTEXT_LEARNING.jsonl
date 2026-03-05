@@ -1278,3 +1278,33 @@
 {"text":"Can I take a shortcut to skip certain learning modules?","label":"CONTEXT_LEARNING"}
 {"text":"What are the system requirements for running FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How do I access the full dashboard after completing all courses?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean within FA Bot","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what simulated “fake” capital means in the context of FA Bot","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how investing works step-by-step in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why are there only shares available to buy in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What does returns look like in practice in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand the concept of diversification in FA Bot, but I need clarification on its purpose.","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why only shares are available for investment in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot differ from real investing platforms? Can you give some examples?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the knowledge check or mastery quiz. Can you walk me through it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the fundamentals quiz? Do I have to start over?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what risk appetite means in the context of FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure why volatility looks like a graph in FA Bot. Can you help me understand?","label":"CONTEXT_LEARNING"}
+{"text":"Is diversification supposed to remove all risk in FA Bot? Is that possible?","label":"CONTEXT_LEARNING"}
+{"text":"What does the concept of simulated “fake” capital mean for investors in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how returns get calculated in FA Bot? Is it like real-world investing?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to figure out why I can only access certain features in FA Bot. Can you help me understand the system?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the learning pathway or learning centre in FA Bot? How do I progress through it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what rewards are unlocked after completing a module in FA Bot? Are they just symbolic?","label":"CONTEXT_LEARNING"}
+{"text":"How does capability unlocking work in FA Bot? What are the benefits of unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between wallet balance and learning progression in FA Bot? How do I track my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how the learning bites or quizzes work. Can you give an example of a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the system progression or requirements are in FA Bot? How do I know when I've met them?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the mastery quiz in FA Bot? Is it just to test my knowledge?","label":"CONTEXT_LEARNING"}
+{"text":"How does the wallet balance increase after completing a course or module in FA Bot? Is it immediate?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the learning pathway or centre looks like in FA Bot? How do I navigate it?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between portfolio capacity and wallet balance in FA Bot? How do I track my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how the tool unlocks work in FA Bot. Can you explain what tools become available as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why certain features or tools are not accessible in FA Bot yet? Is it because I haven't met the requirements?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the graph and tool unlocks in FA Bot? How do they relate to learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the concept of risk appetite means in FA Bot? Is it related to investment strategy?","label":"CONTEXT_LEARNING"}
