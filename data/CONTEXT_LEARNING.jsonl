@@ -3168,3 +3168,33 @@
 {"text":"What's the benefit of progressing through the learning pathway with a clear understanding of each module?","label":"CONTEXT_LEARNING"}
 {"text":"Can you show me how to review my knowledge checks and progress in the Fundamentals course?","label":"CONTEXT_LEARNING"}
 {"text":"How do I track my progress and milestones in the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the second question in the Learn the Application course - can you give me another hint?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio capacity beyond the initial 1 slot?","label":"CONTEXT_LEARNING"}
+{"text":"What are the rewards for completing each bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure how my wallet balance is linked to my learning progress - can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review previously completed bites or quizzes if I fail a mastery check?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks relate to my overall progress in the system?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach the end of a course - what's next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me an example of how a mastery quiz works in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of risk appetite - can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress affect the number of portfolio capacity slots I unlock?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip or repeat a bite if I fail the mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a course and a bite in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my wallet balance from within the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how learning bites are organized in terms of difficulty or complexity?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure what the tool unlocks for unlocking additional portfolio capacity - can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the graph tool in FA Bot and how do I access it?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my overall progress or statistics from within the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle errors or incorrect user input - can you show me an example?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach a milestone in my learning journey - what kind of recognition do I receive?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of simulated money and how it relates to real-world investing?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot ensure users understand the risks associated with investing before they start?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing a bite in the Learning Centre if I can just skip it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to track my progress through the system and see what rewards I've unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot incorporate psychological principles or biases into its learning model?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a course and a module in FA Bot - can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my completed bites or quizzes to see what I've achieved so far?","label":"CONTEXT_LEARNING"}
