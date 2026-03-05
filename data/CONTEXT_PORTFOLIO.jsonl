@@ -1698,3 +1698,33 @@
 {"text":"Why does my portfolio value drop when I try to add more asset / shares?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I contact support if I have questions about the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I get a breakdown of my profit/loss for each asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I don’t see my asset / shares listed. What should I do?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much does it cost to add a new asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I added more money but my portfolio value didn’t change. What’s going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add another asset / shares to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares by type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I don’t know how to search for a company in the system. Can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value is showing a weird number. What does it mean?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares alphabetically?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio value not reflecting the changes I made?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit an existing asset / shares allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see the company but I don’t know how to add it. Can you walk me through?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much money do I need to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have different graphs/charts for each portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I delete an asset / shares from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I see my profit or money made in the system?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add another share but it won’t let me. What’s going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch from a cash portfolio to an asset / shares one?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I reset my portfolio value to zero?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value showing as negative?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a graph/chart to my portfolio manually?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I don’t understand how the asset / shares are performing. Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company in the system?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I delete a graph/chart that’s already been added?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio with different asset / shares limits?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I get my wallet value in USD?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio not updating when I make changes?","label":"CONTEXT_PORTFOLIO"}
