@@ -1278,3 +1278,33 @@
 {"text":"I can’t add any asset / shares, what is the problem?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I create a new portfolio with only one company asset?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I see how many asset / shares I own in total by country?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m new to portfolio management. Can you tell me how to use it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value dropped today, what happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios in the same app?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m trying to create a new portfolio but it’s not letting me. What’s the limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money needed to start investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a company to add to my portfolio? How do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how the graphs work in the app. Can you show me how to use them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more shares to my asset? Is there a limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different assets? How do I switch between them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much money is needed to start investing in the app?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs/charts can I add to my portfolio? Can I change them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how often the app updates my asset values. How do I know what’s happening?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my assets in my portfolio by market value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an asset allocation in my portfolio? Can I change the amount?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m confused. Why does my wallet show more money than I can invest? Is that normal?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have real-time updates on my portfolio’s value and changes? How do I access them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the maximum amount of asset / shares I can hold in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out how much money I have available to invest? Can I see my balance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I save and reuse portfolios with different assets? How does it work?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m trying to delete a graph/chart from my portfolio but can’t. What’s the limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my profit/loss change today? Was there an update or issue?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise and categorise my assets in my portfolio? Can I create groups?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to track changes in asset prices in real-time? Is it possible?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set alerts for when certain conditions are met in my portfolio (e.g., profit threshold)? How do I set them up?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m unsure about the fees associated with investing. Can you explain how they work and what they cover?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company to add to my portfolio? Is it case-sensitive?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my portfolio value drop suddenly yesterday? Was there an issue with the app?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I export my portfolio data for further analysis or record-keeping? How do I do it?","label":"CONTEXT_PORTFOLIO"}
