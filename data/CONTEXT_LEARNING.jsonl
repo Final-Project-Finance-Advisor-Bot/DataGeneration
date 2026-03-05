@@ -2298,3 +2298,33 @@
 {"text":"Can you help me with a specific reward unlock in Portfolio Manager?","label":"CONTEXT_LEARNING"}
 {"text":"How does progress affect my ability to access certain features?","label":"CONTEXT_LEARNING"}
 {"text":"I need help understanding how volatility works in FA Bot","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I’m trying to progress through the learning pathway but can’t find a clear start point. Can you explain how this works?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to unlock additional rewards in the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"How does wallet progression work after completing each bite in the Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how capability unlocks work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding how to access certain features in the Portfolio Manager. Can you clarify the requirements for unlocking these tools?","label":"CONTEXT_LEARNING"}
+{"text":"What do I gain from completing courses like Learn the Application and Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what simulated “fake” money means within the context of FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the Fundamentals course until I complete other Learn the Application modules?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning centre or bite-based mastery model work in FA Bot? Can you explain what happens after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What tools become available as I progress through the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"I’m unsure about how to move forward in the learning pathway. Can you walk me through it step-by-step?","label":"CONTEXT_LEARNING"}
+{"text":"How do mastery quizzes work within FA Bot? What happens if I fail one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the reward structure and how it relates to progressing through the system?","label":"CONTEXT_LEARNING"}
+{"text":"I’ve completed a few bites but can’t seem to unlock new capabilities. Can you help me understand what’s missing?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system recognize when I've completed learning pathways and unlocks new features accordingly?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how wallet growth works in FA Bot, including any caps or limitations?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a limit to the number of portfolios I can create at first? Can you explain what unlocks more portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users progress at their own pace without feeling overwhelmed?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what ‘behavioural awareness’ means in the context of FA Bot’s learning progression model?","label":"CONTEXT_LEARNING"}
+{"text":"What role does psychology play in FA Bot's learning system, and how is it integrated into the overall experience?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access additional graph tools or visualizations within the Portfolio Builder as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system integrates the concept of risk appetite into the learning pathway and progression model?","label":"CONTEXT_LEARNING"}
+{"text":"I’m trying to understand why certain features are locked until specific requirements are met. Can you explain this logic?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use fake money or simulated capital to facilitate its learning environment, and what implications does this have for users?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through the process of unlocking additional wallet growth milestones after completing specific bites or modules?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot incorporate learning from past mistakes or incorrect assumptions into its progression model?","label":"CONTEXT_LEARNING"}
+{"text":"What kind of support or resources are available within FA Bot to help users overcome common challenges or misunderstandings about its concepts?","label":"CONTEXT_LEARNING"}
