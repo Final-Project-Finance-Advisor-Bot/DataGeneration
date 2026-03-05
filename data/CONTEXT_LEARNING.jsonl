@@ -3318,3 +3318,33 @@
 {"text":"Can you explain more about how the rewards system works in FA Bot and what I can expect to unlock?","label":"CONTEXT_LEARNING"}
 {"text":"I'm not sure how often my portfolio capacity expands within FA Bot - is this something I need to do manually?","label":"CONTEXT_LEARNING"}
 {"text":"What exactly does it mean for a course to be unlocked in FA Bot and how does it affect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How can I progress from Learn the Application to Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a quiz in the learning center?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the mastery quiz looks like for each bite?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure which module to start with - what's the recommended order?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards can I expect after finishing a few bites in the learning center?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how my wallet grows as I complete modules?","label":"CONTEXT_LEARNING"}
+{"text":"How does the tool unlock work for each bite - what triggers it?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on a particular question in the quiz - can you give me another hint?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of doing all these bites if I don't know how to use them afterwards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what happens when I complete the Fundamentals course and unlock more modules?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed Learn the Application - what's next?","label":"CONTEXT_LEARNING"}
+{"text":"What if I get stuck on a bite in the learning center - can you help me restart it?","label":"CONTEXT_LEARNING"}
+{"text":"How do my portfolio allocations work once I unlock more modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what 'progression-driven' means for wallet and allocation limits?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I go back to earlier bites in the learning center?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning pathway compare to a traditional course structure?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give me more details about how my wallet grows as I unlock more capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What if I'm unsure about something I read in one of the modules - can you explain it further?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system track progress and remind me to complete tasks?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give an example of how rewards work within the learning center?","label":"CONTEXT_LEARNING"}
+{"text":"What if I need help understanding a particular concept in Fundamentals - can you provide more context?","label":"CONTEXT_LEARNING"}
+{"text":"How does the AI mediator (bot) assist with understanding complex concepts?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my learning pathway changes based on my performance in each bite?","label":"CONTEXT_LEARNING"}
+{"text":"What if I want to take a break from learning - can I pause or freeze my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users are making progress and not stuck on one area indefinitely?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give more details about how the portfolio management tool helps me plan and optimize my strategy?","label":"CONTEXT_LEARNING"}
+{"text":"What if I'm unsure whether I've completed all the required tasks for a particular module - can you help me verify?","label":"CONTEXT_LEARNING"}
