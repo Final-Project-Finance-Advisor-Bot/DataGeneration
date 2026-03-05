@@ -2628,3 +2628,33 @@
 {"text":"I'm trying to understand how the rewards system works in FA Bot. Do I get rewards for every bite or quiz I complete?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what 'loss aversion' means in the context of FA Bot's Portfolio Manager? How does it affect my investment decisions?","label":"CONTEXT_LEARNING"}
 {"text":"What's the point of having a 'completion state' in FA Bot? How does it track my progress and provide feedback?","label":"CONTEXT_LEARNING"}
+{"text":"What does capital actually mean in the FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can I only buy shares in the simulated platform?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the Fundamentals quiz, what's the next step?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how volatility works with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"Is diversification supposed to reduce risk in the FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to pass the knowledge check for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between real investing and FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does returns get calculated with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about risk appetite in the FA Bot. Can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the FA Bot using fake money instead of real cash?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what shares mean in the simulated platform?","label":"CONTEXT_LEARNING"}
+{"text":"How does the simulated environment affect my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the risk vs volatility section in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how diversification works with fake money?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete all Fundamentals modules before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between capital and shares in the FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how returns work with fake money in practice?","label":"CONTEXT_LEARNING"}
+{"text":"How does the simulated platform compare to real investing platforms like Robinhood?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with risk vs volatility in FA Bot? Can you simplify it for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to pass the knowledge check for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How does capital accumulation work with fake money? Is there a cap?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the learning centre and its different modules in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I need to complete all Fundamentals modules before unlocking other courses?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress in one course affect my ability to unlock others?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between learning bites and quizzes in FA Bot? Can you give an example?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how the mastery model works with fake money in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance affect my ability to access certain features or tools in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with rewards and unlocks in FA Bot? Can you explain how they work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify why I need to complete all Fundamentals modules before progressing to Portfolio Manager?","label":"CONTEXT_LEARNING"}
