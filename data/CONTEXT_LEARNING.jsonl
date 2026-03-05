@@ -2058,3 +2058,33 @@
 {"text":"I need to know how many bites I’ve completed so far.","label":"CONTEXT_LEARNING"}
 {"text":"How does the system encourage learning through capability unlocks?","label":"CONTEXT_LEARNING"}
 {"text":"What is the role of the Bot in FA Bot’s learning journey?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a learning bite is and how it works?","label":"CONTEXT_LEARNING"}
+{"text":"I’m on the Learn the Application module, but I don’t see any progress indicators. What’s going on?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards can I unlock by completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work in FA Bot? Can you give an example?","label":"CONTEXT_LEARNING"}
+{"text":"I’m stuck on the quiz section of the Fundamentals module. What if I don’t understand a question?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get hints for questions that are giving me trouble? How do I access them?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet only increase every two bites? Is this normal?","label":"CONTEXT_LEARNING"}
+{"text":"How long does it take to unlock a new module? Can you give me an estimate?","label":"CONTEXT_LEARNING"}
+{"text":"What if I fail the quiz in the Fundamentals module? Will I be able to try again?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of risk appetite and how it relates to investing?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot’s simulated money system work? Is it similar to real-world investing?","label":"CONTEXT_LEARNING"}
+{"text":"What if I want to try a different investment strategy than what's presented in the Fundamentals module? Can I do that?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give an example of how diversification can help reduce risk?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bites to focus on first? Are there any recommendations?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my portfolio capacity only increase when I complete specific learning modules? Is this normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of loss aversion and how it relates to investing?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot’s progress tracking work? Can you show me my current level?","label":"CONTEXT_LEARNING"}
+{"text":"What if I don’t understand a particular topic in the Fundamentals module? Is there anywhere else I can get help?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give an example of how understanding volatility can help with investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"How long does it take to unlock all the features in FA Bot? Will I need to complete every module?","label":"CONTEXT_LEARNING"}
+{"text":"Why do some bites have rewards that seem unrelated to what I’ve learned? Is this a mistake?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot’s system progression works? How does it all fit together?","label":"CONTEXT_LEARNING"}
+{"text":"What if I don’t like the way my portfolio is set up? Can I start over or reset?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give an example of how understanding risk vs. volatility can help with investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot’s AI-mediated system work? Can you explain what the bot is and its role in the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"What if I fail a mastery quiz? Will I be able to try again or will my progress be reset?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give an example of how understanding decision discipline can help with investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot’s simulation work? Is it based on real-world investing principles?","label":"CONTEXT_LEARNING"}
