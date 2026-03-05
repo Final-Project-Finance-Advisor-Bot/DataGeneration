@@ -5208,3 +5208,33 @@
 {"text":"How does the system handle situations where I make a mistake or fail a quiz?","label":"CONTEXT_LEARNING"}
 {"text":"What happens if I try to access a feature or tool that's not available for me yet?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the learning centre is structured and how it relates to my progress in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I want to unlock the Fundamentals of Finance course. How do I get started?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals of Finance course locked for me? I completed all required modules in Learn the Application.","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how learning bites work and why I need to complete a quiz after each bite?","label":"CONTEXT_LEARNING"}
+{"text":"What do I get as rewards after completing a module or two?","label":"CONTEXT_LEARNING"}
+{"text":"I just finished my first bite, but the reward preview says I still need to unlock more capabilities. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance? Can you show me how it works?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features yet? Is there something I'm missing?","label":"CONTEXT_LEARNING"}
+{"text":"What do I gain from completing courses? Will it really make a difference in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock the Portfolio Manager course after completing the Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"I don't understand why I need to pass a knowledge check to proceed with my learning. Can you explain it better?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of diversification in FA Bot, and why do I need to complete specific modules before unlocking it?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I buy other types of investments besides shares? Is there a reason for that?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify how returns are calculated in FA Bot? How does volatility impact my investment?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting confused about the risk appetite setting. Can you explain it in simpler terms?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tools to unlock after completing specific modules or bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how my wallet balance changes as I progress through FA Bot? I want to see the impact of my learning.","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what's happening with the reward previews. Can you help me understand how they work?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use a mastery-based quiz system? Can you walk me through an example bite?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between completing a course and unlocking a capability in FA Bot? How do they relate to each other?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify why certain modules or bites are required before I can unlock specific capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress through FA Bot affect my ability to access new features and tools?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand the relationship between learning bites, quizzes, and capability unlocks. Can you explain it in detail?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how my wallet balance increases as I complete more modules or bites? How does this relate to my learning progress?","label":"CONTEXT_LEARNING"}
+{"text":"I want to unlock the full range of tools and features in FA Bot. Can you walk me through how I get there?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify why certain capabilities are locked until I complete specific modules or bites?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting frustrated with the learning process. Can you explain how my progress affects my wallet balance and what rewards I can unlock?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how my progress through FA Bot unlocks new features and tools? How does this affect my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"I want to understand the full range of rewards and capabilities that I can unlock in FA Bot. Can you walk me through each one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how FA Bot uses psychological principles to teach investing concepts, such as risk appetite and diversification?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress through FA Bot affect my ability to compare and evaluate different investments or strategies?","label":"CONTEXT_LEARNING"}
