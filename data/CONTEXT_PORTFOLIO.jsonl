@@ -2778,3 +2778,33 @@
 {"text":"How do I know when my portfolio needs to be rebalanced?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I add a new asset / shares to my portfolio on the go using a mobile app?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why does my wallet value show more money than I actually have?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a portfolio with just £100?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet showing more money than I can invest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset shares in ascending order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add another share but it won’t let me, what’s going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio value dropping today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many asset shares can I have in each portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios with the same name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the difference between a ‘buy’ and ‘sell’ order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an asset share allocation in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won’t you let me add any more assets to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see the value of each asset in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete a graph chart from my portfolio view?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the profit made on my investment so far?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have different asset shares in each of my portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my wallet value changed so much today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with a specific theme?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between different portfolios at any time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the total value of my asset shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to see the historical performance of a specific company in my portfolio. Can you help me with that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my assets by type in each portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view the daily/weekly/monthly returns of my portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I find a specific asset in your search function?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many graphs/charts can I add to one portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic investments from my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the value of a specific asset in my portfolio so volatile today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an existing graph/chart in one of my portfolios?","label":"CONTEXT_PORTFOLIO"}
