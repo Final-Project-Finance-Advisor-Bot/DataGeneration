@@ -2478,3 +2478,33 @@
 {"text":"I'm trying to understand why my wallet balance isn't increasing as quickly as I expected, what's going on?","label":"CONTEXT_LEARNING"}
 {"text":"How does the system ensure that users have a solid grasp of investing concepts before unlocking new features?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the capabilities unlock mechanism works in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What does capital actually mean here?","label":"CONTEXT_LEARNING"}
+{"text":"Why can I only buy shares?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what this risk appetite thing means in FA Bot. Can you explain it?","label":"CONTEXT_LEARNING"}
+{"text":"What does volatility look like in practice? Is it like the stock market?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to pass the knowledge check or mastery quiz in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding what returns get calculated from. Can you break it down?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from Learn the Application to Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with diversified portfolios in FA Bot? Is it just for risk reduction?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why only shares are available in FA Bot? Why not other types of investments?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot differ from real investing platforms like Robinhood or Fidelity?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about the concept of simulated (“fake”) capital. How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of passing the knowledge check in Fundamentals if I can just review my answers?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which shares to buy in FA Bot? Is there a strategy or formula?","label":"CONTEXT_LEARNING"}
+{"text":"I want to understand how risk appetite affects my investment choices. Can you give me some examples?","label":"CONTEXT_LEARNING"}
+{"text":"Why is FA Bot structured like this, with courses and quizzes? Is it just for learning purposes or what?","label":"CONTEXT_LEARNING"}
+{"text":"How can I use the knowledge I gain in Fundamentals to make better investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how portfolio diversification works in FA Bot? Is it really that simple?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility in FA Bot? Can you give me some real-world examples?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what this thing is called, but I think it's related to how my portfolio looks. Is there a specific formula for calculating performance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more advanced features or tools in FA Bot after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with learning paths and progression in FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how returns on investment (ROI) are calculated in FA Bot? Is it different from real-world investing?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I'm doing a good job with risk management in FA Bot? Are there specific metrics or KPIs?","label":"CONTEXT_LEARNING"}
+{"text":"I want to understand how the knowledge I gain in Fundamentals can be applied to real-world investing scenarios. Can you give me some examples?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between short-term and long-term investing in FA Bot? How do these impact my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle situations where I don't have enough funds to complete a course or unlock certain features?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the role of the AI mediator (chat bot) in FA Bot? Is it like having a personal financial advisor?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot handle situations where I've completed all available learning content and want to proceed with investing?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with the different types of investments in FA Bot (e.g., shares, bonds)? How do these impact my portfolio?","label":"CONTEXT_LEARNING"}
