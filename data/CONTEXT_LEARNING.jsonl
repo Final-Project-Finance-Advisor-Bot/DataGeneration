@@ -2958,3 +2958,33 @@
 {"text":"Can I get personalized advice or recommendations from FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"How does the system ensure users understand key concepts and risk management before proceeding?","label":"CONTEXT_LEARNING"}
 {"text":"Will my progress be compared to others within the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"I unlocked the Fundamentals of Finance course, but I don’t see what it teaches","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to unlock next course?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals of Finance course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"What do I gain from completing courses in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of diversification within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does investing work step-by-step in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet? Is it because of my skill level?","label":"CONTEXT_LEARNING"}
+{"text":"What do I mean by simulated “fake” money?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression work in FA Bot, and what are the rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why FA Bot uses fake money instead of real money?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of risk appetite in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does the knowledge check or mastery quiz work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see my portfolio? Is it because I need to unlock more capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the difference between risk and volatility in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why does FA Bot only offer shares as an investment option?","label":"CONTEXT_LEARNING"}
+{"text":"What is diversification supposed to do for me in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance change when I progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of simulated investing in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to pass the fundamentals quiz to unlock next features?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of completing bites in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot’s system progression affect my ability to access certain tools?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how returns get calculated in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock more capabilities in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Why does FA Bot use a mastery-based progression model?","label":"CONTEXT_LEARNING"}
+{"text":"How can I track my progress through the system in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the purpose of capability unlocks in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to unlock more capabilities and access better tools?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot’s system progression impact my wallet growth?","label":"CONTEXT_LEARNING"}
