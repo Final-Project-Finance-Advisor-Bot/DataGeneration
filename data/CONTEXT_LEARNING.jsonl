@@ -2688,3 +2688,33 @@
 {"text":"Can you explain how the system's progression engine uses data to make recommendations for personalized learning?","label":"CONTEXT_LEARNING"}
 {"text":"What is the system's policy on sharing user data and analytics - do I have control over my own information?","label":"CONTEXT_LEARNING"}
 {"text":"Can you provide more information on the concept of 'metacognition' in the context of the FA Bot learning system?","label":"CONTEXT_LEARNING"}
+{"text":"I’m trying to get into the Fundamentals of Finance course but it’s locked for me. Can you tell me why?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a learning bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock new rewards or capabilities after completing courses?","label":"CONTEXT_LEARNING"}
+{"text":"Can I start the Learn the Application course if I already know how platform fluency works?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to unlock a module in this system and what’s the next step?","label":"CONTEXT_LEARNING"}
+{"text":"How do my wallet growth, portfolio capacity expansion, or asset limit changes work with the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding risk vs. volatility - can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Is there a certain sequence I have to follow in the Learning Centre to unlock new features and progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see what rewards are available for completing specific learning bites or modules?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system’s ability to simulate equity environments impact my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"What are some examples of how completion of a course can lead to larger wallet jumps, capability unlocks, and major milestones in this system?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why certain topics or modules are locked until I’ve completed previous ones?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tools become available as I progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"I’m getting frustrated with the full-screen mode in the application - can you tell me what happens to the Chat panel during that time?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the best way to understand how my wallet balance is affected by completing learning bites and unlocking capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to progress from one course to another in this system?","label":"CONTEXT_LEARNING"}
+{"text":"How do mastery quizzes work within the Learning Centre, and what’s the point of passing them?","label":"CONTEXT_LEARNING"}
+{"text":"I’m curious about how this system’s progression is tied to real-world financial concepts - can you explain it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a mastery quiz or don’t complete a learning bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me an example of how completing a learning bite unlocks new capabilities or rewards in this system?","label":"CONTEXT_LEARNING"}
+{"text":"How do the simulated equity environments and fake money affect my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of having different types of assets in the portfolio, and how do they impact my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding why certain learning bites are only available after completing others - can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system’s progression affects my risk appetite and volatility understanding?","label":"CONTEXT_LEARNING"}
+{"text":"What are some tips for navigating the Learning Centre and making progress through this system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which learning bites or modules to focus on next in my progression?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how completing a course affects my overall wallet balance and capability unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"I’m interested in understanding the different types of tools available as I progress through this system - can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the best way to get clarification on specific concepts or topics within this system?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me an example of how completing a learning pathway unlocks new capabilities or rewards in this system?","label":"CONTEXT_LEARNING"}
