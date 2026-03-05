@@ -1578,3 +1578,33 @@
 {"text":"Can I review previously completed bites or modules to reinforce my understanding of the material? Are there opportunities for self-study?","label":"CONTEXT_LEARNING"}
 {"text":"Are there any consequences for failing a quiz or bite within the Learning Centre - do I lose progress or face penalties?","label":"CONTEXT_LEARNING"}
 {"text":"Can I work on multiple bites or modules simultaneously to accelerate my progress and increase my earnings?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals of Finance course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards can I unlock after finishing a module?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with a question in Fundamentals - can you explain risk appetite again?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how the simulated capital works in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the difference is between volatility and risk - can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"What do I gain from completing courses?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the mastery quiz again and how it relates to learning bites?","label":"CONTEXT_LEARNING"}
+{"text":"What does understanding diversification mean for my investments in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I’m lost in the Fundamentals Module - can I get a summary of what I’ve learned so far?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I need to pass the knowledge check to unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"How does progress affect my ability to access higher-level features in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between risk and returns in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I’m not sure what I need to do next - can you guide me through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"How does the simulated capital change as I progress through the Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I can only buy shares in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a knowledge check - can I try again?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of learning bites and how they relate to my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot’s simulated environment differ from real-world investing?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding what volatility means in the context of FA Bot - can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I need to understand diversification before unlocking higher-level features?","label":"CONTEXT_LEARNING"}
+{"text":"How does progress affect my ability to access new tools and features in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between returns and risk appetite in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the knowledge check works and how it relates to my overall progress?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot’s simulated environment affect my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"I’m not sure what I need to do next - can you guide me through the Fundamentals Module again?","label":"CONTEXT_LEARNING"}
