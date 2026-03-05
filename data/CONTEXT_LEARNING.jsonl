@@ -2148,3 +2148,33 @@
 {"text":"I'm having trouble with the learning centre navigation. Can you help me find my way?","label":"CONTEXT_LEARNING"}
 {"text":"What is the purpose of the portfolio builder in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the mastery quiz determines progress in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed Learn the Application, but the Fundamentals course still says I need to complete another module. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from one learning bite to the next?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to unlock my next capability?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed 3 bites, but I still see 'Complete this module' for the next ability. What's happening?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access some features yet? Are they locked or what?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance? Is it just a reward thing?","label":"CONTEXT_LEARNING"}
+{"text":"What do I gain from completing courses? Will it help me unlock new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"I've passed the mastery quiz, but the Fundamentals course still says I'm not ready. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how much money I'll have after completing all the learning bites? Is it just a rough estimate?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress? Can I see which bites I've completed or what capabilities are unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"Will unlocking new capabilities increase the number of assets I can hold in my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure if I'm doing something wrong, but my wallet balance seems to be capped. Is this normal?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see what rewards I'll unlock after completing all the learning bites and capabilities? Will it just be more fake money?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've mastered a particular concept or skill? Are there any clues or indicators?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress in terms of 'bites completed' rather than just percentage? Is it available somewhere?","label":"CONTEXT_LEARNING"}
+{"text":"Will unlocking new capabilities change the way the rewards work? Will they get better or worse?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a lot of learning bites, but I still can't access some features. What's the point of all this if I'm not getting to use them?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and re-do any quizzes or learning bites that I didn't get right on my first try? Will it make a difference?","label":"CONTEXT_LEARNING"}
+{"text":"What's the maximum amount of fake money I can have after unlocking all the capabilities? Is there a cap?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing the Fundamentals course automatically unlock new capabilities or rewards? Or do I need to keep going?","label":"CONTEXT_LEARNING"}
+{"text":"How often will my wallet balance be updated and reflected in the system? Is it real-time?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see what's required to reach the next level of progression after completing a certain number of bites or capabilities? Are there any visual cues?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I'm doing something right in terms of progress and unlocking capabilities? Will I get feedback?","label":"CONTEXT_LEARNING"}
+{"text":"Can I customize how I approach my learning progression and capabilities unlock? Or is it just a linear path?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing the Portfolio Manager course automatically give me a big boost in wallet balance or unlock a bunch of new capabilities? Or do I need to keep going?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how my progress and completion rate affect my overall score or ranking within the system? Is it public?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the detailed breakdown of what rewards or capabilities are unlocked after completing a certain number of bites or capabilities? Is there a leaderboard?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how unlocking new capabilities and learning bites affects my progress towards reaching specific milestones in terms of wallet balance?","label":"CONTEXT_LEARNING"}
