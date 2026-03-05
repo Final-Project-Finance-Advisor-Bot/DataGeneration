@@ -2658,3 +2658,33 @@
 {"text":"How does my wallet balance affect my ability to access certain features or tools in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"What's the deal with rewards and unlocks in FA Bot? Can you explain how they work?","label":"CONTEXT_LEARNING"}
 {"text":"Can you clarify why I need to complete all Fundamentals modules before progressing to Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to move through the learning pathway, but it keeps switching between the Learn the Application and Fundamentals courses. Can you explain what's happening?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to progress from the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How much money will I have after completing all of the Fundamental of Finance learning pathways?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through what I unlock with each bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I get for mastering each bite?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a bit, but it won't let me move on to the next one. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression work in the Learning Centre? Does it matter which bites I take first?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a knowledge check? Will I be able to continue learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what 'capability unlock' means and how it relates to my wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of risk appetite - can you provide more information on that topic?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access additional graph tools as I progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the portfolio capacity expansion and how does it affect my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide more information on the role of the Bot (AI Mediator) in helping users navigate the system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which course is unlocked for me at any given time? Is there a way to view my current progress?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common mistakes users make when progressing through the system, and how can I avoid them?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the Learning Centre handles different learning styles - do certain bites work better for me than others?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance affect which courses I have access to? Can I afford the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What is the system's policy on sharing knowledge between users, and how can I stay up-to-date with new developments?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system's progression engine handle different user goals and objectives - can I customize my experience?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common pitfalls users fall into when trying to master a new concept or skill? Can you provide guidance on how to avoid them?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the role of psychological principles in the system's design and how they impact user behavior?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle feedback from users - is there a way for me to communicate with developers or report issues?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between learning pathways, wallet growth, and capability unlocks in the system? Can you walk me through an example?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide more information on the concept of 'structured friction' in the system - how does it support user progress?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system's design take into account different learning styles and preferences - are there any accommodations for users with disabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system's progression engine uses data to make recommendations for personalized learning?","label":"CONTEXT_LEARNING"}
+{"text":"What is the system's policy on sharing user data and analytics - do I have control over my own information?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide more information on the concept of 'metacognition' in the context of the FA Bot learning system?","label":"CONTEXT_LEARNING"}
