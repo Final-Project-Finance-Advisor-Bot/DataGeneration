@@ -3978,3 +3978,33 @@
 {"text":"What is the purpose of the learning pathway in FA Bot? Can you clarify?","label":"CONTEXT_LEARNING"}
 {"text":"How do I get more assets and portfolio capacity as I progress through the system?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the bot's AI mediator works in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What does investing mean within FA Bot","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what simulated “fake” capital means in this context. Can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone please tell me step-by-step how investing works on FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What are shares and company ownership, and why are they the only options here?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand returns and performance interpretation. Can you clarify that for me?","label":"CONTEXT_LEARNING"}
+{"text":"Why is risk appetite relevant when it comes to investing on FA Bot? Can you explain that?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility in FA Bot, and how do I manage them?","label":"CONTEXT_LEARNING"}
+{"text":"I'm struggling to understand diversification. Why is it necessary here?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I buy other types of investments besides shares on FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot differ from actual investing platforms? What are the main differences?","label":"CONTEXT_LEARNING"}
+{"text":"I need help understanding how to pass the knowledge check or mastery quiz in Fundamentals. Can you walk me through it?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain why only shares are available for investment on FA Bot? Is that a design choice?","label":"CONTEXT_LEARNING"}
+{"text":"What does “fake money” mean, and how does it affect my investing experience on FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand the knowledge check or mastery quiz in Fundamentals. Can you clarify what I need to do to pass it?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use simulated “fake” money, and why is that useful for my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain the returns calculation on FA Bot? How does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how risk appetite affects my investment choices on FA Bot. Can you help me with that?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of diversification in investing on FA Bot, and how do I achieve it?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain why only shares are available for investment in this simulation? Is there a reason for that design choice?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of returns in investing on FA Bot. Can you clarify that for me?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot's simulated “fake” money affect my investment choices and goals?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain how to manage risk and volatility in the context of FA Bot's investing platform? What strategies are available?","label":"CONTEXT_LEARNING"}
+{"text":"I need help understanding how FA Bot's simulated environment differs from real-world investing. Can you provide more information on that?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between risk and volatility in this context, and how do I mitigate them?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain the concept of diversification in FA Bot's investing platform? What are its benefits?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to understand how FA Bot's simulated “fake” money affects my ability to invest and achieve financial goals. Can you help me with that?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain the calculation behind returns in FA Bot's investing platform? What factors are taken into account?","label":"CONTEXT_LEARNING"}
+{"text":"How does risk appetite influence my investment decisions on FA Bot, and what strategies can I use to manage it?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of using a simulated “fake” money environment in FA Bot's investing platform? How does it support my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to pass the knowledge check or mastery quiz in Fundamentals. Can you provide more guidance on that?","label":"CONTEXT_LEARNING"}
