@@ -28,3 +28,33 @@
 {"text":"Can someone explain what the learning pathway is and how it works?","label":"EDU_LEARNING"}
 {"text":"How does the learning system work in this app? Is it just about reading text or is there something more involved?","label":"EDU_LEARNING"}
 {"text":"Can you explain what the learning pathway is and how it works in your app?","label":"EDU_LEARNING"}
+{"text":"What is the learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does learning work in this app? Is it a separate system from my main account?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section? Is it required?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway public or private? Can others see my progress?","label":"EDU_LEARNING"}
+{"text":"What if I forget my login credentials for the learning centre? How do I reset them?","label":"EDU_LEARNING"}
+{"text":"How does the learning system keep track of my progress? Is it connected to my main account?","label":"EDU_LEARNING"}
+{"text":"What if I need help with something in the learning centre? Who do I contact?","label":"EDU_LEARNING"}
+{"text":"Is there a limit on how much I can learn at one time? Are there caps on my progress?","label":"EDU_LEARNING"}
+{"text":"How does the learning pathway adapt to my needs and learning style?","label":"EDU_LEARNING"}
+{"text":"Can I earn badges or recognition for completing lessons in the learning centre?","label":"EDU_LEARNING"}
+{"text":"What if I need to slow down or speed up my learning pace? Can I adjust it?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway accessible on all types of devices? Mobile, tablet, computer?","label":"EDU_LEARNING"}
+{"text":"Can I see a summary of my progress in the learning centre at any time?","label":"EDU_LEARNING"}
+{"text":"What if I miss a lesson in the learning centre? Can I catch up later?","label":"EDU_LEARNING"}
+{"text":"Can I share my progress with friends or family members?","label":"EDU_LEARNING"}
+{"text":"How does the learning system ensure that users are motivated and engaged throughout the process?","label":"EDU_LEARNING"}
+{"text":"What if I have questions about a specific lesson in the learning centre? Who can I ask for help?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the learning pathway to fit my individual needs?","label":"EDU_LEARNING"}
+{"text":"Can I see what other users are working on in the learning centre? Is it public or private?","label":"EDU_LEARNING"}
+{"text":"How does the learning system prevent cheating or plagiarism in the learning centre?","label":"EDU_LEARNING"}
+{"text":"What if I need technical support for the learning centre? Who do I contact?","label":"EDU_LEARNING"}
+{"text":"What if I forget how to access the learning centre? Can I reset my login credentials?","label":"EDU_LEARNING"}
+{"text":"Is there a limit on how many lessons I can complete at one time? Are there caps on my progress?","label":"EDU_LEARNING"}
+{"text":"Can I see a list of all the lessons and topics covered in the learning centre? Is it organized alphabetically?","label":"EDU_LEARNING"}
+{"text":"What is the learning centre and how does it help me learn?","label":"EDU_LEARNING"}
+{"text":"How does the learning system work, and what's its purpose?","label":"EDU_LEARNING"}
+{"text":"Why is there a learning section in this app, and what does it do for me?","label":"EDU_LEARNING"}
+{"text":"Do I need to learn something before starting the main content?","label":"EDU_LEARNING"}
+{"text":"Is the learning centre a part of every course in the app?","label":"EDU_LEARNING"}
+{"text":"I just started using the learning pathway – what is its purpose?","label":"EDU_LEARNING"}
