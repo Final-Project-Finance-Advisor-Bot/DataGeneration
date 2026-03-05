@@ -4638,3 +4638,33 @@
 {"text":"Can you explain why I have to wait for a bit before unlocking new features or tools in the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
 {"text":"How does my wallet balance affect my ability to unlock rewards or capabilities in the system?","label":"CONTEXT_LEARNING"}
 {"text":"I'm feeling overwhelmed because there's so much to learn. Can you suggest some ways for me to manage my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm trying to unlock the Fundamentals of Finance course. How do I get started?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my Fundamentals course locked? Did I not complete something?","label":"CONTEXT_LEARNING"}
+{"text":"I can see multiple learning bites and quizzes in the Learning Centre. Which one should I start with?","label":"CONTEXT_LEARNING"}
+{"text":"What do I get after completing a bite? Is it just a random reward?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance change when I complete a course? Does it reset?","label":"CONTEXT_LEARNING"}
+{"text":"I can see that the Capabilities Unlock and Progression Engine is unlocking rewards. What are those for?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock a new capability? Do I get more access to tools?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete the Learn the Application course before Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review completed learning bites or quizzes again?","label":"CONTEXT_LEARNING"}
+{"text":"How often can I earn rewards? Is it tied to my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of the portfolio capacity expansion? Do I need more portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"What is the system's approach to handling incorrect answers during quizzes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the Fundamentals course is locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the first bite, can someone help me with the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock new capabilities after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of doing the mastery quiz again if I already passed it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how my wallet balance increases with each course completion?","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards and progress unlock in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding the concept of risk appetite, can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"What happens to my portfolio capacity if I complete all modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone help me find out what tools become available as I progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"I'm unsure how much I've completed, can you show me my current progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the full list of capabilities and rewards unlocked by each module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review what I learned in a previous bite if I need to go back?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of completing the Fundamentals course, and how does it help me progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how volatility affects my portfolio, can you simplify it?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress in the Learning Centre and come back to it later?","label":"CONTEXT_LEARNING"}
+{"text":"How does my risk tolerance impact my investment decisions within FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"What are the differences between the various types of rewards or capabilities unlocked by each module?","label":"CONTEXT_LEARNING"}
