@@ -2088,3 +2088,33 @@
 {"text":"Can I see historical data for my asset / shares?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I change the limits on my asset / shares?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why does my portfolio value fluctuate so much?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount I need to invest in a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios on this platform?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won't the system let me delete an asset that's not worth more than its value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many graphs can I add to my portfolio performance chart?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company within the platform?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the current value of my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried adding more asset / shares than allowed, what now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios and manage them simultaneously?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio value fluctuating so much today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares by market value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of asset / shares I can hold in a single portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add more than one company to my portfolio at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an existing asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won't the system let me sell asset / shares that are worth more than their value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph from my portfolio performance chart?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs/charts does this platform support?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio has reached its maximum allowed size, what now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific asset / shares limit within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I see the profit made from my investment in Apple stocks?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the most recent update to the platform regarding portfolio management?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my asset / shares by market capitalization?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet showing an unexpected balance today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the historical performance of a specific company's asset within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add multiple graphs/charts to a single portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the difference between a buy and sell order in this platform?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My asset / shares limit has been exceeded for <company> - what now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I cancel an asset / shares allocation from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I access the platform's help or support feature?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the typical time frame for my investment to be reflected in my wallet value?","label":"CONTEXT_PORTFOLIO"}
