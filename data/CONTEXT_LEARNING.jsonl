@@ -4308,3 +4308,33 @@
 {"text":"Can I earn badges or rewards for completing courses?","label":"CONTEXT_LEARNING"}
 {"text":"Why is it important to review and reflect on my progress regularly?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I reach the maximum number of portfolios or allocation slots?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I need help understanding how to progress through the learning pathway. Can you explain the steps to take?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to unlock a new bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work in FA Bot? Can you give an example of what happens when I complete a module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet? Is there something I’m missing out on?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing the Fundamentals Module?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance in FA Bot? Can you show me an example of how it works?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding the risk appetite concept. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"What is simulated “fake money” and how does it work in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to interpret returns in FA Bot? I’m not sure what the numbers mean.","label":"CONTEXT_LEARNING"}
+{"text":"I just failed the knowledge check. What do I need to do next to try again?","label":"CONTEXT_LEARNING"}
+{"text":"How does diversification work in FA Bot, and why is it important?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me an example of how shares are used in FA Bot? How do they represent company ownership?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between investing in FA Bot and real-life investing platforms? Can you explain why?","label":"CONTEXT_LEARNING"}
+{"text":"I’m not sure what I did wrong on my last quiz. Can you help me understand where I went wrong?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of volatility again, and how it affects investment returns in FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio capacity as I progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite and unlock a new capability? Can you show me an example of what that looks like?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about risk aversion in FA Bot? How does it impact my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble understanding the concept of disposition effect. Can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"How does the simulated equity environment work in FA Bot, and why is it useful for learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to interpret performance data in FA Bot? What do the numbers mean?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new module. Can you explain what that means and what I can expect next?","label":"CONTEXT_LEARNING"}
+{"text":"How does learning progression affect my wallet growth in FA Bot? Can you show me an example of how it works?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the importance of behavioural awareness in FA Bot? How does it impact my investment decisions?","label":"CONTEXT_LEARNING"}
+{"text":"I’m not sure what I need to do next after completing a learning bite. Can you help me navigate the system?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the mastery quiz works and why it’s important for progressing through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a knowledge check? How can I improve my score next time?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot use rewards and capabilities to motivate me to learn? Can you give an example of what that looks like?","label":"CONTEXT_LEARNING"}
