@@ -4278,3 +4278,33 @@
 {"text":"How do I delete an entire portfolio at once? Is that possible?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I set up custom notifications for when my asset / shares reach certain levels? How do I do it?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I'm trying to search for a company but the filter options are not showing up. Can you help me with that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m new to this portfolio tool, how do I get started?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios in one session?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many asset / shares can I add at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio value dropped a lot today, what happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio if my current one is full?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more asset / shares to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios in my phone app?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet show more money than I can invest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs/charts can I have in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many asset / shares do I have in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my wallet value changed so much today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset / shares from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares by name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the current value of my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a graph/chart to my portfolio from the search results?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with different asset / shares allocations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I view my profit/loss report for the week?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I use my portfolio across multiple devices?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the average value of my asset / shares over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an asset / shares allocation in my existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a budget for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my <company> asset gone up/down so much today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my portfolios by value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple graphs/charts for different asset / shares in one portfolio?","label":"CONTEXT_PORTFOLIO"}
