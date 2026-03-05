@@ -4698,3 +4698,33 @@
 {"text":"How does 'loss aversion' affect my investment decisions in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"What is the maximum number of tools I can have access to in FA Bot?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what 'cognitive scaffolding' means in the context of FA Bot?","label":"CONTEXT_LEARNING"}
+{"text":"Can I unlock the Fundamentals of Finance course now?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites do I need to complete to unlock the portfolio tool?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of completing a bite if I can just review it later?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get more money in my wallet when I complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"How does the wallet grow as I progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go straight to Portfolio Manager without doing Learn the Application and Fundamentals of Finance first?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock the next bite in the sequence? Can I move on to the next one immediately?","label":"CONTEXT_LEARNING"}
+{"text":"Is there a specific order to unlocking capabilities or rewards as I complete bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and review earlier bites if I fail the mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to be perfect on all quizzes to unlock more advanced tools in Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to start with when there are multiple options available?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress as I complete bites and how it affects my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Is the Fundamentals course really locked if I don't pass the quiz? Can I try again later?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a bite contribute to unlocking capabilities in Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"What are the criteria for unlocking more advanced rewards or capabilities in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get immediate access to the portfolio tool after completing Learn the Application and Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards by completing certain combinations of bites? Are there trade-offs?","label":"CONTEXT_LEARNING"}
+{"text":"How does my risk appetite affect which capabilities or tools are unlocked in Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Are there different levels of mastery that unlock different rewards or capabilities as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use the simulated money in FA Bot to make real-world investments? Is it a simulation?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites before unlocking additional portfolio slots?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing bites affect my ability to access more advanced financial concepts and tools?","label":"CONTEXT_LEARNING"}
+{"text":"Can I customize which features or capabilities are unlocked as I progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between completing bites and unlocking rewards or capabilities in Portfolio Manager? Is it direct?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have to complete every bite in a sequence before moving on to the next one? Are there exceptions?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how my progress as a whole affects my wallet balance and overall financial situation?","label":"CONTEXT_LEARNING"}
+{"text":"How does FA Bot ensure that users understand what they are investing in and why it matters?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any real-world equivalents or correlations between the concepts learned in each bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I learn at my own pace without feeling locked into a specific progression order? Are there options for flexibility?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach the maximum number of portfolios unlocked - can I continue learning and progressing?","label":"CONTEXT_LEARNING"}
