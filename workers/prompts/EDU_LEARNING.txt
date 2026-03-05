@@ -55,8 +55,13 @@ Rules:
 - Output one JSON object per line (JSONL format).
 - Output ONLY JSON objects.
 
-##########################################
+#################################################
+################# BANNED TOPICS ##################   
 
+Do NOT mention or ask about: progress, save, resume, come back later, track, over time, end of lesson, end of module, finish, completion, checkpoint, percentage, unlock, reward, quiz, bite, module, lesson, course.
+
+
+####################################################
 ############## MESSAGE STYLE GUIDANCE ##############
 
 Examples of intent style (do not copy directly):
@@ -69,5 +74,17 @@ Examples of intent style (do not copy directly):
 - Is the learning pathway required?
 
 Questions should clearly relate to understanding the learning tool itself.
+
+####################################################
+
+################# Do NOT ask questions like: ##################
+Do NOT output questions like:
+- “Can I save my progress and come back later?”
+- “Will I be able to see my progress over time?”
+- “What happens when I reach the end of a lesson or module?”
+- “How long are the lessons?”
+- “Do I have to pass quizzes?”
+- “What rewards do I get?”
+
 
 ####################################################
