@@ -1458,3 +1458,33 @@
 {"text":"Why does my portfolio value fluctuate so much?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I view the history of changes made to my portfolio?","label":"CONTEXT_PORTFOLIO"}
 {"text":"What is the maximum number of asset / shares that can be added per day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I just created a new portfolio, how do I add a share to it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios in one go?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much money can I invest in each portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my asset / shares value keep dropping?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset / shares from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum amount I need to add to a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a company to buy in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried adding a share but it says limited availability. What does that mean?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add another asset / shares to an existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my assets by market value or name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I see the balance of my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a graph/chart to display my portfolio performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have more than one portfolio with different asset allocations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the difference between cash and shares in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an asset / shares allocation in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a company by name or ticker symbol?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I just invested $1000, how much is left to invest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with specific asset allocation rules?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I get the total value of my portfolio including dividends?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the average return on investment (ROI) for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organize my asset / shares by sector or industry?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a historical view of my portfolio performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more assets to my portfolio due to limits?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create custom portfolios based on specific investment criteria?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the top-performing assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a budget for my portfolio and receive alerts when it’s reached?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the current market value of the <company> asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I just sold some shares, how much money do I have left?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I use the portfolio analytics to optimize my investment strategy?","label":"CONTEXT_PORTFOLIO"}
