@@ -2008,3 +2008,33 @@
 {"text":"Can I transfer funds from my cash reserve to my virtual wallet?","label":"DOMAIN_QUERIES"}
 {"text":"How does a portfolio manager optimize investment returns?","label":"DOMAIN_QUERIES"}
 {"text":"What is the purpose of a financial advisor in managing capital?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio exactly?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work for an asset?","label":"DOMAIN_QUERIES"}
+{"text":"Can I add more shares to my virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital in the FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category exactly?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work with my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What happens when my profit reaches the cash reserve threshold?","label":"DOMAIN_QUERIES"}
+{"text":"How do I add a new share to my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can I see my portfolio manager's performance stats?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between cash reserve and virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of diversification in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the maximum amount of capital allowed in a virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of having a cash reserve in my virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Is there an optimal asset allocation for diversification?","label":"DOMAIN_QUERIES"}
+{"text":"Can I create a custom stock category for specific assets?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit calculation work for shares?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of diversification in investment?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and asset?","label":"DOMAIN_QUERIES"}
+{"text":"How does Virtual wallet work with financial planning?","label":"DOMAIN_QUERIES"}
+{"text":"Is it possible to have too much capital?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a portfolio manager in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does share ownership affect profit distribution?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to create a cash reserve in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot platform track profits?","label":"DOMAIN_QUERIES"}
+{"text":"Can I link my Virtual wallet to FA Bot for seamless transactions?","label":"DOMAIN_QUERIES"}
+{"text":"What is a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work for assets?","label":"DOMAIN_QUERIES"}
+{"text":"Can I link multiple shares to a portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital for a stock category?","label":"DOMAIN_QUERIES"}
