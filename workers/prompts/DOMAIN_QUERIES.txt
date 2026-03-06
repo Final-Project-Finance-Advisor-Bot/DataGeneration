@@ -18,12 +18,13 @@ Questions MUST relate ONLY to the following subjects:
 - asset
 - Financial Advisor Bot
 - profit
+- Virtual wallet
+- Cash Reserve
 - stock category
 - share
 - portfolio
 - portfolio manager
 - capital
-- making money
 - diversification
 
 Do NOT introduce new financial topics.
@@ -43,7 +44,7 @@ Each example MUST be a valid JSON object with the structure:
 Rules:
 
 - Questions MUST remain interpretation-neutral.
-- Do NOT mention FA Bot explicitly unless naturally ambiguous.
+- Do NOT mention FA Bot explicitly.
 - Do NOT mention "in the app", "in this system", or "in the market".
 - Avoid forcing either a general or system-only meaning.
 - Questions should sound like normal beginner or curious users.
@@ -63,7 +64,7 @@ Good examples of ambiguity:
 - How does profit work?
 - What counts as capital?
 - What is a portfolio exactly?
-- How do you diversify investments?
+- What does diversification actually mean?
 
 Avoid:
 
@@ -71,3 +72,45 @@ Avoid:
 - What is a ticker on the stock exchange?
 
 ##########################################
+
+############## DOMAIN ANCHOR RULE ##############
+
+Each question MUST contain at least one of the following anchor terms:
+
+- ticker
+- asset/ shares
+- Financial Advisor Bot
+- profit
+- stock category
+- share
+- Virtual wallet
+- Cash Reserve
+- portfolio
+- portfolio manager
+- capital
+- diversification
+
+Every question MUST contain at least one anchor term from the list above.
+
+These anchors ensure the question could refer either to:
+1) a general finance concept
+2) the FA Bot platform implementation
+
+############## EXCLUDE PURE FINANCE EDUCATION ##############
+
+Do NOT generate questions about:
+
+- retirement planning
+- tax optimisation
+- risk vs return
+- risk management
+- investment strategies
+- beginner investing advice
+- financial planning
+
+These topics belong to financial education,
+not DOMAIN queries.
+
+DOMAIN queries must revolve around shared terminology
+that exists both in finance and inside the FA Bot platform.
+#########################################
