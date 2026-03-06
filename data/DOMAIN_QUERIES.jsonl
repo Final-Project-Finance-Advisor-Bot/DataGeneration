@@ -28,3 +28,33 @@
 {"text":"How does the Financial Advisor Bot handle diversification within an asset portfolio?","label":"DOMAIN_QUERIES"}
 {"text":"Can you explain the concept of capital gains on assets, such as shares or stock categories?","label":"DOMAIN_QUERIES"}
 {"text":"What is a Virtual wallet in terms of managing cash reserves and profit distribution?","label":"DOMAIN_QUERIES"}
+{"text":"Can a portfolio manager make adjustments to my capital?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and asset?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work for a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can I transfer shares from one portfolio to another?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital in the FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Is there a minimum amount required for a share purchase?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification affect my overall portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set a cash reserve limit in the FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a financial advisor's asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"How do I add new assets to my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my investment returns on the FA Bot platform?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a profit and a loss?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot calculate my portfolio's value?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up automatic investments for regular shares purchases?","label":"DOMAIN_QUERIES"}
+{"text":"What is the best way to manage my cash reserve?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification impact my investment strategy?","label":"DOMAIN_QUERIES"}
+{"text":"Can I view my portfolio's performance on a monthly basis?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a financial advisor's risk assessment?","label":"DOMAIN_QUERIES"}
+{"text":"How do I update my portfolio's asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up alerts for when my shares reach a certain value?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a profit-sharing arrangement and an asset transfer?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot handle capital gains tax on investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my portfolio's performance over time in the FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a financial advisor in managing an asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"How do I transfer shares from one stock category to another?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my profit and cash reserve from one place?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager determine capital allocation for shares?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a Virtual wallet and a stock category?","label":"DOMAIN_QUERIES"}
+{"text":"Is diversification only applicable to portfolio managers or also relevant for individual investors?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up a financial advisor bot feature that tracks my ticker history for future investment decisions?","label":"DOMAIN_QUERIES"}
