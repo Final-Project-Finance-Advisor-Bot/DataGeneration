@@ -1048,3 +1048,33 @@
 {"text":"Can you show me how to set up a portfolio manager within the FA Bot platform?","label":"DOMAIN_QUERIES"}
 {"text":"What is the relationship between profit and the number of shares I own?","label":"DOMAIN_QUERIES"}
 {"text":"How does the FA Bot handle stock category restrictions for new investors?","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker symbol used for?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit affect my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain asset diversification strategies?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between cash reserve and virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does portfolio management work?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How do shares get valued?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain asset allocation strategies?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between profit and loss?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain stock category classifications?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of cash reserve in investing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain financial advisor performance metrics?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of portfolio rebalancing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to use financial advisor analytics?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit relate to a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set capital limits on my shares in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work with different stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a portfolio manager and a financial advisor?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my asset value in FA Bot using only ticker symbols?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit distribution work for shares in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is the ideal capital allocation for a portfolio with different stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up a Virtual wallet to store my shares and receive profit?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot's asset management system handle diversification?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between profit and portfolio performance in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use ticker symbols to identify my shares in FA Bot and track their value?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot's cash reserve function impact my overall portfolio strategy?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in managing capital for different stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager's role?","label":"DOMAIN_QUERIES"}
