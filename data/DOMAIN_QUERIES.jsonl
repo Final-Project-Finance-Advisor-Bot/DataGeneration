@@ -5758,3 +5758,33 @@
 {"text":"What is the difference between a stock category and asset classification?","label":"DOMAIN_QUERIES"}
 {"text":"Can a portfolio contain only one share?","label":"DOMAIN_QUERIES"}
 {"text":"What is the purpose of a cash reserve in an asset portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a ticker?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit impact my investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set multiple cash reserves?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between asset and share?","label":"DOMAIN_QUERIES"}
+{"text":"How do I manage my portfolio's diversification?","label":"DOMAIN_QUERIES"}
+{"text":"Can I link a virtual wallet to my profile?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a financial advisor bot in investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"How does capital flow into and out of a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up multiple stock categories for tracking?","label":"DOMAIN_QUERIES"}
+{"text":"What is the maximum cash reserve limit per user?","label":"DOMAIN_QUERIES"}
+{"text":"How do I track my investments' return on capital?","label":"DOMAIN_QUERIES"}
+{"text":"Can I transfer shares from one portfolio to another?","label":"DOMAIN_QUERIES"}
+{"text":"What is the importance of diversification in investment strategy?","label":"DOMAIN_QUERIES"}
+{"text":"How do I create a new virtual wallet for my profile?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set a daily spending limit on my cash reserve?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between an asset and a share in terms of investment?","label":"DOMAIN_QUERIES"}
+{"text":"How do I manage my portfolio's profit distribution?","label":"DOMAIN_QUERIES"}
+{"text":"Can I link multiple financial advisor bots to one profile?","label":"DOMAIN_QUERIES"}
+{"text":"What is the minimum capital requirement for a new user?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up automatic portfolio rebalancing?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"How do I transfer shares from one stock category to another?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up multiple cash reserves for different investment types?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio exactly?","label":"DOMAIN_QUERIES"}
+{"text":"How does capital work with shares?","label":"DOMAIN_QUERIES"}
+{"text":"Can I diversify my Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the stock category for this asset?","label":"DOMAIN_QUERIES"}
+{"text":"How does a Virtual wallet work?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between asset and share?","label":"DOMAIN_QUERIES"}
+{"text":"Can I diversify my portfolio with cash reserve?","label":"DOMAIN_QUERIES"}
