@@ -234,6 +234,16 @@ def main():
     print(cm)
     print("=========================\n")
 
+    evaluation_record = {
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+        "confusion_matrix": cm.tolist(),
+    }
+
+    evaluation_file = "./evaluation.jsonl"
+
+    with open(evaluation_file, "a", encoding="utf-8") as f:
+        f.write(json.dumps(evaluation_record) + "\n")
+
     # save model and metadata
     model_path = os.path.join(artifact_dir, "model.joblib")
     joblib.dump(pipeline, model_path)
