@@ -688,3 +688,33 @@
 {"text":"What is the role of portfolio management in maximizing profit from investments?","label":"DOMAIN_QUERIES"}
 {"text":"Can a portfolio be managed without having access to multiple asset types or shares?","label":"DOMAIN_QUERIES"}
 {"text":"How does a financial advisor bot determine the optimal capital allocation for investment?","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work for an asset?","label":"DOMAIN_QUERIES"}
+{"text":"Can I transfer shares from my Virtual wallet to another?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital when building a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Do you offer diversification tools for portfolios?","label":"DOMAIN_QUERIES"}
+{"text":"How do you calculate profit on an investment?","label":"DOMAIN_QUERIES"}
+{"text":"Can I add shares to my Cash Reserve?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and a financial advisor strategy?","label":"DOMAIN_QUERIES"}
+{"text":"How do I manage my portfolio when I have multiple assets?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my investment in the FA Bot platform?","label":"DOMAIN_QUERIES"}
+{"text":"What is the minimum required capital for an investment?","label":"DOMAIN_QUERIES"}
+{"text":"Do you offer a virtual wallet feature for managing shares?","label":"DOMAIN_QUERIES"}
+{"text":"How do I create a portfolio that aligns with my financial goals?","label":"DOMAIN_QUERIES"}
+{"text":"Can I link multiple accounts to my FA Bot profile?","label":"DOMAIN_QUERIES"}
+{"text":"What is the stock category for a specific asset?","label":"DOMAIN_QUERIES"}
+{"text":"Do you offer portfolio rebalancing services?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up automatic transfers from my Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How do you determine the best asset allocation for a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a financial advisor's strategy and a user-defined portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Do you offer tools for monitoring and managing risk in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do you handle taxes on investment gains in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is the process for creating a new portfolio in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio exactly?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work with shares?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital for an asset?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain diversification in stocks?","label":"DOMAIN_QUERIES"}
+{"text":"I'm trying to understand the ticker symbol format.","label":"DOMAIN_QUERIES"}
+{"text":"Can I use my virtual wallet to invest in stocks?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Virtual wallet work to make profit?","label":"DOMAIN_QUERIES"}
