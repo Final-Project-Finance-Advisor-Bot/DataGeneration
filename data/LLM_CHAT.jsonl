@@ -28,3 +28,33 @@
 {"text":"I've been reading about the benefits of dollar-cost averaging, can you tell me more about it?","label":"LLM_CHAT"}
 {"text":"I just got a tax refund and I'm trying to decide whether to put it towards my mortgage or invest in a Stocks and Shares ISA. Any thoughts on that?","label":"LLM_CHAT"}
 {"text":"I'm trying to decide whether to put my money into a pension or invest it elsewhere. Has anyone had experience with that?","label":"LLM_CHAT"}
+{"text":"I'm not sure how much I need to save each month. Is it best to stick to one percentage?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bond and a share?","label":"LLM_CHAT"}
+{"text":"What's the most stable investment option for a beginner?","label":"LLM_CHAT"}
+{"text":"How can I make my pension last longer in retirement?","label":"LLM_CHAT"}
+{"text":"What's the point of inflation rate forecasts if no one knows what they mean?","label":"LLM_CHAT"}
+{"text":"Is there such a thing as 'too much' savings?","label":"LLM_CHAT"}
+{"text":"How does dividend yield impact my overall portfolio?","label":"LLM_CHAT"}
+{"text":"What's the difference between risk aversion and risk tolerance?","label":"LLM_CHAT"}
+{"text":"I don't understand how compound interest works...","label":"LLM_CHAT"}
+{"text":"What's the average return on investment for stocks over time?","label":"LLM_CHAT"}
+{"text":"Is it better to invest in individual companies or a tracker fund?","label":"LLM_CHAT"}
+{"text":"Why does everyone say 'diversify your portfolio'?","label":"LLM_CHAT"}
+{"text":"What's the difference between retirement savings and tax-free savings?","label":"LLM_CHAT"}
+{"text":"Why does inflation have to be so unpredictable?","label":"LLM_CHAT"}
+{"text":"Is inflation going to rise in the near future?","label":"LLM_CHAT"}
+{"text":"Can you explain what happens when interest rates rise?","label":"LLM_CHAT"}
+{"text":"Is investing always better than saving?","label":"LLM_CHAT"}
+{"text":"How can I stop feeling anxious about my finances?","label":"LLM_CHAT"}
+{"text":"Can you tell me a bit about bonds and their risks?","label":"LLM_CHAT"}
+{"text":"I'm not really sure what a bear market is, can you explain it?","label":"LLM_CHAT"}
+{"text":"Is it true that some people make more money through real estate than stocks?","label":"LLM_CHAT"}
+{"text":"Can you explain the difference between a market correction and a crash?","label":"LLM_CHAT"}
+{"text":"Can you help me find a way to manage my debt and improve my credit score?","label":"LLM_CHAT"}
+{"text":"I've been following the news about interest rates and I'm a bit confused about how they affect savings accounts. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"I always hear people talk about diversification when it comes to investments. Can you tell me what that means in plain English?","label":"LLM_CHAT"}
+{"text":"I'm considering a first-time buy-to-let property, but I'm not sure if it's the right decision for me. Can you walk me through the process and the potential risks?","label":"LLM_CHAT"}
+{"text":"I've been saving for a down payment on a house for ages, but I keep hearing about the importance of getting a mortgage broker involved. Why is that?","label":"LLM_CHAT"}
+{"text":"Is it better to save or invest right now? I feel like I'm stuck in limbo and can't make a decision.","label":"LLM_CHAT"}
+{"text":"I'm thinking of starting to invest but I'm not sure where to begin. Can you give me some simple tips?","label":"LLM_CHAT"}
+{"text":"I've been reading about compound interest and it makes sense, but how does it actually work in real life?","label":"LLM_CHAT"}
