@@ -4528,3 +4528,33 @@
 {"text":"Can you explain profit to me in simple terms?","label":"DOMAIN_QUERIES"}
 {"text":"How does a portfolio manager allocate shares within my portfolio?","label":"DOMAIN_QUERIES"}
 {"text":"Can you tell me what a share represents in terms of my overall investment portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can I invest my cash reserve in assets?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit accumulation work?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and asset type?","label":"DOMAIN_QUERIES"}
+{"text":"Is it possible to set a virtual wallet budget for shares?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my portfolio's capital allocation?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification affect my overall portfolio performance?","label":"DOMAIN_QUERIES"}
+{"text":"What is the typical percentage of cash reserve that should be allocated to assets?","label":"DOMAIN_QUERIES"}
+{"text":"Can I manually manage my portfolio's shares or do I need a portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot calculate profit from investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the recommended asset allocation for a beginner investor?","label":"DOMAIN_QUERIES"}
+{"text":"Can I create multiple portfolios with different investment strategies?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Virtual wallet feature integrate with the asset portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the minimum share purchase requirement for a portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"Can I view my portfolio's performance in terms of capital gains?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification impact the overall risk level of a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and a financial advisor's asset allocation strategy?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up automatic investment transfers from my virtual wallet to assets?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot handle profit distribution among portfolio managers?","label":"DOMAIN_QUERIES"}
+{"text":"What is the recommended asset type for a cash reserve allocation?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification impact the overall returns on investment in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the typical percentage of shares that should be allocated to cash reserve?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot handle stock category changes for asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"How does my virtual wallet calculate profit?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category for shares?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how diversification works in portfolio management?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot handle capital allocation?","label":"DOMAIN_QUERIES"}
+{"text":"What is a cash reserve for my asset?","label":"DOMAIN_QUERIES"}
+{"text":"Is there a minimum share requirement for portfolio creation?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit impact my virtual wallet's cash reserve?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a portfolio manager and a financial advisor?","label":"DOMAIN_QUERIES"}
