@@ -4618,3 +4618,33 @@
 {"text":"Can you explain what a ticker symbol represents?","label":"DOMAIN_QUERIES"}
 {"text":"What is the benefit of having multiple assets in a virtual wallet?","label":"DOMAIN_QUERIES"}
 {"text":"How does FA Bot's profit sharing model work?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a ticker and an asset?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain what a Virtual wallet is for shares?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital for profit calculation?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot determine stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"Is a portfolio manager the same as an investor?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve in a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit relate to asset values?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me an example of how diversification works?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a ticker and share price?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot handle capital gains taxes?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain what a portfolio manager role entails?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of tracking asset performance in a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit impact investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"Can you describe how stock categories are assigned to assets?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot determine asset values for profit calculation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how diversification can improve investment returns?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a Virtual wallet and a regular portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of tracking shares in a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how the Financial Advisor Bot determines asset classes?","label":"DOMAIN_QUERIES"}
+{"text":"What is a virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does capital work?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as asset in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Does diversification affect profit?","label":"DOMAIN_QUERIES"}
+{"text":"How do shares work in the system?","label":"DOMAIN_QUERIES"}
+{"text":"Is cash reserve a type of capital?","label":"DOMAIN_QUERIES"}
+{"text":"What is stock category exactly?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use my portfolio to buy shares?","label":"DOMAIN_QUERIES"}
+{"text":"How does the profit feature work in FA Bot?","label":"DOMAIN_QUERIES"}
