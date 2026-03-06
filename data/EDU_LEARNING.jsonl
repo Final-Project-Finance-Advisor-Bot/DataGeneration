@@ -778,3 +778,33 @@
 {"text":"What is the main purpose of having a learning pathway in an app like this?","label":"EDU_LEARNING"}
 {"text":"Can I learn anything on my own without the learning centre at all?","label":"EDU_LEARNING"}
 {"text":"Is there a learning pathway in this app that shows me how everything works?","label":"EDU_LEARNING"}
+{"text":"What is the learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre work?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway required?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does learning work in this app?","label":"EDU_LEARNING"}
+{"text":"Do I have to complete the lessons?","label":"EDU_LEARNING"}
+{"text":"Can I learn at my own pace?","label":"EDU_LEARNING"}
+{"text":"How does the app know where I am?","label":"EDU_LEARNING"}
+{"text":"Is there a limit on how much I can learn?","label":"EDU_LEARNING"}
+{"text":"Can I learn offline?","label":"EDU_LEARNING"}
+{"text":"What if I forget something?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay focused?","label":"EDU_LEARNING"}
+{"text":"Can I learn with others?","label":"EDU_LEARNING"}
+{"text":"What if I get stuck?","label":"EDU_LEARNING"}
+{"text":"How does the app keep me motivated?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize my learning experience?","label":"EDU_LEARNING"}
+{"text":"What if I make a mistake?","label":"EDU_LEARNING"}
+{"text":"Can I learn on different devices?","label":"EDU_LEARNING"}
+{"text":"How does the app help me review what I've learned?","label":"EDU_LEARNING"}
+{"text":"Can I learn from anywhere?","label":"EDU_LEARNING"}
+{"text":"How does the app help me stay organized?","label":"EDU_LEARNING"}
+{"text":"Is there a way to track my progress?","label":"EDU_LEARNING"}
+{"text":"What if I need help with technical issues?","label":"EDU_LEARNING"}
+{"text":"What is the learning centre used for?","label":"EDU_LEARNING"}
+{"text":"Does the learning pathway show my progress?","label":"EDU_LEARNING"}
+{"text":"How does learning work in this app?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section?","label":"EDU_LEARNING"}
+{"text":"Is the learning pathway required for everything?","label":"EDU_LEARNING"}
+{"text":"What is the learning pathway and how does it work?","label":"EDU_LEARNING"}
