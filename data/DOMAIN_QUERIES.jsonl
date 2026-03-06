@@ -5968,3 +5968,33 @@
 {"text":"How does the FA Bot platform handle share ownership and tracking?","label":"DOMAIN_QUERIES"}
 {"text":"What is the minimum amount required for a Virtual wallet to be active?","label":"DOMAIN_QUERIES"}
 {"text":"Can I transfer shares from one stock category to another?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the difference between a ticker and an asset?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work in relation to my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the best way to manage capital in my Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can you tell me about stock categories and how they affect shares?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification impact a portfolio manager's decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve in my account?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of a share ownership structure?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio's profit/loss affect its overall performance?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between asset types and risk management strategies?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to track my Virtual wallet's capital flow?","label":"DOMAIN_QUERIES"}
+{"text":"How does a stock category impact the value of my shares?","label":"DOMAIN_QUERIES"}
+{"text":"What is the best way to balance diversification in my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit is calculated for a specific asset?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager optimize capital allocation?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a Cash Reserve and a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can you tell me about share pricing strategies for different stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification impact a portfolio's overall risk profile?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a profit sharing program in my account?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how a portfolio manager uses capital to hedge risks?","label":"DOMAIN_QUERIES"}
+{"text":"How does a Cash Reserve affect a portfolio's liquidity?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to track changes in share prices over time?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification impact a portfolio's overall performance over time?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how a portfolio manager uses profit to make investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What is a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work on shares?","label":"DOMAIN_QUERIES"}
+{"text":"Can you tell me about asset management in portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital for a financial advisor bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work in a stock category?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve on FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my ticker in a portfolio manager tool?","label":"DOMAIN_QUERIES"}
