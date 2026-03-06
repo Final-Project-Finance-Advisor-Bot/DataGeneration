@@ -3418,3 +3418,33 @@
 {"text":"Can you explain the difference between asset and portfolio?","label":"DOMAIN_QUERIES"}
 {"text":"How does profit calculation work for a Virtual wallet?","label":"DOMAIN_QUERIES"}
 {"text":"What is the purpose of a Cash Reserve in a Financial Advisor Bot system?","label":"DOMAIN_QUERIES"}
+{"text":"example message","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager for?","label":"DOMAIN_QUERIES"}
+{"text":"How does capital work in investing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain what a stock category is?","label":"DOMAIN_QUERIES"}
+{"text":"How do I add a share to my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between asset and shares?","label":"DOMAIN_QUERIES"}
+{"text":"Can you walk me through how profit is calculated?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification affect my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how Virtual wallets work?","label":"DOMAIN_QUERIES"}
+{"text":"How do I use my ticker to invest?","label":"DOMAIN_QUERIES"}
+{"text":"What is the benefit of having multiple asset classes?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how Financial Advisor Bot tracks performance?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager select investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between capital and profit?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to optimize my stock category?","label":"DOMAIN_QUERIES"}
+{"text":"How do I track my share ownership?","label":"DOMAIN_QUERIES"}
+{"text":"What is the importance of regular portfolio rebalancing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you walk me through how to set up a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a profit share and a dividend?","label":"DOMAIN_QUERIES"}
+{"text":"What is a cash reserve?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work for an asset?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do I manage my shares in the Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category exactly?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit affect my portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create a diversified portfolio using asset categories?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my share portfolio using a single ticker?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work with my cash reserve and virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the maximum capital I can hold in my financial advisor bot's portfolio manager?","label":"DOMAIN_QUERIES"}
