@@ -148,3 +148,33 @@
 {"text":"Can I link my ticker to multiple portfolios for investment tracking?","label":"DOMAIN_QUERIES"}
 {"text":"What is the purpose of a cash reserve in a financial advisor's system?","label":"DOMAIN_QUERIES"}
 {"text":"Can I track my profit on my Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can a ticker be used to track multiple assets?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a profit on an investment portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does capital flow into a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can diversification be applied to individual shares?","label":"DOMAIN_QUERIES"}
+{"text":"Can a cash reserve be used to supplement a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use my Virtual wallet to invest?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work in portfolio management?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital for investment purposes?","label":"DOMAIN_QUERIES"}
+{"text":"Can a stock category be considered an asset?","label":"DOMAIN_QUERIES"}
+{"text":"How do I manage my shares in the FA Bot platform?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a portfolio and a cash reserve?","label":"DOMAIN_QUERIES"}
+{"text":"Can diversification be achieved through asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use the FA Bot platform to invest in different stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a cash reserve in investment strategy?","label":"DOMAIN_QUERIES"}
+{"text":"Can a stock share be considered an asset class?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between profit and capital in investment analysis?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot's portfolio management system handle stock category changes?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of diversification in investment strategy according to FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can a Virtual wallet be used to invest in different asset classes?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my virtual wallet's profit margins?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager handle capital allocation for diverse stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"What is the maximum amount of cash reserve that can be deposited into FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can I share my financial goals with a virtual advisor to get personalized asset recommendations?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit per share calculate for different stock categories in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of diversification in a portfolio, and how does it impact my capital gains?","label":"DOMAIN_QUERIES"}
+{"text":"Can I transfer funds from my virtual wallet to a cash reserve for emergency purposes?","label":"DOMAIN_QUERIES"}
+{"text":"How does FA Bot's algorithm determine the optimal share allocation for each asset in my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the minimum required capital to open a new portfolio with FA Bot, and how does it affect profit projections?","label":"DOMAIN_QUERIES"}
