@@ -5368,3 +5368,33 @@
 {"text":"What is the relationship between stock category and asset type in the context of portfolio management?","label":"DOMAIN_QUERIES"}
 {"text":"Can I set a cash reserve target for my portfolio manager to work towards?","label":"DOMAIN_QUERIES"}
 {"text":"How does a portfolio manager handle capital distribution for shares?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a ticker?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit relate to shares?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain capital in terms of virtual wallets?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio exactly in the context of investments?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification affect my share portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as asset when creating a new investment?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to track my profit from stocks?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot categorize shares?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a cash reserve and virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of stock category in finance?","label":"DOMAIN_QUERIES"}
+{"text":"How do I link my portfolio to the FA Bot platform?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain profit sharing in finance?","label":"DOMAIN_QUERIES"}
+{"text":"What is a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit affect my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how diversification works?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a cash reserve and capital?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor use portfolio managers?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain stock categories and their implications?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of tracking shares in my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor use asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how cash reserves are used to manage risk?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between capital and profit in investing?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor use portfolio tracking tools?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how shares can affect investment returns?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of financial advisors in managing capital?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor use diversification strategies?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how portfolio managers are used to optimize returns?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between asset allocation and diversification?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor use Virtual wallets to manage cash?","label":"DOMAIN_QUERIES"}
+{"text":"Can I get a portfolio summary with my current asset allocation?","label":"DOMAIN_QUERIES"}
