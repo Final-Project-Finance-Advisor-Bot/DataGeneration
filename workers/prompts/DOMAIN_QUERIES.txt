@@ -43,6 +43,7 @@ Each example MUST be a valid JSON object with the structure:
 
 Rules:
 
+- You must use United Kingdom English spelling.
 - Questions MUST remain interpretation-neutral.
 - Do NOT mention FA Bot explicitly.
 - Do NOT mention "in the app", "in this system", or "in the market".

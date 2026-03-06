@@ -56,7 +56,7 @@ Each example MUST be a valid JSON object with the structure:
 ```
 
 Rules:
-
+- You must use United Kingdom English spelling.
 - Messages should sound natural and human.
 - Include curiosity, opinions, and casual phrasing.
 - Mix short and longer messages.

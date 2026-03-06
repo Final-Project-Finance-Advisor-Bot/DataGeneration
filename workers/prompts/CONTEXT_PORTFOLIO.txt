@@ -56,6 +56,7 @@ Each example MUST be a valid JSON object with the structure:
 
 Rules:
 
+- You must use United Kingdom English spelling.
 - Messages must sound like real users interacting with the portfolio tool.
 - Questions should focus on actions, limits, or understanding system behaviour.
 - Use natural beginner phrasing.

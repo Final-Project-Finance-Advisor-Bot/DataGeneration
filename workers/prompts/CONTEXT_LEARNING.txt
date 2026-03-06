@@ -351,6 +351,7 @@ Each example MUST be a valid JSON object with the following structure:
 {"text":"example message","label":"{{LABEL}}"}
 
 Rules:
+- You must use United Kingdom English spelling.
 - The "text" field must contain a realistic user message.
 - The "label" field MUST always be exactly "{{LABEL}}".
 - Output exactly {{N}} JSON objects. If you output fewer, continue until you reach {{N}}.
@@ -359,6 +360,7 @@ Rules:
 - Do NOT include numbering or additional text.
 - Only output JSON objects.
 - You must NOT mention portfolios, assets, portfolio limits, allocation limits, or any functionality related to the portfolio management tool. Focus only on learning progression, courses, quizzes, rewards, and system progression.
+- You must NOT mention customising the learning pathway 
 
 ############## OUTPUT FORMAT EXAMPLE ##############
 
@@ -403,47 +405,111 @@ Variation Requirements:
 
 Questions must sound like genuine user messages.
 ####################################################
+############## FUNDAMENTALS MODULE CONTEXT ONLY ##############
 
-############## FUNDAMENTALS MODULE QUESTION THEMES ##############
+If questions refer to the Fundamentals Module, they must be about
+progression, completion requirements, visible quiz elements, or what
+the user needs to do next inside the module.
 
-Questions may also relate to concepts introduced within the
-FA Bot Fundamentals Module.
+Allowed examples:
 
-These questions should reflect users seeking clarification while
-progressing through the Fundamentals learning content.
+- Why do I need to pass this quiz before I can continue?
+- What do I need to finish before Fundamentals unlocks?
+- What happens if I fail this knowledge check?
+- Which Fundamentals section do I need to complete next?
+- Why is this part still locked?
+- What does this completion requirement mean?
 
-Focus on realistic learner uncertainty or curiosity about topics such as:
+Do NOT generate general conceptual finance questions such as:
 
-- What investing means within FA Bot
-- Simulated (“fake”) capital
-- How investing works step-by-step
-- Shares and company ownership
-- Returns and performance interpretation
-- Risk appetite
-- Risk vs volatility
-- Diversification purpose
-- Why only shares are available in FA Bot
-- How FA Bot differs from real investing platforms
-- Understanding the knowledge check or mastery quiz
-
-Example learning-style questions include:
-
-- What does capital actually mean here?
+- What does capital mean?
+- What is diversification?
+- What is volatility?
 - Why can I only buy shares?
-- Why do I need to pass the fundamentals quiz?
-- What does volatility look like in practice?
-- Is diversification supposed to remove risk?
-- What happens if I fail the knowledge check?
-- Why is FA Bot using fake money?
 - How do returns get calculated?
 
-Variation Requirements:
-
-- Questions should sound like users actively learning.
-- Some questions may show confusion or uncertainty.
-- Include short clarification questions and longer exploratory ones.
-- Avoid repeating wording patterns.
-- Questions should naturally reference concepts without copying documentation text.
+These belong to EDU or DOMAIN datasets, not CONTEXT_LEARNING.
 
 ####################################################
+############## DATASET INTENT DEFINITION ##############
 
+This dataset is for CONTEXT_LEARNING.
+
+CONTEXT_LEARNING questions are procedural, state-dependent, or screen-dependent questions asked while the user is using the Learning Pathway or Learning Centre.
+
+They ask how to progress, what to do next, what a visible module or screen element means, or how a specific part of the learning system behaves.
+
+They do NOT ask what the learning system is, why it exists, how it compares to other platforms, or what its long-term purpose is.
+
+####################################################
+############## EXCLUDE EDU_LEARNING QUESTIONS ##############
+
+Do NOT generate questions that ask:
+
+- what the learning centre is
+- what the learning pathway is
+- why the learning system exists
+- how the learning system differs from other platforms
+- what the long-term benefits of the learning system are
+- whether the learning system is useful overall
+- how the learning system works at a high conceptual level
+
+####################################################
+############## BANNED QUESTION STYLES ##############
+
+Do NOT generate questions using conceptual or comparative framing such as:
+
+- What is the difference between ...
+- How does this differ from ...
+- What are the long-term benefits ...
+- How will this help me ...
+- Why does this exist ...
+- What is this meant to do ...
+
+####################################################
+############## SCREEN-LEVEL ANCHORING ##############
+
+Questions should often refer to specific visible learning elements such as:
+
+- module
+- bite
+- quiz
+- locked course
+- progress
+- next step
+- reward preview
+- completion requirement
+- knowledge check
+
+The question should feel tied to something the user can currently see or interact with.
+
+####################################################
+############## DO NOT OUTPUT EXAMPLES ##############
+
+Do NOT output questions like:
+
+- What is the difference between the learning centre and other learning platforms?
+- Can you explain how the learning centre works?
+- What are the long-term benefits of using the FA Bot learning system?
+- How does the learning pathway differ from a traditional course structure?
+- What is the learning pathway?
+- Why does the learning centre exist?
+
+These are EDU_LEARNING, not CONTEXT_LEARNING.
+
+####################################################
+############## VALID CONTEXT EXAMPLES ##############
+
+Valid CONTEXT_LEARNING questions include:
+
+- What do I need to finish before Fundamentals unlocks?
+- Why is this module still locked?
+- What happens if I fail this knowledge check?
+- Which bite do I need to complete next?
+- How do I continue from where I left off?
+- Why can’t I move to the next bite yet?
+- Do I need full marks to complete this quiz?
+- What does this reward preview mean?
+- How do I know which lesson to do next?
+
+####################################################

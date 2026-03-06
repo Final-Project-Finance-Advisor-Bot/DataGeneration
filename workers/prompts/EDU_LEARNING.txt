@@ -43,7 +43,7 @@ Each example MUST be a valid JSON object with the structure:
 ```
 
 Rules:
-
+- You must use United Kingdom English spelling.
 - Messages must sound like real users asking about the learning feature.
 - Questions should reflect curiosity or confusion about the learning system.
 - Use natural phrasing and beginner language.

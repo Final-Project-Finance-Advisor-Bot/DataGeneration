@@ -16,6 +16,7 @@ Each example MUST be a valid JSON object with the following structure:
 ```
 
 Rules:
+- You must use United Kingdom English spelling.
 - The "text" field must contain a direct request or command to open the learning area.
 - The "label" field MUST always be exactly "{{LABEL}}".
 - Messages should represent navigation or action intent (opening, launching, going to, continuing learning).
