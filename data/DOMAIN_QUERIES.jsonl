@@ -3538,3 +3538,33 @@
 {"text":"Can I save money in a virtual wallet and track it?","label":"DOMAIN_QUERIES"}
 {"text":"What is the difference between asset and share in my portfolio?","label":"DOMAIN_QUERIES"}
 {"text":"How does profit get calculated for my investment?","label":"DOMAIN_QUERIES"}
+{"text":"How does a share's value change over time?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between asset classes and portfolio diversification?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit is calculated for a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and an asset class?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification impact my portfolio's performance?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in managing capital?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how cash reserve works for Virtual wallets?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit impact my investment decisions?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit margins are calculated for shares?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and a financial advisor?","label":"DOMAIN_QUERIES"}
+{"text":"How does a Virtual wallet work in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital for a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do shares in a stock category affect profit?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of diversification?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager select stocks for a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Is there an asset type called 'Financial Advisor'?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a profit share and a capital gain?","label":"DOMAIN_QUERIES"}
+{"text":"Can a portfolio be managed without an asset allocation strategy?","label":"DOMAIN_QUERIES"}
+{"text":"How does one determine their capital for investment purposes?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between profit and return on investment?","label":"DOMAIN_QUERIES"}
+{"text":"How does one track the performance of their Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve in investment planning?","label":"DOMAIN_QUERIES"}
+{"text":"How does one calculate the optimal portfolio size based on capital allocation?","label":"DOMAIN_QUERIES"}
+{"text":"Can profit be generated without capital?","label":"DOMAIN_QUERIES"}
+{"text":"What is the impact of diversification on investment returns in a virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a stock category?","label":"DOMAIN_QUERIES"}
+{"text":"How does my Virtual wallet work?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital for my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit affect my Financial Advisor Bot?","label":"DOMAIN_QUERIES"}
