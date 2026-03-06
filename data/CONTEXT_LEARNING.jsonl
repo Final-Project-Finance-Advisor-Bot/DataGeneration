@@ -28,3 +28,33 @@
 {"text":"Will completing this knowledge check unlock the next part of the course?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I complete a bite, is there a reward or something?","label":"CONTEXT_LEARNING"}
 {"text":"How do I track my progress on the learning pathway if it’s not updating correctly?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the quiz but my progress is still stuck at 50%. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after taking a break?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet? Is it something I did wrong?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz? Can you explain what’s required for a passing score?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean and when will I get it?","label":"CONTEXT_LEARNING"}
+{"text":"I’m on the first bite of Fundamentals, but which section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you remind me how much more progress I need to make to unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the difference between this bite and the one before it? Am I supposed to learn something new?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a bite enough to move on? What’s the threshold for completion?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens if I fail this knowledge check? Will it affect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I’m trying to unlock Portfolio Manager, but it keeps saying I need to complete a different course first. Why is that?","label":"CONTEXT_LEARNING"}
+{"text":"What does the ‘Continue Learning’ button do exactly? Does it automatically save my progress or something?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I allocate more funds until I’ve completed a specific module in Fundamentals? Is this part of the strategy I need to learn?","label":"CONTEXT_LEARNING"}
+{"text":"How long does it take to unlock each new reward or capability? Can you give me an estimate?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what’s meant by ‘ bite-based mastery’ and how that impacts my learning?","label":"CONTEXT_LEARNING"}
+{"text":"If I complete a course in half the time, will my progress be faster or slower? How does it affect my overall rate of unlocking rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you remind me which course is currently locked and what I need to do to unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a bite before moving on improve my learning in the long run? Is there an explanation or example?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the difference between ‘Continue Learning’ and ‘Start Learning’ buttons? Do they have different effects on my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what’s meant by ‘ capability unlock engine’ and how that works within the system?","label":"CONTEXT_LEARNING"}
+{"text":"If I lose my internet connection, will all my unsaved work be lost or is there a way to recover it?","label":"CONTEXT_LEARNING"}
+{"text":"Why does unlocking certain capabilities feel like a big milestone? Are these related to real-world finance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how the system calculates wallet growth and when I can expect my next allocation increase?","label":"CONTEXT_LEARNING"}
+{"text":"If I complete Fundamentals, will it automatically unlock Portfolio Manager or is there an additional step needed?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of learning ‘behavioural awareness’ if I don’t know what it means in real life? Can you give me examples?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify how much progress is required to unlock the next bite or module within a course? Is there a percentage threshold?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features like the Fundamentals course if my wallet balance is low? How does that relate to real-world finance?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between ‘knowledge check’ and ‘quiz’ in terms of what they measure or assess? Can you explain further?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how my wallet balance will change after completing a specific bite or module within Fundamentals? Is there an explanation for these changes?","label":"CONTEXT_LEARNING"}
