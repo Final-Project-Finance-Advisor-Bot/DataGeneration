@@ -3688,3 +3688,33 @@
 {"text":"What is the difference between a cash reserve and a virtual wallet?","label":"DOMAIN_QUERIES"}
 {"text":"How does asset allocation affect my profit margin?","label":"DOMAIN_QUERIES"}
 {"text":"Can I set up a separate portfolio for specific shares?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager for?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set my virtual wallet to alert me when profit exceeds X?","label":"DOMAIN_QUERIES"}
+{"text":"How does the financial advisor bot determine share prices?","label":"DOMAIN_QUERIES"}
+{"text":"Is capital required for a cash reserve?","label":"DOMAIN_QUERIES"}
+{"text":"What is the stock category for this asset?","label":"DOMAIN_QUERIES"}
+{"text":"Can I diversify my portfolio by adding shares from different asset categories?","label":"DOMAIN_QUERIES"}
+{"text":"How do I calculate profit on a specific share in my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of having a cash reserve in a virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit affect my asset's value over time?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up a virtual wallet to track my cash reserve for each share in my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification impact my portfolio's profit over time?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up a financial advisor bot to automatically invest excess capital into shares?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a virtual wallet in managing my asset's value over time?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit affect my financial advisor bot's recommendations?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up a financial advisor bot to automatically rebalance my cash reserve when it falls below X?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of having multiple portfolio managers for different assets?","label":"DOMAIN_QUERIES"}
+{"text":"How do stock categories impact my overall portfolio performance and profit?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share in terms of portfolio management?","label":"DOMAIN_QUERIES"}
+{"text":"How does capital contribute to profit?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of diversification in asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"What is a Virtual wallet for in investment planning?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit impact financial decisions on a stock category level?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a portfolio manager in managing shares?","label":"DOMAIN_QUERIES"}
+{"text":"Can you describe the relationship between cash reserve and asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit affect investment strategies for different stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker symbol in relation to financial advisor guidance?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager utilize profit to inform share selections?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of Virtual wallet in managing cash reserve for investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can you describe the impact of diversification on financial advisor Bot's asset allocation decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a Virtual wallet and a Cash Reserve?","label":"DOMAIN_QUERIES"}
