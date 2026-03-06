@@ -2518,3 +2518,33 @@
 {"text":"What is the maximum amount of capital allowed for shares?","label":"DOMAIN_QUERIES"}
 {"text":"How do financial advisors bot handle portfolio management?","label":"DOMAIN_QUERIES"}
 {"text":"Can I transfer profit from one share to another in my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio exactly?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work with Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can I add shares to my Cash Reserve?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between asset and share?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work with a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can I withdraw cash from my Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the stock category for FA Bot shares?","label":"DOMAIN_QUERIES"}
+{"text":"How do I calculate my portfolio's profit?","label":"DOMAIN_QUERIES"}
+{"text":"What is the benefit of using a Cash Reserve in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use FA Bot to invest in stocks?","label":"DOMAIN_QUERIES"}
+{"text":"How do I know if my shares are profitable?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between profit and capital in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use Virtual wallet for international transactions?","label":"DOMAIN_QUERIES"}
+{"text":"How does a share's ticker symbol affect its value?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a cash reserve in investment?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit is calculated for an asset?","label":"DOMAIN_QUERIES"}
+{"text":"Can a portfolio be diversified without stocks?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a cash reserve in my Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit impact my financial advisor's fees?","label":"DOMAIN_QUERIES"}
+{"text":"Can I add shares to my portfolio manager without logging in?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and an asset?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification affect my capital allocation?","label":"DOMAIN_QUERIES"}
+{"text":"Can I view my portfolio's performance without a ticker symbol?","label":"DOMAIN_QUERIES"}
+{"text":"What is the minimum share requirement for a virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can I transfer shares from one portfolio manager to another without an asset ticker?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a stock category in terms of financial advisor strategy?","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker for a specific stock category?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit calculation work for a portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"Can I link my Virtual wallet to a Cash Reserve account?","label":"DOMAIN_QUERIES"}
