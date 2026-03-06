@@ -4498,3 +4498,33 @@
 {"text":"What is the relationship between stock categories and shares in a financial system?","label":"DOMAIN_QUERIES"}
 {"text":"What is a share of stock?","label":"DOMAIN_QUERIES"}
 {"text":"How does profit accumulate in a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit impact my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as a share in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Is diversification part of my financial plan?","label":"DOMAIN_QUERIES"}
+{"text":"How do I manage my Cash Reserve?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and asset type?","label":"DOMAIN_QUERIES"}
+{"text":"Can you walk me through the process of creating a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does capital grow over time in my investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up multiple portfolios within FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit affect my virtual wallet balance?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share in a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work with Cash Reserve?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how diversification works on the Financial Advisor Bot platform?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category in terms of asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"How does capital contribute to a portfolio manager's strategy?","label":"DOMAIN_QUERIES"}
+{"text":"Can you tell me about the difference between a ticker and a share?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve in relation to profit?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category in terms of financial modeling?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share in terms of stock categorization?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of asset categorization in financial planning?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio exactly?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work with shares?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as capital for an asset?","label":"DOMAIN_QUERIES"}
+{"text":"Can I manage my cash reserve within the Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How do I manage my Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and an asset?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain profit to me in simple terms?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager allocate shares within my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you tell me what a share represents in terms of my overall investment portfolio?","label":"DOMAIN_QUERIES"}
