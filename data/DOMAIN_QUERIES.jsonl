@@ -928,3 +928,33 @@
 {"text":"What is a stock category exactly in terms of asset classification?","label":"DOMAIN_QUERIES"}
 {"text":"How does capital growth work for a portfolio manager on FA Bot?","label":"DOMAIN_QUERIES"}
 {"text":"Can I link my ticker to track its performance inside the Financial Advisor Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share's impact on my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work for individual investors?","label":"DOMAIN_QUERIES"}
+{"text":"Can I transfer money from my Virtual wallet to Cash Reserve?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between asset and share classifications?","label":"DOMAIN_QUERIES"}
+{"text":"What is the minimum capital requirement for a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a portfolio and a financial advisor's strategy?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of diversification in asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"What is the impact of profit on my Virtual wallet balance?","label":"DOMAIN_QUERIES"}
+{"text":"What is the minimum capital required to open a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a share and a stock category?","label":"DOMAIN_QUERIES"}
+{"text":"What is the impact of profit on my portfolio's return on investment?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain what counts as capital for an asset?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and a share?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification affect my portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker in terms of financial analysis?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to add shares to a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot calculate profit?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve in my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to use a share in a stock category?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot determine diversification in my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between a ticker and an asset?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to manage capital in my Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit impact my portfolio manager's decisions?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a financial advisor and a portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how to create a new portfolio in the FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot handle asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a Cash Reserve in my financial plan?","label":"DOMAIN_QUERIES"}
+{"text":"What is a Virtual wallet?","label":"DOMAIN_QUERIES"}
