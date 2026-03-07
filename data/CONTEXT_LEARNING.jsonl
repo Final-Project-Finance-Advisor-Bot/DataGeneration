@@ -5098,3 +5098,33 @@
 {"text":"What happens when I complete all required lessons in the Fundamentals course?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to achieve a certain score in the final quiz to unlock the next course?","label":"CONTEXT_LEARNING"}
 {"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"I’m on bit 3 but cannot proceed, what does it mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I complete the first quiz in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the next step after I pass this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"I have 50% on a bite, what does that mean?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet still at £100?","label":"CONTEXT_LEARNING"}
+{"text":"What do the different colours on the course cards mean?","label":"CONTEXT_LEARNING"}
+{"text":"How can I unlock access to more graphs in Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"I’ve completed 2 bites, what’s next?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress stuck at 50%?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I answer a quiz question incorrectly?","label":"CONTEXT_LEARNING"}
+{"text":"How can I view previous completion data on bites?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to re-do a failed knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access more bites if I complete all the required ones?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of earning rewards in the learning system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I compare my portfolio to others?","label":"CONTEXT_LEARNING"}
+{"text":"I’ve been trying to unlock Portfolio Manager, what’s required?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I use full capacity on my wallet yet?","label":"CONTEXT_LEARNING"}
+{"text":"What does a knowledge check do in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"How can I progress faster through bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and come back later?","label":"CONTEXT_LEARNING"}
+{"text":"I need to re-complete a bite, what’s the best way?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between completing courses and unlock rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see the full list of available tools in Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"Do bites count towards my learning progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move to a new bite if I’m stuck on this one?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how many bites are left in the module?","label":"CONTEXT_LEARNING"}
+{"text":"I’ve lost all my progress, what can I do?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to reach 100% completion on a bite?","label":"CONTEXT_LEARNING"}
