@@ -2278,3 +2278,33 @@
 {"text":"Can I see how many bites are left to complete when I click on a course and it says 'Start Learning'?","label":"CONTEXT_LEARNING"}
 {"text":"How do completion requirements work in the system?","label":"CONTEXT_LEARNING"}
 {"text":"What's this 'Locked Course' message all about?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why Fundamentals is locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before the Portfolio Manager unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Which lesson should I start next if I failed this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance still growing slowly after 10 bites completed?","label":"CONTEXT_LEARNING"}
+{"text":"Can you remind me what rewards are unlocked for completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to complete next if they're all listed in order?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete the knowledge check on Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish the entire course before unlocking the next level of rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the bite preview for Fundamentals if it's not available yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand why my wallet balance isn't increasing as fast as expected?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a completed and incomplete bite in terms of rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I see which bites I've completed if they're not listed on my dashboard?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me an example of what the reward preview looks like for completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the knowledge check on Portfolio Manager giving me trouble?","label":"CONTEXT_LEARNING"}
+{"text":"How do I redeem my rewards if they're locked behind a specific completion requirement?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the allocation limits work in terms of portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"What is the total value of the reward bundle for completing Fundamentals and Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete both Fundamentals and Portfolio Manager to unlock advanced features?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand how my wallet balance is affected by the Bite Completion progression?","label":"CONTEXT_LEARNING"}
+{"text":"How do I check if all bites in a course are locked or unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my progress bar not move when I try to complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the difference between a completed and incomplete bite in terms of learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my learning centre overview if it's not showing up on my dashboard?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete specific bites to unlock advanced features like portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the Bite Completion progression in terms of overall wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"Can you remind me what is required to unlock the next level of rewards after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my bite completion history if it's not showing up on my dashboard?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a course to see their completed state?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand how the system determines when to unlock new rewards and features?","label":"CONTEXT_LEARNING"}
