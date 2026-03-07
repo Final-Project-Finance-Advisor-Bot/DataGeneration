@@ -988,3 +988,33 @@
 {"text":"How do I know if I’m ready to move on from one module to another?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me what this reward represents and how it’s tied to my learning progress?","label":"CONTEXT_LEARNING"}
 {"text":"Why is there a lock screen for the second bite in Fundamentals if I’ve already completed some parts?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the knowledge check, but can't proceed to the next bite. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean? Is it really worth unlocking?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next? Are there any hints?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed all the required bites, but my wallet is still locked. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review what I've learned so far in this bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between passing and mastering a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this bit - can you give me another hint?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the graph tools if they're locked?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of unlocking these capabilities - what can I do with them?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed all the required modules, but my wallet is still limited. Can I unlock more?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning centre help me build strategic thinking skills?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what 'bite-sized mastery' means in practice?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure which bite to do next - can I see my options?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that I'm not skipping steps or losing progress?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of unlocking these rewards? Are they really worth it?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a knowledge check, but my wallet is still locked. Can you help me understand why?","label":"CONTEXT_LEARNING"}
+{"text":"How do I navigate the learning centre if I'm not sure where to start?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system determines when I've completed a course?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this part - can you give me another hint or explanation?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I need to retake a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between completing a course and unlocking its rewards?","label":"CONTEXT_LEARNING"}
+{"text":"I've unlocked some capabilities, but they're not working. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system helps me build financial literacy skills?","label":"CONTEXT_LEARNING"}
