@@ -3868,3 +3868,33 @@
 {"text":"Do I need to complete all the required modules in a specific order?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know if I'm on the right track - can you give me feedback?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what this progress bar means?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move on to the next bite after completing this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip this bite if I already know the material?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Builder yet?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a locked and unlocked course in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolios after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move to the next bite if I only have 50% mastery?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see the reward preview for my wallet growth yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which module to start with in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can I continue from where I left off after completing a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the progress indicator in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain tools or features until I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio slots after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolios and view their contents?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail to answer a knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move on to the next bite after completing this quiz in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access my wallet until I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next if I'm unsure about the material?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review completed lessons in Learn the Application?","label":"CONTEXT_LEARNING"}
