@@ -5188,3 +5188,33 @@
 {"text":"I'm having trouble with a particular concept. Can you provide more information on that topic?","label":"CONTEXT_LEARNING"}
 {"text":"How does the system prevent me from skipping ahead in the learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"Can I save my progress in the learning centre and come back to it later?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after taking a break?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my learning progress with friends?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How does the progress bar update after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What is the reward preview for completing Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and redo a knowledge check if I fail?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next in Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features until I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does this completion requirement mean for my wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning centre layout change when I switch between courses?","label":"CONTEXT_LEARNING"}
+{"text":"Can I customize the order of bites in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't complete a bite within a certain time limit?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this course locked until I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio performance with friends in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I save my progress if I need to switch devices or browsers?","label":"CONTEXT_LEARNING"}
+{"text":"What is the benefit of completing all bites in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can I prioritize which bite to complete next based on my learning goals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset my progress if I need to start over from scratch?","label":"CONTEXT_LEARNING"}
+{"text":"What is the reward preview for completing Fundamentals of Finance after achieving 100% completion?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my learning achievements with family members or employers?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features until I demonstrate a specific skill in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure that users complete all required bites and quizzes before progressing?","label":"CONTEXT_LEARNING"}
+{"text":"What is the benefit of completing Portfolio Manager after achieving 100% completion in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I customize the difficulty level of knowledge checks in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve completed all required bites and quizzes for a course?","label":"CONTEXT_LEARNING"}
