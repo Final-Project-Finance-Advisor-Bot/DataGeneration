@@ -3028,3 +3028,33 @@
 {"text":"Can I see how far through a course I am at without clicking on the progress bar?","label":"CONTEXT_LEARNING"}
 {"text":"Do all bites need to be completed before I can unlock more rewards or just most of them?","label":"CONTEXT_LEARNING"}
 {"text":"I've completed a bite, but it says I need to finish another one to unlock the next set of rewards. Is that right?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite should I complete next after reaching 99% completion of Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this reward preview means for completing the knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a quiz in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course after finishing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What is my next step after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the Learning Centre for bite-based mastery?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you remind me what my progress is in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I have enough money to invest?","label":"CONTEXT_LEARNING"}
+{"text":"What does this completion requirement mean for Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards work for completing bites in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next after reaching 50% completion of Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to take a quiz in Fundamentals before it unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module locked until I complete it?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to achieve 100% completion of a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what my current progress is in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio slots after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to take a bite in Portfolio Manager before it becomes available?","label":"CONTEXT_LEARNING"}
+{"text":"Can you remind me what my wallet balance is after investing money?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the Portfolio Manager course yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move to the next lesson in Fundamentals if I’ve already completed it?","label":"CONTEXT_LEARNING"}
+{"text":"What is my goal for completing Learn the Application, and how does it relate to Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this quiz element means in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of bites before Portfolio Manager unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress towards completing Learn the Application?","label":"CONTEXT_LEARNING"}
