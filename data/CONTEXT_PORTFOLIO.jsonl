@@ -388,3 +388,33 @@
 {"text":"How do I view my portfolio value history?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why is my graph/chart not updating properly?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I set a specific date range for my graph/chart views?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm new to portfolio management, can you show me how to use it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch between my different portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount I need to invest to create a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure how my wallet value is calculated, can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won't my graph show the data for the last week?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the difference between the different types of assets available?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create two portfolios, can I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know which asset is performing well in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio value has dropped significantly, what's going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a budget for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure how to view my profit/loss, can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the maximum number of assets I can hold in one portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple wallets for different purposes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an asset allocation in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won't my search filter work properly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I export my portfolio data to a spreadsheet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know which asset is contributing the most to my profit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My graph shows data from last year, how do I get more recent data?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic dividend reinvestment for a specific asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value not updating properly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the performance of a specific asset over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a new asset via API?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of time an investment must be held before it can be sold?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure how to view my overall portfolio performance, can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set a specific date range for graph data?","label":"CONTEXT_PORTFOLIO"}
