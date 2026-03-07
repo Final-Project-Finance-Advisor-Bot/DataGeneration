@@ -238,3 +238,33 @@
 {"text":"Can I get hints for stuck quizzes in the learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"What’s the expected wallet balance after completing all Fundamentals modules?","label":"CONTEXT_LEARNING"}
 {"text":"How do I access my portfolio and view its content on the system?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move to the next bite without completing the current one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing a knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and re-do a previous bite if I got it wrong?","label":"CONTEXT_LEARNING"}
+{"text":"How much time do I have to complete each bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I being asked this question again after completing the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress in Fundamentals as a percentage?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'Complete [specific module]' mean in terms of unlocking?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to access the Portfolio Manager course if I finish Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I try a different bite instead of moving on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock a new capability?","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards work in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use fake money to practice investing?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see all of my available capabilities at once?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between 'Continue Learning' and 'Start Learning'?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when to review a bite rather than trying again?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo my progress in Fundamentals if I realize I don't need it anymore?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance be affected by the capabilities I unlock?","label":"CONTEXT_LEARNING"}
+{"text":"How do the different courses fit together in terms of learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how much time I've spent on each bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail to complete a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my performance across different bites in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How often can I attempt a bite before it becomes locked?","label":"CONTEXT_LEARNING"}
+{"text":"Will my progress be saved if I close the app?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards for completing specific tasks or milestones?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of being able to unlock new capabilities in terms of real-world application?","label":"CONTEXT_LEARNING"}
+{"text":"How do the different tools and resources fit into my overall learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"Can I try out a bite without actually starting it first?","label":"CONTEXT_LEARNING"}
