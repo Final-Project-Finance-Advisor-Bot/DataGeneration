@@ -1888,3 +1888,33 @@
 {"text":"Why is there a requirement to complete quizzes before moving forward?","label":"CONTEXT_LEARNING"}
 {"text":"How do I view the full list of available bites in my current module?","label":"CONTEXT_LEARNING"}
 {"text":"Can you help me understand how completing this bite will impact my overall learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the graph tool after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does the wallet growth pattern mean?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the Portfolio Builder after unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites before moving on to the next module?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress stuck at 50%?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use more than one graph tool at a time?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean when my wallet reaches £1000?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review a previous bite if I fail the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I being prompted to complete another knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach my maximum portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a module before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio allocation across different courses?","label":"CONTEXT_LEARNING"}
+{"text":"How do I activate the graph tool after unlocking it?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a completed bite and one that’s unlocked but not completed?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and come back to the learning centre later?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all Fundamentals modules before unlocking more courses?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I seeing a ‘complete this module’ prompt when I've already completed it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I increase my wallet growth rate?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use the Portfolio Builder to compare different learning paths?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a lesson that’s not visible in my current portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites before unlocking more features?","label":"CONTEXT_LEARNING"}
