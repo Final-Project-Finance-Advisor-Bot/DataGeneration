@@ -4408,3 +4408,33 @@
 {"text":"Can you help me understand how this bite works?","label":"CONTEXT_LEARNING"}
 {"text":"What happens if I don't pass a knowledge check?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what this reward preview means for my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"I see that Fundamentals is locked for me. What do I need to do to unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to start with in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this knowledge check required before I can continue?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and complete a previous bite in Fundamentals if I fail this one?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete this lesson in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish all the bites in one session or can I come back later?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with a specific concept in Fundamentals. Can you give me another example?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next step after I complete this bite?","label":"CONTEXT_LEARNING"}
+{"text":"How many more bites do I need to complete before I can unlock my first reward?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review what I've learned so far in Fundamentals or do I have to start from the beginning?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of this particular knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about how progress works in Fundamentals. Can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a lesson or bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn badges or points for completing lessons and bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between this knowledge check and my progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the next lesson or bite if I'm stuck on this one?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how many bites are left to complete in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the reward for completing all the bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lessons or bites to prioritize in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and come back later if I get stuck on a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of this particular lesson or bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've mastered a concept in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get help or clarification on a specific concept in Fundamentals if I'm struggling?","label":"CONTEXT_LEARNING"}
+{"text":"What's the estimated time required to complete all the bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the lessons and bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn a completion certificate or badge for finishing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between this knowledge check and my overall progress in the learning system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lessons or bites to take next based on my strengths and weaknesses?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get feedback on my performance in Fundamentals after completing a bite or lesson?","label":"CONTEXT_LEARNING"}
+{"text":"What's the estimated value of the reward for completing all the bites in Fundamentals?","label":"CONTEXT_LEARNING"}
