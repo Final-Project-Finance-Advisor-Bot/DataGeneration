@@ -4228,3 +4228,33 @@
 {"text":"Can you show me how to access the full portfolio view after completing Learn the Application?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know if I have enough money for the next bite?","label":"CONTEXT_LEARNING"}
 {"text":"What is the point of this mastery model quiz system?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the Fundamentals module - can you explain why it's locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to the Learn the Application course if I fail this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites do I need to complete before I unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"What is the maximum score required for a bite in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access my next quiz until I finish this one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what’s needed to unlock the Portfolio Manager course after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about how progress works in the Fundamentals module - can you explain it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move to the next lesson if I only completed half of this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Do all bites have a completion requirement like this quiz does?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance increasing even though I didn’t complete any bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me what happens when I finish the Fundamentals module and unlock the next lesson?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the maximum number of bites I can attempt before getting a score penalty?","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards work in the learning centre - can I get a refund if I don’t like it?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to my previous bite and retry it after completing this lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress bar not moving even though I’m on the right track?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of having a knowledge check if I can just do another attempt?","label":"CONTEXT_LEARNING"}
+{"text":"How often does the learning centre update my progress and rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what’s inside this bite - is it always the same?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I view my previous lessons if they’re no longer unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve finished a lesson and should move on to the next one?","label":"CONTEXT_LEARNING"}
