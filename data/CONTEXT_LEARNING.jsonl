@@ -1648,3 +1648,33 @@
 {"text":"Do I need to complete both bites in a module before unlocking the next one?","label":"CONTEXT_LEARNING"}
 {"text":"How do I reset my progress if I want to start over?","label":"CONTEXT_LEARNING"}
 {"text":"What is the reward for completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is Fundamentals locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can I still access Learn the Application if I'm not ready?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to unlock a new bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"What does this completion requirement mean?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I try another bite if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What does the reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish a certain number of bites to unlock more?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the required bites for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I still access the learning centre if I haven't started Learn the Application yet?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress in Learn the Application not showing up?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more bites in Fundamentals once I've completed a certain number?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access all the learning bites for Fundamentals now that I've unlocked it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of quizzes in Learn the Application before unlocking more?","label":"CONTEXT_LEARNING"}
+{"text":"Can I still access the learning centre if I'm not fully engaged with Learn the Application yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked more capabilities after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to have 100% completion on a bite in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can I still try another bite if I've reached the end of a lesson without completing all required bites?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to go back and redo any quizzes or knowledge checks before moving forward with the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more portfolio capacity in Portfolio Manager once I've unlocked Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I still access Learn the Application if I haven't completed a certain number of bites yet?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to have completed a full course in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all required quizzes in Fundamentals before unlocking more bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can I still access the learning centre if I'm not fully engaged with Portfolio Manager yet?","label":"CONTEXT_LEARNING"}
