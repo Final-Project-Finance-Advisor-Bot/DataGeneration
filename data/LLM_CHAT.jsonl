@@ -328,3 +328,33 @@
 {"text":"I've heard that some investments can be pretty volatile. What's the difference between risk and volatility?","label":"LLM_CHAT"}
 {"text":"I'm thinking of investing in a retirement fund, but I've heard mixed things about it. Is it worth doing?","label":"LLM_CHAT"}
 {"text":"I don't really understand compound interest properly. Could you explain it to me like I'm starting from scratch?","label":"LLM_CHAT"}
+{"text":"Is it true that you should invest for the long term or just save for emergencies?","label":"LLM_CHAT"}
+{"text":"I've heard of compound interest, how does that work?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bear market and a bull market?","label":"LLM_CHAT"}
+{"text":"I'm trying to decide whether to invest in stocks or bonds.","label":"LLM_CHAT"}
+{"text":"Is it true that you can lose all your money investing in the stock market?","label":"LLM_CHAT"}
+{"text":"How can I know if an investment is right for me?","label":"LLM_CHAT"}
+{"text":"What's the best way to diversify my portfolio?","label":"LLM_CHAT"}
+{"text":"What's the difference between risk and reward in investing?","label":"LLM_CHAT"}
+{"text":"Can I trust my financial advisor to give me good advice?","label":"LLM_CHAT"}
+{"text":"What's the best way to learn about investing?","label":"LLM_CHAT"}
+{"text":"Is it true that compound interest is a powerful force in long-term investing? Would it work for me too?","label":"LLM_CHAT"}
+{"text":"I heard the phrase 'dollar-cost averaging' mentioned somewhere, but I'm not sure what it means. Can you explain?","label":"LLM_CHAT"}
+{"text":"How does the interest rate environment affect the value of bonds? Should I be concerned?","label":"LLM_CHAT"}
+{"text":"I just read that some people invest in Bitcoin, but I'm not sure what to make of it. Is it a good or bad idea?","label":"LLM_CHAT"}
+{"text":"I've been looking into my pension, but I'm not sure how much I can rely on it for my retirement. Can you tell me more about that?","label":"LLM_CHAT"}
+{"text":"How does inflation affect the value of money? Will it ever go back to being worth what it was before?","label":"LLM_CHAT"}
+{"text":"I've heard of 'the 4% rule' when it comes to retirement investing. Is it always a good idea to follow that?","label":"LLM_CHAT"}
+{"text":"Can you explain the difference between a fixed income and an inflation-indexed bond? Which is better?","label":"LLM_CHAT"}
+{"text":"I'm trying to decide whether to invest in individual stocks or a tracker fund. What are the pros and cons of each?","label":"LLM_CHAT"}
+{"text":"How does market sentiment affect the stock market? Can it really influence investment decisions?","label":"LLM_CHAT"}
+{"text":"Can you explain 'the psychology of investing' in simple terms? Is there such a thing as a 'get rich quick' scheme?","label":"LLM_CHAT"}
+{"text":"What's the difference between a hedged portfolio and a fully invested portfolio? Which is better for me?","label":"LLM_CHAT"}
+{"text":"I've been looking into investing in property, but I'm not sure if it's right for me. Can you give me some advice?","label":"LLM_CHAT"}
+{"text":"Can you explain what exactly a 'bear market' is?","label":"LLM_CHAT"}
+{"text":"I've been reading about compound interest and I'm still a bit confused. Can you break it down for me?","label":"LLM_CHAT"}
+{"text":"Can you tell me a bit about ETFs and how they differ from mutual funds?","label":"LLM_CHAT"}
+{"text":"Can you explain what inflation means in simple terms?","label":"LLM_CHAT"}
+{"text":"How does a dividend yield work exactly? And is it always a good thing?","label":"LLM_CHAT"}
+{"text":"I'm thinking of putting my money into a peer-to-peer lending platform, but I've heard some horror stories about defaults. Is it worth taking the risk?","label":"LLM_CHAT"}
+{"text":"I've just started reading about compound interest, but I'm not entirely sure I understand it properly. Can you explain it to me in simple terms?","label":"LLM_CHAT"}
