@@ -5578,3 +5578,33 @@
 {"text":"why does my wallet balance increase when i complete certain requirements?","label":"CONTEXT_LEARNING"}
 {"text":"what happens if i fail a mastery quiz in the learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"how do i know which features are available to me based on my progress?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the first bite, but it says I need to complete more to unlock the Fundamentals course. What's next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the Fundamentals module until I've completed another Learn the Application module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of this completion requirement? Why does it matter?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a few bites, but the Fundamentals course is still locked. What am I doing wrong?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to be perfect on all the knowledge checks in Fundamentals to unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I can’t access the full version of the Fundamentals module yet?","label":"CONTEXT_LEARNING"}
+{"text":"How long does it take for a bite to unlock the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this quiz giving me a weird result? How do I correct it?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get help with understanding the Fundamentals module if I'm struggling?","label":"CONTEXT_LEARNING"}
+{"text":"What’s my current progress on the learning pathway? Can you tell me how far along I am?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which part of the bite I need to focus on next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo a mistake on a knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why does this reward preview say it's for completing the entire Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all the bites in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give me some tips on how to improve my scores on the knowledge checks in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get a certificate or proof of completion for each bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've completed all the required bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my progress with other users on the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of unlocking new capabilities as I complete the learning pathway? What does it do for me?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take to unlock all the rewards in Fundamentals if I complete everything?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the bite-based progression system works? How do I move forward?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get a summary of my progress and what I’ve learned after completing each bite?","label":"CONTEXT_LEARNING"}
