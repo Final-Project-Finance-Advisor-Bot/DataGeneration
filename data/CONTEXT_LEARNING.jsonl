@@ -3118,3 +3118,33 @@
 {"text":"Do I need to complete a particular set of bites before being able to access certain tools or features in Portfolio Manager?","label":"CONTEXT_LEARNING"}
 {"text":"What if I get lost in the learning centre and don’t know where to start again? Can you offer guidance?","label":"CONTEXT_LEARNING"}
 {"text":"How can I ensure that I’m meeting all the requirements for each module or bite before proceeding?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the Learning Centre works?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what this progress bar means in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Builder yet?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a completed and an incomplete bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my wallet balance increases after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all modules in Learn the Application before unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't pass this knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move forward after completing a bite in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how my portfolio is allocated after unlocking the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see all available bites in the Learning Centre yet?","label":"CONTEXT_LEARNING"}
+{"text":"What's this reminder about completing a bite before moving to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in Learn the Application to unlock Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my wallet balance affects access to certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What's this warning about not having enough funds for a course yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I complete a quiz in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what this completion requirement means for my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain tools or features until I've completed specific courses?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked a new capability in the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all learning pathways before unlocking the next level of capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my wallet balance increases exponentially after completing certain courses?","label":"CONTEXT_LEARNING"}
+{"text":"What's this reminder about regularly checking in with the FA Bot for guidance?","label":"CONTEXT_LEARNING"}
