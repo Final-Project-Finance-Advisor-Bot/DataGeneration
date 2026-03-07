@@ -178,3 +178,33 @@
 {"text":"How do I access the learning centre from the main menu?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what a mastery quiz is?","label":"CONTEXT_LEARNING"}
 {"text":"Why can’t I see my progress on the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I unlock the Fundamentals of Finance course by completing a specific bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals of Finance course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What is the next step in the Fundamentals of Finance module?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take to unlock the full rewards for completing the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a bite if I already know the material?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of this knowledge check in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites do I need to complete to unlock the next level of rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features of the learning centre yet?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finish completing all the Fundamentals of Finance modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo a mistake on my quiz answers in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get my progress percentage displayed after completing each bite?","label":"CONTEXT_LEARNING"}
+{"text":"What are the specific requirements to unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I set a reminder for when I need to complete the next bite in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"How can I review my previous bites and quizzes in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the benefit of completing all the Fundamentals modules before moving on to Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Can I create a schedule for completing the Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"How will my wallet balance be affected when I complete each bite in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail to meet a certain milestone in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my performance across different bites and modules?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress towards completing each course?","label":"CONTEXT_LEARNING"}
