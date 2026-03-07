@@ -388,3 +388,33 @@
 {"text":"How do I view my current progress in the Fundamentals course?","label":"CONTEXT_LEARNING"}
 {"text":"What is the purpose of the learning centre's 'mastery' model?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how my rewards are tied to my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what the reward preview means?","label":"CONTEXT_LEARNING"}
+{"text":"I got stuck on bite 3, can I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with the knowledge check, can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a 0% and 100% progress bar?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the full rewards list now that I've completed bite 5?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've reached a milestone in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what's inside the locked course?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure which question to answer next, can you give me a hint?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and come back later?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next bite after completing the previous one?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance not update immediately?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is and how it works?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the required modules for a course?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this concept, can you give me more clarification?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a wallet balance if it doesn't change?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio to others in the system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next feature or tool after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this part of the learning pathway hidden until later?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give me more information about the rewards system and how it works?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tool or feature to use next?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a learning bite and a mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I reset my progress and start over if needed?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the full list of available bites?","label":"CONTEXT_LEARNING"}
+{"text":"Why does this course say it's not yet unlocked for me?","label":"CONTEXT_LEARNING"}
