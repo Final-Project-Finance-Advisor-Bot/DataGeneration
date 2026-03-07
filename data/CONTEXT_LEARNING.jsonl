@@ -2518,3 +2518,33 @@
 {"text":"Do badges or rewards affect my overall sense of accomplishment?","label":"CONTEXT_LEARNING"}
 {"text":"How do I contact the support team if I have questions about my progress?","label":"CONTEXT_LEARNING"}
 {"text":"Can I share my learning experience with others and get feedback?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what ‘Learn the Application’ means?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the first bite, can you guide me?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between this and the next lesson?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more bites in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"I don't understand the quiz logic, can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip this bite if I've done all previous ones?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting confused about how to navigate the learning pathway. Can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have to complete every bite in a module before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"What's this ‘ capability unlock’ thing, and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what the next step is after completing this bite. Can you tell me?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my current progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system know when I've completed a lesson or bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't complete all bites in a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give me an example of how to use the Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my portfolio and view its progress?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress affect my ability to unlock rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what ‘behavioural progression’ means in this context?","label":"CONTEXT_LEARNING"}
+{"text":"I'm getting stuck on a specific bite, can you help me out?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between learning bites and rewards?","label":"CONTEXT_LEARNING"}
