@@ -238,3 +238,33 @@
 {"text":"What is the main purpose of the learning pathway?","label":"EDU_LEARNING"}
 {"text":"Can I learn anything without using the learning centre?","label":"EDU_LEARNING"}
 {"text":"Is the learning system part of my app experience?","label":"EDU_LEARNING"}
+{"text":"Can you tell me more about the learning pathway?","label":"EDU_LEARNING"}
+{"text":"I'm not sure what the learning centre does, can you explain it?","label":"EDU_LEARNING"}
+{"text":"How does the learning system work in this app?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section?","label":"EDU_LEARNING"}
+{"text":"Can you tell me about the different types of content in the learning centre?","label":"EDU_LEARNING"}
+{"text":"I'm confused about how the learning system is organized, can you help?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the learning system track my progress?","label":"EDU_LEARNING"}
+{"text":"Why can't I find any information about how to use the learning pathway?","label":"EDU_LEARNING"}
+{"text":"Can you explain what the different colours mean in the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the learning system adapt to my learning style?","label":"EDU_LEARNING"}
+{"text":"Can you tell me about any tools or resources available in the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the learning pathway change over time?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the app's learning system?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning system helps me learn?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize my experience in the learning centre?","label":"EDU_LEARNING"}
+{"text":"Can you tell me more about how the learning system is designed?","label":"EDU_LEARNING"}
+{"text":"How does the learning pathway fit into the overall app structure?","label":"EDU_LEARNING"}
+{"text":"Why can't I find any information about the learning centre's content?","label":"EDU_LEARNING"}
+{"text":"Can you explain what happens when I start a new lesson in the learning centre?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get help or support with using the learning centre?","label":"EDU_LEARNING"}
+{"text":"Can you tell me about any benefits of using the learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles or needs?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the app's learning system regularly?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning system evaluates my progress?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning centre works?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section in this app?","label":"EDU_LEARNING"}
+{"text":"How does the learning system know where I am?","label":"EDU_LEARNING"}
+{"text":"What's the point of having a learning pathway if I can just learn whatever I want?","label":"EDU_LEARNING"}
+{"text":"I'm not sure what this learning pathway thing does. Is it like a special part of the app?","label":"EDU_LEARNING"}
