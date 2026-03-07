@@ -5548,3 +5548,33 @@
 {"text":"Why can’t I move to the next bite until I’ve answered all previous questions correctly?","label":"CONTEXT_LEARNING"}
 {"text":"Can you clarify what happens when a course is locked and I try to start it?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which progress bar indicates that I’m close to completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"what do i need to finish before fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"why is the next bite still locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"can you explain what a knowledge check means?","label":"CONTEXT_LEARNING"}
+{"text":"which bite should I complete next to unlock more features?","label":"CONTEXT_LEARNING"}
+{"text":"how do i continue from where i left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"why can't i move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"do i need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"what does this reward preview mean in terms of my progress?","label":"CONTEXT_LEARNING"}
+{"text":"how do i know which lesson to do next in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"why can't i access my portfolio yet?","label":"CONTEXT_LEARNING"}
+{"text":"what does it mean when a course is locked?","label":"CONTEXT_LEARNING"}
+{"text":"can you explain how bites work in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"how do i know if i've completed all the requirements for the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"what happens when i finish a lesson and unlock more features?","label":"CONTEXT_LEARNING"}
+{"text":"why is my wallet balance going down even though i'm completing lessons?","label":"CONTEXT_LEARNING"}
+{"text":"how do i review what i've learned so far in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"can you explain the difference between a mastery quiz and a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"why does my progress percentage go up when i complete a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"what are the rewards available for completing each bite in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"how do i get more portfolio slots unlocked in the system?","label":"CONTEXT_LEARNING"}
+{"text":"why can't i allocate capital to my portfolio until certain requirements are met?","label":"CONTEXT_LEARNING"}
+{"text":"what does it mean when a course is 100% complete?","label":"CONTEXT_LEARNING"}
+{"text":"how do i get access to more advanced tools and features in the system?","label":"CONTEXT_LEARNING"}
+{"text":"why is my wallet balance limited if i haven't unlocked certain capabilities yet?","label":"CONTEXT_LEARNING"}
+{"text":"can you explain how capability unlocks work in relation to my progress?","label":"CONTEXT_LEARNING"}
+{"text":"what are the different types of rewards available for completing lessons and bites?","label":"CONTEXT_LEARNING"}
+{"text":"how do i track my progress through each module in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"why does my wallet balance increase when i complete certain requirements?","label":"CONTEXT_LEARNING"}
+{"text":"what happens if i fail a mastery quiz in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"how do i know which features are available to me based on my progress?","label":"CONTEXT_LEARNING"}
