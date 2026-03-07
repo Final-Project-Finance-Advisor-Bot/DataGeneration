@@ -328,3 +328,33 @@
 {"text":"What is the maximum allowed cash reserve balance?","label":"DOMAIN_QUERIES"}
 {"text":"How does diversification impact my portfolio's performance?","label":"DOMAIN_QUERIES"}
 {"text":"Can a single share of asset be considered as part of my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how a portfolio is managed?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of diversification in a share portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor bot determine profit margins?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain what a cash reserve is and how it's used?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between an asset and a share in terms of investment?","label":"DOMAIN_QUERIES"}
+{"text":"How does a Virtual wallet work for storing financial data?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how capital is allocated within a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a portfolio manager in managing investments?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of profit sharing in a financial advisor bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of regular portfolio rebalancing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to calculate returns on investment (ROI) for a share portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between an asset-based and a share-based investment strategy?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain what is meant by 'asset allocation' in investing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to optimize my portfolio for maximum returns?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain what is meant by 'portfolio turnover' in investing?","label":"DOMAIN_QUERIES"}
+{"text":"Can you help me understand how to calculate tax liabilities on investment income?","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker for an individual's account?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit on my portfolio work?","label":"DOMAIN_QUERIES"}
+{"text":"Can I link my Virtual wallet to the Financial Advisor Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category for UK investments?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification affect my share portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share's value based on its stock category?","label":"DOMAIN_QUERIES"}
+{"text":"How does the Financial Advisor Bot calculate profit on my investments?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager's role in managing capital for UK investors?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track the performance of my asset allocation in the FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"How do I track my capital?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set a profit target on an asset?","label":"DOMAIN_QUERIES"}
+{"text":"What does diversification of a portfolio look like?","label":"DOMAIN_QUERIES"}
+{"text":"Can a Virtual wallet be used to track profit on shares?","label":"DOMAIN_QUERIES"}
