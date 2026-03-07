@@ -5158,3 +5158,33 @@
 {"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
 {"text":"How do I continue from where I left off after completing a bite?","label":"CONTEXT_LEARNING"}
 {"text":"Which bite do I need to complete next to unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"what do i need to finish before fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"what happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"which bite do i need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"how do i continue from where i left off in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"what does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"how do i unlock the next module in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"I completed a lesson, but it's still locked. What do I need to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get help with this quiz if I'm stuck?","label":"CONTEXT_LEARNING"}
+{"text":"How many attempts can I make on this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"I want to move on to the Fundamentals course. How do I unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system track my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access this feature yet? Can you tell me when it will be available?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of completing this lesson?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure which module to start with. Can you recommend one?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review my progress in the learning centre at any time?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure I don't move on too quickly?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't complete a lesson within a certain timeframe?","label":"CONTEXT_LEARNING"}
+{"text":"I completed this bite, but it's not showing up in my progress. Can you help me with that?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo my last action in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system determine when I'm ready for a new module?","label":"CONTEXT_LEARNING"}
+{"text":"I want to go back and review a lesson. Can you help me find it?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next step in my learning pathway after completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards for completing lessons or achieving certain milestones?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with a particular concept. Can you provide more information on that topic?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system prevent me from skipping ahead in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress in the learning centre and come back to it later?","label":"CONTEXT_LEARNING"}
