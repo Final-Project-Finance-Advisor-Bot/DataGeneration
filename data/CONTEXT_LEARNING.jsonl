@@ -1828,3 +1828,33 @@
 {"text":"What is the difference between passing and completing this knowledge check?","label":"CONTEXT_LEARNING"}
 {"text":"Why do I have to wait so long for my wallet balance to increase?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me what’s inside this bite or module?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock a bite after completing a previous one?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review the previous quiz questions if I need to recheck my answers?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet? Is it because of something I didn't do?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean in the context of my learning?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get help with a specific bite if I'm struggling?","label":"CONTEXT_LEARNING"}
+{"text":"Will the system adapt its difficulty level based on my performance?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet? Is it because of something I haven't done?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the next step after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I choose which bite to do first if none are unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have to complete all the bites before moving on to the next course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review the learning pathway map if I need help navigating it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I report a technical issue with the system?","label":"CONTEXT_LEARNING"}
+{"text":"What does this completion requirement mean for my wallet?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards in addition to completing bites and courses?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it important to pass all quizzes before unlocking a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I forget how to do a specific task or question?","label":"CONTEXT_LEARNING"}
+{"text":"Will the system remind me of upcoming bites and course deadlines?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use the system on multiple devices without affecting my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I report a mistake made by another user in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the purpose of this particular bite in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get feedback on my quiz answers if I want to review them?","label":"CONTEXT_LEARNING"}
+{"text":"Will the system show me how much time I have left before a course deadline?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see which bites are most similar in terms of content and difficulty?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all bites in a course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it essential to maintain a consistent learning schedule?","label":"CONTEXT_LEARNING"}
