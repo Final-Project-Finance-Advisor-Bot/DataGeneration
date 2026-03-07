@@ -5128,3 +5128,33 @@
 {"text":"Can I see how many bites are left in the module?","label":"CONTEXT_LEARNING"}
 {"text":"I’ve lost all my progress, what can I do?","label":"CONTEXT_LEARNING"}
 {"text":"What does it mean to reach 100% completion on a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to progress from Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a hint on what this bite is about before starting?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites do I have left in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all the Learn the Application bites?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get a reward after finishing this module?","label":"CONTEXT_LEARNING"}
+{"text":"How far along am I in my learning journey?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to previous bites if I made mistakes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to pass this quiz to continue with Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how many bites are left in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I'm doing this bite correctly?","label":"CONTEXT_LEARNING"}
+{"text":"Will I get a warning if I've been inactive for too long?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask the AI to explain that concept again?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete Learn the Application before Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see which bites I've already completed?","label":"CONTEXT_LEARNING"}
+{"text":"What is the reward for completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get back to the main screen if I'm in full-screen mode?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a lesson if I've already learned it?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all Learn the Application bites to unlock Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get a hint on what this quiz is about?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask for clarification on that concept again?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next to unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
