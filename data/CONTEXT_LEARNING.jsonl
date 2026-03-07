@@ -2728,3 +2728,33 @@
 {"text":"How do I access the learning centre after completing a course?","label":"CONTEXT_LEARNING"}
 {"text":"Can I save my progress in the learning pathway?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I unlock a new capability?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"I just failed the knowledge check, what's the next step?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite should I complete first?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my progress is stuck on this module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't pass this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock the Fundamentals course yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to move on from this module?","label":"CONTEXT_LEARNING"}
+{"text":"What is this completion requirement, and how do I meet it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me the next bite in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I still seeing the locked course message?","label":"CONTEXT_LEARNING"}
+{"text":"How can I get my progress to unstick on this module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the next step after completing this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my wallet balance isn't increasing?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the required bites?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I seeing a message about completing this bite before proceeding?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete this module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my progress is going back to the beginning of the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How can I speed up my learning progression in the system?","label":"CONTEXT_LEARNING"}
+{"text":"What is this warning message about, and how do I resolve it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me what rewards are unlocked as a result of completing this module?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I seeing this locked course message again?","label":"CONTEXT_LEARNING"}
+{"text":"How can I move forward in the learning pathway after completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a ‘completed’ and an ‘unlocked’ state for courses?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my portfolio capacity isn’t increasing yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve unlocked all the required capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I seeing a message about completing this knowledge check before proceeding?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me what rewards are available as a result of unlocking this course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t meet the completion requirements for this module?","label":"CONTEXT_LEARNING"}
+{"text":"How can I unlock all the required capabilities in the system?","label":"CONTEXT_LEARNING"}
