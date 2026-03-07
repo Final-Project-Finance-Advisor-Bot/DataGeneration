@@ -418,3 +418,33 @@
 {"text":"I've been reading about the benefits of dollar-cost averaging, but I'm not entirely sure how it works. Can you give me an example or explanation?","label":"LLM_CHAT"}
 {"text":"I'm considering investing for the first time, what's the best way to get started?","label":"LLM_CHAT"}
 {"text":"I'm thinking of investing in a bit more, but I don't know if it's worth it long term. Is that always the best decision?","label":"LLM_CHAT"}
+{"text":"Is investing actually worth it long term?","label":"LLM_CHAT"}
+{"text":"I don't really understand inflation properly.","label":"LLM_CHAT"}
+{"text":"I always hear people talk about diversification.","label":"LLM_CHAT"}
+{"text":"Markets seem really unpredictable lately. What's your take?","label":"LLM_CHAT"}
+{"text":"Tell me a joke","label":"LLM_CHAT"}
+{"text":"Hi, how are you?","label":"LLM_CHAT"}
+{"text":"What is the best asset to invest in right now?","label":"LLM_CHAT"}
+{"text":"Are we expecting a market crash?","label":"LLM_CHAT"}
+{"text":"What is the difference between market crash & a market correction?","label":"LLM_CHAT"}
+{"text":"I'm thinking of investing in real estate. Any tips?","label":"LLM_CHAT"}
+{"text":"How does compound interest work?","label":"LLM_CHAT"}
+{"text":"I'm not sure if I should take the risk on stocks. Any advice?","label":"LLM_CHAT"}
+{"text":"Can you explain dividend investing?","label":"LLM_CHAT"}
+{"text":"How does inflation affect interest rates?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bear market and a bull market?","label":"LLM_CHAT"}
+{"text":"I'm curious about forex trading. How does it work?","label":"LLM_CHAT"}
+{"text":"Can you tell me about the history of cryptocurrency?","label":"LLM_CHAT"}
+{"text":"Is investing in real estate investment trusts (REITs) a good idea?","label":"LLM_CHAT"}
+{"text":"How does tax season affect your investments?","label":"LLM_CHAT"}
+{"text":"Is investing actually worth it long term?","label":"LLM_CHAT"}
+{"text":"I don’t really understand inflation properly. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"Is it better to save or invest right now? I have some spare cash lying around.","label":"LLM_CHAT"}
+{"text":"I always hear people talk about diversification. What does that even mean for an individual investor like me?","label":"LLM_CHAT"}
+{"text":"Tell me a joke to take my mind off this financial stress.","label":"LLM_CHAT"}
+{"text":"Hi, how are you? It’s nice to finally talk about something other than money and finance.","label":"LLM_CHAT"}
+{"text":"Are we expecting a market crash? I’ve been feeling really nervous about the whole thing.","label":"LLM_CHAT"}
+{"text":"I just read that investing in index funds can be a good way to get started. Is that true?","label":"LLM_CHAT"}
+{"text":"I've heard that the stock market can be volatile, but I'm not sure what that means in practical terms. Can you explain?","label":"LLM_CHAT"}
+{"text":"I'm not sure what my financial goals are, to be honest. I've been saving for a while now but I don't really know if it's enough or what I should be doing differently.","label":"LLM_CHAT"}
+{"text":"Does anyone ever get bored with their investments? I feel like I've been sticking to the same thing for years and I'm not sure if it's still the best option.","label":"LLM_CHAT"}
