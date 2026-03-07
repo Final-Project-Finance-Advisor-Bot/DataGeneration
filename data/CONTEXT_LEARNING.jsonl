@@ -1588,3 +1588,33 @@
 {"text":"Can I see the total number of progress points required to unlock Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know when I've unlocked enough progress points to access Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to take a multiple-choice quiz or assessment before accessing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see the next bite if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what the difference is between my current progress and where I want to be?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I locked out of this feature until I complete a module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning bites work?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t pass this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance decreasing when I complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get help with the quiz if I’m stuck?","label":"CONTEXT_LEARNING"}
+{"text":"What is this completion requirement for?","label":"CONTEXT_LEARNING"}
+{"text":"How can I speed up the progression in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a module before unlocking the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me what will happen when I unlock this reward?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between passing and completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access my wallet balance if I’m not logged in?","label":"CONTEXT_LEARNING"}
+{"text":"How do I use the graph tool to track my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what’s different about this module compared to another course?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I getting these notifications in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I’ve completed a lesson or not?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand what this feature does?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of unlocking rewards in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I view my previous bite completion records?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset my progress if I’m stuck?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to complete a mastery quiz?","label":"CONTEXT_LEARNING"}
