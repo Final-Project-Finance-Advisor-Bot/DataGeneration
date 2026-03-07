@@ -2998,3 +2998,33 @@
 {"text":"What happens when I complete a full module?","label":"CONTEXT_LEARNING"}
 {"text":"Can I compare my progress to others within the same module?","label":"CONTEXT_LEARNING"}
 {"text":"Why is this specific lesson so important for my progression?","label":"CONTEXT_LEARNING"}
+{"text":"what do i need to finish before fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"is there a specific knowledge check that needs completion before fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"can you explain why fundamentals is locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"how do i continue from where i left off after failing the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"can you show me the progress bar for fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"what's the reward preview for completing a learn-the-application module?","label":"CONTEXT_LEARNING"}
+{"text":"do i need to get full marks on all quizzes before i can unlock fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"what's the difference between getting locked and losing progress?","label":"CONTEXT_LEARNING"}
+{"text":"can you show me how many more bites i need to complete before fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go straight to the Portfolio Manager after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a bite, but the reward preview says I need to finish another one. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off if I close the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz or just most of it?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a knowledge check, but the course still says I need to finish another bite. Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next step after completing a learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the full set of rewards in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the Portfolio Builder without completing Fundamentals first?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a bite, but it says I need to finish another one. Is that a requirement for unlocking more content?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of having a progress bar if I can't see how far I'm through a course?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed half a bite, but it won't let me move on. Is that normal?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get back to where I left off in the Learning Centre if I close my tab?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites before I can unlock more rewards or just a certain number of them?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how many points I've scored in a quiz without clicking on the result?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a course, but it says I need to finish another one to unlock more content. Is that true?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a knowledge check in a bite? Will I be locked out of the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how far through a course I am at without clicking on the progress bar?","label":"CONTEXT_LEARNING"}
+{"text":"Do all bites need to be completed before I can unlock more rewards or just most of them?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a bite, but it says I need to finish another one to unlock the next set of rewards. Is that right?","label":"CONTEXT_LEARNING"}
