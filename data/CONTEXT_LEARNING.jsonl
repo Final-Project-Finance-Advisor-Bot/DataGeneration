@@ -448,3 +448,33 @@
 {"text":"What is the difference between a ‘Review Learning’ and a ‘Continue Learning’ button in the course card?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete a specific bite in Fundamentals before unlocking the next one?","label":"CONTEXT_LEARNING"}
 {"text":"Can I see my available rewards for completing Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after a full-screen mode?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what this bite preview means?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete the whole module or just a part of it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a 100% completion rate means?","label":"CONTEXT_LEARNING"}
+{"text":"What is this progress bar and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get a reward after completing a quiz or bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what this locked course means?","label":"CONTEXT_LEARNING"}
+{"text":"What is this completion requirement and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to pass this quiz before I can continue?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which module to start with?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what this wallet growth means?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get a reward for completing the whole course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access my portfolio yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a progress indicator means?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites before unlocking rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a bite and come back later?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tool is unlocked for me next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what this locked course means for my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get a reward for unlocking new capabilities?","label":"CONTEXT_LEARNING"}
