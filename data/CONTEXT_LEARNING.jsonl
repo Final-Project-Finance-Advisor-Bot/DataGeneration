@@ -3238,3 +3238,33 @@
 {"text":"Can you explain how this system’s progression works?","label":"CONTEXT_LEARNING"}
 {"text":"What’s the difference between full marks and completing a quiz?","label":"CONTEXT_LEARNING"}
 {"text":"How do I access my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the Fundamentals of Finance course. What's next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I start the Learn the Application course yet?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites are left in this module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to a previous bite if I made a mistake?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress stuck on 50%?","label":"CONTEXT_LEARNING"}
+{"text":"How can I get more rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a completed and an incomplete quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review a previous bite before proceeding?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete this lesson first?","label":"CONTEXT_LEARNING"}
+{"text":"How long does it take to unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of these quizzes?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a module if I've already completed it?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access my wallet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I'm on the right track?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock a new capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can I set reminders for upcoming bites or quizzes?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance not updating?","label":"CONTEXT_LEARNING"}
+{"text":"How can I get more guidance on a particular bite?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between bites and rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view past bites or quizzes?","label":"CONTEXT_LEARNING"}
