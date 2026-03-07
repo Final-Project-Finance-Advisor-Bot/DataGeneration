@@ -118,3 +118,33 @@
 {"text":"Do I need to complete all bites in a specific timeframe, or is there no deadline?","label":"CONTEXT_LEARNING"}
 {"text":"What's the reward preview for this module, and how much will it increase my wallet balance?","label":"CONTEXT_LEARNING"}
 {"text":"Can I share my progress with others through social media or email?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a knowledge check is?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the portfolio builder tool?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance decreasing?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to start a new bite?","label":"CONTEXT_LEARNING"}
+{"text":"What are the rewards for completing each module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the graph tool in Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress in Fundamentals not updating?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what percentage of the Fundamentals course I've completed?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next module in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my completion percentage not showing up?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system tracks my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I find out what capabilities I've unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance tied to my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to review a completed bite in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of unlocking more portfolios in Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from one module to another?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the next step is after completing a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance capped at £100?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many bites I have left to complete in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the bite preview feature?","label":"CONTEXT_LEARNING"}
+{"text":"What are the requirements for unlocking more allocation flexibility?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to save and resume a learning session?","label":"CONTEXT_LEARNING"}
