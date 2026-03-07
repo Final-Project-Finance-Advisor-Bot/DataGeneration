@@ -2428,3 +2428,33 @@
 {"text":"Can I use multiple wallets in one account?","label":"CONTEXT_PORTFOLIO"}
 {"text":"My graph/chart is not updating correctly. Can you help?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I export my portfolio data to a spreadsheet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount I need to invest to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add another share to my existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can't see any asset / shares under 'Technology' - how do I search for one?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value always lower than the total assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio dashboard?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add Apple shares but it says 'Insufficient funds' - how can I fix this?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many asset / shares do I have in total?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio value dropping every time I check it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see Google's information but how do I add their shares to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between different portfolios in the Portfolio Manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the difference between 'Buying' and 'Selling' asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value is higher than the total assets - this isn't right!","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different investment goals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm trying to sort my asset / shares by price but it's not working","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit the allocation of a specific asset / share in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see the performance graph for 'Amazon' in real-time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm confused about the different types of asset / shares - can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many graphs/charts can I have on my portfolio dashboard at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio value affected by market fluctuations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a company to add to my portfolio by name or ticker?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset / share from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see 'Microsoft' under 'Technology' - how do I add their shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the value of my wallet not updating in real-time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I organise my asset / shares by sector or industry?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio value increased unexpectedly - what's going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I change the graph/chart type for a specific portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm trying to add Apple shares but it keeps saying 'Insufficient funds'","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a customised report on my portfolio performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value different from the total assets in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see Google's information under 'Technology' - how do I add their shares to my portfolio?","label":"CONTEXT_PORTFOLIO"}
