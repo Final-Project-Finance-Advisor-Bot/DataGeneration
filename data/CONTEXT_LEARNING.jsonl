@@ -1438,3 +1438,33 @@
 {"text":"What happens when I finish the entire learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what rewards are available after completing a specific module?","label":"CONTEXT_LEARNING"}
 {"text":"I'm stuck on bite 3 - how do I unlock the next one?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how much further I need to go before unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How many more bites do I need to complete before I can unlock the next module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the next step after completing this lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to move forward if I don't pass this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the required bites for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this knowledge check means?","label":"CONTEXT_LEARNING"}
+{"text":"What will happen if I don’t pass this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite should I focus on next to unlock the next module?","label":"CONTEXT_LEARNING"}
+{"text":"How much further can I progress through Fundamentals if I complete this lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need all full marks to move forward in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What is the reward preview for completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how much progress I've made towards unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take to unlock each new module in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a required bite for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what the next step is after completing this lesson?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing all bites in Fundamentals unlock additional rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What is the reward preview for completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how bite completion affects my progression in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take to unlock each new capability after completing a required bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in Fundamentals to move forward in the system?","label":"CONTEXT_LEARNING"}
+{"text":"What is the benefit of completing each lesson in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing Fundamentals impact my ability to unlock more advanced capabilities?","label":"CONTEXT_LEARNING"}
