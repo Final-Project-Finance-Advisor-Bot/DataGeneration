@@ -3988,3 +3988,33 @@
 {"text":"Can I save my progress and come back later if I'm interrupted?","label":"CONTEXT_LEARNING"}
 {"text":"How do I unlock a new module in Fundamentals after completing the previous one?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I complete all bites in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"what do i need to finish before fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"why is this module still locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I passed all my knowledge checks, but I'm stuck on the next bite. what's going on?","label":"CONTEXT_LEARNING"}
+{"text":"how do I continue from where I left off in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"do i need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"I was about to start Fundamentals, but I got a reminder that I need to finish another course first. what do I do?","label":"CONTEXT_LEARNING"}
+{"text":"what's the difference between unlocking a course and actually starting it?","label":"CONTEXT_LEARNING"}
+{"text":"can I access Fundamentals if I complete all my Learn the Application modules?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the Fundamentals progress page. how do I move forward?","label":"CONTEXT_LEARNING"}
+{"text":"what's the reward preview for completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"how does completing a bite affect my overall course completion percentage?","label":"CONTEXT_LEARNING"}
+{"text":"can I access Fundamentals if I've already started and left it paused?","label":"CONTEXT_LEARNING"}
+{"text":"why is the Fundamentals module still locked after completing all my required modules?","label":"CONTEXT_LEARNING"}
+{"text":"I was expecting a reward for unlocking Fundamentals, but none popped up. what's going on?","label":"CONTEXT_LEARNING"}
+{"text":"do i need to do anything specific to unlock additional bites in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"how does my wallet balance reflect my course completion progress?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not seeing any next steps for Fundamentals. how do I know what to do next?","label":"CONTEXT_LEARNING"}
+{"text":"what's the benefit of completing all my Learn the Application modules before starting Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"can I access Fundamentals if I've already unlocked it and just need to complete one more bite?","label":"CONTEXT_LEARNING"}
+{"text":"how does my progress in Fundamentals affect my overall learning pathway completion percentage?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not seeing any rewards for completing bites in Fundamentals. how do I know what I've unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"do i need to complete all the required modules before unlocking additional bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"how does my wallet balance reflect my progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"I was expecting a confirmation message after completing the quiz, but none came. what's going on?","label":"CONTEXT_LEARNING"}
+{"text":"can I access Fundamentals if I've completed all the required Learn the Application modules and started Fundamentals but got stuck?","label":"CONTEXT_LEARNING"}
+{"text":"why is the Fundamentals module still locked even though I've completed all my required modules?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not seeing any option to restart or resume Fundamentals if I left it paused. how do I get back to it?","label":"CONTEXT_LEARNING"}
+{"text":"do i need to re-complete bites in Fundamentals after a certain period of time?","label":"CONTEXT_LEARNING"}
+{"text":"how does my wallet balance change when I unlock additional bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"I was expecting a congratulatory message after completing the quiz, but none came. what's going on?","label":"CONTEXT_LEARNING"}
