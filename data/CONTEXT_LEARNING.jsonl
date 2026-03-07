@@ -3748,3 +3748,33 @@
 {"text":"How do I track my progress through the Learning Centre and understand how far I've come?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I complete all the required bites for a course?","label":"CONTEXT_LEARNING"}
 {"text":"Can I ask for feedback on my performance on this bite or quiz?","label":"CONTEXT_LEARNING"}
+{"text":"example message","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on module 3, can you tell me what's next?","label":"CONTEXT_LEARNING"}
+{"text":"Why is Fundamentals locked for me? Can I do something to unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check in bite 2?","label":"CONTEXT_LEARNING"}
+{"text":"I need help moving on from here, what's the next step?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the next bite yet? Is there something I'm missing?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks? Can you show me the requirements?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in bite 1?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz or is it more about understanding?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between passing and failing this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with module 5, can you offer some guidance?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I still on bite 2? Is it because I didn't finish it properly?","label":"CONTEXT_LEARNING"}
+{"text":"What's this reward preview in bite 3 mean and how do I get it?","label":"CONTEXT_LEARNING"}
+{"text":"How many attempts do I have left for this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the completion requirements are for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finally finish module 4? What's next?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this bite, can someone walk me through it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me the progress bar for Fundamentals and how far I've come?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between passing and failing this quiz in bite 5?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the extra resources after completing bite 1?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what the reward preview means and how it relates to my progress?","label":"CONTEXT_LEARNING"}
+{"text":"What's happening in the background when I'm on this screen? Are there any system updates?","label":"CONTEXT_LEARNING"}
+{"text":"I need help with module 6, can someone guide me through it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the locked courses mean and why Fundamentals is locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finally unlock bite 3? What's next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get access to the advanced tools after completing bite 2?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what the completion requirements are for bite 5 and how far I've come?","label":"CONTEXT_LEARNING"}
+{"text":"What's this warning message saying about my progress in Fundamentals? Can I fix it?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on module 8, can you offer some hints or guidance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me the roadmap for completing bite 1 and how it fits into the overall learning path?","label":"CONTEXT_LEARNING"}
