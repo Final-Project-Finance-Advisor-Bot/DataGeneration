@@ -2158,3 +2158,33 @@
 {"text":"What is this completion requirement for a knowledge check and why do I need to meet it?","label":"CONTEXT_LEARNING"}
 {"text":"Why can't I access certain features in the learning pathway until I complete other requirements?","label":"CONTEXT_LEARNING"}
 {"text":"I'm having trouble understanding how to progress through the learning centre - can you explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I’m on a learning bite, but the progress bar says 0%. What’s going on?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review the Fundamentals course material without unlocking it first?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of this knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get the unlock code for the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with a specific question in Fundamentals. Can you help me?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between this bite and the previous one?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access all modules in Fundamentals without unlocking them first?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress to the next bite if I’ve already finished a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to pass this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use fake money in a real-world scenario with the FA Bot learning system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional features if I've completed all bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress not updating correctly?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a specific question or lesson in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I hit the cap on available portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my wallet growth after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards for completing a specific number of bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does the reward preview say about potential earnings from Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when to take a break or come back to a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my performance with others in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What is the maximum number of bites I can complete before needing a refresh?","label":"CONTEXT_LEARNING"}
+{"text":"How do I use fake money to make investment decisions if it’s not real?","label":"CONTEXT_LEARNING"}
