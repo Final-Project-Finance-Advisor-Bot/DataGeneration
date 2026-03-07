@@ -4738,3 +4738,33 @@
 {"text":"What happens when I complete all capabilities required for a course?","label":"CONTEXT_LEARNING"}
 {"text":"Can I use the learning centre on multiple devices at once?","label":"CONTEXT_LEARNING"}
 {"text":"How does my wallet balance change after completing a new bite or module?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after a full-screen mode session?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"What is my current progress in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review what I’ve learned so far before proceeding?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the Learning Centre if it’s not visible on my dashboard?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a bite and a module in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the capability unlock system works?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the required bites for a specific skill?","label":"CONTEXT_LEARNING"}
+{"text":"What are my next steps after completing this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip the quiz if I’m sure of the answer?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get back to the start of a bite if I need to rework something?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of this skill-building exercise?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my progress with someone else or save it for later?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I need to retake a bite because I failed?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all the bites in a skill group?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access my portfolio allocation limits through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tools are unlocked after completing specific skills?","label":"CONTEXT_LEARNING"}
+{"text":"What is this bite’s reward preview meaning?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn fake money for completing all the required bites in a module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I need to review previous knowledge before proceeding with a new bite?","label":"CONTEXT_LEARNING"}
+{"text":"What is this course’s completion requirement?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn badges for completing specific skills or bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if my progress needs to be reviewed before moving forward?","label":"CONTEXT_LEARNING"}
