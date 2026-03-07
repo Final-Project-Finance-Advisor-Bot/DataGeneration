@@ -1138,3 +1138,33 @@
 {"text":"Can I view my learning history in the learning centre to see which bites and lessons I've completed so far?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete all Fundamentals courses before unlocking the next level of capabilities or portfolios? Is there a specific sequence required?","label":"CONTEXT_LEARNING"}
 {"text":"What if I get stuck on a bite in the learning centre and can't move forward? How do I get help from the AI mediator?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"I see my wallet increase by £500 after completing a bite. What happens next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"I completed a module, but it’s still locked. What do I need to do next?","label":"CONTEXT_LEARNING"}
+{"text":"How many portfolios can I unlock as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a learning bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress being tracked in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"I want to know which lesson to do next. Can you help me?","label":"CONTEXT_LEARNING"}
+{"text":"What if I fail this knowledge check? What happens then?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take to unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get rewards for completing a module or just a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of having multiple portfolios?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance change as I progress through the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what tools become available as I unlock more capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module’s completion requirement hidden from me?","label":"CONTEXT_LEARNING"}
+{"text":"What if I accidentally skip a bite or quiz? What happens then?","label":"CONTEXT_LEARNING"}
+{"text":"Do rewards reset when I start a new learning session?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning pathway’s structure impact my overall progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me which bite or module I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"What if I don’t have enough money to unlock a new portfolio? Can I still proceed?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress in one course affect my ability to access another?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to pass all the quizzes in each bite before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards are activated after completing a module or quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What if I don’t finish a learning bite and come back later? Do my progress reset?","label":"CONTEXT_LEARNING"}
+{"text":"How does unlocking new capabilities affect the Learning Centre’s interface?","label":"CONTEXT_LEARNING"}
