@@ -808,3 +808,33 @@
 {"text":"Can I set reminders for upcoming bites, quizzes, or course completion dates?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I reach the maximum capacity for a particular portfolio?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete a certain number of bites in a row before unlocking the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review the Fundamentals course before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"Is it possible to skip certain bites in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and re-do a previous bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress affect which bites I can access?","label":"CONTEXT_LEARNING"}
+{"text":"What is the maximum amount of progress I can make per day?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my progress with friends or family?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of bites to unlock advanced features?","label":"CONTEXT_LEARNING"}
+{"text":"How often does the system update new learning content?","label":"CONTEXT_LEARNING"}
+{"text":"Can I create multiple profiles within the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the reward preview feature in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset my progress if I need to start over?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any hidden features or shortcuts within the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I customize the learning pathway to fit my needs?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a course in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to maintain a certain level of engagement with the system to stay active?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and resume later?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which module is next in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any limitations on how many bites I can complete per session?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach my daily allowance of learning time?","label":"CONTEXT_LEARNING"}
+{"text":"Can I integrate the FA Bot learning system with other productivity tools?","label":"CONTEXT_LEARNING"}
