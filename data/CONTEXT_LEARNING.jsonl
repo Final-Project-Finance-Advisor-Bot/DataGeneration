@@ -4918,3 +4918,33 @@
 {"text":"Can you explain how the system progression works?","label":"CONTEXT_LEARNING"}
 {"text":"Why is it important to use the application regularly?","label":"CONTEXT_LEARNING"}
 {"text":"What happens if I forget my login credentials?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this knowledge check. How do I get past it?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this bite is trying to teach me?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites are left for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock the next module yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what's going on with my progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which part of this bite I need to focus on?","label":"CONTEXT_LEARNING"}
+{"text":"What are the different types of rewards I can get in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance lower than expected?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how this learning pathway works?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the review section for a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean when a course is locked in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what's required to unlock the next course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress from one lesson to the next?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain this knowledge check again?","label":"CONTEXT_LEARNING"}
+{"text":"I'm not sure what's going on with my progress. Can you help me?","label":"CONTEXT_LEARNING"}
+{"text":"What are the different ways to earn rewards in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this bite stuck on this question?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what's going on with my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from one module to the next in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean when a reward is unlocked?","label":"CONTEXT_LEARNING"}
