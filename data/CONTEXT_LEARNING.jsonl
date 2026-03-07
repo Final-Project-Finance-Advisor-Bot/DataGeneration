@@ -4618,3 +4618,33 @@
 {"text":"Do I need to complete all bites in a module before moving on?","label":"CONTEXT_LEARNING"}
 {"text":"Can I view my completed lessons in the portfolio builder?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I unlock a new capability?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the bites work?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"What does this completion requirement mean for my wallet?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the rewards that are unlocked after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between this bite and another one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the required bites for this course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this progress bar means?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of this learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of bites before unlocking more rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the tool holder feature in full-screen mode?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing all the required bites for this course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system keeps track of my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance still low after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I compare my performance to others in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What are the consequences of failing this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about the different types of rewards that can be unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I prioritize my bites to maximize my progress?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between this bite and a previous one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I complete all the required bites for a course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all the bites in a certain order to unlock more rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my portfolio builder within the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of this learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system uses machine learning to adapt to my progress?","label":"CONTEXT_LEARNING"}
