@@ -1918,3 +1918,33 @@
 {"text":"Can I use the Portfolio Builder to compare different learning paths?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I complete a lesson that’s not visible in my current portfolio capacity?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete all bites before unlocking more features?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what rewards are available after completing a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"I’m stuck on a lesson, what do I do?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites are in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo my progress if I change my mind?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all the knowledge checks in a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble with a specific question, can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite is next in my learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how much progress I’ve made so far?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you recommend a bite to start with if I’m new here?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock my first reward?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my progress across different lessons?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of doing all these bites, will it really help me?","label":"CONTEXT_LEARNING"}
+{"text":"I want to go back and review a previous bite, is that possible?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress so I can come back later?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the difference between a knowledge check and a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the tool holder if I’m not sure what to do?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning system tracks my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I want to take my time and learn at my own pace, is that allowed?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all the bites in a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my progress with someone else?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get back to where I left off if I close the app?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what’s in store for me next in my learning pathway?","label":"CONTEXT_LEARNING"}
