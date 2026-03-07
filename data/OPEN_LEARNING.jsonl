@@ -1858,3 +1858,303 @@
 {"text":"Go to the learning centre straight away","label":"OPEN_LEARNING"}
 {"text":"Open the learning portal for me please","label":"OPEN_LEARNING"}
 {"text":"Take me to the learning centre","label":"OPEN_LEARNING"}
+{"text":"Open Learning Centre","label":"OPEN_LEARNING"}
+{"text":"Take me to Learning Hub","label":"OPEN_LEARNING"}
+{"text":"Go to My Learning Dashboard","label":"OPEN_LEARNING"}
+{"text":"Launch the Learning Portal","label":"OPEN_LEARNING"}
+{"text":"Open my course materials","label":"OPEN_LEARNING"}
+{"text":"Show me my learning pathways","label":"OPEN_LEARNING"}
+{"text":"Start my daily learning routine","label":"OPEN_LEARNING"}
+{"text":"Take me to the Continuing Education section","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Resources Hub","label":"OPEN_LEARNING"}
+{"text":"Launch the Learning App","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning certificates","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Analytics Dashboard","label":"OPEN_LEARNING"}
+{"text":"Start a new session of learning today","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Support Team","label":"OPEN_LEARNING"}
+{"text":"Take me to the Learning Development section","label":"OPEN_LEARNING"}
+{"text":"Open my course syllabus","label":"OPEN_LEARNING"}
+{"text":"Show me my learning milestones","label":"OPEN_LEARNING"}
+{"text":"Launch the Self-Assessment tool","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Community Forum","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Roadmap","label":"OPEN_LEARNING"}
+{"text":"Start a new project in Learning Studio","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Resources section","label":"OPEN_LEARNING"}
+{"text":"Open my learning journal","label":"OPEN_LEARNING"}
+{"text":"Show me my learning achievements","label":"OPEN_LEARNING"}
+{"text":"Launch the Knowledge Base","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning materials","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Consultation Team","label":"OPEN_LEARNING"}
+{"text":"Start a new module of learning today","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Governance section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Virtual Learning Environment","label":"OPEN_LEARNING"}
+{"text":"Open my course schedule","label":"OPEN_LEARNING"}
+{"text":"Show me my learning outcomes","label":"OPEN_LEARNING"}
+{"text":"Launch the Learning Portal Management System","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Hub and Support section","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Strategy section","label":"OPEN_LEARNING"}
+{"text":"Start a new project in Learning Studio today","label":"OPEN_LEARNING"}
+{"text":"Take me to the Learning Platform","label":"OPEN_LEARNING"}
+{"text":"Open my learning dashboard","label":"OPEN_LEARNING"}
+{"text":"Show me my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Launch the Virtual Learning Assistant","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning resources","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Development Team","label":"OPEN_LEARNING"}
+{"text":"Start a new session of learning now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Roadmap section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Section","label":"OPEN_LEARNING"}
+{"text":"Open my course materials list","label":"OPEN_LEARNING"}
+{"text":"Show me my learning outcomes report","label":"OPEN_LEARNING"}
+{"text":"Launch the Learning Portal Management System now","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Consultation Team today","label":"OPEN_LEARNING"}
+{"text":"Start a new module of learning today","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Governance section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Virtual Learning Environment now","label":"OPEN_LEARNING"}
+{"text":"Open my course schedule view","label":"OPEN_LEARNING"}
+{"text":"Show me my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Launch the Knowledge Base today","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning materials now","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Hub and Support section","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Strategy section","label":"OPEN_LEARNING"}
+{"text":"Start a new project in Learning Studio today","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Resources section","label":"OPEN_LEARNING"}
+{"text":"Open my learning dashboard view","label":"OPEN_LEARNING"}
+{"text":"Show me my learning achievements report","label":"OPEN_LEARNING"}
+{"text":"Launch the Self-Assessment tool today","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Development Team today","label":"OPEN_LEARNING"}
+{"text":"Start a new session of learning now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Roadmap section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Virtual Learning Assistant","label":"OPEN_LEARNING"}
+{"text":"Open my course materials list view","label":"OPEN_LEARNING"}
+{"text":"Show me my learning milestones report","label":"OPEN_LEARNING"}
+{"text":"Launch the Virtual Learning Environment today","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning resources now","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Consultation Team today","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Governance section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Section","label":"OPEN_LEARNING"}
+{"text":"Open my course schedule view now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning outcomes report","label":"OPEN_LEARNING"}
+{"text":"Launch the Learning Portal Management System today","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Hub and Support section now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Strategy section","label":"OPEN_LEARNING"}
+{"text":"Start a new project in Learning Studio today","label":"OPEN_LEARNING"}
+{"text":"Take me to the Virtual Learning Environment now","label":"OPEN_LEARNING"}
+{"text":"Open my learning dashboard view now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Launch the Knowledge Base today","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning materials","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Development Team now","label":"OPEN_LEARNING"}
+{"text":"Start a new session of learning now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Roadmap section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Resources section","label":"OPEN_LEARNING"}
+{"text":"Open my course materials list view","label":"OPEN_LEARNING"}
+{"text":"Show me my learning achievements report","label":"OPEN_LEARNING"}
+{"text":"Launch the Virtual Learning Assistant today","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Consultation Team now","label":"OPEN_LEARNING"}
+{"text":"Start a new module of learning today","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Governance section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Section","label":"OPEN_LEARNING"}
+{"text":"Open my course schedule view now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning outcomes report","label":"OPEN_LEARNING"}
+{"text":"Launch the Learning Portal Management System today","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning resources","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Hub and Support section now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Strategy section","label":"OPEN_LEARNING"}
+{"text":"Start a new project in Learning Studio today","label":"OPEN_LEARNING"}
+{"text":"Take me to the Virtual Learning Environment now","label":"OPEN_LEARNING"}
+{"text":"Open my learning dashboard view now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Launch the Knowledge Base today","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning materials now","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Development Team today","label":"OPEN_LEARNING"}
+{"text":"Start a new session of learning now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Roadmap section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Resources section","label":"OPEN_LEARNING"}
+{"text":"Open my course materials list view","label":"OPEN_LEARNING"}
+{"text":"Show me my learning achievements report","label":"OPEN_LEARNING"}
+{"text":"Launch the Virtual Learning Assistant today","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Consultation Team now","label":"OPEN_LEARNING"}
+{"text":"Start a new module of learning today","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Governance section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Section","label":"OPEN_LEARNING"}
+{"text":"Open my course schedule view now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning outcomes report","label":"OPEN_LEARNING"}
+{"text":"Launch the Learning Portal Management System today","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning resources","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Hub and Support section now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Strategy section","label":"OPEN_LEARNING"}
+{"text":"Start a new project in Learning Studio today","label":"OPEN_LEARNING"}
+{"text":"Take me to the Virtual Learning Environment now","label":"OPEN_LEARNING"}
+{"text":"Open my learning dashboard view now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Launch the Knowledge Base today","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning materials now","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Development Team today","label":"OPEN_LEARNING"}
+{"text":"Start a new session of learning now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Roadmap section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Resources section","label":"OPEN_LEARNING"}
+{"text":"Open my course materials list view","label":"OPEN_LEARNING"}
+{"text":"Show me my learning achievements report","label":"OPEN_LEARNING"}
+{"text":"Launch the Virtual Learning Assistant today","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Consultation Team now","label":"OPEN_LEARNING"}
+{"text":"Start a new module of learning today","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Governance section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Section","label":"OPEN_LEARNING"}
+{"text":"Open my course schedule view now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning outcomes report","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning resources","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Hub and Support section now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Strategy section","label":"OPEN_LEARNING"}
+{"text":"Start a new project in Learning Studio today","label":"OPEN_LEARNING"}
+{"text":"Take me to the Virtual Learning Environment now","label":"OPEN_LEARNING"}
+{"text":"Open my learning dashboard view now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Launch the Knowledge Base today","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning materials now","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Development Team today","label":"OPEN_LEARNING"}
+{"text":"Start a new session of learning now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Roadmap section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Resources section","label":"OPEN_LEARNING"}
+{"text":"Open my course materials list view","label":"OPEN_LEARNING"}
+{"text":"Show me my learning achievements report","label":"OPEN_LEARNING"}
+{"text":"Launch the Virtual Learning Assistant today","label":"OPEN_LEARNING"}
+{"text":"Start a new module of learning today","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Governance section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Section","label":"OPEN_LEARNING"}
+{"text":"Open my course schedule view now","label":"OPEN_LEARNING"}
+{"text":"Launch the Learning Portal Management System today","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning resources","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Hub and Support section now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Strategy section","label":"OPEN_LEARNING"}
+{"text":"Start a new project in Learning Studio today","label":"OPEN_LEARNING"}
+{"text":"Take me to the Virtual Learning Environment now","label":"OPEN_LEARNING"}
+{"text":"Open my learning dashboard view now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning progress chart","label":"OPEN_LEARNING"}
+{"text":"Launch the Knowledge Base today","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning materials now","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Development Team today","label":"OPEN_LEARNING"}
+{"text":"Start a new session of learning now","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Roadmap section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Resources section","label":"OPEN_LEARNING"}
+{"text":"Open my course materials list view","label":"OPEN_LEARNING"}
+{"text":"Show me my learning achievements report","label":"OPEN_LEARNING"}
+{"text":"Open the Learning Consultation Team now","label":"OPEN_LEARNING"}
+{"text":"Start a new module of learning today","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Governance section","label":"OPEN_LEARNING"}
+{"text":"Take me to the Training Section","label":"OPEN_LEARNING"}
+{"text":"Open my course schedule view now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning outcomes report","label":"OPEN_LEARNING"}
+{"text":"Launch the Learning Portal Management System today","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning area.","label":"OPEN_LEARNING"}
+{"text":"Can I launch the learning section?","label":"OPEN_LEARNING"}
+{"text":"Show me my learning modules.","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre for me.","label":"OPEN_LEARNING"}
+{"text":"Can I access the learning centre?","label":"OPEN_LEARNING"}
+{"text":"Open up the learning section.","label":"OPEN_LEARNING"}
+{"text":"I'm ready to start learning now.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning area, please.","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me.","label":"OPEN_LEARNING"}
+{"text":"Show me my ongoing learning.","label":"OPEN_LEARNING"}
+{"text":"Open the learning pathway for me.","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start.","label":"OPEN_LEARNING"}
+{"text":"Open up the learning section.","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning modules?","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning area, please.","label":"OPEN_LEARNING"}
+{"text":"I'm ready to start my learning journey.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre for me.","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section, please.","label":"OPEN_LEARNING"}
+{"text":"Show me my ongoing learning modules.","label":"OPEN_LEARNING"}
+{"text":"Open up the learning section.","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start.","label":"OPEN_LEARNING"}
+{"text":"Open the learning pathway for me.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning area, please.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre for me.","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section, please.","label":"OPEN_LEARNING"}
+{"text":"Show me my learning modules.","label":"OPEN_LEARNING"}
+{"text":"Can I access the learning centre?","label":"OPEN_LEARNING"}
+{"text":"Open up the learning section.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning area.","label":"OPEN_LEARNING"}
+{"text":"I'm ready to start my learning journey.","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre for me.","label":"OPEN_LEARNING"}
+{"text":"Open the learning pathway for me.","label":"OPEN_LEARNING"}
+{"text":"Show me my ongoing learning.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre now.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning section.","label":"OPEN_LEARNING"}
+{"text":"I'm ready to start learning.","label":"OPEN_LEARNING"}
+{"text":"Launch the learning centre for me.","label":"OPEN_LEARNING"}
+{"text":"Open up the learning section.","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning pathway?","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start learning.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre for me today.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning area right now.","label":"OPEN_LEARNING"}
+{"text":"Show me my ongoing learning modules.","label":"OPEN_LEARNING"}
+{"text":"Open up the learning centre now.","label":"OPEN_LEARNING"}
+{"text":"Can I access the learning pathway?","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre and start.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning area, please.","label":"OPEN_LEARNING"}
+{"text":"I'm ready to start my learning today.","label":"OPEN_LEARNING"}
+{"text":"Open the learning pathway for me.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre for me today.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning section.","label":"OPEN_LEARNING"}
+{"text":"Show me my learning modules.","label":"OPEN_LEARNING"}
+{"text":"Open up the learning centre now.","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning pathway?","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre for me.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning area, please.","label":"OPEN_LEARNING"}
+{"text":"Show me my ongoing learning modules.","label":"OPEN_LEARNING"}
+{"text":"Open up the learning centre.","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre now.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning area right now.","label":"OPEN_LEARNING"}
+{"text":"I'm ready to start my learning journey.","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and continue.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre for me today.","label":"OPEN_LEARNING"}
+{"text":"Open up the learning centre now.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning section, please.","label":"OPEN_LEARNING"}
+{"text":"Launch the learning centre for me.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre and start.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre, please.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning area right away.","label":"OPEN_LEARNING"}
+{"text":"Open up the learning centre now.","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me.","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start learning today.","label":"OPEN_LEARNING"}
+{"text":"Show me my ongoing learning modules.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning section, please.","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre for me today.","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section, please.","label":"OPEN_LEARNING"}
+{"text":"Can you take me to the learning centre please?","label":"OPEN_LEARNING"}
+{"text":"Open up the learning centre for me.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning section now.","label":"OPEN_LEARNING"}
+{"text":"Show me my current learning stage.","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning pathway?","label":"OPEN_LEARNING"}
+{"text":"Open up the learning centre for me, please.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning section.","label":"OPEN_LEARNING"}
+{"text":"Can I launch the learning section?","label":"OPEN_LEARNING"}
+{"text":"Show me how to access the learning centre.","label":"OPEN_LEARNING"}
+{"text":"Let's go to the learning centre now.","label":"OPEN_LEARNING"}
+{"text":"Open up the learning tools for me.","label":"OPEN_LEARNING"}
+{"text":"Can I access the learning materials?","label":"OPEN_LEARNING"}
+{"text":"Open up the learning resources for me.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning section, please.","label":"OPEN_LEARNING"}
+{"text":"Show me how to use the learning tools.","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning centre","label":"OPEN_LEARNING"}
+{"text":"I'd like to access the learning section now","label":"OPEN_LEARNING"}
+{"text":"Can I launch the learning area please","label":"OPEN_LEARNING"}
+{"text":"Open the learning pathway for me","label":"OPEN_LEARNING"}
+{"text":"Show me where my learning is","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre","label":"OPEN_LEARNING"}
+{"text":"Start my learning now","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning hub","label":"OPEN_LEARNING"}
+{"text":"Launch the learning centre for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to access my learning","label":"OPEN_LEARNING"}
+{"text":"Open the learning section for now","label":"OPEN_LEARNING"}
+{"text":"Take me to the continuing learning area","label":"OPEN_LEARNING"}
+{"text":"Show me where I left off in learning","label":"OPEN_LEARNING"}
+{"text":"Open Learning Centre","label":"OPEN_LEARNING"}
+{"text":"Take me to Learning Hub","label":"OPEN_LEARNING"}
+{"text":"Show me available learning modules","label":"OPEN_LEARNING"}
+{"text":"Can I open the learning centre?","label":"OPEN_LEARNING"}
+{"text":"Please take me to the learning modules","label":"OPEN_LEARNING"}
