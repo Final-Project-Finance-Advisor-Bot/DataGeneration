@@ -718,3 +718,33 @@
 {"text":"Can I access my learning history and see how far I've progressed?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which bite to start with based on my current progress?","label":"CONTEXT_LEARNING"}
 {"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the knowledge check, but it says I'm at 0% - what does that mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"I just completed a lesson, but it's still saying I have 0% - is there something wrong?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take me to unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all bites in a section?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review what I learned before moving on to the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this quiz - can you tell me what's wrong with my answer?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites do I need to complete before I can unlock a new reward?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'Bite-Based Mastery' mean in the context of this system?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features until I reach 99% completion?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a lesson and can move on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"What are the different types of rewards available in this system?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the progression works from one course to another?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new bite - what can I expect?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bites are next in the sequence?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to previous lessons if I need to review something?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system determine when I'm ready for the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a 'locked' course and one that's not unlocked yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how much closer I am to unlocking the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway if I'm behind in a section?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of doing all these bites and quizzes - what will it get me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the rewards work - what triggers them?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new capability - what can I do with it?","label":"CONTEXT_LEARNING"}
