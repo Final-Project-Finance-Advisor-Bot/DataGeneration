@@ -418,3 +418,33 @@
 {"text":"Can I reset my progress and start over if needed?","label":"CONTEXT_LEARNING"}
 {"text":"How do I access the full list of available bites?","label":"CONTEXT_LEARNING"}
 {"text":"Why does this course say it's not yet unlocked for me?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I unlock the Fundamentals course if I've already completed Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after finishing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"How much time will it take me to unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my current progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific bite before unlocking the next one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my available rewards for completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the full screen mode now?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a ‘Continue’ and a ‘Start Learning’ button in the course card?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my current wallet balance after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I need to review Fundamentals again?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific quiz in Learn the Application before unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I unlock the Portfolio Manager course with just one bite completion?","label":"CONTEXT_LEARNING"}
+{"text":"What is the maximum number of portfolios that can be created?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a full section in Fundamentals to unlock the next one?","label":"CONTEXT_LEARNING"}
+{"text":"How much time will it take me to unlock the Portfolio Manager course entirely?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my available allocation capacity for each portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the full screen mode now? (I think I need to do something in Learn the Application)","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in Fundamentals before unlocking Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my current progress towards completing the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a ‘Review Learning’ and a ‘Continue Learning’ button in the course card?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific bite in Fundamentals before unlocking the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my available rewards for completing Portfolio Manager?","label":"CONTEXT_LEARNING"}
