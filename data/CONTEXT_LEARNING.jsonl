@@ -1408,3 +1408,33 @@
 {"text":"How will completing Fundamentals affect my overall wallet balance?","label":"CONTEXT_LEARNING"}
 {"text":"Are there any specific skills or concepts that I need to focus on in Learn the Application?","label":"CONTEXT_LEARNING"}
 {"text":"Can I use real-world financial data in this learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How can I progress through the learning centre after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get to the next screen after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance showing as £100?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of earning rewards in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites do I need to complete to unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use my wallet to buy assets after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this bite locked until I complete it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know what skills I need to master before unlocking the next course?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between passing and completing a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock my full potential yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how many bites I have left to complete before unlocking the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What is the reward for completing a certain number of bites?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the Portfolio Builder yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use my fake money to make trades in the market after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know what tools are unlocked after completing a certain number of bites?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this course locked until I complete it?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my learning centre progress graph?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finish the entire learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what rewards are available after completing a specific module?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on bite 3 - how do I unlock the next one?","label":"CONTEXT_LEARNING"}
