@@ -2428,3 +2428,33 @@
 {"text":"Can I prioritize which bites to complete first if I have limited time?","label":"CONTEXT_LEARNING"}
 {"text":"How will my progress be displayed, and what format will the statistics be in?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to take a specific quiz or assessment before moving on to the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for Fundamentals completion?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the next lesson immediately after finishing the current one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review the last lesson before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have to complete all bites in one go?","label":"CONTEXT_LEARNING"}
+{"text":"What is this lock icon for?","label":"CONTEXT_LEARNING"}
+{"text":"Can I unlock Fundamentals immediately after starting it?","label":"CONTEXT_LEARNING"}
+{"text":"How many attempts do I have left on the current quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module available to me now?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete the last bite of a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my results with previous attempts?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which part of Fundamentals needs completion to unlock it fully?","label":"CONTEXT_LEARNING"}
+{"text":"What are the next steps after completing a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and review any lessons that gave me trouble?","label":"CONTEXT_LEARNING"}
+{"text":"Do I earn money instantly when I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards work in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the lock icon not present on my course card?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get help with what I’m struggling with in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does this progress bar indicate for Fundamentals completion?","label":"CONTEXT_LEARNING"}
+{"text":"Do I lose any progress if I take a break or log out?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view all the bites in my current lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Can I complete Fundamentals on my own without guidance?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach 100% completion of a bite?","label":"CONTEXT_LEARNING"}
