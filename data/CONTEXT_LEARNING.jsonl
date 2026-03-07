@@ -2578,3 +2578,33 @@
 {"text":"Will unlocking a new capability or reward require any further completion requirements?","label":"CONTEXT_LEARNING"}
 {"text":"How do I access my completed bites in Learn the Application?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how to use the learning centre to manage my progress and goals?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the quiz, but it says I need to complete more bites. What does that mean?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after a full-screen mode session?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a bite, but the progress bar isn't updating. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"Can I still access the Fundamentals course if I haven't unlocked it yet?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all bites in a module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I allocate more money to my portfolio? What's the limit?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio slots?","label":"CONTEXT_LEARNING"}
+{"text":"I want to compare my portfolio with others. How does that work?","label":"CONTEXT_LEARNING"}
+{"text":"What tools or capabilities become available after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the mastery quiz is doing when it's on this screen?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move forward to the next lesson until I've answered correctly?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get my portfolio to grow faster? What's the secret?","label":"CONTEXT_LEARNING"}
+{"text":"What does the wallet growth pattern mean for my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many more bites I need to complete to unlock the next level?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this bite locked, and what do I need to finish first?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my past learning records? Can they help me with anything?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between the progress bar and the completion percentage?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how much of a bite I've completed compared to what I need to do?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a bite affect my wallet balance? Will it increase immediately?","label":"CONTEXT_LEARNING"}
+{"text":"What's the best way to understand which lesson to prioritize next based on my learning needs?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how many bites are left in a module and what they're about?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the required bites for a level? What's the signal?","label":"CONTEXT_LEARNING"}
+{"text":"What is this reward preview telling me about my learning progress?","label":"CONTEXT_LEARNING"}
