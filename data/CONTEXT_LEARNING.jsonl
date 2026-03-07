@@ -1948,3 +1948,33 @@
 {"text":"Can I share my progress with someone else?","label":"CONTEXT_LEARNING"}
 {"text":"How do I get back to where I left off if I close the app?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me what’s in store for me next in my learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a knowledge check does in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what this locked course requires me to do first?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress percentage stuck at 50%?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take me to unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the graph builder tool if I haven't completed all modules?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock this bite yet? What do I need to do?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system track my progress in each module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to complete a learning bite?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing this quiz in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a limit on how many portfolios I can create?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this capability unlock means for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I switch between different learning pathways in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain tools until I complete a module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of this mastery model in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what my next step is after completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a knowledge check affect my progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock the full graph builder tool yet? What do I need to do?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how this system enforces structured progression?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a knowledge check and a mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a limit on how many assets I can hold in each portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to use this tool builder after unlocking it?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress in one module affect my overall system progression?","label":"CONTEXT_LEARNING"}
