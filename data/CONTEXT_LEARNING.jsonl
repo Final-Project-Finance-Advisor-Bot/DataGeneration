@@ -4858,3 +4858,33 @@
 {"text":"Can you explain what mastery means in this learning centre context?","label":"CONTEXT_LEARNING"}
 {"text":"I’m having trouble finding the link between my progress and rewards. Can you help me understand it?","label":"CONTEXT_LEARNING"}
 {"text":"What is the difference between a bite and a quiz in this learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a hint on what I'm missing?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites does the Fundamentals of Finance course have?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next step after completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish all previous bites before unlocking the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a knowledge check is in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed enough bites to unlock the course?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a locked and unlocked module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review my progress before starting another bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why does Fundamentals of Finance have a completion requirement?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my completed bites if they're not visible on the main page?","label":"CONTEXT_LEARNING"}
+{"text":"What's this reward preview mean - £1000 in 5 days?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning centre works?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all Fundamentals bites before unlocking the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get an extra bite if I've completed a certain number of previous ones?","label":"CONTEXT_LEARNING"}
+{"text":"What's this progress indicator doing (0% - 99%)?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many portfolio slots are available to me now?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet still at £100 if I've completed bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me what a knowledge check looks like?","label":"CONTEXT_LEARNING"}
+{"text":"What's this completion requirement for unlocking the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish all Fundamentals bites before progressing to the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've unlocked a certain capability?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I unlock Fundamentals yet?","label":"CONTEXT_LEARNING"}
+{"text":"What's this reward preview for (portfolio capacity expansion)?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the difference between a bite and a quiz in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all Fundamentals bites to unlock certain capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get extra portfolio capacity if I've completed certain bits?","label":"CONTEXT_LEARNING"}
