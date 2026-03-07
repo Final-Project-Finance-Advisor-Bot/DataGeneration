@@ -2398,3 +2398,33 @@
 {"text":"Can I earn more fake money for completing certain learning elements?","label":"CONTEXT_LEARNING"}
 {"text":"How do bites contribute to my overall wallet growth?","label":"CONTEXT_LEARNING"}
 {"text":"What does it mean to achieve mastery on a bite - what’s the goal?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and retake a previous quiz question if I didn't get it right?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my progress on the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset my quiz scores after completing a previous attempt?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how much progress I've made towards unlocking the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a module before moving on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of this bite, and what do I get out of it?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take me to unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask for help if I'm stuck on a particular question in the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What's the maximum number of attempts I can make on this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"How will my progress be tracked, and how often will I get updates?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view the quiz questions before taking the assessment?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific number of bites in a module to unlock a new feature?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between this bite and the previous one in terms of content?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get feedback on my mistakes during the quiz assessment?","label":"CONTEXT_LEARNING"}
+{"text":"How does unlocking a new feature affect my progress towards completing the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all lessons in the Fundamentals course before moving on to the next module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how many bites I've completed overall, not just in a specific module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach 100% completion of this module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I prioritize which bites to complete first if I have limited time?","label":"CONTEXT_LEARNING"}
+{"text":"How will my progress be displayed, and what format will the statistics be in?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to take a specific quiz or assessment before moving on to the next bite?","label":"CONTEXT_LEARNING"}
