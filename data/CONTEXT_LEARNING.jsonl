@@ -898,3 +898,33 @@
 {"text":"Can you tell me how my wallet growth is affected by completing bites in the learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which bites are next in the Fundamentals module after completing this one?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete a full course before unlocking the next level in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How can I get full marks on this bite quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I try again this bite after failing the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How much time have I got to complete this module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t pass this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress stuck on 50%?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see the full quiz questions for this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all Fundamentals bites before unlocking Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finish the first bite?","label":"CONTEXT_LEARNING"}
+{"text":"How many tries do I have left on this mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access my next bite until I complete the previous one?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get hints for this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What does a high score on this bite mean?","label":"CONTEXT_LEARNING"}
+{"text":"How will unlocking Fundamentals affect my portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all Fundamentals bites to unlock full access?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance still low after completing the first bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see which bites I’ve completed and which ones I have left?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finish all Fundamentals bites?","label":"CONTEXT_LEARNING"}
+{"text":"How many rewards will I unlock after completing the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to a previous bite if I fail the current one?","label":"CONTEXT_LEARNING"}
+{"text":"What is the time limit for this mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all Fundamentals bites in a specific order?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me and what do I need to do to unlock it?","label":"CONTEXT_LEARNING"}
