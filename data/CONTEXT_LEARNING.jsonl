@@ -5518,3 +5518,33 @@
 {"text":"How do I progress from one learning pathway to another?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me why my wallet balance is locked at this amount and how it affects my portfolio?","label":"CONTEXT_LEARNING"}
 {"text":"I've completed Learn the Application, what's the difference between the Portfolio Builder and other tools?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the full learning centre until I complete the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between the completion percentage and the progress bar?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the ‘Portfolio Builder’ tool after completing the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what the ‘Rewards Tracker’ does?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see all of the available tools in the learning centre yet?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite and unlock its reward?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete one module before unlocking another?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system determines my readiness for each course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it necessary to pass a quiz within 100% mastery to unlock progression?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which module to focus on next based on my progress?","label":"CONTEXT_LEARNING"}
+{"text":"What are the consequences of failing a knowledge check or quiz in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many bites are left for me to complete before I can review my learning?","label":"CONTEXT_LEARNING"}
+{"text":"How do I navigate back to the learning centre after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there an additional bite on the Fundamentals of Finance module?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to have 100% completion in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through what happens when I unlock a new capability?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get rewards for reaching certain milestones or targets within my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite until I’ve answered all previous questions correctly?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what happens when a course is locked and I try to start it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which progress bar indicates that I’m close to completing a module?","label":"CONTEXT_LEARNING"}
