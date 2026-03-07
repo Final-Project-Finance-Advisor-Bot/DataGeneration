@@ -538,3 +538,33 @@
 {"text":"What's the optimal way to manage my learning pace in this course?","label":"CONTEXT_LEARNING"}
 {"text":"Do I get any bonus or rewards if I finish all bites quickly?","label":"CONTEXT_LEARNING"}
 {"text":"Can I view a summary of my completed knowledge checks and bites?","label":"CONTEXT_LEARNING"}
+{"text":"I'm already at 50% completion. What do I need to do next to unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals of Finance course locked for me and how do I unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move forward after completing the Learn the Application module? What's next?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the quiz in the Bite 1. What reward will I get?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my progress on completing all the bites before unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between starting and continuing learning in a bite? How does it affect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the next bite until I've completed this one? What's happening behind the scenes?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which module to start with if I'm new here? Is there a recommended sequence?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and complete a previous bite if I failed it earlier? How does that affect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a few bites, but they're not unlocking the Fundamentals of Finance course. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which rewards are available to me after completing each bite? How do I redeem them?","label":"CONTEXT_LEARNING"}
+{"text":"Is it possible to complete all the bites in one sitting or is there a recommended pace?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why some bites are locked for completion until I've completed others? Why does that make sense?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a quiz within a bite? Can I still move on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress across different bites and courses? Is there a dashboard or report?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see which specific rewards I need to earn to unlock more features? How does that work?","label":"CONTEXT_LEARNING"}
+{"text":"Is the Fundamentals of Finance course part of a larger learning path, or is it standalone?","label":"CONTEXT_LEARNING"}
+{"text":"How long will each bite take approximately? Are there any time limits?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review completed bites before moving on to new ones if I'm unsure about something? How does that work?","label":"CONTEXT_LEARNING"}
+{"text":"What kind of feedback can I expect after completing a quiz within a bite? Will it help me understand where I went wrong?","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards scale as I complete more bites and courses? What's the maximum potential reward?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn badges or achievements for reaching certain milestones or completing specific tasks? How does that work?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I've completed all the required bites to unlock a course, but there are no more rewards available? What's next?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any limitations on how many times I can attempt a bite or quiz before being locked out? How does that work?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my progress with friends or family members, or is it private? How does sharing work?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bites are the most important to complete first if I'm unsure where to start? Can you recommend a sequence?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get help if I'm struggling with a particular bite or quiz within it? How can I access support?","label":"CONTEXT_LEARNING"}
+{"text":"Are there any hidden benefits or surprises that I might not have noticed otherwise by completing the bites in this order? Can you explain them?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my overall completion percentage across all courses and bites? How does it reflect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take me to unlock each course if I continue at the current pace of completing one bite per day? Can you estimate?","label":"CONTEXT_LEARNING"}
