@@ -748,3 +748,33 @@
 {"text":"What's the point of doing all these bites and quizzes - what will it get me?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the rewards work - what triggers them?","label":"CONTEXT_LEARNING"}
 {"text":"I just unlocked a new capability - what can I do with it?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress on the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in a course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a lesson in the learning pathway if I know it already?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals of Finance course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to unlock the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"How long does each bite take?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and rewatch a previous lesson if I didn't understand it?","label":"CONTEXT_LEARNING"}
+{"text":"What is this bite’s mastery goal?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which module to start with?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask for help if I get stuck on a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of completing each lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Why are there so many reminders throughout the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards work in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my overall progress on the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What is this bite’s difficulty level?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I allocate money yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve completed a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Can I explore other courses in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance displayed throughout the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"How do mastery levels work for each lesson?","label":"CONTEXT_LEARNING"}
