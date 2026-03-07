@@ -4078,3 +4078,33 @@
 {"text":"What happens when I complete a difficult lesson or bite in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"How do I get feedback on my answers to knowledge checks in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what this warning message means when I try to proceed without completing all the required lessons?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I unlock a bite if I haven't completed the previous one yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"What does this progress percentage mean?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet still at 0?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see the bite that just unlocked if I click on the progress bar?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the portfolio builder after completing a few bites?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to the last bite I completed if I click on the 'back' button?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock a new graph in the portfolio builder?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress bar stuck at 50%?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see the next bite available if I click on the 'next' button?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which course to start with?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet increasing so slowly?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use my fake money outside of the learning system?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress affect the availability of rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see a list of all available bites if I click on the 'bites' tab?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my portfolio builder locked until I complete a certain number of bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more graphs in the portfolio builder?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to the course selection screen if I click on the 'back' button?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet reset to 0 when I exit the learning system?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress affect the availability of tools in the portfolio builder?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see a list of all available tools if I click on the 'tools' tab?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my course unlocked after completing a certain number of bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the 'expert' mode in the portfolio builder?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use my fake money to buy assets outside of the learning system?","label":"CONTEXT_LEARNING"}
