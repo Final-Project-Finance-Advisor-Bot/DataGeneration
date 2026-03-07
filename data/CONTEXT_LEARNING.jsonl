@@ -1708,3 +1708,33 @@
 {"text":"How can I access additional learning resources to support my progress in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"Can you guide me through how to complete a quiz in Fundamentals and what's next?","label":"CONTEXT_LEARNING"}
 {"text":"What's the point of completing all the required modules for the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Can I unlock the Fundamentals course immediately after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"I completed a bite, but it still says 'Complete 3 more bites' - what does that mean?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after closing the full-screen mode?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the Portfolio Builder while still in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on a bite - can you give me a hint about what to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet not increasing despite completing all bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can I unlock additional portfolios without completing all Fundamentals requirements?","label":"CONTEXT_LEARNING"}
+{"text":"What if I don’t want to complete the full course? Can I just skip certain parts?","label":"CONTEXT_LEARNING"}
+{"text":"How does progress in one bite affect my ability to move on to the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my overall progress percentage across all bites and modules?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I spend too much time on a single bite? Will it lock out other options?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo mistakes made during a quiz or knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Will my wallet balance reflect the value of all the rewards I've unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to focus on next based on my strengths and weaknesses?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save progress and come back later if I need to?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between completing bites and unlocking new features or rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Will I get a certificate or badge upon completion of each module or bite?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance affect which portfolios I can access or allocate funds to?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip certain modules if I'm not interested in the topic? Will that impact my progress?","label":"CONTEXT_LEARNING"}
+{"text":"What if I have questions about a specific bite or module - how do I get help?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing the full course unlock additional tools or resources outside of the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards or points for completing bites and modules? How do I track my progress?","label":"CONTEXT_LEARNING"}
