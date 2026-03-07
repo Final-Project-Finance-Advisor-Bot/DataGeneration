@@ -2698,3 +2698,33 @@
 {"text":"How does the system handle user errors or incorrect answers to knowledge checks?","label":"CONTEXT_LEARNING"}
 {"text":"Can I view my completed quizzes and bites in the system?","label":"CONTEXT_LEARNING"}
 {"text":"Why is there a cap on the number of portfolios available in the system?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this knowledge check still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to progress to the next lesson?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip this part of the course if I've already completed it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I pass this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Which course should I start with?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of bites before I can unlock a new module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the next lesson after completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress frozen?","label":"CONTEXT_LEARNING"}
+{"text":"Can I re-do a knowledge check if I fail it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a module?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get rewards for completing lessons or bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next level in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress on the course so far?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a module before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I check my completion status on the course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach the end of the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo changes to my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet frozen?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get a notification when I complete a lesson or bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the learning centre after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock a new capability?","label":"CONTEXT_LEARNING"}
