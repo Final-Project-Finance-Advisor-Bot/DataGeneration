@@ -88,3 +88,33 @@
 {"text":"How can I make my money grow faster without having to constantly work?","label":"LLM_CHAT"}
 {"text":"Can you explain inflation in simple terms? I'm not sure I understand it properly.","label":"LLM_CHAT"}
 {"text":"I've been hearing about compound interest, but I'm not really sure how it works. Can you give me a basic example?","label":"LLM_CHAT"}
+{"text":"I don't really understand credit scores, can you explain how they work?","label":"LLM_CHAT"}
+{"text":"Is it better to invest in a stable company or take a risk on a new startup?","label":"LLM_CHAT"}
+{"text":"I've heard of the 50/30/20 rule, is that a good way to budget for investing?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bond and a stock?","label":"LLM_CHAT"}
+{"text":"I'm feeling a bit overwhelmed by all the different types of investments out there, can you simplify it for me?","label":"LLM_CHAT"}
+{"text":"I've been trying to save up for a down payment on a house, how much should I aim for each month?","label":"LLM_CHAT"}
+{"text":"Can you explain what a dividend is and why some stocks pay them out?","label":"LLM_CHAT"}
+{"text":"I don't understand how exchange rates work, can you give me an example?","label":"LLM_CHAT"}
+{"text":"Is it true that the rich get richer in the stock market, or are there ways to level the playing field?","label":"LLM_CHAT"}
+{"text":"I've heard of the concept of risk management in investing, can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"What's the difference between a forward contract and an option?","label":"LLM_CHAT"}
+{"text":"Can you explain how inflation affects interest rates, I'm really struggling to understand.","label":"LLM_CHAT"}
+{"text":"Can you explain how hedging works in investing, I'm really struggling to understand.","label":"LLM_CHAT"}
+{"text":"What's the difference between a bull market and a bear market, can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"I've heard of the concept of passive investing, can you explain how it works?","label":"LLM_CHAT"}
+{"text":"Can you explain what a compound interest rate is?","label":"LLM_CHAT"}
+{"text":"I'm trying to understand the difference between a bull and bear market. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"I'm curious about cryptocurrency. Is it a stable investment option?","label":"LLM_CHAT"}
+{"text":"Can you tell me about the difference between high-yield savings accounts and traditional savings accounts?","label":"LLM_CHAT"}
+{"text":"I'm not sure what 'yield' means in finance. Can you explain it to me?","label":"LLM_CHAT"}
+{"text":"Can you summarize the pros and cons of a stock split for an average investor?","label":"LLM_CHAT"}
+{"text":"I'm trying to understand how inflation affects my savings. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"What's the difference between a Roth IRA and a traditional IRA for retirement savings?","label":"LLM_CHAT"}
+{"text":"I've been following the news about interest rates and I'm a bit confused. Can you explain how they affect my savings account?","label":"LLM_CHAT"}
+{"text":"My friend says that real estate is a great way to diversify my portfolio, but I'm not sure if it's for me. What are the pros and cons?","label":"LLM_CHAT"}
+{"text":"I just saw an article about cryptocurrency and I have no idea what it is or how it works.","label":"LLM_CHAT"}
+{"text":"Is it better to pay off debt or save money in a high-interest savings account? I'm torn between the two.","label":"LLM_CHAT"}
+{"text":"I've been feeling overwhelmed by all the financial news and information out there. Can you just simplify things for me?","label":"LLM_CHAT"}
+{"text":"What's the difference between a budget and a spending plan? Are they interchangeable terms?","label":"LLM_CHAT"}
+{"text":"I'm not sure I fully understand what 'compound interest' means in practice. Can you explain it to me?","label":"LLM_CHAT"}
