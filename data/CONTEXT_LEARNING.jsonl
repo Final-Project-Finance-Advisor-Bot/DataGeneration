@@ -3508,3 +3508,33 @@
 {"text":"Can I see my learning pathway progress over time?","label":"CONTEXT_LEARNING"}
 {"text":"How do I unlock a new capability after completing all the required bites?","label":"CONTEXT_LEARNING"}
 {"text":"What's the point of these 'capability unlocks'?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the quiz but it's still showing 0% completion. What do I need to do next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after finishing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"I completed a module but my progress is still locked. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the wallet balance hasn’t increased after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my course completion percentage not updating?","label":"CONTEXT_LEARNING"}
+{"text":"I need to complete a specific module before Fundamentals unlocks. Can you tell me more about it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the graph tool if I haven’t unlocked the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the difference between this bite and the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what rewards are available after completing a specific module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I proceed to the next question until I answer correctly?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get my wallet balance to increase faster?","label":"CONTEXT_LEARNING"}
+{"text":"What does this ‘ capability unlock’ message mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the bite is still locked until I complete the next one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move back to the course selector if I need to go back in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all bites in a specific module?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress reset after taking a break from the app?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the learning centre works?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of this ‘bite-based mastery’ model?","label":"CONTEXT_LEARNING"}
+{"text":"How do I check my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the wallet balance is capped at £16,000?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a course but don’t unlock any rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I compare my progress to other users?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the system keeps track of my learning progression?","label":"CONTEXT_LEARNING"}
