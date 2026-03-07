@@ -2818,3 +2818,33 @@
 {"text":"Why can't I access my wallet after completing a bite in Learn the Application?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to unlock a certain number of bites in Fundamentals to see the next section?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which module to start with in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the Learning Pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move on from the Fundamentals module to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review a completed bite before moving to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the graph tool yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager module after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific bite to unlock the next level of wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"What is the maximum number of portfolios I can create with my current wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I navigate back to the Learning Centre from the full-screen mode?","label":"CONTEXT_LEARNING"}
+{"text":"Why does the system require me to complete a knowledge check before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach my wallet growth limit for the day?","label":"CONTEXT_LEARNING"}
+{"text":"How do I redeem my rewards for portfolio slots or increased allocation capacity?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo a bite completion if I realize it was incorrect?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the reminder that chat is always available?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of bites to unlock additional graph tools?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why does the system show me the completion requirements for each bite?","label":"CONTEXT_LEARNING"}
+{"text":"What are the different types of rewards I can unlock for completing bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I prioritize which bites to complete next based on my current knowledge?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress before switching between bites or modules?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I exceed my wallet balance limit for the day?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all the required knowledge checks in a specific bite before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my progress towards unlocking new capabilities or rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What is the benefit of completing each bite in sequence, rather than randomly?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my progress with others or receive feedback on my learning?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all the bites in a specific module before unlocking the next one?","label":"CONTEXT_LEARNING"}
