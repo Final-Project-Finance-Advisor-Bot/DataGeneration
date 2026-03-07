@@ -88,3 +88,33 @@
 {"text":"Can I undo a bite or quiz if I make a mistake?","label":"CONTEXT_LEARNING"}
 {"text":"Why is my wallet balance decreasing after completing a course?","label":"CONTEXT_LEARNING"}
 {"text":"How do I reset my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the knowledge check, what's next?","label":"CONTEXT_LEARNING"}
+{"text":"How can I continue from where I left off in the bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this part of the module, what should I do?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals course if I've already completed some bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move to the next bite without completing the current one?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of this knowledge check, and how does it affect my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Manager until I complete some bites?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish all bites in a row to unlock new content?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to do next, and how do I switch between them?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo my previous answers on the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finally complete this module?","label":"CONTEXT_LEARNING"}
+{"text":"How much time will it take me to complete this bite, and how long until I can review it?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and rewatch the video lesson if I got stuck on it?","label":"CONTEXT_LEARNING"}
+{"text":"What's the best way to prioritize my learning path if I have multiple bites due?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all knowledge checks in one sitting, or can I come back later?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the bite, and what's the current score?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip this part of the module if I've already mastered it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a knowledge check, and how can I improve next time?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a specific order, or can I mix and match?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the reward preview for this bite, and what does it show?","label":"CONTEXT_LEARNING"}
+{"text":"Can I learn from my mistakes on this quiz, or will I have to start over?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the completion requirement, and how does it affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How long until I can unlock the next bite after completing the current one?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a specific timeframe, or is there no deadline?","label":"CONTEXT_LEARNING"}
+{"text":"What's the reward preview for this module, and how much will it increase my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my progress with others through social media or email?","label":"CONTEXT_LEARNING"}
