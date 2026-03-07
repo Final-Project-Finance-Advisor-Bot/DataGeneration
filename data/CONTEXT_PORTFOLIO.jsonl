@@ -5548,3 +5548,33 @@
 {"text":"What’s the difference between a long and short position on asset/shares?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I get alerts when one of my asset/shares hits a certain price level?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I use the portfolio manager’s search function to find companies?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio with just £100?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet showing more money than I can invest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add Apple to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios easily?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum amount needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to delete a share but it won’t let me","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many asset / shares can I hold in one portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my asset / shares by price?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I need to know how much profit I made last month","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset / shares by type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple wallets in the same portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the difference between different types of assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t see a graph for my portfolio, where did it go?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit the asset / shares allocation for a specific share?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value dropping?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an entire portfolio and start fresh?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many asset / shares can I add to a portfolio before it reaches its limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to see my portfolio value over time, where can I find that chart?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I filter my portfolio by specific companies?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up notifications for when a company’s asset price changes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more than £1000 to my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio based on a specific asset or sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know which assets are the best performers in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure what type of graph to use for my portfolio, can you suggest some options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I save a portfolio and come back to it later?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the value of my asset / shares changing all the time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company by name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios with different investment goals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to see my portfolio value compared to the market index, where can I find that?","label":"CONTEXT_PORTFOLIO"}
