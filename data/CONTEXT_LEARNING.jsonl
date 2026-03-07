@@ -778,3 +778,33 @@
 {"text":"What happens if I don't complete a bite?","label":"CONTEXT_LEARNING"}
 {"text":"Why is my wallet balance displayed throughout the learning pathway?","label":"CONTEXT_LEARNING"}
 {"text":"How do mastery levels work for each lesson?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I proceed to the next bite if I only got 50% of this quiz right?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to progress to the next module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the knowledge check at the end of this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of this reward preview?","label":"CONTEXT_LEARNING"}
+{"text":"Can I continue learning if I only completed 75% of the previous bite?","label":"CONTEXT_LEARNING"}
+{"text":"How long does it take to unlock each new capability?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to do to increase my portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio performance with others?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of bites before I can unlock the next course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I fast-track my learning by completing extra bites or quizzes?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a mastery quiz and a regular quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access additional resources or tools within the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards for completing specific modules or bites?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all the requirements for a course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I need to review a particular module or bite again?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move backwards through the learning pathway if I make a mistake on a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the completion percentage bar?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a particular module before unlocking the next module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get feedback on my mistakes on quizzes or mastery checks?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my learning history or past progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can I set reminders for upcoming bites, quizzes, or course completion dates?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach the maximum capacity for a particular portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of bites in a row before unlocking the next bite?","label":"CONTEXT_LEARNING"}
