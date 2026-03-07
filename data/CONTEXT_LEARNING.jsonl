@@ -2638,3 +2638,33 @@
 {"text":"What is the purpose of the capability unlock mechanism in the system?","label":"CONTEXT_LEARNING"}
 {"text":"Can I see my learning history and progress over time within the application?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete a certain number of bites or quizzes to reach a milestone?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I complete the quiz for the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite should I do next after completing the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I unlock the Fundamentals module if I’ve completed a previous course?","label":"CONTEXT_LEARNING"}
+{"text":"What is the reward for completing the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"How many attempts do I have to pass this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What will happen when I unlock the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access all content if I complete the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked initially?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between this quiz and the last one?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a lesson if I’ve completed previous lessons?","label":"CONTEXT_LEARNING"}
+{"text":"How do I complete the Fundamentals module to unlock rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What is the next step after completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see all the learning elements until I’ve unlocked them?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access a previous lesson if I’ve completed a subsequent one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve mastered this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What will happen when I complete all the Fundamentals bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use real-world money to practice trading in this system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I switch between different learning elements if they’re locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the progression bar not showing progress when I’ve completed a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see which lessons I still need to complete after unlocking a course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I’ve unlocked all my rewards for the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of this learning pathway compared to other systems?","label":"CONTEXT_LEARNING"}
+{"text":"Can I repeat a lesson that I didn’t pass until I’ve mastered it?","label":"CONTEXT_LEARNING"}
