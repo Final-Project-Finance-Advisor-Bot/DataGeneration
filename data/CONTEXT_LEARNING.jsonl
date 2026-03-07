@@ -2968,3 +2968,33 @@
 {"text":"Can I use the wallet in the learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"What is this feature meant for?","label":"CONTEXT_LEARNING"}
 {"text":"Why does my progress get reset sometimes?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review the quiz if I answer incorrectly?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after a full-screen mode?","label":"CONTEXT_LEARNING"}
+{"text":"I passed all bites, but Fundamentals is still locked. Why?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next after finishing the first one?","label":"CONTEXT_LEARNING"}
+{"text":"How can I see my progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for me?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on a lesson, how can I get help?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and redo a previous bite if I didn't do well?","label":"CONTEXT_LEARNING"}
+{"text":"How will completing Fundamentals affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the learning centre not loading for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this progress percentage means?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all bites in a module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I'm on the wrong section, how can I get back to where I started?","label":"CONTEXT_LEARNING"}
+{"text":"What if I don't finish a bite before leaving the module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress in case I close the app?","label":"CONTEXT_LEARNING"}
+{"text":"How does this completion requirement affect my overall progression?","label":"CONTEXT_LEARNING"}
+{"text":"What if I need help with a specific lesson, where can I find it?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review past quizzes to understand what went wrong?","label":"CONTEXT_LEARNING"}
+{"text":"How will unlocking new capabilities affect my learning experience?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a locked course and one that is unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see all available bites in the module at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access previous lessons if they are locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a full module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my progress to others within the same module?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this specific lesson so important for my progression?","label":"CONTEXT_LEARNING"}
