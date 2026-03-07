@@ -4828,3 +4828,33 @@
 {"text":"What's the difference between a knowledge check and a quiz in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"Can I earn rewards for completing specific tasks in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"How do I track my progress through Fundamentals over time?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this completion requirement means?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the first quiz, but the second one is still locked. What’s wrong?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what this knowledge check is trying to teach me?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finally complete all the bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"I’m stuck on this quiz, and I don’t understand how to get past it. Can you help?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course after finishing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of these progress bars in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the next bite until I finish this one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is and how it works?","label":"CONTEXT_LEARNING"}
+{"text":"I’m so close to completing all the bites in Fundamentals, but I don’t see any reward preview. Is there something wrong?","label":"CONTEXT_LEARNING"}
+{"text":"What does this locked course mean for me? Can you tell me what I need to do?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how the learning centre’s bite-based progression works?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance going down even though I’m not buying anything?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a bite unlock rewards and capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what this knowledge check is testing?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the purpose of these additional bites after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"I’m confused about how to unlock the next part of Portfolio Manager. Can you clarify?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I view the full progress bar until I’ve completed all the required sections?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I pass a knowledge check and move on to the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what mastery means in this learning centre context?","label":"CONTEXT_LEARNING"}
+{"text":"I’m having trouble finding the link between my progress and rewards. Can you help me understand it?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a bite and a quiz in this learning centre?","label":"CONTEXT_LEARNING"}
