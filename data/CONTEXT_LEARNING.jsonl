@@ -2068,3 +2068,33 @@
 {"text":"Can you explain how the learning centre’s mastery model works?","label":"CONTEXT_LEARNING"}
 {"text":"Why is my wallet balance higher after completing a bite in Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
 {"text":"How do I reset my progress on the learning pathway if needed?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing a module?","label":"CONTEXT_LEARNING"}
+{"text":"What does this bite's knowledge check mean?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I’ve completed the first bite, what’s next?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress bar still at 0%?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and redo a previous quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next module in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"I’m stuck on this bite, can you explain it again?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing all bites give me full access to everything?","label":"CONTEXT_LEARNING"}
+{"text":"How does my completion progress affect my wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a bite if I know the answer already?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the benefit of completing all bites in this module?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete every bite before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system track my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and come back later?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the reward for completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"I’ve got a question about this quiz – can you help?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing this module make me more confident?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing bites in Fundamentals improve my skills?","label":"CONTEXT_LEARNING"}
