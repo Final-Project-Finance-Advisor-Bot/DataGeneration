@@ -1558,3 +1558,33 @@
 {"text":"How do I know which bites are marked as complete when I'm not sure?","label":"CONTEXT_LEARNING"}
 {"text":"What if I forget which bite I was on when I last logged in? Can you remind me?","label":"CONTEXT_LEARNING"}
 {"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is Fundamentals locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can I just start Fundamentals now?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is Fundamentals still locked after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have to complete all of Learn the Application before accessing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I progress from Fundamentals if I'm not yet proficient in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next step after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I just click 'Start' on Fundamentals and be done with it?","label":"CONTEXT_LEARNING"}
+{"text":"Why is Fundamentals locked until I complete Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How long do I have to wait before accessing Fundamentals after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I start Fundamentals but am not yet ready?","label":"CONTEXT_LEARNING"}
+{"text":"Can I progress to Fundamentals without finishing all of Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I confirm that Fundamentals is unlocked after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a mini-module or tutorial before accessing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress towards unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which part of Learn the Application I need to finish first?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between 'Start', 'Continue' and 'Review' in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I progress to Fundamentals if I've already started it but got stuck?","label":"CONTEXT_LEARNING"}
+{"text":"How do I re-access a locked section of Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to take a practice quiz or assessment before accessing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see the total number of bites required to unlock Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I confirm that I've completed all requirements for unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I progress to Fundamentals if I've only completed part of Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't complete a required bite or module before accessing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to earn a certain amount of 'fake money' to unlock Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see the total number of progress points required to unlock Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked enough progress points to access Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to take a multiple-choice quiz or assessment before accessing Fundamentals?","label":"CONTEXT_LEARNING"}
