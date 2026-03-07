@@ -118,3 +118,33 @@
 {"text":"I've been feeling overwhelmed by all the financial news and information out there. Can you just simplify things for me?","label":"LLM_CHAT"}
 {"text":"What's the difference between a budget and a spending plan? Are they interchangeable terms?","label":"LLM_CHAT"}
 {"text":"I'm not sure I fully understand what 'compound interest' means in practice. Can you explain it to me?","label":"LLM_CHAT"}
+{"text":"I just got a tax bill and I have no idea how to deal with it","label":"LLM_CHAT"}
+{"text":"What's the point of compound interest?","label":"LLM_CHAT"}
+{"text":"I'm so confused about inflation, can you explain it again?","label":"LLM_CHAT"}
+{"text":"How often should I be investing in the stock market?","label":"LLM_CHAT"}
+{"text":"I don't get why bonds are always so boring","label":"LLM_CHAT"}
+{"text":"What's the best way to save for a big purchase?","label":"LLM_CHAT"}
+{"text":"I'm not sure if I should take out a loan or not","label":"LLM_CHAT"}
+{"text":"How does inflation impact everyday spending?","label":"LLM_CHAT"}
+{"text":"Can you explain cryptocurrency to someone who knows nothing?","label":"LLM_CHAT"}
+{"text":"What's the difference between ROI and risk return?","label":"LLM_CHAT"}
+{"text":"I just heard about dollar cost averaging, can it work for me?","label":"LLM_CHAT"}
+{"text":"Can you help me understand some basic investment terms like EPS and P/E?","label":"LLM_CHAT"}
+{"text":"How does the Federal Reserve control interest rates?","label":"LLM_CHAT"}
+{"text":"I'm thinking of starting my own business, what's the best way to get funding?","label":"LLM_CHAT"}
+{"text":"What's the best way to diversify a portfolio for a beginner?","label":"LLM_CHAT"}
+{"text":"Can you tell me about some common financial goals and how to achieve them?","label":"LLM_CHAT"}
+{"text":"I don't understand how credit scores work","label":"LLM_CHAT"}
+{"text":"What's the difference between a variable rate loan and fixed?","label":"LLM_CHAT"}
+{"text":"Can you explain why some stocks are more volatile than others?","label":"LLM_CHAT"}
+{"text":"How does taxes impact investment returns?","label":"LLM_CHAT"}
+{"text":"Is investing actually worth it long term?","label":"LLM_CHAT"}
+{"text":"I don’t really understand inflation properly.","label":"LLM_CHAT"}
+{"text":"What makes stocks go up or down? Is it just a random market thing?","label":"LLM_CHAT"}
+{"text":"I always hear people talk about diversification. Can you explain what that means in simple terms?","label":"LLM_CHAT"}
+{"text":"Tell me a joke","label":"LLM_CHAT"}
+{"text":"Hi, how are you? Nice to talk to you!","label":"LLM_CHAT"}
+{"text":"I'm considering my retirement savings and I'm not sure if investing in the stock market is right for me. Can you help me understand the risks and benefits?","label":"LLM_CHAT"}
+{"text":"I'm curious about dividend investing - does it really make sense to invest in a company just for its dividends, or is there more to it?","label":"LLM_CHAT"}
+{"text":"I've been hearing about the importance of having an emergency fund. What's the general rule of thumb for how much I should save?","label":"LLM_CHAT"}
+{"text":"I'm thinking of investing for the first time, what's the best way to get started?","label":"LLM_CHAT"}
