@@ -4258,3 +4258,33 @@
 {"text":"Can you tell me what’s inside this bite - is it always the same?","label":"CONTEXT_LEARNING"}
 {"text":"Why can’t I view my previous lessons if they’re no longer unlocked?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know when I’ve finished a lesson and should move on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite should I start next if I passed all the quizzes in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move to the next bite yet or do I need to complete more lessons first?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean? Is it unlocked yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next? What are my options?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see the next bite in the Learning Centre if I've completed all previous bites?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to unlock Portfolio Manager once I complete Learn the Application and Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the full potential of my wallet if I'm stuck on a specific bite in Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone help me understand why I can't access certain features yet? Is there something wrong with my account?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of completing this knowledge check if I've already passed the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing a course increase my overall wallet balance or just give me more funds?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain what happens when you fail a lesson and what steps to take next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I find out which Fundamentals section I need to complete next if it's locked?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards can I expect after completing all the bites in Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Will this knowledge check give me any bonus funds or rewards if I pass it?","label":"CONTEXT_LEARNING"}
+{"text":"How does progressing through Fundamentals of Finance impact my wallet balance and overall capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone guide me on how to complete a bite in the Learning Centre and what tools I'll gain access to afterwards?","label":"CONTEXT_LEARNING"}
+{"text":"Will unlocking the full version of Portfolio Manager require completion of all Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress from one module to another if they're locked due to a lack of knowledge or completion requirements?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone help me understand why I need to complete this bite before unlocking the next one in Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Will completing a course automatically unlock more features or tools in Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"What does the reward preview say about what I can expect after completing this bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone guide me on how to use my rewards and what benefits they provide in the FA Bot learning system?","label":"CONTEXT_LEARNING"}
+{"text":"How does progressing through Fundamentals of Finance improve my overall capabilities and tools in Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Will this knowledge check give me access to any bonus rewards or funds if I pass it quickly or efficiently?","label":"CONTEXT_LEARNING"}
+{"text":"Can someone explain what happens when you complete all the bites in Learning Centre and what new capabilities become available?","label":"CONTEXT_LEARNING"}
+{"text":"How do I find out which bite to start next if I'm unsure about my progress through Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
