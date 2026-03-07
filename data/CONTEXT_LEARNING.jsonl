@@ -3058,3 +3058,33 @@
 {"text":"Can you explain what this quiz element means in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete a certain number of bites before Portfolio Manager unlocks?","label":"CONTEXT_LEARNING"}
 {"text":"How do I track my progress towards completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"How can I move forward in the learning centre after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access my next bite if I don't complete this quiz yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this reward preview means?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between completing this bite and progressing to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me which bite to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock access to my portfolio if I'm not ready?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete this module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move on to the next course if I don't complete this one first?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet limit low after completing a few bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I increase my portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the difference between allocated and available funds in my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"What is the benefit of unlocking a new capability or reward?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access more than 3 graphs at once if I complete certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all my progress requirements?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach the end of a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and review a previously completed bite if needed?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance in terms of capacity?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there an initial waiting period after completing a module before access to rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save progress and come back to the learning centre later?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system ensure users don't skip or rush through modules?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a knowledge check in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Can I track my progress towards unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a limit to the number of portfolios I can create if I complete certain modules?","label":"CONTEXT_LEARNING"}
