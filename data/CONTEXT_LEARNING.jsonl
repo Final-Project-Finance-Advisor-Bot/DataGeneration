@@ -2488,3 +2488,33 @@
 {"text":"Can you explain how the system prevents cheating or exploiting its rewards?","label":"CONTEXT_LEARNING"}
 {"text":"How do I unlock more learning pathways in the FA Bot learning system?","label":"CONTEXT_LEARNING"}
 {"text":"Why can’t I access certain features until I complete a course?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go straight into the Fundamentals course or do I have to complete Learn the Application first?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to start next?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I review my progress in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a completion requirement and a milestone?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards for completing individual bites or just overall courses?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course after finishing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of this bite's quiz if I can just review my previous knowledge?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my progress or results with friends on social media?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to pass a certain number of quizzes before unlocking rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How can I get help if I'm stuck on a bite or quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Do all courses have interactive elements like bites and quizzes?","label":"CONTEXT_LEARNING"}
+{"text":"What's the most efficient way to complete my Learn the Application course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I take breaks from learning without losing progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I activate my next reward after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What if I fail a quiz - can I still continue with the course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how much time I've spent on each course or bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my completed courses and bites in one place?","label":"CONTEXT_LEARNING"}
+{"text":"Do rewards expire after a certain period of time?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how many rewards I've unlocked overall?","label":"CONTEXT_LEARNING"}
+{"text":"What if I need more help with a concept - can the AI mediator assist me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I'm ready to move on from one course to another?","label":"CONTEXT_LEARNING"}
+{"text":"Can I customize my learning experience with preferences or settings?","label":"CONTEXT_LEARNING"}
+{"text":"Do badges or rewards affect my overall sense of accomplishment?","label":"CONTEXT_LEARNING"}
+{"text":"How do I contact the support team if I have questions about my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my learning experience with others and get feedback?","label":"CONTEXT_LEARNING"}
