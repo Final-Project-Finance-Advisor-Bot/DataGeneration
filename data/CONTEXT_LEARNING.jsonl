@@ -2938,3 +2938,33 @@
 {"text":"Can you explain what 'mastery quiz' means and how it affects my progress?","label":"CONTEXT_LEARNING"}
 {"text":"I'm having trouble understanding this concept - can you break it down for me?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know when I've mastered a certain skill or concept?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards do I unlock after finishing this module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I progress without completing all bites in a section?","label":"CONTEXT_LEARNING"}
+{"text":"How many attempts can I make on a quiz before needing to wait?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this part still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a bite if I'm already proficient in the topic?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of this progress indicator?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features until I've completed Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do bites get unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my wallet balance in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What is this completion requirement?","label":"CONTEXT_LEARNING"}
+{"text":"Why does the learning system ask me to review what I've learned?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get rewards for completing bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my progress with others in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What is this tool meant for?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I start a new bite until I've completed the previous one?","label":"CONTEXT_LEARNING"}
+{"text":"How do bites get shorter?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What is this milestone about?","label":"CONTEXT_LEARNING"}
+{"text":"Why does the learning system ask me to take a quiz on this topic?","label":"CONTEXT_LEARNING"}
+{"text":"How do capabilities work?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use the wallet in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What is this feature meant for?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my progress get reset sometimes?","label":"CONTEXT_LEARNING"}
