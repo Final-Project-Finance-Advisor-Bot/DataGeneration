@@ -568,3 +568,33 @@
 {"text":"Are there any hidden benefits or surprises that I might not have noticed otherwise by completing the bites in this order? Can you explain them?","label":"CONTEXT_LEARNING"}
 {"text":"Can I see my overall completion percentage across all courses and bites? How does it reflect my progress?","label":"CONTEXT_LEARNING"}
 {"text":"How long will it take me to unlock each course if I continue at the current pace of completing one bite per day? Can you estimate?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why the learning pathway is structured like this?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get access to more bites in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a knowledge check in this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite should I start with?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what the reward preview means for this bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional bites in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this completion requirement mean for my wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get started with the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how the learning centre works?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this part of the learning pathway still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a knowledge check in this bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance affect the unlocking of additional bites?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a bite and a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how to progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get access to more rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my portfolio growth?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system tracks completion percentage?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this part of the learning pathway important?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve completed a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through what happens after I complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What does this completion requirement mean for my capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"How does the system handle different learning speeds?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how to optimize my learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this part of the learning pathway still locked in Fundamentals?","label":"CONTEXT_LEARNING"}
