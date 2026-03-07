@@ -208,3 +208,33 @@
 {"text":"What is the relationship between a stock category and share type?","label":"DOMAIN_QUERIES"}
 {"text":"How does FA Bot's asset management affect my overall profit?","label":"DOMAIN_QUERIES"}
 {"text":"Can I use my portfolio to track my capital gains?","label":"DOMAIN_QUERIES"}
+{"text":"What is a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does portfolio diversification work?","label":"DOMAIN_QUERIES"}
+{"text":"What counts as profit in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain what a share is?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve?","label":"DOMAIN_QUERIES"}
+{"text":"How do I manage my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between asset and share?","label":"DOMAIN_QUERIES"}
+{"text":"Can you tell me about profit margins?","label":"DOMAIN_QUERIES"}
+{"text":"How do I access my Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How do I create a new portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and a share?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work for individual investors?","label":"DOMAIN_QUERIES"}
+{"text":"Can I transfer my Virtual wallet funds to another platform?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a Cash Reserve in the FA Bot platform?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my asset holdings on the FA Bot platform?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between a share and its ticker?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use my portfolio to make investments outside of the Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot platform determine profit for individual investors?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of a Cash Reserve in managing my capital?","label":"DOMAIN_QUERIES"}
+{"text":"Can I transfer my shares directly to another platform without going through the Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use my share holdings to make loans or investments outside of the Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can I track my virtual wallet's cash reserve?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager determine capital allocation?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a financial advisor bot and an asset management service?","label":"DOMAIN_QUERIES"}
+{"text":"Can I get profit updates on my shares?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work in a stock category portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a cash reserve in a virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use the FA bot platform to track my financial advisor's investment strategy?","label":"DOMAIN_QUERIES"}
+{"text":"How do I calculate profit from my shares using the FA bot platform?","label":"DOMAIN_QUERIES"}
+{"text":"What is the minimum capital required for a portfolio manager in the FA bot system?","label":"DOMAIN_QUERIES"}
