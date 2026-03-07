@@ -3268,3 +3268,33 @@
 {"text":"How can I get more guidance on a particular bite?","label":"CONTEXT_LEARNING"}
 {"text":"What's the relationship between bites and rewards?","label":"CONTEXT_LEARNING"}
 {"text":"Can I view past bites or quizzes?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed Learn the Application, but Fundamentals is still locked. Why is that?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this completion requirement means?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"I failed this knowledge check, but the reward preview says it's unlocked. What does that mean?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next if there are multiple bites available?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz, or is it just a learning checkpoint?","label":"CONTEXT_LEARNING"}
+{"text":"What does the progress indicator on the Fundamentals course mean to me?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take to unlock all the capabilities in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review a completed bite if I want to make sure I understand it again?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach 100% completion on a bite? Is there a reward or something?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the next bite until I've answered all the questions correctly?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance change when I complete a course in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What tools or features become available to me once I've completed Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the capability unlock logic works, and what it means for me?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress in Fundamentals impact my ability to access more advanced tools or capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between completing a bite and unlocking a new reward?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to a previously completed bite if I want to revisit it?","label":"CONTEXT_LEARNING"}
+{"text":"How does my performance on quizzes impact my ability to progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What is the maximum amount of money I can earn in the simulation, and how does it relate to completing courses?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why some bites are locked until I've completed previous ones?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to start next if there are multiple available?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between completing a course and unlocking new capabilities in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards for just progressing through the system, even if I don't complete every bite?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress in Fundamentals affect my ability to access different tools or features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach 100% completion on a course and unlock all capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning pathway is structured, and what each bite is supposed to teach me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bites are required for unlocking new capabilities in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What is the maximum amount of time I have to complete a bite before it unlocks?","label":"CONTEXT_LEARNING"}
