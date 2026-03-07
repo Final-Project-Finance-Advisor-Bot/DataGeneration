@@ -868,3 +868,33 @@
 {"text":"Why can't I move on until I've completed this part?","label":"CONTEXT_LEARNING"}
 {"text":"How do I see the available tools after completing a module?","label":"CONTEXT_LEARNING"}
 {"text":"Can you show me the bite I'm currently on?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens if I fail a knowledge check in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from the Learn the Application module to the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of passing each quiz bite in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet need to grow exponentially as I progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete before Fundamentals unlocks for me?","label":"CONTEXT_LEARNING"}
+{"text":"How can I view all the bites in a specific module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me why my progress is being capped at 99% on this course?","label":"CONTEXT_LEARNING"}
+{"text":"What does this bite's reward preview mean for my wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a full module before unlocking the next one in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between my wallet growth and completing bites in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens if I complete all bites in a module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I unlock the Fundamentals of Finance course until I finish this bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next after completing a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many bites are in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean for my wallet growth to 'double' as I progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view all the quizzes in a specific module?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to unlock the next bite after completing a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my progress is being tracked as a percentage on this course?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of unlocking new bites and modules in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features until I've completed a specific bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how my wallet growth affects my ability to unlock rewards in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view all the bites I still need to complete in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a knowledge check before unlocking the next bite after completing a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I complete all bites and modules in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I progress until I've completed this specific bite in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean for a bite to have multiple rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how my wallet growth is affected by completing bites in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bites are next in the Fundamentals module after completing this one?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a full course before unlocking the next level in the learning pathway?","label":"CONTEXT_LEARNING"}
