@@ -1108,3 +1108,33 @@
 {"text":"Can a portfolio be diversified across different asset types?","label":"DOMAIN_QUERIES"}
 {"text":"How does the profit calculation work for shares?","label":"DOMAIN_QUERIES"}
 {"text":"What is the purpose of a Virtual wallet in managing capital?","label":"DOMAIN_QUERIES"}
+{"text":"What is the typical return on investment for a long-term portfolio of stocks?","label":"DOMAIN_QUERIES"}
+{"text":"How does my Virtual wallet manage its cash reserves?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of diversification in simple terms?","label":"DOMAIN_QUERIES"}
+{"text":"What types of assets are typically included in a stock category?","label":"DOMAIN_QUERIES"}
+{"text":"What is the benefit of having a cash reserve in my investment portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification impact my investment returns over time?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit affect my investment decisions over time?","label":"DOMAIN_QUERIES"}
+{"text":"What is the benefit of having a cash reserve in my investment portfolio compared to holding cash in a savings account?","label":"DOMAIN_QUERIES"}
+{"text":"How does a Financial Advisor Bot handle profit distribution among investors?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a stock category and a portfolio share?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how capital is allocated in a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"What is the minimum required capital for a cash reserve?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager track profit growth over time?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of ticker symbols in finance?","label":"DOMAIN_QUERIES"}
+{"text":"How do investors calculate their overall financial position and progress?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of asset allocation in a portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you provide examples of different stock categories and their characteristics?","label":"DOMAIN_QUERIES"}
+{"text":"How does a Virtual wallet handle transactions between shares and cash?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a profit share and a dividend payment?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how portfolio diversification benefits an investor's overall performance?","label":"DOMAIN_QUERIES"}
+{"text":"How do Financial Advisor Bots ensure fair profit distribution among clients?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a cash reserve in investment strategies?","label":"DOMAIN_QUERIES"}
+{"text":"Can you provide information on the minimum capital required for an asset?","label":"DOMAIN_QUERIES"}
+{"text":"How do investors calculate their return on investment (ROI) using their portfolio shares?","label":"DOMAIN_QUERIES"}
+{"text":"What is the impact of stock category changes on a portfolio's overall performance?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how a portfolio manager uses diversification to minimize risk in an investment?","label":"DOMAIN_QUERIES"}
+{"text":"Can a virtual wallet hold multiple types of assets?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit impact my portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between cash reserve and capital?","label":"DOMAIN_QUERIES"}
+{"text":"Do I need to diversify within a specific stock category?","label":"DOMAIN_QUERIES"}
