@@ -3448,3 +3448,303 @@
 {"text":"I'm not sure how the learning system works - can you tell me more about that?","label":"EDU_LEARNING"}
 {"text":"Why do I need to use this learning section and what are its benefits?","label":"EDU_LEARNING"}
 {"text":"Is there a specific order or structure to the learning pathway and how does it work?","label":"EDU_LEARNING"}
+{"text":"What does the learning centre do?","label":"EDU_LEARNING"}
+{"text":"Is there a learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the learning system work?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning centre?","label":"EDU_LEARNING"}
+{"text":"Can you explain how learning works in this app?","label":"EDU_LEARNING"}
+{"text":"Is there a learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the learning section help me learn?","label":"EDU_LEARNING"}
+{"text":"What is the point of the learning centre?","label":"EDU_LEARNING"}
+{"text":"Is there a learning pathway?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me understand the material?","label":"EDU_LEARNING"}
+{"text":"Why do I have to use the learning section?","label":"EDU_LEARNING"}
+{"text":"What is the benefit of using the learning centre?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning system works?","label":"EDU_LEARNING"}
+{"text":"How does the learning pathway work?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning centre again?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning section helps me learn new things?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me understand complex concepts?","label":"EDU_LEARNING"}
+{"text":"Why is the learning section important?","label":"EDU_LEARNING"}
+{"text":"What is the point of using the learning centre?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning pathway works?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me learn new skills?","label":"EDU_LEARNING"}
+{"text":"What is the benefit of using the learning centre again?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning pathway helps me understand the material?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning centre in this app?","label":"EDU_LEARNING"}
+{"text":"How does the learning pathway help me understand complex concepts?","label":"EDU_LEARNING"}
+{"text":"What is the point of using the learning centre again?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning system helps me learn new things?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section all the time?","label":"EDU_LEARNING"}
+{"text":"What is the benefit of using the learning centre for beginners?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning pathway helps me learn new skills?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me understand the material better?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning centre for users like me?","label":"EDU_LEARNING"}
+{"text":"What is the point of using the learning centre for students?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning system helps me learn new things with your app?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section all the time?","label":"EDU_LEARNING"}
+{"text":"What is the benefit of using the learning centre again?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me learn new things?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section for beginners?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning pathway helps me understand complex concepts?","label":"EDU_LEARNING"}
+{"text":"What is the point of using the learning centre again?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me learn new skills?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning pathway works with different levels of users?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning centre for users like me?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning system helps me understand the material better?","label":"EDU_LEARNING"}
+{"text":"How does the learning pathway work?","label":"EDU_LEARNING"}
+{"text":"What is the benefit of using the learning centre again?","label":"EDU_LEARNING"}
+{"text":"Can you explain how the learning system helps me learn new things?","label":"EDU_LEARNING"}
+{"text":"Why do I need to use the learning section all the time?","label":"EDU_LEARNING"}
+{"text":"How does the learning system help me understand complex concepts?","label":"EDU_LEARNING"}
+{"text":"What is this learning pathway thing?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre work?","label":"EDU_LEARNING"}
+{"text":"Is learning a required part of the app?","label":"EDU_LEARNING"}
+{"text":"Can I see what I need to learn next?","label":"EDU_LEARNING"}
+{"text":"How does the system know when I'm ready for new stuff?","label":"EDU_LEARNING"}
+{"text":"What's the point of this learning thing?","label":"EDU_LEARNING"}
+{"text":"How does the app decide what to teach me next?","label":"EDU_LEARNING"}
+{"text":"Is it true that learning is the main focus of this app?","label":"EDU_LEARNING"}
+{"text":"What happens if I skip the learning section?","label":"EDU_LEARNING"}
+{"text":"How does the system keep track of my progress?","label":"EDU_LEARNING"}
+{"text":"What's the benefit of using the learning section?","label":"EDU_LEARNING"}
+{"text":"Is there a way to see my progress in the app?","label":"EDU_LEARNING"}
+{"text":"How does the app know that I'm ready for new things?","label":"EDU_LEARNING"}
+{"text":"Is it possible to learn just by using other features of the app?","label":"EDU_LEARNING"}
+{"text":"Can I set a goal for my learning in the app?","label":"EDU_LEARNING"}
+{"text":"How does the system ensure that I understand what I'm being taught?","label":"EDU_LEARNING"}
+{"text":"What's the main purpose of the learning section?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn anything?","label":"EDU_LEARNING"}
+{"text":"How does the app decide what type of learning is best for me?","label":"EDU_LEARNING"}
+{"text":"Is there a way to see how much time I've spent on learning?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I learn effectively?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize my learning experience in the app?","label":"EDU_LEARNING"}
+{"text":"How does the system know that I've completed a lesson or module?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn new things every time?","label":"EDU_LEARNING"}
+{"text":"What's the role of the learning section in the app?","label":"EDU_LEARNING"}
+{"text":"Is it possible to skip over certain lessons or modules if I'm already familiar with them?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to use the learning section?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm on track to meet my learning goals?","label":"EDU_LEARNING"}
+{"text":"What's the main advantage of using the learning section in the app?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to navigate the learning section?","label":"EDU_LEARNING"}
+{"text":"Is there a way to see what's coming up next in my learning journey?","label":"EDU_LEARNING"}
+{"text":"How does the system keep me engaged and motivated during the learning process?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to use the learning tools?","label":"EDU_LEARNING"}
+{"text":"Is there a way to compare my progress against others who are also using the app?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not too tired or distracted during the learning process?","label":"EDU_LEARNING"}
+{"text":"What's the role of the learning centre in the app?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to set up my own learning plan?","label":"EDU_LEARNING"}
+{"text":"Is there a way to see what skills or knowledge areas I'm trying to improve?","label":"EDU_LEARNING"}
+{"text":"How does the system keep track of my progress and achievements in the learning centre?","label":"EDU_LEARNING"}
+{"text":"What happens if I forget how to use a particular feature of the learning section?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to customize my learning experience?","label":"EDU_LEARNING"}
+{"text":"Is there a way to compare different features or tools within the learning section?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm on track to meet my personal learning goals?","label":"EDU_LEARNING"}
+{"text":"What's the main benefit of using the learning centre in the app?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to use the various reports or analytics tools?","label":"EDU_LEARNING"}
+{"text":"Is there a way to see what's new or updated within the learning section?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not wasting too much time on unnecessary features?","label":"EDU_LEARNING"}
+{"text":"What happens if I cancel my subscription to the app?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to set reminders or notifications for myself?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the layout or design of the learning section?","label":"EDU_LEARNING"}
+{"text":"How does the system keep track of my favourite features or tools within the learning centre?","label":"EDU_LEARNING"}
+{"text":"What's the role of the app in helping me achieve my personal goals?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to track my progress or milestones?","label":"EDU_LEARNING"}
+{"text":"Is there a way to compare different apps or platforms for learning and development?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not missing out on any important features or tools within the learning section?","label":"EDU_LEARNING"}
+{"text":"What's the main advantage of using the learning centre in the app compared to other apps?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to use the various integrations or plugins?","label":"EDU_LEARNING"}
+{"text":"Is there a way to see what's coming up in the next few weeks or months within the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not relying too heavily on technology or automation for my learning?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to set up a learning schedule or routine?","label":"EDU_LEARNING"}
+{"text":"Is there a way to compare different features or tools within the app's core functionality?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not losing momentum or motivation during the learning process?","label":"EDU_LEARNING"}
+{"text":"What's the role of the app in supporting my overall well-being and mental health?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to use the various community or discussion forums?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the font size or colour scheme within the learning section?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not getting too bored or stale with my learning content?","label":"EDU_LEARNING"}
+{"text":"What happens if I forget how to reset my password for the app?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to use the various accessibility features?","label":"EDU_LEARNING"}
+{"text":"Is there a way to compare different apps or platforms for their learning and development offerings?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not missing out on any important announcements or updates within the learning centre?","label":"EDU_LEARNING"}
+{"text":"What's the main advantage of using the learning centre in the app compared to other apps or platforms?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to set up a custom dashboard or homepage?","label":"EDU_LEARNING"}
+{"text":"Is there a way to see what's new or released within the learning section?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not relying too heavily on technology or automation for my personal goals?","label":"EDU_LEARNING"}
+{"text":"What happens if I need to update my app subscription or membership status?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to track my energy levels or fatigue?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the layout or design of the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not wasting too much time on unnecessary features or tools?","label":"EDU_LEARNING"}
+{"text":"What's the role of the app in supporting my overall physical health and wellness?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to set reminders or notifications for myself?","label":"EDU_LEARNING"}
+{"text":"Is there a way to compare different apps or platforms for their learning and development offerings?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not missing out on any important updates or announcements within the learning centre?","label":"EDU_LEARNING"}
+{"text":"What's the main advantage of using the learning centre in the app compared to other apps or platforms?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to set up a custom profile or settings page?","label":"EDU_LEARNING"}
+{"text":"Is there a way to see what's new or released within the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not relying too heavily on technology or automation for my skills and knowledge?","label":"EDU_LEARNING"}
+{"text":"What happens if I forget how to use a particular feature of the app?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to track my progress or achievements?","label":"EDU_LEARNING"}
+{"text":"Is there a way to compare different apps or platforms for their learning and development offerings?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not missing out on any important announcements or updates within the app?","label":"EDU_LEARNING"}
+{"text":"What's the main advantage of using the learning centre in the app compared to other apps or platforms?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to customize my learning experience?","label":"EDU_LEARNING"}
+{"text":"Is there a way to see what's new or released within the app?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not relying too heavily on technology or automation for my skills and knowledge?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to track my progress or achievements?","label":"EDU_LEARNING"}
+{"text":"Is there a way to compare different apps or platforms for their learning and development offerings?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not missing out on any important updates or announcements within the app?","label":"EDU_LEARNING"}
+{"text":"What's the main advantage of using the learning centre in the app compared to other apps or platforms?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to set reminders or notifications for myself?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize the layout or design of the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not relying too heavily on technology or automation for my skills and knowledge?","label":"EDU_LEARNING"}
+{"text":"What happens if I forget how to use a particular feature of the app?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to track my progress or achievements?","label":"EDU_LEARNING"}
+{"text":"Is there a way to compare different apps or platforms for their learning and development offerings?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not missing out on any important updates or announcements within the app?","label":"EDU_LEARNING"}
+{"text":"What's the main advantage of using the learning centre in the app compared to other apps or platforms?","label":"EDU_LEARNING"}
+{"text":"Can I use the app without having to learn how to customize my learning experience?","label":"EDU_LEARNING"}
+{"text":"Is there a way to see what's new or released within the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not relying too heavily on technology or automation for my skills and knowledge?","label":"EDU_LEARNING"}
+{"text":"What happens if I forget how to use a particular feature of the app?","label":"EDU_LEARNING"}
+{"text":"Can I use other features of the app without having to learn how to track my progress or achievements?","label":"EDU_LEARNING"}
+{"text":"Is there a way to compare different apps or platforms for their learning and development offerings?","label":"EDU_LEARNING"}
+{"text":"How does the system make sure that I'm not missing out on any important updates or announcements within the app?","label":"EDU_LEARNING"}
+{"text":"What does the learning centre offer?","label":"EDU_LEARNING"}
+{"text":"How do I know when I need to use the learning section?","label":"EDU_LEARNING"}
+{"text":"Can I skip the learning pathway and go straight to the content?","label":"EDU_LEARNING"}
+{"text":"What is the purpose of the learning centre in this app?","label":"EDU_LEARNING"}
+{"text":"How does learning work within this application?","label":"EDU_LEARNING"}
+{"text":"Do I have to complete all lessons to unlock the full course?","label":"EDU_LEARNING"}
+{"text":"What if I'm not sure what I want to learn about?","label":"EDU_LEARNING"}
+{"text":"How does the learning system know where I am in the pathway?","label":"EDU_LEARNING"}
+{"text":"What if I forget something and want to go back to a previous lesson?","label":"EDU_LEARNING"}
+{"text":"How does the app determine which lessons to recommend next?","label":"EDU_LEARNING"}
+{"text":"Can I practice what I've learned outside of the app?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding a particular concept?","label":"EDU_LEARNING"}
+{"text":"Is there a way to customize my learning pathway?","label":"EDU_LEARNING"}
+{"text":"How often does the learning centre update its content?","label":"EDU_LEARNING"}
+{"text":"Can I learn at my own pace without any restrictions?","label":"EDU_LEARNING"}
+{"text":"What if I'm not sure what I want to study?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users stay motivated and engaged?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning achievements with others?","label":"EDU_LEARNING"}
+{"text":"What if I have questions about a specific topic or concept?","label":"EDU_LEARNING"}
+{"text":"Is there a way to review what I've learned in detail?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles and needs?","label":"EDU_LEARNING"}
+{"text":"Can I learn from other users or join study groups?","label":"EDU_LEARNING"}
+{"text":"What if I need extra support or guidance while learning?","label":"EDU_LEARNING"}
+{"text":"How does the app measure user success and progress?","label":"EDU_LEARNING"}
+{"text":"What if I forget my login credentials or need help signing up?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre promote diversity and inclusion in its content?","label":"EDU_LEARNING"}
+{"text":"Can I learn on-the-go without an internet connection?","label":"EDU_LEARNING"}
+{"text":"What if I need to take a break from learning due to technical issues?","label":"EDU_LEARNING"}
+{"text":"How does the app support users with disabilities or accessibility needs?","label":"EDU_LEARNING"}
+{"text":"What is the learning pathway and how does it work?","label":"EDU_LEARNING"}
+{"text":"Is there a way to get personalized learning recommendations based on my interests?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not overwhelmed by too much information?","label":"EDU_LEARNING"}
+{"text":"Can I learn in a group or with a study buddy?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to use the learning centre?","label":"EDU_LEARNING"}
+{"text":"How does the app handle data protection and user privacy?","label":"EDU_LEARNING"}
+{"text":"Can I learn at my own pace without any time limits?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre provide feedback on user performance?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning progress with others or join a community?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to navigate the app?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not losing their progress?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts or industry professionals in my field?","label":"EDU_LEARNING"}
+{"text":"What if I need to review what I've learned multiple times?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles and needs?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to use the app's features?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not struggling with too much content?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources or resources at once?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre provide support for users with different needs?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning achievements with others or join a community?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to use the app's features?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not losing their progress?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts or industry professionals in my field?","label":"EDU_LEARNING"}
+{"text":"What if I need to review what I've learned multiple times?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles and needs?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to navigate the app?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not struggling with too much content?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources or resources at once?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre provide feedback on user performance?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning achievements with others or join a community?","label":"EDU_LEARNING"}
+{"text":"What if I need to review what I've learned multiple times?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not losing their progress?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts or industry professionals in my field?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles and needs?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to navigate the app?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not struggling with too much content?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources or resources at once?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre provide feedback on user performance?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning achievements with others or join a community?","label":"EDU_LEARNING"}
+{"text":"What if I need to review what I've learned multiple times?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not losing their progress?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts or industry professionals in my field?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles and needs?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to navigate the app?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not struggling with too much content?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources or resources at once?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre provide feedback on user performance?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning achievements with others or join a community?","label":"EDU_LEARNING"}
+{"text":"What if I need to review what I've learned multiple times?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not losing their progress?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts or industry professionals in my field?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles and needs?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to navigate the app?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not struggling with too much content?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources or resources at once?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre provide feedback on user performance?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning achievements with others or join a community?","label":"EDU_LEARNING"}
+{"text":"What if I need to review what I've learned multiple times?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not losing their progress?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts or industry professionals in my field?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles and needs?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to navigate the app?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not struggling with too much content?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources or resources at once?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre provide feedback on user performance?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning achievements with others or join a community?","label":"EDU_LEARNING"}
+{"text":"What if I need to review what I've learned multiple times?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not losing their progress?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts or industry professionals in my field?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles and needs?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to navigate the app?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not struggling with too much content?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources or resources at once?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre provide feedback on user performance?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning achievements with others or join a community?","label":"EDU_LEARNING"}
+{"text":"What if I need to review what I've learned multiple times?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not losing their progress?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts or industry professionals in my field?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles and needs?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to navigate the app?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not struggling with too much content?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources or resources at once?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre provide feedback on user performance?","label":"EDU_LEARNING"}
+{"text":"Can I share my learning achievements with others or join a community?","label":"EDU_LEARNING"}
+{"text":"What if I need to review what I've learned multiple times?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not losing their progress?","label":"EDU_LEARNING"}
+{"text":"Can I learn from experts or industry professionals in my field?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre handle different learning styles and needs?","label":"EDU_LEARNING"}
+{"text":"What if I need help understanding how to navigate the app?","label":"EDU_LEARNING"}
+{"text":"How does the app ensure that users are not struggling with too much content?","label":"EDU_LEARNING"}
+{"text":"Can I learn from multiple sources or resources at once?","label":"EDU_LEARNING"}
+{"text":"What if I need to adjust my learning speed or difficulty level?","label":"EDU_LEARNING"}
+{"text":"How does the learning centre provide feedback on user performance?","label":"EDU_LEARNING"}
