@@ -4498,3 +4498,33 @@
 {"text":"How do I access the graph and tool unlocks after completing a course?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to pass a specific quiz before unlocking the next bite?","label":"CONTEXT_LEARNING"}
 {"text":"What’s my current level of progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the bite-based mastery model works?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the knowledge check, but my wallet isn’t growing faster?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand what this capability unlock means?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the next step after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a 2-minute delay between bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what ‘bite completion’ means?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve unlocked new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the purpose of the Mastery Quiz in a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand my wallet growth so far?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from one learning pathway to another?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the benefit of completing a course before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what ‘reward activation’ means?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a limit on how many portfolios I can create?","label":"CONTEXT_LEARNING"}
+{"text":"How do I compare my portfolio performance to others?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the next bite in my learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand why I need to complete a specific module before unlocking another?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress over multiple bites?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the difference between completing a bite and unlocking a capability?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what ‘learning centre’ means?","label":"CONTEXT_LEARNING"}
+{"text":"Why is there a waiting period before I can access new features?","label":"CONTEXT_LEARNING"}
