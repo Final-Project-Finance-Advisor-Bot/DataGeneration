@@ -5488,3 +5488,33 @@
 {"text":"Can I access my portfolio manager's performance reports directly?","label":"DOMAIN_QUERIES"}
 {"text":"What is the relationship between asset allocation and diversification strategies?","label":"DOMAIN_QUERIES"}
 {"text":"Can you tell me how a portfolio is calculated?","label":"DOMAIN_QUERIES"}
+{"text":"I'm not sure what a stock category is, can you explain?","label":"DOMAIN_QUERIES"}
+{"text":"How does my Virtual wallet work in the system?","label":"DOMAIN_QUERIES"}
+{"text":"What's the difference between capital and profit?","label":"DOMAIN_QUERIES"}
+{"text":"I want to know more about diversification, can you give an example?","label":"DOMAIN_QUERIES"}
+{"text":"Can I link my Financial Advisor Bot account to a new ticker?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager and how do they work?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit calculation work in the system?","label":"DOMAIN_QUERIES"}
+{"text":"I'm looking for a way to track my Cash Reserve balance.","label":"DOMAIN_QUERIES"}
+{"text":"What is an asset and how do I add one to my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of share ownership?","label":"DOMAIN_QUERIES"}
+{"text":"I want to optimize my stock category allocation.","label":"DOMAIN_QUERIES"}
+{"text":"How does my FA Bot account balance get updated?","label":"DOMAIN_QUERIES"}
+{"text":"What's the best way to manage capital growth?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up a Virtual wallet for a specific asset?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification impact my investment returns?","label":"DOMAIN_QUERIES"}
+{"text":"I'm trying to find the perfect portfolio balance.","label":"DOMAIN_QUERIES"}
+{"text":"What is a ticker symbol and how do I use it?","label":"DOMAIN_QUERIES"}
+{"text":"Can you show me how to create a new share in my portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit percentage work in the system?","label":"DOMAIN_QUERIES"}
+{"text":"I want to know more about stock category classification.","label":"DOMAIN_QUERIES"}
+{"text":"Can I transfer my assets between different portfolios?","label":"DOMAIN_QUERIES"}
+{"text":"What's the difference between capital and profit on a balance sheet?","label":"DOMAIN_QUERIES"}
+{"text":"How does the FA Bot system calculate daily profit?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain the concept of portfolio optimization?","label":"DOMAIN_QUERIES"}
+{"text":"I'm trying to find a way to track my cash reserve usage.","label":"DOMAIN_QUERIES"}
+{"text":"Can I link multiple assets to a single portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How does a financial advisor bot handle capital allocation?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a cash reserve and a virtual wallet in finance?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work with portfolio managers and asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit on a portfolio work?","label":"DOMAIN_QUERIES"}
