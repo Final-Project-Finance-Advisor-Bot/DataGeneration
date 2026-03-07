@@ -2218,3 +2218,33 @@
 {"text":"Why can’t I access certain features because I haven't completed the required lessons?","label":"CONTEXT_LEARNING"}
 {"text":"What are the benefits of completing a certain number of lessons in the Fundamentals course?","label":"CONTEXT_LEARNING"}
 {"text":"How do I view my progress across different courses?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this knowledge check, what's the next step?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the graph tools yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I failed this quiz, what's my next move?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this bite?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my progress on the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with this module, can you help?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next bite I need to complete?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to retake a quiz if I get it wrong?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this capability unlock means?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a learning bite and a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish one module before unlocking another?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of completing a full course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my wallet balance and progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the system progression means?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of this capability unlock?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to retake a lesson if I get it wrong?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the graph tools?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a reward preview and an actual reward?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a full bite before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"Why is Fundamentals locked for me?","label":"CONTEXT_LEARNING"}
