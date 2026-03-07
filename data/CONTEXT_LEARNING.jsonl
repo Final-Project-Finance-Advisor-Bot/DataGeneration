@@ -478,3 +478,33 @@
 {"text":"How do I know which tool is unlocked for me next?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me what this locked course means for my progress?","label":"CONTEXT_LEARNING"}
 {"text":"Do I get a reward for unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a knowledge check is?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the first quiz, but my wallet isn’t growing","label":"CONTEXT_LEARNING"}
+{"text":"How do I access a locked course in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me where to find the progress bar for this module?","label":"CONTEXT_LEARNING"}
+{"text":"Why does the learning pathway have different speeds?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I view my rewards preview?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What does the completion requirement for Fundamentals mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me which bite is next in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access my portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more wallets in the FA Bot learning system?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach 100% completion on a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the wallet grows in the FA Bot learning system?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my progress bar not match what’s shown on the dashboard?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my completed bites in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me where to find my wallet growth chart?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see all available tools and features?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the full-screen mode for better focus?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how to use the portfolio builder?","label":"CONTEXT_LEARNING"}
