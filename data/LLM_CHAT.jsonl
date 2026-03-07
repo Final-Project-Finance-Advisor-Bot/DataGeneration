@@ -4438,3 +4438,33 @@
 {"text":"I'm considering using robo-advisors for my investments","label":"LLM_CHAT"}
 {"text":"I've been saving up for a big purchase and I'm trying to decide whether to put my money in a savings account or invest it. What would you recommend?","label":"LLM_CHAT"}
 {"text":"I'm thinking of investing for the first time, what's the best way to get started?","label":"LLM_CHAT"}
+{"text":"Can you explain the difference between a bear market and a recession?","label":"LLM_CHAT"}
+{"text":"Is investing in real estate a good idea for me?","label":"LLM_CHAT"}
+{"text":"What's the deal with market volatility, is it normal?","label":"LLM_CHAT"}
+{"text":"How does inflation affect my savings account?","label":"LLM_CHAT"}
+{"text":"Are there any investment strategies for risk-averse people?","label":"LLM_CHAT"}
+{"text":"Can you explain the difference between a hedged portfolio and an ungeared one?","label":"LLM_CHAT"}
+{"text":"What's the impact of global events on the stock market?","label":"LLM_CHAT"}
+{"text":"I'm curious about the difference between a tax-advantaged retirement account and a standard one.","label":"LLM_CHAT"}
+{"text":"I've been reading about the benefits of dollar-cost averaging, but I'm still not convinced it's right for me. Can you explain it in more detail?","label":"LLM_CHAT"}
+{"text":"What is the difference between a high-yield savings account and a certificate of deposit (CD)? Which one would you recommend for someone who wants to earn interest on their money?","label":"LLM_CHAT"}
+{"text":"What is the best way to pay off debt? Should I be focusing on high-interest debt first or tackling lower-interest debt?","label":"LLM_CHAT"}
+{"text":"I'm not sure I understand how compound interest works. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"How does inflation affect the value of money over time? Can it be controlled or is it a natural process?","label":"LLM_CHAT"}
+{"text":"Is it true that the stock market goes up and down with the economy, or are they separate things?","label":"LLM_CHAT"}
+{"text":"Can you tell me a bit about different types of investments? Like, what's the difference between bonds and shares?","label":"LLM_CHAT"}
+{"text":"Can you explain what a bear and bull market are? Are they just fancy words for 'up' or 'down'?","label":"LLM_CHAT"}
+{"text":"How does interest rates affect savers and investors? Does it always go up or down, or is there more to it?","label":"LLM_CHAT"}
+{"text":"What's the difference between a fixed-rate bond and an index-linked bond? Is one better than the other?","label":"LLM_CHAT"}
+{"text":"Is it true that diversification is key to reducing risk in investments? Can you explain why that is?","label":"LLM_CHAT"}
+{"text":"How does a credit score affect my ability to get loans or credit in the future? Can I improve it?","label":"LLM_CHAT"}
+{"text":"I'm considering investing for the first time, what's the best way to get started?","label":"LLM_CHAT"}
+{"text":"I'm not sure if I should sell some of my savings and invest it instead, can you help me decide?","label":"LLM_CHAT"}
+{"text":"I've heard that investing monthly can be a good strategy, is this true?","label":"LLM_CHAT"}
+{"text":"What's the difference between a market crash and a market correction, I'm really confused about it.","label":"LLM_CHAT"}
+{"text":"Is it better to invest in stocks or bonds when the market is stable?","label":"LLM_CHAT"}
+{"text":"I've heard some people say that dividends are key, but what's the best way to get them?","label":"LLM_CHAT"}
+{"text":"I'm not really sure how interest rates affect my savings, can you explain it in a simple way?","label":"LLM_CHAT"}
+{"text":"I'm not really sure what's going to happen to my pension when I retire. Is it true that you can just transfer it into a private account or does it have to stay in the state pension?","label":"LLM_CHAT"}
+{"text":"My friend just started investing in the stock market and he's telling me about how some companies are due for a huge profit boost. Can you explain what that means and whether it's true?","label":"LLM_CHAT"}
+{"text":"I’m trying to decide whether I should take out a personal loan or save up for a big purchase. Is that a bad idea?","label":"LLM_CHAT"}
