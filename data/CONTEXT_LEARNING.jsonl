@@ -1798,3 +1798,33 @@
 {"text":"Do rewards automatically appear after completing each bite or is there a separate step involved?","label":"CONTEXT_LEARNING"}
 {"text":"How do I understand if my wallet balance will increase after completing each module? Can you give me an example?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain why certain bites are locked at specific stages and how can I unlock them?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on a knowledge check, what should I do?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why this bite is still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing these bites again?","label":"CONTEXT_LEARNING"}
+{"text":"How many more bites do I need to complete?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I progress until I finish this course?","label":"CONTEXT_LEARNING"}
+{"text":"Is there a way to skip a bite if I know the answer already?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finally unlock Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give me more hints on how to complete this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take me to unlock the full potential of the learning system?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing every bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the next lesson if I don't finish this one?","label":"CONTEXT_LEARNING"}
+{"text":"I’ve completed all the bites, how do I unlock more rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How can I get my portfolio balance to increase faster?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the different colours mean in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach a certain level of expertise?","label":"CONTEXT_LEARNING"}
+{"text":"How can I prevent myself from losing too much money by doing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me with a bite that’s been locked for weeks?","label":"CONTEXT_LEARNING"}
+{"text":"How can I unlock more advanced features if I don’t know what I’m doing?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between passing and completing this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I have to wait so long for my wallet balance to increase?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what’s inside this bite or module?","label":"CONTEXT_LEARNING"}
