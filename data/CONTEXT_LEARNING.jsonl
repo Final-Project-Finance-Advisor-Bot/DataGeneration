@@ -3538,3 +3538,33 @@
 {"text":"What happens when I complete a course but don’t unlock any rewards?","label":"CONTEXT_LEARNING"}
 {"text":"How do I compare my progress to other users?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me more about how the system keeps track of my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the first bite, but still can’t unlock the Fundamentals course. What’s going on?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the learning pathway not showing my progress?","label":"CONTEXT_LEARNING"}
+{"text":"What’s this module about and what do I need to know?","label":"CONTEXT_LEARNING"}
+{"text":"How can I speed up the learning process?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why this part of the learning pathway is locked?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of completing all these bites if I’m not sure when I’ll unlock the next course?","label":"CONTEXT_LEARNING"}
+{"text":"I need help understanding what this knowledge check means. Can you explain it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I find out which bite I should do next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move on to the next part of the course until I complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock the Fundamentals course again?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve completed all the required bites for a module?","label":"CONTEXT_LEARNING"}
+{"text":"What’s this reward preview telling me and why is it important?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I being asked to complete this bite again?","label":"CONTEXT_LEARNING"}
+{"text":"How do I find my progress in the learning pathway if I’m not sure what I’ve completed?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why this module is locked and what I need to do to unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"I’m stuck on a particular bite. Can you help me figure out where I went wrong?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the benefit of completing all the required bites before moving on to the next module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’ve unlocked a new capability or reward?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access my progress in the learning pathway if I’m using a different device?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the learning centre works and what it does?","label":"CONTEXT_LEARNING"}
