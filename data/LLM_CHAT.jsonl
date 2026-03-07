@@ -298,3 +298,33 @@
 {"text":"Can you explain the difference between a bear market and a bull market? I keep hearing those terms thrown around.","label":"LLM_CHAT"}
 {"text":"I'm thinking of investing in a pension scheme, but I'm not sure which one to choose. Are all pensions the same?","label":"LLM_CHAT"}
 {"text":"I've been reading about compound interest and it sounds amazing. Does that mean my savings will grow faster over time?","label":"LLM_CHAT"}
+{"text":"Can you explain what a bond is?","label":"LLM_CHAT"}
+{"text":"How does inflation affect interest rates?","label":"LLM_CHAT"}
+{"text":"I'm feeling anxious about my finances, can you help me relax?","label":"LLM_CHAT"}
+{"text":"Can you tell me some good investment options for beginners?","label":"LLM_CHAT"}
+{"text":"Is it true that investing in gold is a safe haven?","label":"LLM_CHAT"}
+{"text":"I don't understand why some investments are tax-efficient.","label":"LLM_CHAT"}
+{"text":"Can you explain what a dividend yield is?","label":"LLM_CHAT"}
+{"text":"How does credit score affect loan interest rates?","label":"LLM_CHAT"}
+{"text":"Is it true that the rich get richer through investing?","label":"LLM_CHAT"}
+{"text":"Can you recommend some good books on personal finance?","label":"LLM_CHAT"}
+{"text":"How does the Fed influence interest rates?","label":"LLM_CHAT"}
+{"text":"I'm not sure what kind of investment is right for me.","label":"LLM_CHAT"}
+{"text":"Is it true that investing in stocks is too risky?","label":"LLM_CHAT"}
+{"text":"What's the best way to save for retirement?","label":"LLM_CHAT"}
+{"text":"Is it true that investing in real estate is a stable long-term investment?","label":"LLM_CHAT"}
+{"text":"How does inflation affect pension funds?","label":"LLM_CHAT"}
+{"text":"I'm not sure I understand this compound interest thing properly. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"How can I stay motivated to save for retirement if it feels so far away?","label":"LLM_CHAT"}
+{"text":"I'm really confused about what's the difference between a market correction and a crash. Can you clarify?","label":"LLM_CHAT"}
+{"text":"What is this thing called 'inflation' and how does it affect the value of money?","label":"LLM_CHAT"}
+{"text":"Can you explain why stocks can be both hot and cold at the same time?","label":"LLM_CHAT"}
+{"text":"Is investing in a 'high-risk, high-reward' investment always worth it? Any examples?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bear market and a bull market? Can you explain in simple terms?","label":"LLM_CHAT"}
+{"text":"I'm thinking of starting to invest, but I'm not sure where to begin. Is it really worth the hassle?","label":"LLM_CHAT"}
+{"text":"My friend says investing in real estate is the way to go, but I'm not sure if it's for me. Are there any beginner-friendly options?","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular investment apps for beginners? I want to get started ASAP!","label":"LLM_CHAT"}
+{"text":"I've been reading about compound interest and I'm not sure if it's true. Can you explain how it works?","label":"LLM_CHAT"}
+{"text":"I've heard that some investments can be pretty volatile. What's the difference between risk and volatility?","label":"LLM_CHAT"}
+{"text":"I'm thinking of investing in a retirement fund, but I've heard mixed things about it. Is it worth doing?","label":"LLM_CHAT"}
+{"text":"I don't really understand compound interest properly. Could you explain it to me like I'm starting from scratch?","label":"LLM_CHAT"}
