@@ -5338,3 +5338,33 @@
 {"text":"Can I review my progress in each bite by accessing the previous questions?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which bite I need to start next in the Learning Centre?","label":"CONTEXT_LEARNING"}
 {"text":"What is the purpose of the capability unlock for Portfolio Manager after completing Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a bite does in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how the learning centre works?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress stuck at 50%?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a module in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish all bites before unlocking the next course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I check my progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a knowledge check is in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the portfolio builder yet?","label":"CONTEXT_LEARNING"}
+{"text":"What are the rewards for completing bites in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all learning bites before unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which module to do next in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how the wallet balance works?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress slow in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail a quiz in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish all courses before unlocking full capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"How do I check my completion status in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing bites in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all learning centre quizzes before unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next after completing a bite?","label":"CONTEXT_LEARNING"}
