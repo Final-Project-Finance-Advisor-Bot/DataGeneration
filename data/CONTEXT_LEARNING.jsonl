@@ -1168,3 +1168,33 @@
 {"text":"Can you explain how rewards are activated after completing a module or quiz?","label":"CONTEXT_LEARNING"}
 {"text":"What if I don’t finish a learning bite and come back later? Do my progress reset?","label":"CONTEXT_LEARNING"}
 {"text":"How does unlocking new capabilities affect the Learning Centre’s interface?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can't access next bite, what's wrong?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after taking a break?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check in the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see all bites available yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock rewards for completing modules?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish this bite to proceed with learning?","label":"CONTEXT_LEARNING"}
+{"text":"What does the 'Continue Learning' button mean?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet still at 100, not growing?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this completion requirement means?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access all features yet?","label":"CONTEXT_LEARNING"}
+{"text":"What does this 'Start Learning' button mean?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to pass a knowledge check to unlock rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do bites work in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress stuck at 50%?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what's next in the course?","label":"CONTEXT_LEARNING"}
+{"text":"What are these 'mastery quizzes' for?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more bites and rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I go back to a previous bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in one session?","label":"CONTEXT_LEARNING"}
+{"text":"What is this 'Learning Centre' and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet not growing after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the concept of 'capability unlocks'?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access all rewards for completed bites?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach 100% completion in a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet still capped at 500?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all courses before accessing more features?","label":"CONTEXT_LEARNING"}
+{"text":"What does this 'Reward Preview' button mean?","label":"CONTEXT_LEARNING"}
