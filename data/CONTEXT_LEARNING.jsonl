@@ -4588,3 +4588,33 @@
 {"text":"can you provide more information about how the course unlocks?","label":"CONTEXT_LEARNING"}
 {"text":"how do i know if i've completed enough bites to unlock the next section?","label":"CONTEXT_LEARNING"}
 {"text":"what's the difference between 'completed' and 'reviewed'?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a hint about what the knowledge check does?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite should I complete next to unlock Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've completed all the required modules?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the required bites for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of earning rewards in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the value of earning a high reward in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my completion percentage still low despite completing several bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get an idea of what's coming next in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a knowledge check and a quiz in general?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a bite or do I have to complete all the previous ones?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move on to the next bite if I've already completed the previous one?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the next module yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I complete this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific bite before unlocking the next module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get full marks on this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finish a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to focus on next?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a module before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my completed lessons in the portfolio builder?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock a new capability?","label":"CONTEXT_LEARNING"}
