@@ -4708,3 +4708,33 @@
 {"text":"Why do I need to complete this part of the learning pathway before moving on?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how the system calculates my progress and rewards?","label":"CONTEXT_LEARNING"}
 {"text":"What's the benefit of completing a bite in one sitting compared to multiple sittings?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a hint on what this knowledge check requires?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this quiz in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my learning progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a bite is and how it works?","label":"CONTEXT_LEARNING"}
+{"text":"Why does Fundamentals require completion of Learn the Application first?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all bites in a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next course after completing a previous one?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance not increasing as expected?","label":"CONTEXT_LEARNING"}
+{"text":"What are the requirements to unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the learning centre on all devices?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a quiz affect my progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this bite locked for me to start?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach the maximum portfolio allocation limit?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my reward history and progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset my quiz progress if I want to retake a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of the mastery quizzes in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I unlock the full learning centre yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn badges for completing specific tasks or bites?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress in one course affect my overall learning progress?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this bite marked as incomplete if I've completed it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all capabilities required for a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use the learning centre on multiple devices at once?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance change after completing a new bite or module?","label":"CONTEXT_LEARNING"}
