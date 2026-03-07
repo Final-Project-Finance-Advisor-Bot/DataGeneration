@@ -2398,3 +2398,33 @@
 {"text":"Can you tell me about some common investment risks and how to mitigate them?","label":"LLM_CHAT"}
 {"text":"I've been hearing a lot about the importance of compound interest. Can you explain it in simple terms and give me an example?","label":"LLM_CHAT"}
 {"text":"I'm considering my pension and I was wondering if it's worth taking out a personal loan to supplement my income during retirement.","label":"LLM_CHAT"}
+{"text":"Is investing always better than saving? I've heard mixed things.","label":"LLM_CHAT"}
+{"text":"I don't really understand interest rates properly, can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"I've heard about compound interest, how does that work?","label":"LLM_CHAT"}
+{"text":"Is it true that you should diversify your investments?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bond and a share?","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular investment apps?","label":"LLM_CHAT"}
+{"text":"I'm feeling overwhelmed by all the different types of investments.","label":"LLM_CHAT"}
+{"text":"How can I make smart money decisions if I don't have much experience?","label":"LLM_CHAT"}
+{"text":"I've heard that inflation is a thing, but what does it mean for my money?","label":"LLM_CHAT"}
+{"text":"Can you explain how robo-advisors work?","label":"LLM_CHAT"}
+{"text":"What's the difference between a high-yield savings account and a regular one?","label":"LLM_CHAT"}
+{"text":"Can you give me some tips for investing in the stock market?","label":"LLM_CHAT"}
+{"text":"I'm not sure what my risk tolerance is, can you help me figure that out?","label":"LLM_CHAT"}
+{"text":"How does a ISA work in the UK?","label":"LLM_CHAT"}
+{"text":"What's the difference between tax-efficient investing and regular investing?","label":"LLM_CHAT"}
+{"text":"Can you explain how cryptocurrency works and is it a good investment option?","label":"LLM_CHAT"}
+{"text":"I've heard that investing for the long-term is key, but what does that really mean?","label":"LLM_CHAT"}
+{"text":"What's the best way to save money for a specific goal, like a holiday?","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular money-saving hacks?","label":"LLM_CHAT"}
+{"text":"I'm feeling stressed about my finances, can you just listen and offer some words of encouragement?","label":"LLM_CHAT"}
+{"text":"What's the difference between a budget and a spending plan?","label":"LLM_CHAT"}
+{"text":"I'm thinking of putting my money into a pension, but I'm not sure if it's the right decision for me. Can you help me understand the pros and cons?","label":"LLM_CHAT"}
+{"text":"Just saw an ad for a robo-advisor. Are those things really reliable for investing?","label":"LLM_CHAT"}
+{"text":"What's the point of having an emergency fund? Is it really necessary to save up three months' worth of expenses?","label":"LLM_CHAT"}
+{"text":"Just heard about something called a 'halving event'. What's that all about and how does it affect Bitcoin prices?","label":"LLM_CHAT"}
+{"text":"I'm thinking of investing in property, but I've never bought anything before. Is it worth it?","label":"LLM_CHAT"}
+{"text":"I've heard that compound interest can be a game-changer for savings. Can you explain how it works?","label":"LLM_CHAT"}
+{"text":"I'm not really sure what a market correction is. Is it the same as a market crash? Can you help me understand the difference?","label":"LLM_CHAT"}
+{"text":"Is it better to save money in a high-interest savings account or invest it somewhere else? I feel like there are so many options out there.","label":"LLM_CHAT"}
+{"text":"I'm not sure what's going on with interest rates at the moment, can you explain it in simple terms?","label":"LLM_CHAT"}
