@@ -2338,3 +2338,33 @@
 {"text":"Can you explain why some bites are tied to rewards or specific capabilities?","label":"CONTEXT_LEARNING"}
 {"text":"How does my progress in one module affect my ability to access future content or features?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to finish all bites in a course to unlock the next level of rewards or progression?","label":"CONTEXT_LEARNING"}
+{"text":"I've finished Learn the Application. Can you tell me if Fundamentals is now available?","label":"CONTEXT_LEARNING"}
+{"text":"Why is Fundamentals locked for me right now?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock a module after completing its requirements?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what rewards I get when I complete the first bite of Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's next if I fail this quiz in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've completed all requirements for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the first bite of Fundamentals. Can you walk me through what to do?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'complete this module' mean in terms of unlocking capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"How often will I get reminders about completing new bites and quizzes?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me the full list of rewards I'll unlock by completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next step after I finish a bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to the entire Learning Centre if I complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'bite completion' means in terms of progression?","label":"CONTEXT_LEARNING"}
+{"text":"How long does it take for rewards to be unlocked after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between Fundamentals and portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me my current progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing Fundamentals affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to more capabilities if I complete Fundamentals and Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the system progression model in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How does a failed quiz affect my progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a 'locked' and 'unlocked' module in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock a specific capability after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How does reward unlocking work in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next bite or quiz I should complete after finishing the first one in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me my current progress towards completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a module affect my portfolio capacity?","label":"CONTEXT_LEARNING"}
+{"text":"Will I have access to additional tools and features if I complete Fundamentals and Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify what 'beyond' means in terms of progression in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing Fundamentals impact my ability to unlock rewards in other modules?","label":"CONTEXT_LEARNING"}
+{"text":"What's the relationship between Fundamentals and the Learning Centre's overall structure?","label":"CONTEXT_LEARNING"}
