@@ -3088,3 +3088,33 @@
 {"text":"What happens when I fail a knowledge check in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
 {"text":"Can I track my progress towards unlocking new capabilities?","label":"CONTEXT_LEARNING"}
 {"text":"Why is there a limit to the number of portfolios I can create if I complete certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how many bites I still need to finish before Fundamentals is unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"What if I don’t complete the knowledge check on this bite? What happens then?","label":"CONTEXT_LEARNING"}
+{"text":"How can I progress from the current module in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how the quiz works in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all the bites in a particular section before moving on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"What if I fail a bite and don’t want to go back to it? How can I proceed?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager module after completing Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the reward preview on this bite means in terms of my overall progression?","label":"CONTEXT_LEARNING"}
+{"text":"What if I already know the answer to a knowledge check on a bite? Can I still proceed?","label":"CONTEXT_LEARNING"}
+{"text":"How can I review a particular module or bite that I’m struggling with?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all the bites in Learn the Application before unlocking Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how my wallet balance is affected by my progression through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What if I get stuck on a particular bite and don’t know what to do next? Can you offer guidance?","label":"CONTEXT_LEARNING"}
+{"text":"How can I track my progress through the learning pathway and see which bites I’ve completed?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the mastery model works for each bite in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all the required modules before unlocking the Portfolio Manager module?","label":"CONTEXT_LEARNING"}
+{"text":"What if I fail a mastery quiz and don’t want to retake it? How can I proceed?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how the capability unlock engine works and what triggers each new ability?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a particular set of bites before being able to access certain tools or features in Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"What if I get lost in the learning centre and don’t know where to start again? Can you offer guidance?","label":"CONTEXT_LEARNING"}
+{"text":"How can I ensure that I’m meeting all the requirements for each module or bite before proceeding?","label":"CONTEXT_LEARNING"}
