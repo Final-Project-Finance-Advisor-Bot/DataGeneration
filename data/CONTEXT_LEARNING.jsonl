@@ -4048,3 +4048,33 @@
 {"text":"Can you explain what 'capability' means in the FA Bot learning system?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know when I've unlocked rewards after completing a course?","label":"CONTEXT_LEARNING"}
 {"text":"Why can't I access certain features until I complete this bite?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I start the Fundamentals module again from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for completing a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I finish a bite in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the next module after completing the previous one?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between passing and failing this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock the Fundamentals course yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific part of the Fundamentals module before proceeding?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review a previous knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I attempt to skip a lesson or bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get help if I’m stuck on a particular question in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and come back later to the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the benefit of completing all the lessons in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a series of bites before unlocking the next module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this warning message means when I try to proceed without completing a required lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to earn a certain amount of points or rewards in Fundamentals to unlock the next step?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What is the benefit of completing each bite in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the knowledge check works and what it means for me?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a practice question before moving on to the next lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get any rewards or bonuses for completing all the lessons in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn badges or achievements by completing specific parts of the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a difficult lesson or bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get feedback on my answers to knowledge checks in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this warning message means when I try to proceed without completing all the required lessons?","label":"CONTEXT_LEARNING"}
