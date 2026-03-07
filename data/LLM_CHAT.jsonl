@@ -2488,3 +2488,33 @@
 {"text":"I was wondering if it's normal to feel anxious about investing in the stock market. Should I be worried?","label":"LLM_CHAT"}
 {"text":"I've been reading about different types of investments, but I'm not sure what they all mean. Can you explain?","label":"LLM_CHAT"}
 {"text":"Is it true that some investments have a guaranteed return? Does that sound too good to be true?","label":"LLM_CHAT"}
+{"text":"Is it true that you can lose all your money in a bear market?","label":"LLM_CHAT"}
+{"text":"I'm not sure I understand compound interest. Can you explain it simply?","label":"LLM_CHAT"}
+{"text":"Is it really worth investing time and money into learning about finance?","label":"LLM_CHAT"}
+{"text":"I've heard that inflation is always rising, but I'm not sure I understand how it works.","label":"LLM_CHAT"}
+{"text":"I'm trying to decide whether to save for the future or invest now. Help!","label":"LLM_CHAT"}
+{"text":"What's the point of diversifying my investments, anyway?","label":"LLM_CHAT"}
+{"text":"Have you ever seen a market crash happen in person? What was that like?","label":"LLM_CHAT"}
+{"text":"I love learning about new financial products! Can you tell me more about ETFs?","label":"LLM_CHAT"}
+{"text":"What would happen to my investments if a war broke out?","label":"LLM_CHAT"}
+{"text":"I've heard mixed opinions about robo-advisors. Are they worth trying?","label":"LLM_CHAT"}
+{"text":"How can I tell if an investment is going to grow or lose value?","label":"LLM_CHAT"}
+{"text":"What's the difference between a dividend-paying stock and a growth stock?","label":"LLM_CHAT"}
+{"text":"Can you recommend some good books on personal finance for beginners?","label":"LLM_CHAT"}
+{"text":"Is there such a thing as a 'risk-free' investment? I don't want to lose any money!","label":"LLM_CHAT"}
+{"text":"Can you explain compound interest in simple terms? I'm not getting it!","label":"LLM_CHAT"}
+{"text":"What's the difference between a financial advisor and an investment manager?","label":"LLM_CHAT"}
+{"text":"Can you explain what a hedge fund is?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bond and a share?","label":"LLM_CHAT"}
+{"text":"I've heard of dollar-cost averaging, but I'm not sure how it works.","label":"LLM_CHAT"}
+{"text":"Is it true that investing in emerging markets can be riskier than developed markets?","label":"LLM_CHAT"}
+{"text":"What's the best way to get started with investing in a retirement fund?","label":"LLM_CHAT"}
+{"text":"Can you give me an example of how compound interest works?","label":"LLM_CHAT"}
+{"text":"I'm curious about cryptocurrency, but I don't know much about it.","label":"LLM_CHAT"}
+{"text":"How does inflation affect my savings over the long term?","label":"LLM_CHAT"}
+{"text":"What's the difference between a dividend and a share price?","label":"LLM_CHAT"}
+{"text":"Can you explain the concept of risk aversion when it comes to investing?","label":"LLM_CHAT"}
+{"text":"I've been considering using robo-advisors for my investments, but I'm not sure if they're right for me.","label":"LLM_CHAT"}
+{"text":"I've just started thinking about getting into investing, what's the best way to get started?","label":"LLM_CHAT"}
+{"text":"I'm not sure how interest rates affect my savings account, can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"I keep hearing people talk about compound interest, is that just a myth or does it really make a difference?","label":"LLM_CHAT"}
