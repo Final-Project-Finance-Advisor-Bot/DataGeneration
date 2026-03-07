@@ -2608,3 +2608,33 @@
 {"text":"Can I see how many bites are left in a module and what they're about?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know when I've completed all the required bites for a level? What's the signal?","label":"CONTEXT_LEARNING"}
 {"text":"What is this reward preview telling me about my learning progress?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my current wallet balance within the application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after a full-screen mode session?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next in the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I navigate through the learning centre if I'm not sure where to start?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how capability unlocks work in the system?","label":"CONTEXT_LEARNING"}
+{"text":"What is my current progress percentage in the Learn the Application course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all knowledge checks before moving on to the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next if I've completed all available lessons?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access my quiz results within the application?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check in the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my wallet growth over time?","label":"CONTEXT_LEARNING"}
+{"text":"Can I customize the learning pathway to fit my interests?","label":"CONTEXT_LEARNING"}
+{"text":"What is the maximum number of portfolios I can create in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a module before unlocking the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how much time I've spent on each bite within the application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my completed quizzes and knowledge checks?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between wallet growth and portfolio capacity expansion?","label":"CONTEXT_LEARNING"}
+{"text":"Can I share my learning progress with friends or family members?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all modules in a course before unlocking rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I prioritize my learning path if I have multiple courses to complete?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system handles different learning styles and pace?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to maintain a certain level of wallet balance to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the capability unlock mechanism in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my learning history and progress over time within the application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of bites or quizzes to reach a milestone?","label":"CONTEXT_LEARNING"}
