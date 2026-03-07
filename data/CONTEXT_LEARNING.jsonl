@@ -928,3 +928,33 @@
 {"text":"Do I need to complete all Fundamentals bites in a specific order?","label":"CONTEXT_LEARNING"}
 {"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
 {"text":"Why is the Fundamentals course locked for me and what do I need to do to unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"I see the Fundamentals module is locked – what does this mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can I start the bite if I haven't completed the previous one yet?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I see a reminder that I need 100% completion – how does this work?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail the knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to do all the bites before I can review what I’ve learned?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a lesson if I understand it already?","label":"CONTEXT_LEARNING"}
+{"text":"What does the completion percentage mean?","label":"CONTEXT_LEARNING"}
+{"text":"How many attempts do I have to complete the bite before the system unlocks next steps?","label":"CONTEXT_LEARNING"}
+{"text":"I see that Fundamentals is 50% complete – how can I finish it?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock a new bite in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I start Fundamentals if I’ve never taken the Learn the Application course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to attempt next?","label":"CONTEXT_LEARNING"}
+{"text":"What is this reward preview and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete each bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I progress if I’ve completed all the bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite – what rewards can I earn?","label":"CONTEXT_LEARNING"}
+{"text":"I see that my wallet has grown by £100 – how does this relate to learning?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish Fundamentals before unlocking Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"How do capability unlocks work in the system?","label":"CONTEXT_LEARNING"}
+{"text":"Can I return to a previous bite if I failed it?","label":"CONTEXT_LEARNING"}
+{"text":"What is this locked course and how can I unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need all knowledge checks to be completed before proceeding?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a lesson due to not understanding a particular concept?","label":"CONTEXT_LEARNING"}
+{"text":"How do the learning pathway and learning centre work together?","label":"CONTEXT_LEARNING"}
+{"text":"What is this completion requirement and how does it impact my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see a summary of what I’ve completed so far in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards work after completing each bite or module?","label":"CONTEXT_LEARNING"}
