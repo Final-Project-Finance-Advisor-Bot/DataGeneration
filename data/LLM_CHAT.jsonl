@@ -388,3 +388,33 @@
 {"text":"Can you recommend a beginner-friendly investment option with relatively low risk?","label":"LLM_CHAT"}
 {"text":"I'm considering switching my savings account to a high-street bank, but I've heard mixed reviews. Any advice?","label":"LLM_CHAT"}
 {"text":"Just had a look at the news and saw some big fluctuations in the markets. Got any thoughts on what might be causing that?","label":"LLM_CHAT"}
+{"text":"How does inflation affect interest rates?","label":"LLM_CHAT"}
+{"text":"I'm a bit confused about what's the difference between a market correction and a crash.","label":"LLM_CHAT"}
+{"text":"I'm not sure I understand compound interest. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"Can you tell me about the different types of bonds? I'm not sure which one is right for me.","label":"LLM_CHAT"}
+{"text":"What's the difference between a market correction and a bear market?","label":"LLM_CHAT"}
+{"text":"Can you help me understand inflation? How does it affect my savings?","label":"LLM_CHAT"}
+{"text":"I'm considering investing in real estate. Are there any risks I should be aware of?","label":"LLM_CHAT"}
+{"text":"Can you explain the 50/30/20 rule? How does it apply to my finances?","label":"LLM_CHAT"}
+{"text":"What's the difference between a savings account and a high-yield savings account?","label":"LLM_CHAT"}
+{"text":"I'm curious about cryptocurrency. Is it a good investment opportunity?","label":"LLM_CHAT"}
+{"text":"Can you help me understand my credit score? How does it affect my finances?","label":"LLM_CHAT"}
+{"text":"What's the best way to pay off debt? Are there any strategies that work well?","label":"LLM_CHAT"}
+{"text":"Can you explain the concept of risk tolerance? How does it apply to investing?","label":"LLM_CHAT"}
+{"text":"What's the difference between an emergency fund and a savings account?","label":"LLM_CHAT"}
+{"text":"Can you help me understand my investment goals? What are some things to consider?","label":"LLM_CHAT"}
+{"text":"What's the best way to stay motivated with my savings and investing goals?","label":"LLM_CHAT"}
+{"text":"Can you explain the concept of dollar-cost averaging? How does it work?","label":"LLM_CHAT"}
+{"text":"What's the difference between an Individual Savings Account and a Stocks and Shares ISA?","label":"LLM_CHAT"}
+{"text":"Can you help me understand my financial situation better? Any questions to ask myself?","label":"LLM_CHAT"}
+{"text":"I'm considering investing in a property, but I'm not sure if it's worth the hassle.","label":"LLM_CHAT"}
+{"text":"Does anyone get nervous when they think about their investments?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bear and bull market, anyway?","label":"LLM_CHAT"}
+{"text":"I'm not sure what's causing this, but my credit score has dropped by 50 points in the past month. Is that normal?","label":"LLM_CHAT"}
+{"text":"I've been reading about inflation and its effects on investments. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"What's the difference between a market correction and a crash? I feel like I'm reading too much doom and gloom about it.","label":"LLM_CHAT"}
+{"text":"I've been thinking of investing in a diversified portfolio. Is that a good idea for a beginner?","label":"LLM_CHAT"}
+{"text":"Can you explain what's happening with interest rates right now?","label":"LLM_CHAT"}
+{"text":"I've been reading about the benefits of dollar-cost averaging, but I'm not entirely sure how it works. Can you give me an example or explanation?","label":"LLM_CHAT"}
+{"text":"I'm considering investing for the first time, what's the best way to get started?","label":"LLM_CHAT"}
+{"text":"I'm thinking of investing in a bit more, but I don't know if it's worth it long term. Is that always the best decision?","label":"LLM_CHAT"}
