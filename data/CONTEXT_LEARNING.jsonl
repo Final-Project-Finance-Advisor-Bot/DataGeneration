@@ -5038,3 +5038,33 @@
 {"text":"Can you tell me what this bite's reward preview means?","label":"CONTEXT_LEARNING"}
 {"text":"What happens if I fail this knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete a full quiz to unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the knowledge check, but it says I'm not allowed to proceed.","label":"CONTEXT_LEARNING"}
+{"text":"Which bite should I do next after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this question, can you help me with the Fundamentals of Finance module?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz for it to unlock next bite?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean in the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see the entire learning centre yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a quiz in the Fundamentals of Finance module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move on to the Portfolio Manager course until I complete Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this knowledge check means for my progress in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more bites in the Fundamentals of Finance module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Manager course until I've completed other modules?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning centre and Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'bites' mean in the context of the FA Bot learning system?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how rewards work in the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a bite and can move on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a bite and a module in the FA Bot learning system?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand how to unlock more tools in the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see all the available bites in the Fundamentals of Finance module yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I prioritize my learning pathway and choose which bite to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what 'capability unlocks' mean in the context of the FA Bot learning system?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of the completion requirements for each module in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a course and can move on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features until I complete other modules?","label":"CONTEXT_LEARNING"}
+{"text":"Can you help me understand how my progress in Fundamentals affects my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a locked course and one that's available to start?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock more wallets and portfolios in the FA Bot learning system?","label":"CONTEXT_LEARNING"}
