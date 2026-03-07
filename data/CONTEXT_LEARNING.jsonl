@@ -1318,3 +1318,33 @@
 {"text":"How do I know when I've unlocked a new capability?","label":"CONTEXT_LEARNING"}
 {"text":"Why is this part of the course still locked for me?","label":"CONTEXT_LEARNING"}
 {"text":"Can you show me what the rewards preview looks like?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a knowledge check does?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I completed the first bite, but it still says I need to finish 2 more bites. What's going on?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the next lesson in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet increase after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what the completion requirement is for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites do I need to complete before I can access the next lesson?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of a knowledge check in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I get rewards for completing every bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the Learning Centre's bite-based system works?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean to unlock a new module in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which module I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to start a lesson in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do all bites have quizzes at the end?","label":"CONTEXT_LEARNING"}
+{"text":"How do I activate my rewards after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what's inside the next lesson in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I skip a question in a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset my progress after a mistake on a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the difference between a bite and a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Do all lessons unlock new bites?","label":"CONTEXT_LEARNING"}
+{"text":"What does the completion percentage indicate in the Learning Centre?","label":"CONTEXT_LEARNING"}
