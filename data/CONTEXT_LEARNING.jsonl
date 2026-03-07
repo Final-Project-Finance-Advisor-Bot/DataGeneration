@@ -4168,3 +4168,33 @@
 {"text":"What’s the benefit of completing a bite if it doesn't contribute directly to my wallet balance?","label":"CONTEXT_LEARNING"}
 {"text":"Can you walk me through how the system tracks progress and rewards for each course?","label":"CONTEXT_LEARNING"}
 {"text":"If I fail this quiz, will I be able to try again later or start from scratch?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on a bit, what's the next step?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me why Fundamentals is locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a bit, what's the progress percentage?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the knowledge check means?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of this quiz, why can’t I move on?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I getting stuck on this part?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me where to find more information?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between pass and fail on this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how this works?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a course, what’s next?","label":"CONTEXT_LEARNING"}
+{"text":"How does progression affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me the reward preview again?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about how to unlock the next module.","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a knowledge check and a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why this part of the course is important?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access more bites like this one?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I go back to the start of the bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a module, what’s next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me where to find my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which part of the course I need to focus on?","label":"CONTEXT_LEARNING"}
+{"text":"I’m getting stuck on a bit, can you help?","label":"CONTEXT_LEARNING"}
