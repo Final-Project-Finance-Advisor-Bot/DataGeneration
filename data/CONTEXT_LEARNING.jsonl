@@ -1618,3 +1618,33 @@
 {"text":"Why can’t I view my previous bite completion records?","label":"CONTEXT_LEARNING"}
 {"text":"How do I reset my progress if I’m stuck?","label":"CONTEXT_LEARNING"}
 {"text":"Can you show me how to complete a mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite am I on right now?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What is the next step after I finish this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this quiz - can you explain what's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock access to the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a module before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what's happening when I'm locked out of a course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see all my rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete both bites in a module before progressing?","label":"CONTEXT_LEARNING"}
+{"text":"How do I activate a reward after completing a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the completion requirement means?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean when this bite is marked as 'locked'?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a module to unlock a reward?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my completed quizzes and rewards?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach the end of a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I'm being asked this question right now?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all modules in the Fundamentals course before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"What does it mean when a bite is marked as 'required'?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete both bites in a module before unlocking the next one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset my progress if I want to start over?","label":"CONTEXT_LEARNING"}
+{"text":"What is the reward for completing this bite?","label":"CONTEXT_LEARNING"}
