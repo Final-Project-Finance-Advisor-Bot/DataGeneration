@@ -4318,3 +4318,33 @@
 {"text":"Can you explain what the 'Continue Learning' button does when I click it on the Learn the Application course page?","label":"CONTEXT_LEARNING"}
 {"text":"What happens when I've completed all modules and reached 100% progress?","label":"CONTEXT_LEARNING"}
 {"text":"How do I track my progress over multiple courses in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after finishing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites will it take to unlock the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a mastery requirement and a progress indicator?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a knowledge check if I know the answer?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get access to more quizzes after completing all bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I reach 100% completion of a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have any warnings or reminders before unlocking the next module?","label":"CONTEXT_LEARNING"}
+{"text":"How can I track my progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing all Fundamentals modules before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my performance with others in the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which tools to prioritize next based on their unlock conditions?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific set of knowledge checks before unlocking the final bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail to meet a progress requirement for a module?","label":"CONTEXT_LEARNING"}
+{"text":"How can I increase my chances of completing all bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view the entire learning pathway at once to plan my next steps?","label":"CONTEXT_LEARNING"}
+{"text":"What is the maximum number of portfolio slots available for users who complete the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Do rewards activate automatically after completing a bite, or do I need to click on them?","label":"CONTEXT_LEARNING"}
+{"text":"How long does it take to unlock the next module or tool based on my progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save and pick up where I left off if I close the learning app?","label":"CONTEXT_LEARNING"}
+{"text":"What are the different types of rewards available in the learning system, and how do they work?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have to complete all Fundamentals modules sequentially or can I interleave bites?","label":"CONTEXT_LEARNING"}
+{"text":"How does completing a bite affect my ability to access future tools or features?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards for achieving specific milestones in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between portfolio slots and wallet growth, and how do they increase over time?","label":"CONTEXT_LEARNING"}
