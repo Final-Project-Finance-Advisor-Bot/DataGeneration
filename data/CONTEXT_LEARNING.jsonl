@@ -2128,3 +2128,33 @@
 {"text":"How do I track which bites have been completed by others?","label":"CONTEXT_LEARNING"}
 {"text":"What is this bite preview for in the learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to recomplete a bite after a certain period of time has passed?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Learn the Application course always open?","label":"CONTEXT_LEARNING"}
+{"text":"I completed a bite, but it says I'm at 0% progress - what does that mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my wallet balance is not increasing when I complete a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this quiz - will I be locked out of further progress?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the full learning centre until I unlock the next course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to complete next in my learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on a knowledge check - what should I do?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean - how will it help me?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move to the next bite yet? Is there something I need to complete first?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz or is it more lenient?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in my learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I unlock the Portfolio Manager course yet - what's the requirement?","label":"CONTEXT_LEARNING"}
+{"text":"I completed a bite, but it says I need to complete more before I can move on - what does that mean?","label":"CONTEXT_LEARNING"}
+{"text":"What is this completion requirement and why do I need to meet it?","label":"CONTEXT_LEARNING"}
+{"text":"How will completing Fundamentals affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble with this knowledge check - can you help me understand what's being tested?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals of Finance course locked for me - what do I need to do?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock the Portfolio Manager course - what new features will I get?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this bite - can you give me some hints or clarify what's being asked?","label":"CONTEXT_LEARNING"}
+{"text":"What is this reward preview and how will it help me in the long run?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a certain number of bites before I can access more advanced features?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my wallet balance isn't increasing as quickly as I'd like?","label":"CONTEXT_LEARNING"}
+{"text":"I completed the Fundamentals course, but it says I'm still at 0% progress - what's going on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to complete next in my learning pathway without getting stuck?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why some parts of the learning centre are locked and how I can unlock them?","label":"CONTEXT_LEARNING"}
+{"text":"What is this completion requirement for a knowledge check and why do I need to meet it?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features in the learning pathway until I complete other requirements?","label":"CONTEXT_LEARNING"}
+{"text":"I'm having trouble understanding how to progress through the learning centre - can you explain it to me?","label":"CONTEXT_LEARNING"}
