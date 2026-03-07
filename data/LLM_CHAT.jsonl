@@ -2428,3 +2428,33 @@
 {"text":"I'm not really sure what a market correction is. Is it the same as a market crash? Can you help me understand the difference?","label":"LLM_CHAT"}
 {"text":"Is it better to save money in a high-interest savings account or invest it somewhere else? I feel like there are so many options out there.","label":"LLM_CHAT"}
 {"text":"I'm not sure what's going on with interest rates at the moment, can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"Can you explain what's happening with interest rates right now?","label":"LLM_CHAT"}
+{"text":"I'm trying to decide between saving or investing, which is better for me.","label":"LLM_CHAT"}
+{"text":"Is it true that you should diversify your portfolio? Why?","label":"LLM_CHAT"}
+{"text":"I don't really understand compound interest properly. Can you explain?","label":"LLM_CHAT"}
+{"text":"Can you tell me about some good long-term investment options?","label":"LLM_CHAT"}
+{"text":"I'm thinking of investing in a Stocks and Shares ISA. What are my options?","label":"LLM_CHAT"}
+{"text":"Can you help me understand why some assets go up and others down?","label":"LLM_CHAT"}
+{"text":"Is it true that inflation is always bad for investments?","label":"LLM_CHAT"}
+{"text":"Can you explain the difference between a market crash and a correction?","label":"LLM_CHAT"}
+{"text":"I've been reading about risk management. What does that mean for me?","label":"LLM_CHAT"}
+{"text":"Can you tell me about some good investment apps?","label":"LLM_CHAT"}
+{"text":"I'm not sure what I want to invest in, can you help?","label":"LLM_CHAT"}
+{"text":"Can you explain why some investments are tax-efficient?","label":"LLM_CHAT"}
+{"text":"I've been feeling really overwhelmed by all the financial jargon. Can you help me understand it better?","label":"LLM_CHAT"}
+{"text":"Is investing always a good idea, or can it be risky?","label":"LLM_CHAT"}
+{"text":"Can you tell me about some popular investment strategies?","label":"LLM_CHAT"}
+{"text":"Can you explain what a diversified portfolio is and why it's good?","label":"LLM_CHAT"}
+{"text":"I'm not sure how much I should be investing each month. Can you help me figure it out?","label":"LLM_CHAT"}
+{"text":"What's the difference between an index fund and a individual stock?","label":"LLM_CHAT"}
+{"text":"Can you help me choose between a Stocks and Shares ISA and a SIPP?","label":"LLM_CHAT"}
+{"text":"I've been feeling really frustrated with my investment progress. Can you help me get back on track?","label":"LLM_CHAT"}
+{"text":"I'm trying to save for a big purchase, but I'm not sure how much I need or when I can afford it.","label":"LLM_CHAT"}
+{"text":"I've heard mixed things about dollar-cost averaging. Is it really worth trying?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bond and a share? I'm getting confused.","label":"LLM_CHAT"}
+{"text":"What's the deal with cryptocurrency? Is it a legitimate investment option?","label":"LLM_CHAT"}
+{"text":"Can you explain what inflation means in simple terms, please?","label":"LLM_CHAT"}
+{"text":"I'm getting a bit frustrated with all the financial news - it's hard to know what's going on! Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"I'm not sure I fully understand compound interest - could you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"I've been reading about the importance of having a long-term investment strategy, but I'm still unsure if I should be investing every month or just saving for now","label":"LLM_CHAT"}
+{"text":"I keep hearing that interest rates can affect the stock market - can you tell me more about how that works and what it means for my investments?","label":"LLM_CHAT"}
