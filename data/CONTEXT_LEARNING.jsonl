@@ -3298,3 +3298,33 @@
 {"text":"Can you explain how the learning pathway is structured, and what each bite is supposed to teach me?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which bites are required for unlocking new capabilities in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"What is the maximum amount of time I have to complete a bite before it unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a mastery quiz is?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I've completed a bite, what happens next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you remind me of the progress I've made so far?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a course and a module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my portfolio builder?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I view the full graph menu yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites before unlocking new rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain the wallet growth progression?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the completion states?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next course in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you remind me of my current progress percentage?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features until I complete a specific task?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between capability unlocks and rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system ensures users don’t overwhelm themselves?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites before unlocking a new portfolio slot?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I view my entire portfolio until I unlock additional slots?","label":"CONTEXT_LEARNING"}
+{"text":"Can you remind me of the requirements for accessing the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I switch between different learning pathways or bites?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a reward and a capability unlock?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system prevents users from investing more than they can afford?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all courses before unlocking full access to the Portfolio Builder?","label":"CONTEXT_LEARNING"}
