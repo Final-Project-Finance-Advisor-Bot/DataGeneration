@@ -3838,3 +3838,33 @@
 {"text":"What is the benefit of achieving 100% mastery on this quiz?","label":"CONTEXT_LEARNING"}
 {"text":"How do I unlock additional wallet growth after completing all the required bites?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain what happens when I progress to the next learning centre stage?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the quiz, but I'm stuck on this question - what's next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my wallet balance is lower after completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this module - what's the next step?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after taking a break?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the test, but my wallet balance isn't updated - what's going on?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of this progress bar - how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about what I'll learn in this course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance lower than expected after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the next module if I've already completed the previous one?","label":"CONTEXT_LEARNING"}
+{"text":"I'm confused about how this learning pathway works - can you explain it to me?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of bites before I can move on to the next module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finally complete all the required modules for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've completed this bite - is there something visual?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to unlock a new capability?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of completing all the required modules for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this question - can you give me another hint?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance reset to 0 after completing a certain number of bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about what rewards are available for completing this course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all the required modules in a specific order?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I'm on the right track - can you give me feedback?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this progress bar means?","label":"CONTEXT_LEARNING"}
