@@ -1498,3 +1498,33 @@
 {"text":"What is the purpose of this particular tool in the learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which bite to start with?","label":"CONTEXT_LEARNING"}
 {"text":"Can I go back and re-do a difficult part of the module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing a lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"Why was I locked out of accessing the Fundamentals course initially?","label":"CONTEXT_LEARNING"}
+{"text":"What is the recommended progress pace for the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the quiz for the Fundamentals lesson?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this bite in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how to unlock the next lesson after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked until I complete this specific task?","label":"CONTEXT_LEARNING"}
+{"text":"What does the completion requirement mean for the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete this lesson in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I need to retake a bite in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you give me feedback on my progress in the Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"What is the benefit of completing this bite in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Why does the system require me to complete a certain task before accessing the next lesson?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I skip this bite in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the reward preview for completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how to get started with the Fundamentals course again after making a mistake?","label":"CONTEXT_LEARNING"}
+{"text":"What is the next step in the Fundamentals module after completing this lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Why does the system require me to demonstrate full understanding before moving forward?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"I completed a bite, what’s my next step?","label":"CONTEXT_LEARNING"}
