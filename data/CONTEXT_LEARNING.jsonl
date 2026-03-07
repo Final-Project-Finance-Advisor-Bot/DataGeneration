@@ -4948,3 +4948,33 @@
 {"text":"Can you tell me what's going on with my wallet balance?","label":"CONTEXT_LEARNING"}
 {"text":"How do I move from one module to the next in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"What does it mean when a reward is unlocked?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I start the Fundamentals course without completing Learn the Application first?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock a new capability?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the Portfolio Builder after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio allocation to others?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress percentage so low on this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a full set of bites before unlocking the next course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset my wallet balance if it exceeds the allocated amount?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between completing a bite and unlocking new capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to a previous bite to retry a question that gave me trouble?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my completion percentage reset when I reopen the course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my completed bites and quizzes on the dashboard?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see a summary of all my progress across courses?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet frozen until I complete a certain number of bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress on the learning pathway in real-time?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a module that has prerequisites?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see a preview of what’s required to unlock a new capability?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet amount displayed in a different currency?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all modules before unlocking the full capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"How do I manage my portfolio if I have multiple allocations?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress on the learning pathway not always 100% accurate?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get help with a specific question or concept within a module?","label":"CONTEXT_LEARNING"}
