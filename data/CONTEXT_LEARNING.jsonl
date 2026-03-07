@@ -4198,3 +4198,33 @@
 {"text":"Can you show me where to find my progress?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which part of the course I need to focus on?","label":"CONTEXT_LEARNING"}
 {"text":"I’m getting stuck on a bit, can you help?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"I passed the quiz but cannot continue. What's wrong?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I completed a bite but it's not showing up in my progress. What do I do?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of this knowledge check quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I need to complete this module before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on this quiz and don't know what to do. Help!","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance not match my expected value?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a bite in Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get back to the course selection screen after working on a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to pass this quiz to unlock access to more bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to complete this learning pathway step-by-step?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a knowledge check and a traditional quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I need to retake a bite due to incorrect answers?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my progress not reflect correctly after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I finish all the bites in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how capability unlocks work for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get rewarded after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete specific requirements before unlocking advanced features?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my wallet balance not increase correctly when I finish a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to access the full portfolio view after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I have enough money for the next bite?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of this mastery model quiz system?","label":"CONTEXT_LEARNING"}
