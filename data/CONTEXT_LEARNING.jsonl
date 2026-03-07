@@ -208,3 +208,33 @@
 {"text":"What happens if I fail to meet a certain milestone in the Fundamentals module?","label":"CONTEXT_LEARNING"}
 {"text":"Can I compare my performance across different bites and modules?","label":"CONTEXT_LEARNING"}
 {"text":"How do I track my progress towards completing each course?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view the quiz results without finishing the bite?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after a full-screen mode session?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet growth?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and try again on a failed quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the next step after completing this module?","label":"CONTEXT_LEARNING"}
+{"text":"How much wallet growth can I expect if I complete all Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my completion percentage stuck at 99%?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and come back to it later?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my completed bites in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I try to access a locked module too early?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress tracking not updating after completing a quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio with others in the system?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional wallet growth past £512k+?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the next bite locked for me until I complete this module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of these mastery quizzes in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I navigate through the learning pathway if I'm unsure where to start?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance showing a discrepancy between expected and actual growth?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review previously completed bites in the system?","label":"CONTEXT_LEARNING"}
+{"text":"What are these rewards tied to, exactly?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning centre on mobile?","label":"CONTEXT_LEARNING"}
+{"text":"Why does my completion percentage reset when switching screens?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get hints for stuck quizzes in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the expected wallet balance after completing all Fundamentals modules?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my portfolio and view its content on the system?","label":"CONTEXT_LEARNING"}
