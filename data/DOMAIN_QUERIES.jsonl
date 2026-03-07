@@ -5338,3 +5338,33 @@
 {"text":"What is a stock category specifically?","label":"DOMAIN_QUERIES"}
 {"text":"How do I manage my Cash Reserve using the platform?","label":"DOMAIN_QUERIES"}
 {"text":"What does a portfolio manager role entail in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can a share be considered capital?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of diversification in a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager allocate profit from assets?","label":"DOMAIN_QUERIES"}
+{"text":"Is a stock category always associated with a specific ticker?","label":"DOMAIN_QUERIES"}
+{"text":"Can a Cash Reserve be considered part of an asset portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a share and a financial advisor's commission?","label":"DOMAIN_QUERIES"}
+{"text":"How does a Financial Advisor Bot calculate capital gains from assets?","label":"DOMAIN_QUERIES"}
+{"text":"Can diversification be applied to a single stock category?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between profit and a portfolio's performance?","label":"DOMAIN_QUERIES"}
+{"text":"Is a Virtual wallet's cash reserve always fully accessible?","label":"DOMAIN_QUERIES"}
+{"text":"Can a financial advisor bot's profit-sharing model be compared to traditional investment strategies?","label":"DOMAIN_QUERIES"}
+{"text":"What is the role of stock categories in determining an asset's classification?","label":"DOMAIN_QUERIES"}
+{"text":"How does a portfolio manager ensure diversification within a share-based investment?","label":"DOMAIN_QUERIES"}
+{"text":"Can capital be invested in multiple financial advisor bot accounts simultaneously?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between an asset's dividend yield and profit per share?","label":"DOMAIN_QUERIES"}
+{"text":"Can a financial advisor bot's cash reserve be used as collateral for loans?","label":"DOMAIN_QUERIES"}
+{"text":"How does an asset's classification affect its inclusion in a portfolio manager's profit-sharing model?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between an investor's financial advisor and their Virtual wallet's performance?","label":"DOMAIN_QUERIES"}
+{"text":"Can a share be considered a form of capital for investment purposes?","label":"DOMAIN_QUERIES"}
+{"text":"Is diversification within a portfolio manager's allocation to different asset categories the same as diversification across multiple financial advisor bots?","label":"DOMAIN_QUERIES"}
+{"text":"How does an investor's financial advisor bot account balance affect their overall capital structure?","label":"DOMAIN_QUERIES"}
+{"text":"I'm trying to understand how asset values are calculated. Is it just based on profit?","label":"DOMAIN_QUERIES"}
+{"text":"What's the difference between a stock category and a portfolio manager?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification affect my Virtual wallet? Do I need to keep all my shares in one place?","label":"DOMAIN_QUERIES"}
+{"text":"I've been trying to track my capital movements, but I'm not sure what a ticker is. Is it just a number?","label":"DOMAIN_QUERIES"}
+{"text":"What's the purpose of a Cash Reserve? Do I need to keep a certain amount set aside for tax?","label":"DOMAIN_QUERIES"}
+{"text":"I've been looking at my profit margins, but I'm not sure how they relate to my portfolio. Can you explain the link?","label":"DOMAIN_QUERIES"}
+{"text":"How does a Financial Advisor Bot determine what shares to include in a diversification strategy?","label":"DOMAIN_QUERIES"}
+{"text":"I've been trying to understand how stock categories are classified. Are they based on profit or something else?","label":"DOMAIN_QUERIES"}
+{"text":"I'm trying to understand how my Virtual wallet works, can you tell me more about what counts as capital?","label":"DOMAIN_QUERIES"}
