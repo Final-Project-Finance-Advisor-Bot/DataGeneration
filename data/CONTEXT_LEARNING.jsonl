@@ -2848,3 +2848,33 @@
 {"text":"What is the benefit of completing each bite in sequence, rather than randomly?","label":"CONTEXT_LEARNING"}
 {"text":"Can I share my progress with others or receive feedback on my learning?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete all the bites in a specific module before unlocking the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why Fundamentals is locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of the bite on Risk Management in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how to access the graph builder tool in Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance stuck at £1000 after completing a few bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the requirements for unlocking the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"What's this 'mastery quiz' thing in Fundamentals, and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me which bites I still need to complete to unlock Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with the double wallet growth pattern - is it some kind of compounding effect?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what this reward preview means? Is it a promise of more fake money?","label":"CONTEXT_LEARNING"}
+{"text":"How do I switch between different learning bites in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet still capped at £1000 if I've completed all the required bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the Learning Centre's bite-based mastery model works?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which module to start with in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What's this 'complete this module' prompt, and what does it mean for my learning progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how many bites I've completed so far?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the full-screen mode in Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance not updating correctly after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what's next for Fundamentals after completing this module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my allocated funds per portfolio?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a 'bite' and a 'module' in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the wallet growth pattern affects my ability to allocate funds?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've mastered all the skills needed for Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"What's this 'reward bundle' thing in Fundamentals, and what does it mean for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me which bites are still locked in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I switch between different learning paths in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance displayed in pounds instead of dollars?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what's next for Portfolio Manager after completing this module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I view my overall learning progress across all courses?","label":"CONTEXT_LEARNING"}
