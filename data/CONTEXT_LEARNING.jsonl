@@ -4768,3 +4768,33 @@
 {"text":"What is this course’s completion requirement?","label":"CONTEXT_LEARNING"}
 {"text":"Can I earn badges for completing specific skills or bites?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know if my progress needs to be reviewed before moving forward?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this bite still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Which Fundamentals section do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the tool builder now that I've completed Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this completion requirement means?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next step after completing Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Portfolio Manager course if I haven't finished Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in a module before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of this mastery quiz? Is it just to test me?","label":"CONTEXT_LEARNING"}
+{"text":"How does my wallet balance affect what tools I can access?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about this cap on portfolio allocation? Why is that?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a knowledge check and a mastery quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to start with in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I unlock new rewards until I've completed more bites?","label":"CONTEXT_LEARNING"}
+{"text":"What's this 'behavioural psychology' module all about? Is it relevant to my learning?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get access to more advanced tools if I haven't finished Learn the Application yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my wallet balance affects what features are available in the Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites before unlocking new rewards or progression?","label":"CONTEXT_LEARNING"}
+{"text":"What's this 'double your funds' rule and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what a knowledge check is? Is it like an IQ test?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress in the Portfolio Manager if I'm not sure about something?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of completing all bites before moving on to new material?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to have full marks on a knowledge check to unlock rewards or progression?","label":"CONTEXT_LEARNING"}
