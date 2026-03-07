@@ -3718,3 +3718,303 @@
 {"text":"How do I search for an asset by company name or description? How do I set that up?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Why is the system recommending a certain asset share allocation? Can you explain why?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I have multiple wallet values over time? How do I set that up?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount I need to invest to create a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm new here, can you show me how to use the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios? How do I do it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I add more asset / shares than my wallet value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios? How do I create one?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the difference between adding a new asset and buying a share?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I added a company but can't see it in my portfolio. What should I do?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when my wallet value has changed?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset / shares? How does it affect my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset / shares limit so low? Can I increase it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio? What's the best way?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have more than one graph/chart in my portfolio? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my wallet value drop today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the difference between a graph and a chart in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I change the type of graph/chart I have in my portfolio? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset / shares to my portfolio? Can you walk me through it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet shows more money than I can invest. What's going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my profit or money made in the portfolio manager? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my asset / shares limit not showing up? Can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organize my asset / shares alphabetically?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a chart of my portfolio's performance over time? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the best way to view my portfolio's value and profit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add another share but it won’t let me. Can you explain why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple graphs/charts for different asset / shares in my portfolio? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I delete a graph/chart from my portfolio? Can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I calculate the total value of my asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have more than one wallet in the portfolio manager? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my asset / shares increase in value today?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see a list of all the companies in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with a specific theme or strategy? Can you guide me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value not updating correctly? Can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a graph of the overall performance of my portfolio? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset / shares by market capitalization?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company to add to my portfolio using the ticker symbol?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I access my portfolio on multiple devices at once? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's performance over time in a chart?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have more than one graph/charts of different asset / shares in my portfolio on the same page? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my wallet value drop due to market fluctuations? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organize my asset / shares by sector or industry?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view the top-performing companies in my portfolio? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value not reflecting changes in the market? Can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I calculate the total profit of my asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a graph of the daily/weekly/monthly performance of my portfolio? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I add more than one company to my portfolio at once? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific asset / shares by symbol or name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's value and profit in different currencies? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my wallet value drop due to fees? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organize my asset / shares by market capitalization?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a chart of the historical performance of my portfolio? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I delete an asset / shares from my portfolio without losing any money? Can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my wallet value in real-time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a company by keyword or description? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio's value not updating correctly due to network issues? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I calculate the return on investment (ROI) of my asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a graph of the overall performance of my portfolio in different time frames? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my wallet value drop due to taxes? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organize my asset / shares by sector or industry using a specific criteria?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view the top-performing companies in my portfolio for the past 30 days? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I delete an asset / shares from my portfolio without losing any money? Can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by ticker symbol or exchange? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's value and profit in different time frames? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my wallet value drop due to market fluctuations? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I calculate the yield on my asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a chart of the historical performance of my portfolio in different time frames? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can't I add more than one company to my portfolio at once? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organize my asset / shares by market capitalization using a specific criteria?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view the top-performing companies in my portfolio for the past 60 days? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my wallet value drop due to fees? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I calculate the dividend yield of my asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a graph of the overall performance of my portfolio in different time frames? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my portfolio's value not updating correctly due to technical issues? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by keyword or description using the advanced search feature? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my wallet value in real-time on multiple devices at once? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my asset / shares increase in value today? Can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I calculate the tax implications of my asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a chart of the historical performance of my portfolio using different time frames? How?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add Apple to my portfolio, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you explain what happens if I don't meet the minimum funds required for a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I switch between different portfolios in the Portfolio Manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm trying to delete some shares from my portfolio but I'm not sure how to do it.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio value keep dropping?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of asset / shares I can add to a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio, how do I start?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you show me how to organise my asset / shares in the Portfolio Manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much does it cost to add a new graph/chart to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see some graphs/charts on my portfolio but I'm not sure how to change them.","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money I need to start investing with the Portfolio Manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why won't the Portfolio Manager let me add more asset / shares than my wallet can afford?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you help me understand how the profit/loss on my portfolio is calculated?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a specific company in my portfolio but I'm not sure where to start.","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit the allocation of shares in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you tell me how many asset / shares I currently have in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my wallet value showing more money than my balance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm trying to add some new asset / shares but the Portfolio Manager says it's over quota.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph/chart from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out what type of asset / shares are available for me to add?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of asset / shares I can buy per day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you show me how to sort my asset / shares in descending order?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio with a specific company, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager not updating my wallet value in real-time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you explain what happens when I sell asset / shares from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company within a particular asset type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of time I need to wait before I can make changes to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different asset / shares allocations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to view my profit/loss in a specific currency, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager not displaying all available asset / shares options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you show me how to organise my portfolio by asset type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up notifications for changes in my portfolio value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the difference between a 'buy' and 'sell' order when adding asset / shares to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have more than one wallet for different asset / shares allocations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to view historical performance data for a specific company, where can I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager asking me to verify my account information?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I export my portfolio data for further analysis?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out which asset / shares are currently on sale?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of searches I can perform in a single session?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a customised graph/chart for my portfolio, where do I start?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic investment plans for recurring purchases?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager not displaying any asset / shares options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific industry or sector within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in international markets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance over different time periods?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to set up a recurring investment plan for regular purchases.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager not allowing me to make changes to my portfolio after it's gone live?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my profit/loss in pounds sterling if that's my preferred currency?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific asset class within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of user logins allowed per account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to view my wallet value in real-time, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up alerts for specific asset / shares price movements?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager asking me to confirm my portfolio details?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by its ticker symbol?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in emerging markets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance against different market indices?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to set up automatic withdrawals from my wallet when reaching a certain balance.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager not displaying any asset / shares with dividends?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific portfolio category (e.g. growth, income)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of customised graphs/charts I can create?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my wallet value and balance in one place?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to set up a budget for my portfolio, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager not allowing me to make changes to my asset / shares allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a company by its industry sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio's performance over different time periods (e.g. 1 year, 5 years)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in a specific asset class?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic dividend payments for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager asking me to update my account information?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its name, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance against different asset classes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up a stop-loss order for a specific asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of searches you can perform per day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my wallet value in pounds sterling if that's my preferred currency?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its ticker symbol, where do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager not displaying any asset / shares with share splits?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic rebalancing of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of time required to complete a trade?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by its financial sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance over different market indices (e.g. FTSE 100)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to set up alerts for specific asset / shares news and events.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager asking me to verify my identity?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance in a heatmap?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by its market capitalisation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of customised graphs/charts I can create?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to set up automatic portfolio tax calculations.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager not displaying any asset / shares with options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my wallet value and balance in real-time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by its sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in a specific asset class?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic dividend payments for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its name, how do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager asking me to update my account information?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance over different time periods (e.g. 1 year, 5 years)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up a stop-loss order for a specific asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of searches you can perform per day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its financial sector, where do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager asking me to verify my identity?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance in a heatmap?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by its market capitalisation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in a specific asset class?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic rebalancing of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its sector, where do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of searches you can perform per day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance over different market indices (e.g. FTSE 100)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up alerts for specific asset / shares news and events.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager asking me to update my account information?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance in a heatmap?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by its market capitalisation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in a specific asset class?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic portfolio tax calculations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its financial sector, where do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager not displaying any asset / shares with options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my wallet value and balance in real-time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up a stop-loss order for a specific asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of searches you can perform per day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance over different time periods (e.g. 1 year, 5 years)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its name, how do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager asking me to verify my identity?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance in a heatmap?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by its market capitalisation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in a specific asset class?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic rebalancing of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its sector, where do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of searches you can perform per day?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance over different market indices (e.g. FTSE 100)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up alerts for specific asset / shares news and events.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager not displaying any asset / shares with dividends?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance against different market indices?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its name, how do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in emerging markets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance over different time periods (e.g. 1 year, 5 years)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to set up automatic dividend payments for my portfolio.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is the Portfolio Manager asking me to update my account information?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance in a heatmap?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company by its financial sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in a specific asset class?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my wallet value and balance in real-time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its name, how do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the minimum amount of money required to start investing in emerging markets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance against different market indices?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its industry sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up automatic rebalancing of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance over different market indices (e.g. FTSE 100)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to search for a company by its name, how do I find it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the limit on the number of customised graphs/charts I can create?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio's performance over different time periods (e.g. 1 year, 5 years)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I set up a stop-loss order for a specific asset / shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new company to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios on this platform?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum money needed to create a portfolio in this manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more shares of <company> to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset shares by type?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the purpose of the graph limit in this manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a company to add to my portfolio using the search bar?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with a specific asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value not match the total value of my assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my profit or money made from investing in shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new graph/chart to display asset performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of companies can I search for using this manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my assets by market capitalisation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my portfolio value dropped so quickly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit the asset allocation of an existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different asset allocations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the purpose of setting a minimum fund required for a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I delete an entire asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view the historical performance of a specific company in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more assets to my portfolio if it’s already at maximum capacity?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific asset within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I export my portfolio data to a CSV file?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the difference between the current and historical value of my wallet?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my total asset value in the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a new graph/chart to display market trends?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my profit not been updated correctly after a trade?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a custom asset allocation for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view the performance of specific assets within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum number of shares required to own a company?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for companies that match a specific criteria?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view my portfolio performance over time using graphs/charts?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I delete an asset from my portfolio if it’s not owned in full?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit the company name or ticker symbol for an existing portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios with different currency settings?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the purpose of setting asset limits within a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my total wallet value in real-time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view the performance of specific industries or sectors within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my portfolio value dropped due to fees?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with a specific investment strategy?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for companies that match a specific country or region?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum number of shares required to qualify for a dividend?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio performance in different time frames?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit the asset allocation of an existing portfolio using a drag-and-drop interface?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more assets to my portfolio if it’s already at maximum capacity due to funds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my total asset value in pounds or dollars?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view the performance of specific companies within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the purpose of setting a budget for a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with a specific asset allocation using a spreadsheet template?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for companies that match a specific industry or sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my portfolio value dropped due to market fluctuations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my total profit made from investing in shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit the company name or ticker symbol for an existing asset within my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum number of shares required to qualify for a tax-efficient investment?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my portfolio performance over time using charts?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add a new asset to my portfolio without logging in?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I delete an entire portfolio if it’s linked to another account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with a specific investment strategy using a predefined template?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for companies that match a specific economic indicator?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the purpose of setting asset allocation limits within a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my total wallet value in pounds or dollars using different time frames?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit the company name or ticker symbol for an existing asset without logging in?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why has my portfolio value dropped due to fees and market fluctuations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m new to this portfolio manager, can you show me how it works?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio value has dropped and I don’t understand why.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add another asset / shares if I already have some?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to create a new portfolio but the minimum fund requirement is too high. Can I invest less?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a specific company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between different portfolios in this manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I have £1,000 invested and want to know what’s the value of my wallet.","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why is my graph/chart not showing the correct data?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset / shares if I no longer need it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how to organise my asset / shares – can you show me how?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio manager says I don’t have enough money to add another asset / shares. Can I get more funds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money required to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to know how much profit or money I’ve made from my investments.","label":"CONTEXT_PORTFOLIO"}
