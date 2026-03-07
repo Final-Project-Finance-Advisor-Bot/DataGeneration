@@ -3148,3 +3148,33 @@
 {"text":"Do I need to complete all learning pathways before unlocking the next level of capabilities?","label":"CONTEXT_LEARNING"}
 {"text":"Can you explain how my wallet balance increases exponentially after completing certain courses?","label":"CONTEXT_LEARNING"}
 {"text":"What's this reminder about regularly checking in with the FA Bot for guidance?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I'm stuck on the first bite, can you explain what's going on again?","label":"CONTEXT_LEARNING"}
+{"text":"Can I revisit a previous quiz question if I get it wrong?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites do I need to complete before I can unlock the next course?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between this bite and the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress percentage not showing?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through what happens when I complete a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new bite, how do I know what to do next?","label":"CONTEXT_LEARNING"}
+{"text":"How long will it take to unlock the final course if I keep progressing?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my past quiz scores to understand where I went wrong?","label":"CONTEXT_LEARNING"}
+{"text":"What's the maximum number of bites I can complete in one sitting?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which reward is available for unlocking the next module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what the 'Continue' button does when I'm on a bite?","label":"CONTEXT_LEARNING"}
+{"text":"I just unlocked a new course, how do I access it?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing all the bites in one session?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip certain bites if I've already mastered them?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress affect my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"What's the deal with the 'Start' button, is it really necessary?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to access my quiz history?","label":"CONTEXT_LEARNING"}
+{"text":"How many times can I retake a bite if I get it wrong?","label":"CONTEXT_LEARNING"}
+{"text":"What's the minimum number of bites I need to complete before unlocking the next course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what happens when I finish all the bites in a module?","label":"CONTEXT_LEARNING"}
