@@ -3418,3 +3418,33 @@
 {"text":"I'm confused about how to unlock Portfolio Manager. Can you clarify?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know if I've completed all the requirements for a course?","label":"CONTEXT_LEARNING"}
 {"text":"Can you tell me what tools are available when I unlock Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get an overview of what I need to complete to unlock Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does the 'Complete [specific module]' message mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've completed a lesson in the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move on to the next bite until I finish this one?","label":"CONTEXT_LEARNING"}
+{"text":"What is the next step after completing [specific module] in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get an idea of how much longer it'll take me to complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my progress percentage is stuck at 0% for the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to unlock the next bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't finish a lesson in Fundamentals before starting the next one?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the completion requirements for each Fundamentals module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify why my wallet balance isn't increasing as expected after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'Unlock in 2 bites' mean for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've completed all the required lessons to unlock Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I review my previous lessons in Fundamentals yet?","label":"CONTEXT_LEARNING"}
+{"text":"What is the benefit of completing Fundamentals before moving on to Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my progress percentage isn't increasing in Fundamentals as expected?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get notified when a new bite or module becomes available in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'Complete [specific module]' mean for Fundamentals course completion?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress percentage stuck at 50% in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you provide an overview of the Fundamentals course and what I need to complete?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access my Fundamentals course completion history?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can you clarify why my wallet balance is being capped at £100?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get an idea of how much time it'll take to complete Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does 'Unlock in 1 bite' mean for Fundamentals course completion?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I unlock the next module until I finish this one?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my progress percentage is showing 99% completion in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don't complete a lesson in Fundamentals within the allotted time?","label":"CONTEXT_LEARNING"}
