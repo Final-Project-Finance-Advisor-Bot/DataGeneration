@@ -3958,3 +3958,33 @@
 {"text":"Can you help me understand this quiz’s difficulty level?","label":"CONTEXT_LEARNING"}
 {"text":"What is the purpose of the learning centre’s daily/weekly challenges?","label":"CONTEXT_LEARNING"}
 {"text":"Why can’t I see more rewards previewed?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"I completed a bite, but my progress didn't update. What happened?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and change the answers to a previous quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific module before unlocking Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"What is the point of completing a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a bite if I'm not sure about it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards can I earn for completing bites in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a full module before unlocking a new bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review my previous quizzes or knowledge checks?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I unlock a new bite in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I've completed all the requirements for a course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio to others or view their progress?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between completing a knowledge check and finishing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to have full mastery of one lesson before unlocking another?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back to a previous screen or module if I'm unsure about something?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of a knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to have completed all bites in Learn the Application before unlocking Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and come back later if I'm interrupted?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock a new module in Fundamentals after completing the previous one?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete all bites in Learn the Application?","label":"CONTEXT_LEARNING"}
