@@ -5368,3 +5368,33 @@
 {"text":"What are the benefits of completing bites in Learn the Application?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete all learning centre quizzes before unlocking new capabilities?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which lesson to do next after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Learning Centre still showing 50% completion for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my next bite after completing this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which module to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"What does the wallet increase mean for my learning progression?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the Portfolio Builder yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I’ve completed a bite correctly?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Can I track my progress in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move to the next bite after completing this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does the Completion Requirement indicator mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review my previous bites in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific knowledge check before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which graph type is unlocked for me?","label":"CONTEXT_LEARNING"}
+{"text":"What does this locked course message mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my next available bite in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I allocate funds to that portfolio yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full completion of a module before unlocking the next one?","label":"CONTEXT_LEARNING"}
+{"text":"Can I track my progress in each individual course?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I’m ready for the Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"What does this bite completion message mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the Chat panel while in full-screen mode?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance increasing?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a specific number of bites before unlocking rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite is the next one to complete?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress in each individual module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move on to the next course yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full completion of a course before unlocking the next one?","label":"CONTEXT_LEARNING"}
