@@ -1288,3 +1288,33 @@
 {"text":"Do I have to complete all quizzes in a bite before moving on?","label":"CONTEXT_LEARNING"}
 {"text":"How do I unlock my wallet growth progression?","label":"CONTEXT_LEARNING"}
 {"text":"What is this reward system and how does it work?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a hint for this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what this locked course means?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Why did I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the next step after completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and re-do that quiz question?","label":"CONTEXT_LEARNING"}
+{"text":"How many attempts do I have left on this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance not updating?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the difference between a 'locked' and 'unlocked' course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me what this 'mastery' requirement means?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get started with this new learning module?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I being asked to complete another bite first?","label":"CONTEXT_LEARNING"}
+{"text":"What rewards will I unlock after completing the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what ‘behavioural progression’ means in this context?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of this ‘capability unlock’ feature?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip ahead to a later module if I complete all previous ones?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I seeing a pop-up about rewards after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the best way to keep track of my progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me more about how the wallet balance works?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've unlocked a new capability?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this part of the course still locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me what the rewards preview looks like?","label":"CONTEXT_LEARNING"}
