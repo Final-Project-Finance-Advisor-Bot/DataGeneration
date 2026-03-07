@@ -1468,3 +1468,33 @@
 {"text":"Do I need to complete all bites in Fundamentals to move forward in the system?","label":"CONTEXT_LEARNING"}
 {"text":"What is the benefit of completing each lesson in Fundamentals?","label":"CONTEXT_LEARNING"}
 {"text":"How does completing Fundamentals impact my ability to unlock more advanced capabilities?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"I failed a knowledge check - what happens now?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite should I complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"I passed a knowledge check - what's the next step?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of this module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I stuck on this particular bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a lesson if I've already completed it?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between this and that bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get to the next level in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use multiple bites at once?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I unable to access a particular course?","label":"CONTEXT_LEARNING"}
+{"text":"What is the reward for completing this module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all my tasks?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo changes made in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I temporarily unable to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What is this knowledge check trying to test?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get back to my dashboard after completing a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I use multiple courses simultaneously?","label":"CONTEXT_LEARNING"}
+{"text":"Why am I unable to save my progress?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of this particular tool in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which bite to start with?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and re-do a difficult part of the module?","label":"CONTEXT_LEARNING"}
