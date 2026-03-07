@@ -1498,3 +1498,303 @@
 {"text":"Can you take me to the learning centre?","label":"OPEN_LEARNING"}
 {"text":"I'd like to launch the learning section now","label":"OPEN_LEARNING"}
 {"text":"Take me to the learning centre","label":"OPEN_LEARNING"}
+{"text":"Open learning","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning centre","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section now","label":"OPEN_LEARNING"}
+{"text":"Show me my learning modules","label":"OPEN_LEARNING"}
+{"text":"Start learning straight away","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre, please","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning history?","label":"OPEN_LEARNING"}
+{"text":"Open the learning hub for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning portal","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about this topic","label":"OPEN_LEARNING"}
+{"text":"Show me my learning progress","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre for me now","label":"OPEN_LEARNING"}
+{"text":"Open the learning materials for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning resources section","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning reports?","label":"OPEN_LEARNING"}
+{"text":"Open the learning analytics for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn from this example","label":"OPEN_LEARNING"}
+{"text":"Show me my learning goals","label":"OPEN_LEARNING"}
+{"text":"Open the learning pathway for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning community","label":"OPEN_LEARNING"}
+{"text":"Open the learning support for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about career development","label":"OPEN_LEARNING"}
+{"text":"Show me my career progress","label":"OPEN_LEARNING"}
+{"text":"Can I access my career resources?","label":"OPEN_LEARNING"}
+{"text":"Open the career centre for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning jobs board","label":"OPEN_LEARNING"}
+{"text":"Open the job search centre for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to write a resume","label":"OPEN_LEARNING"}
+{"text":"Can I access my job skills?","label":"OPEN_LEARNING"}
+{"text":"Open the job skills section for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about industry trends","label":"OPEN_LEARNING"}
+{"text":"Show me my industry progress","label":"OPEN_LEARNING"}
+{"text":"Open the industry centre for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning networking platform","label":"OPEN_LEARNING"}
+{"text":"Can I access my networking contacts?","label":"OPEN_LEARNING"}
+{"text":"Open the networking section for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to create a business plan","label":"OPEN_LEARNING"}
+{"text":"Can I access my business resources?","label":"OPEN_LEARNING"}
+{"text":"Open the business centre for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about entrepreneurship","label":"OPEN_LEARNING"}
+{"text":"Show me my entrepreneurial progress","label":"OPEN_LEARNING"}
+{"text":"Open the entrepreneurial section for me","label":"OPEN_LEARNING"}
+{"text":"I'm ready to start a business","label":"OPEN_LEARNING"}
+{"text":"What's the best way to launch a startup?","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning startup platform","label":"OPEN_LEARNING"}
+{"text":"Can I access my startup resources?","label":"OPEN_LEARNING"}
+{"text":"Open the startup centre for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to create a business model","label":"OPEN_LEARNING"}
+{"text":"Can I access my business models?","label":"OPEN_LEARNING"}
+{"text":"Open the business modelling section for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about innovation","label":"OPEN_LEARNING"}
+{"text":"Show me my innovative progress","label":"OPEN_LEARNING"}
+{"text":"Open the innovation section for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning product development platform","label":"OPEN_LEARNING"}
+{"text":"Can I access my product development resources?","label":"OPEN_LEARNING"}
+{"text":"Open the product development centre for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to apply design thinking","label":"OPEN_LEARNING"}
+{"text":"Can I access my design thinking resources?","label":"OPEN_LEARNING"}
+{"text":"Open the design thinking section for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about agile development","label":"OPEN_LEARNING"}
+{"text":"Show me my agile progress","label":"OPEN_LEARNING"}
+{"text":"Open the agile section for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning team collaboration platform","label":"OPEN_LEARNING"}
+{"text":"Can I access my team collaboration resources?","label":"OPEN_LEARNING"}
+{"text":"Open the team collaboration centre for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to apply project management","label":"OPEN_LEARNING"}
+{"text":"Can I access my project management resources?","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about change management","label":"OPEN_LEARNING"}
+{"text":"Show me my change progress","label":"OPEN_LEARNING"}
+{"text":"Open the change section for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning system implementation platform","label":"OPEN_LEARNING"}
+{"text":"Can I access my system implementation resources?","label":"OPEN_LEARNING"}
+{"text":"Open the system implementation centre for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to apply data analysis","label":"OPEN_LEARNING"}
+{"text":"Open the data analysis section for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about data visualization","label":"OPEN_LEARNING"}
+{"text":"Show me my data progress","label":"OPEN_LEARNING"}
+{"text":"Open the data visualisation section for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning data modelling platform","label":"OPEN_LEARNING"}
+{"text":"Can I access my data modelling resources?","label":"OPEN_LEARNING"}
+{"text":"Show me how to apply business intelligence","label":"OPEN_LEARNING"}
+{"text":"Can I access my business intelligence resources?","label":"OPEN_LEARNING"}
+{"text":"Open the business intelligence section for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about cloud computing","label":"OPEN_LEARNING"}
+{"text":"Show me my cloud progress","label":"OPEN_LEARNING"}
+{"text":"Open the cloud section for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning deployment platform","label":"OPEN_LEARNING"}
+{"text":"Can I access my deployment resources?","label":"OPEN_LEARNING"}
+{"text":"Open the deployment centre for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to apply cybersecurity","label":"OPEN_LEARNING"}
+{"text":"Open the cybersecurity section for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about database management","label":"OPEN_LEARNING"}
+{"text":"Show me my database progress","label":"OPEN_LEARNING"}
+{"text":"Open the database section for me","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning database modelling platform","label":"OPEN_LEARNING"}
+{"text":"Can I access my database modelling resources?","label":"OPEN_LEARNING"}
+{"text":"Show me how to apply network architecture","label":"OPEN_LEARNING"}
+{"text":"Can I access my network architecture resources?","label":"OPEN_LEARNING"}
+{"text":"Open the network architecture section for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about network security","label":"OPEN_LEARNING"}
+{"text":"Show me my network progress","label":"OPEN_LEARNING"}
+{"text":"Open the network section for me","label":"OPEN_LEARNING"}
+{"text":"Can I access my network design resources?","label":"OPEN_LEARNING"}
+{"text":"Open the network centre for me","label":"OPEN_LEARNING"}
+{"text":"Can I access my project management resources?","label":"OPEN_LEARNING"}
+{"text":"Open the project management section for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about quality assurance","label":"OPEN_LEARNING"}
+{"text":"Show me my quality progress","label":"OPEN_LEARNING"}
+{"text":"Open the quality section for me","label":"OPEN_LEARNING"}
+{"text":"Can I access my release resources?","label":"OPEN_LEARNING"}
+{"text":"Open the release centre for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to apply risk management","label":"OPEN_LEARNING"}
+{"text":"Can I access my risk management resources?","label":"OPEN_LEARNING"}
+{"text":"Open the risk management section for me","label":"OPEN_LEARNING"}
+{"text":"I want to learn more about service design","label":"OPEN_LEARNING"}
+{"text":"Show me my service progress","label":"OPEN_LEARNING"}
+{"text":"Open the service section for me","label":"OPEN_LEARNING"}
+{"text":"Can I access my service modelling resources?","label":"OPEN_LEARNING"}
+{"text":"Open the service centre for me","label":"OPEN_LEARNING"}
+{"text":"Open Learning Centre please","label":"OPEN_LEARNING"}
+{"text":"Can you take me to the learning area?","label":"OPEN_LEARNING"}
+{"text":"I'd like to access my learning modules now","label":"OPEN_LEARNING"}
+{"text":"Go to the learning section for me","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Go to the learning resources now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning modules?","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning pathway","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre for me please","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me","label":"OPEN_LEARNING"}
+{"text":"Open my learning modules now","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and continue learning","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning modules?","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start learning","label":"OPEN_LEARNING"}
+{"text":"Open my learning resources now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning modules?","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning resources now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Open my learning resources now","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning modules?","label":"OPEN_LEARNING"}
+{"text":"Open my learning resources now","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Open my learning resources now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning modules?","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Open my learning resources now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning modules?","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Open my learning modules now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning resources now","label":"OPEN_LEARNING"}
+{"text":"Open my learning resources now","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning modules?","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Open my learning modules now","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning modules?","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Open my learning modules now","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning resources now","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning modules?","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Open my learning resources now","label":"OPEN_LEARNING"}
+{"text":"Go to the learning resources now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Open my learning resources now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning resources now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre and start exploring","label":"OPEN_LEARNING"}
+{"text":"Show me how to launch the learning section","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre please","label":"OPEN_LEARNING"}
+{"text":"Show me where I can learn more","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section for me please","label":"OPEN_LEARNING"}
+{"text":"Open my learning modules now","label":"OPEN_LEARNING"}
+{"text":"Launch the learning portal for me please","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning section now","label":"OPEN_LEARNING"}
+{"text":"Show me my current learning status","label":"OPEN_LEARNING"}
+{"text":"Launch the learning programme","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning resources?","label":"OPEN_LEARNING"}
+{"text":"Can I start a new learning session?","label":"OPEN_LEARNING"}
+{"text":"Open the learning dashboard","label":"OPEN_LEARNING"}
+{"text":"Launch the learning centre","label":"OPEN_LEARNING"}
+{"text":"Open the learning toolkits","label":"OPEN_LEARNING"}
+{"text":"Start a new learning journey","label":"OPEN_LEARNING"}
+{"text":"Show me the latest learning updates","label":"OPEN_LEARNING"}
+{"text":"Launch the learning centre now","label":"OPEN_LEARNING"}
+{"text":"Open the learning resources portal","label":"OPEN_LEARNING"}
+{"text":"Open the learning analytics","label":"OPEN_LEARNING"}
+{"text":"Open the learning community forum","label":"OPEN_LEARNING"}
+{"text":"Launch the learning gamification","label":"OPEN_LEARNING"}
+{"text":"Open the learning newsletter","label":"OPEN_LEARNING"}
+{"text":"Start a new learning chapter","label":"OPEN_LEARNING"}
+{"text":"Show me the latest learning news and updates","label":"OPEN_LEARNING"}
+{"text":"Launch the learning centre application","label":"OPEN_LEARNING"}
+{"text":"Can I access my learning materials and resources?","label":"OPEN_LEARNING"}
+{"text":"Open the learning centre today","label":"OPEN_LEARNING"}
+{"text":"Start a new learning project","label":"OPEN_LEARNING"}
+{"text":"Show me the latest learning offers and promotions","label":"OPEN_LEARNING"}
+{"text":"Launch the learning centre now","label":"OPEN_LEARNING"}
+{"text":"Open Learning Centre","label":"OPEN_LEARNING"}
+{"text":"Take me to learning space","label":"OPEN_LEARNING"}
+{"text":"Go to learning section","label":"OPEN_LEARNING"}
+{"text":"Launch learning module","label":"OPEN_LEARNING"}
+{"text":"Start learning now pls","label":"OPEN_LEARNING"}
+{"text":"Go to the learning centre hub","label":"OPEN_LEARNING"}
+{"text":"Open up my learning page","label":"OPEN_LEARNING"}
+{"text":"Show me learning content","label":"OPEN_LEARNING"}
+{"text":"Launch my learning journey","label":"OPEN_LEARNING"}
+{"text":"Go to the learning section now","label":"OPEN_LEARNING"}
+{"text":"Open learning centre","label":"OPEN_LEARNING"}
+{"text":"Take me to my learning content","label":"OPEN_LEARNING"}
+{"text":"Show me where to start learning","label":"OPEN_LEARNING"}
+{"text":"Launch the learning section pls","label":"OPEN_LEARNING"}
+{"text":"Go to the learning pathway now","label":"OPEN_LEARNING"}
+{"text":"Open up my study space","label":"OPEN_LEARNING"}
+{"text":"Open Learning Centre","label":"OPEN_LEARNING"}
+{"text":"Take me to the Learning Hub","label":"OPEN_LEARNING"}
+{"text":"Go to the Learning Resource Centre","label":"OPEN_LEARNING"}
+{"text":"I want to access the Learning Pathway","label":"OPEN_LEARNING"}
+{"text":"Launch my learning experience","label":"OPEN_LEARNING"}
+{"text":"Show me where I am in my learning journey","label":"OPEN_LEARNING"}
+{"text":"Take me to the learning centre","label":"OPEN_LEARNING"}
+{"text":"Can I launch the learning section now?","label":"OPEN_LEARNING"}
