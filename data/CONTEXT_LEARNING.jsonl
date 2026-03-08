@@ -5788,3 +5788,33 @@
 {"text":"What happens when I fail to meet the requirements of a module?","label":"CONTEXT_LEARNING"}
 {"text":"Why is the next step after completing Fundamentals not available yet?","label":"CONTEXT_LEARNING"}
 {"text":"Can I unlock specific capabilities through learning?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the progress bar works?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get access to the portfolio builder?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock the next course until I’ve completed x,y,z?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know what bites are available to me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see all the available courses at once?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get more virtual money to start with?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access certain features until I’ve completed x,y,z?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how my progress affects my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset a locked module?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next lesson until I’ve completed this specific task?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in the portfolio builder?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock access to advanced features?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I see my overall progress until I’ve completed x,y,z?","label":"CONTEXT_LEARNING"}
+{"text":"How do I get feedback on my performance?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I progress until I’ve completed all the required tasks?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How can I unlock the tool graph?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the full wallet balance after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to complete to progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Will I be able to view my progress on the dashboard after unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
