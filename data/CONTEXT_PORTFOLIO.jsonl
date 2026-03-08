@@ -5908,3 +5908,33 @@
 {"text":"What’s the best way to track my profit or money made on specific asset / shares?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I export my portfolio data in CSV format?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I tried to add an asset / shares with a value lower than zero, what happens?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m new to this, how do I start using the portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between different portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum amount of money needed to create a new portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I added a share but it’s not showing in my portfolio, what do I need to do?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many asset shares can I add at once?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value is showing more money than I actually have, why is that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company to add to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to sort my asset shares alphabetically, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add any more asset shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I create a new portfolio with a specific company in it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have multiple portfolios at the same time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure what type of graph to use, can you help me choose?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the maximum amount of money that can be invested in one portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I edit an asset share’s allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did my portfolio value drop suddenly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many graphs/charts can I add to one portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete a graph from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet shows more money than the amount in my bank account, what’s going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I find out the current price of a specific asset share?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I sort my asset shares by value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add a company that’s not listed in your portfolio manager?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the current profit made on my investment?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when my portfolio needs to be rebalanced?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see a breakdown of how much money was made from each asset share?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why did the value of my wallet go down despite me not selling any shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have different types of graphs/charts for different portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m having trouble finding a specific asset share in my portfolio, can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the total value of all my asset shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I get a summary of my portfolio’s performance over time?","label":"CONTEXT_PORTFOLIO"}
