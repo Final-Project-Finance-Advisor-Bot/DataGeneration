@@ -5938,3 +5938,33 @@
 {"text":"How does the learning centre prepare me for more advanced topics?","label":"CONTEXT_LEARNING"}
 {"text":"What’s the purpose of the completion requirement in this bite?","label":"CONTEXT_LEARNING"}
 {"text":"I’m unsure about the relationship between bites and quizzes – can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review my progress on the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites are required for each course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I skip a lesson in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"What is the next step after completing a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites before accessing certain rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress on the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and re-do a quiz if I don’t pass?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have to complete all courses in a specific order?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the portfolio tool without completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What is the reward for completing a certain number of bites?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolios as I progress?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish all knowledge checks before unlocking more bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review my quiz results at any time?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between bites and rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I’m ready for a new course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have to complete all quizzes in each bite before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"Can I track my wallet growth throughout the learning system?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of the capability unlock engine?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete a certain number of bites before accessing advanced tools?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional features as I progress through the system?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my performance across different courses?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have to complete all learning bites in a specific order?","label":"CONTEXT_LEARNING"}
