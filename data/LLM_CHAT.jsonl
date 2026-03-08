@@ -5878,3 +5878,33 @@
 {"text":"I'm thinking of putting some money into the stock market, but I've never invested before. Is that a bad idea?","label":"LLM_CHAT"}
 {"text":"I just heard about something called compound interest and I'm not really sure how it works. Can you explain it in simple terms?","label":"LLM_CHAT"}
 {"text":"My friend says that the best way to invest is to diversify, but I'm not sure what that means in practice. Can you give me an example?","label":"LLM_CHAT"}
+{"text":"How does compound interest work? I feel like it's one of those magic formulas that'll make me rich","label":"LLM_CHAT"}
+{"text":"Is it better to put my money in a high-interest savings account or invest in the stock market?","label":"LLM_CHAT"}
+{"text":"Is it true that inflation will ruin my pension in the future? I've been saving for years, but now I'm worried about what might happen to my money","label":"LLM_CHAT"}
+{"text":"What's the difference between a market correction and a bear market? I feel like they're being used interchangeably, but I'm not sure why","label":"LLM_CHAT"}
+{"text":"Can you give me some tips on how to avoid getting scammed by investment companies? I've heard horror stories about people losing money to unscrupulous firms","label":"LLM_CHAT"}
+{"text":"How does interest rate changes affect the economy? I feel like it's always something, but I don't really understand what's happening","label":"LLM_CHAT"}
+{"text":"I'm trying to decide whether to pay off my mortgage or invest my money elsewhere. What's the best decision? I feel like it's a tough choice, but I want to make sure I'm doing what's right for me","label":"LLM_CHAT"}
+{"text":"Can you tell me more about negative gearing in property investing? Is it really worth it or is it just a recipe for disaster?","label":"LLM_CHAT"}
+{"text":"What is a credit union, and are they a good option for saving money or investing? I'm not sure what the difference is between them and banks","label":"LLM_CHAT"}
+{"text":"Can you give me some tips on how to avoid fees when investing in the stock market? There seem like there's always something to pay, but I want to make sure I'm minimizing my costs","label":"LLM_CHAT"}
+{"text":"Can you explain what a leveraged investment is, and how does it work? Is it really as dangerous as everyone says?","label":"LLM_CHAT"}
+{"text":"Can you give me some tips on how to create a budget that includes savings and investments? I feel like I'm always struggling to get it right, but I want to make sure I'm doing what's best for my money","label":"LLM_CHAT"}
+{"text":"I'm trying to decide whether to invest in a company that's doing well financially, or one that's struggling. What are the pros and cons of each approach?","label":"LLM_CHAT"}
+{"text":"Can you give me some tips on how to avoid emotional investing decisions? I feel like I always get caught up in the emotions of a particular stock or market trend","label":"LLM_CHAT"}
+{"text":"Can you give me some tips on how to create a long-term investment plan? I feel like I need to get started, but I don't know where to begin","label":"LLM_CHAT"}
+{"text":"I've heard of dollar-cost averaging, but how does it really work in practice?","label":"LLM_CHAT"}
+{"text":"Is saving more money each month better than trying to make more money through investments?","label":"LLM_CHAT"}
+{"text":"I feel like I'm missing out on something if I don't invest","label":"LLM_CHAT"}
+{"text":"Can you explain what a 'market correction' is in simple terms?","label":"LLM_CHAT"}
+{"text":"I've heard that some people invest for the long term, but how does that really work in reality?","label":"LLM_CHAT"}
+{"text":"What's the difference between a stock market crash and a recession?","label":"LLM_CHAT"}
+{"text":"I've been thinking of investing in some cryptocurrency, but I'm not sure if it's for me","label":"LLM_CHAT"}
+{"text":"Is investing always better than saving money, or are there situations where saving is preferred?","label":"LLM_CHAT"}
+{"text":"Can you tell me a joke about money to brighten up my day?","label":"LLM_CHAT"}
+{"text":"Hi, how's it going? I just wanted to chat about something","label":"LLM_CHAT"}
+{"text":"What's the best way to figure out if investing is right for me?","label":"LLM_CHAT"}
+{"text":"I just read that interest rates are going to rise next year - what does that mean for savers?","label":"LLM_CHAT"}
+{"text":"I'm thinking of putting my money into real estate, but I'm not sure if it's worth the hassle","label":"LLM_CHAT"}
+{"text":"I don't understand why some people invest for the long term and others prefer to cash out when they need the money","label":"LLM_CHAT"}
+{"text":"I'm not sure I fully understand how inflation works, can you explain it in simple terms?","label":"LLM_CHAT"}
