@@ -5638,3 +5638,33 @@
 {"text":"Do I need to complete a certain number of bites before unlocking advanced features?","label":"CONTEXT_LEARNING"}
 {"text":"What happens if I fail this knowledge check multiple times?","label":"CONTEXT_LEARNING"}
 {"text":"Can you walk me through how to use the reward preview feature?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after a full-screen mode?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How can I view my current wallet balance in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"What is the purpose of this bite and how does it contribute to overall progression?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress percentage for each course in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it that I can’t access certain features yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio slots after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"What are the rewards that I will receive after completing this bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the Learning Centre works?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I see any graphs or tools yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which course to start with first?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between a mastery quiz and a knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my overall wallet balance after completing all courses?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional capabilities or features in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it that certain bites are locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a full course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see my progress towards unlocking rewards?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson or bite to start with next?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the learning pathway structured in this way?","label":"CONTEXT_LEARNING"}
+{"text":"What are the benefits of completing all courses before unlocking rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain how the system tracks progress and completion?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional portfolio capacity after completing a course?","label":"CONTEXT_LEARNING"}
+{"text":"Why is it that certain tools or graphs are unlocked at specific progression stages?","label":"CONTEXT_LEARNING"}
