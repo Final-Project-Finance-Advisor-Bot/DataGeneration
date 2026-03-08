@@ -5638,3 +5638,33 @@
 {"text":"I don't understand why some investments have such high fees. Can you explain how that works?","label":"LLM_CHAT"}
 {"text":"I'm considering starting a pension, but I'm not sure if I'll be able to afford it long term. Can you explain how pensions work?","label":"LLM_CHAT"}
 {"text":"I'm thinking of investing in a pension scheme, but I'm not sure if it's worth it long term","label":"LLM_CHAT"}
+{"text":"How does compound interest work? I've heard it's a big advantage over time.","label":"LLM_CHAT"}
+{"text":"Can you explain why the pound is falling against the dollar?","label":"LLM_CHAT"}
+{"text":"Is it true that investing in property can be a good long-term investment?","label":"LLM_CHAT"}
+{"text":"How does a bond work? Is it like a loan?","label":"LLM_CHAT"}
+{"text":"I'm not sure if I should invest in a tracker fund or a targeted fund.","label":"LLM_CHAT"}
+{"text":"What's the difference between a stock market index and a tracking fund?","label":"LLM_CHAT"}
+{"text":"I'm looking for a low-risk way to save money, what are my options?","label":"LLM_CHAT"}
+{"text":"Can you explain how a tax-efficient investment works?","label":"LLM_CHAT"}
+{"text":"Is investing in a SIPP right for me?","label":"LLM_CHAT"}
+{"text":"What's the difference between a savings account and a cash ISA?","label":"LLM_CHAT"}
+{"text":"Can you explain what an ETF is? How does it work?","label":"LLM_CHAT"}
+{"text":"I'm not sure if I should invest in a fund that tracks the market or a specific company.","label":"LLM_CHAT"}
+{"text":"Can you explain what diversification means in investing?","label":"LLM_CHAT"}
+{"text":"How does interest rates affect the economy?","label":"LLM_CHAT"}
+{"text":"example message","label":"LLM_CHAT"}
+{"text":"I'm trying to understand the difference between bonds and shares. Can you explain that in simple terms?","label":"LLM_CHAT"}
+{"text":"I heard that inflation can be a good thing for investors. Is that really the case?","label":"LLM_CHAT"}
+{"text":"I'm not sure what kind of asset would be best for me to invest in. Can you suggest some options?","label":"LLM_CHAT"}
+{"text":"I'm trying to decide between a fixed-term and flexible ISA. Can you help me weigh up the pros and cons?","label":"LLM_CHAT"}
+{"text":"I've heard that investing in emerging markets can be riskier than other options. Is that true?","label":"LLM_CHAT"}
+{"text":"Can you tell me a bit about the UK's pension system and how it works?","label":"LLM_CHAT"}
+{"text":"I'm not sure what kind of tax relief I'm eligible for. Can you explain the rules to me?","label":"LLM_CHAT"}
+{"text":"I've been hearing about ETFs, but I'm not really sure what they are. Can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"I'm thinking of putting some money into a pension, but I'm not sure if it's worth it long term.","label":"LLM_CHAT"}
+{"text":"I've been reading about all the different types of investments and I'm feeling a bit overwhelmed.","label":"LLM_CHAT"}
+{"text":"Is it true that some people make more money from stocks than others? What's the difference between them?","label":"LLM_CHAT"}
+{"text":"I just heard about compound interest and I'm intrigued. Can you explain how it works in simple terms?","label":"LLM_CHAT"}
+{"text":"Market news can be so confusing - what's the difference between a bull market and a bear market?","label":"LLM_CHAT"}
+{"text":"I've got a bit of money saved up and I'm considering putting it into a savings account or investing. What would you recommend?","label":"LLM_CHAT"}
+{"text":"I'm thinking of putting some money aside each month, but I'm not sure if it's worth it. Is investing always better than just saving?","label":"LLM_CHAT"}
