@@ -5698,3 +5698,33 @@
 {"text":"How can I move from one module to another if I'm not ready for the next step?","label":"CONTEXT_LEARNING"}
 {"text":"Can I reset my progress without losing any rewards or points?","label":"CONTEXT_LEARNING"}
 {"text":"What is the learning system's goal for users who complete certain modules?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"Can I move on to the next lesson if I don't finish this one?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock the Fundamentals course yet?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what I need to do next in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites do I need to complete before I can move on to the next lesson?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress stuck on this bite?","label":"CONTEXT_LEARNING"}
+{"text":"What does the 'Continue' button do in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why I need to complete this module before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"How can I go back and review a previous bite if I got stuck?","label":"CONTEXT_LEARNING"}
+{"text":"What is the difference between 'Continue' and 'Review' in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to finish all bites before I can unlock the next course?","label":"CONTEXT_LEARNING"}
+{"text":"How does my progress affect what rewards are available to me?","label":"CONTEXT_LEARNING"}
+{"text":"Can you show me how to access my wallet balance in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this particular lesson or module important for my learning?","label":"CONTEXT_LEARNING"}
+{"text":"How can I ensure I understand each bite before moving on to the next one?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I complete a set of bites?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what my current progress is in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to have full mastery of one bite before moving on to another?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access a certain tool or feature until I complete this lesson?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning centre keep track of my progress and what I've completed?","label":"CONTEXT_LEARNING"}
+{"text":"What is the relationship between completing bites and unlocking new rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can you walk me through how to get back into a locked course if I forgot my login?","label":"CONTEXT_LEARNING"}
+{"text":"How do bites and quizzes in the learning centre work together to assess my understanding?","label":"CONTEXT_LEARNING"}
