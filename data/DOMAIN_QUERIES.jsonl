@@ -5698,3 +5698,33 @@
 {"text":"Can a portfolio be diversified by holding only shares from one particular stock category?","label":"DOMAIN_QUERIES"}
 {"text":"How does my Virtual wallet manage its cash reserve, and can I manually update the amount?","label":"DOMAIN_QUERIES"}
 {"text":"What is the relationship between profit and capital in a Financial Advisor Bot setup, and how do I optimize for maximum return on investment?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a ticker?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit relate to portfolio management?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how capital works in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What are shares in FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"What is a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"Can I link my asset to the Financial Advisor Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does profit work on FA Bot?","label":"DOMAIN_QUERIES"}
+{"text":"I have capital in my portfolio, how do I manage it?","label":"DOMAIN_QUERIES"}
+{"text":"What is a share in the context of the Financial Advisor Bot?","label":"DOMAIN_QUERIES"}
+{"text":"How does diversification work with different stock categories?","label":"DOMAIN_QUERIES"}
+{"text":"I want to track my ticker's performance on FA Bot, can you help?","label":"DOMAIN_QUERIES"}
+{"text":"What is the difference between a Cash Reserve and a Virtual wallet?","label":"DOMAIN_QUERIES"}
+{"text":"How does a ticker affect my profit?","label":"DOMAIN_QUERIES"}
+{"text":"What is a virtual wallet for?","label":"DOMAIN_QUERIES"}
+{"text":"Can I diversify my asset portfolio?","label":"DOMAIN_QUERIES"}
+{"text":"How do I use the cash reserve feature?","label":"DOMAIN_QUERIES"}
+{"text":"What is a stock category exactly?","label":"DOMAIN_QUERIES"}
+{"text":"Can I share my portfolio with someone?","label":"DOMAIN_QUERIES"}
+{"text":"How does capital work in the system?","label":"DOMAIN_QUERIES"}
+{"text":"What is a portfolio manager role?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use my shares to make a profit?","label":"DOMAIN_QUERIES"}
+{"text":"How do I manage risk in my asset allocation?","label":"DOMAIN_QUERIES"}
+{"text":"What is the purpose of a financial advisor bot?","label":"DOMAIN_QUERIES"}
+{"text":"Can I transfer funds from one virtual wallet to another?","label":"DOMAIN_QUERIES"}
+{"text":"Can I set up automatic capital allocation?","label":"DOMAIN_QUERIES"}
+{"text":"Can I use my financial advisor bot to make trades?","label":"DOMAIN_QUERIES"}
+{"text":"How does a Virtual wallet work with shares?","label":"DOMAIN_QUERIES"}
+{"text":"What is the relationship between diversification and portfolio management?","label":"DOMAIN_QUERIES"}
+{"text":"Can you explain how profit is calculated on a financial advisor platform?","label":"DOMAIN_QUERIES"}
+{"text":"How does a ticker fit into an asset's overall performance calculation?","label":"DOMAIN_QUERIES"}
