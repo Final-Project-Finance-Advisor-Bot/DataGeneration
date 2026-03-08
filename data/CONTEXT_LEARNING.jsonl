@@ -5818,3 +5818,33 @@
 {"text":"Can I access the full wallet balance after completing a bite?","label":"CONTEXT_LEARNING"}
 {"text":"What do I need to complete to progress in the learning centre?","label":"CONTEXT_LEARNING"}
 {"text":"Will I be able to view my progress on the dashboard after unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the Fundamentals course still locked for me?","label":"CONTEXT_LEARNING"}
+{"text":"How do I move from Learn the Application to Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next after passing this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the reward preview for Fundamentals yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to unlock the next bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What does this completion requirement mean for my Fundamentals progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet still at £100 after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete the required quiz in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Can I access the Portfolio Manager once I’ve completed Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I progress from Learn the Application to Fundamentals after completing a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock the next part of Fundamentals yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I reset my progress if I get stuck on a bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in Learn the Application before unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"What are the next steps after completing Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress tracker stuck on 0% for Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"How do I access the tool preview in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I don’t complete a quiz in Fundamentals within a certain timeframe?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo my progress after completing a bite in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"How do I see what I’ve completed so far in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I unlock my next reward in Fundamentals yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in Learn the Application before unlocking the Portfolio Manager?","label":"CONTEXT_LEARNING"}
+{"text":"What does this message mean for my Fundamentals progress?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my wallet balance after completing a bite in Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet still at £0 after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"What are the requirements to unlock the Portfolio Manager?","label":"CONTEXT_LEARNING"}
