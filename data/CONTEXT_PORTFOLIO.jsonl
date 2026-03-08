@@ -5758,3 +5758,33 @@
 {"text":"I tried to sort my assets by market value but got an error, what’s going on?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I have a portfolio with different types of assets (e.g. shares, bonds)?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How do I view the performance of each asset in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm new to portfolio management, can you tell me how to get started?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add another share but it won’t let me. Can I increase the limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet shows £1000 but I only deposited £500. Where's the rest of my money going?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new portfolio, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios easily? Can you show me how?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset / shares to my portfolio? Can I just type in the company name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I see that the <company> value has dropped. Is this normal?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value change even when I don’t touch it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I organise my asset / shares by type or market cap? How do I sort them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to delete a graph/chart but the option was gone. Can I add more?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the minimum amount of money needed to create a new portfolio? Is there a limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I search for a company to add to my portfolio? Can I filter by type or sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my profit only show £500 when I know I have more? Is this just an estimate?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an asset / shares from my portfolio? How do I do it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to add another graph/chart but the option is not visible. Can I upgrade?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How many asset / shares can I hold in one portfolio? Is there a limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios with different settings? How do I switch between them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I see that my wallet value has dropped. Can you show me the transaction history?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio only show £2000 when I know I have more? Is this just a bug?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add asset / shares directly from the company website? How do I do it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to create a new portfolio but got an error message. Can you help me troubleshoot?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs/charts can I have in my portfolio? Are there any limitations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I add more than one asset / shares from the same company to my portfolio? How do I do it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio shows an error message. Can you explain what this means?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to sort my asset / shares by market cap, can you show me how?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I view the transaction history for my wallet? How do I access it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my portfolio value drop when I don’t touch it? Is this normal?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to create a new asset / shares allocation, can you guide me through the process?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an entire company from my portfolio? How do I do it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio shows a strange error message. Can you help me fix this?","label":"CONTEXT_PORTFOLIO"}
