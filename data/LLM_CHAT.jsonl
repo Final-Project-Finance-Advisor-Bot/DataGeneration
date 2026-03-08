@@ -5908,3 +5908,33 @@
 {"text":"I'm thinking of putting my money into real estate, but I'm not sure if it's worth the hassle","label":"LLM_CHAT"}
 {"text":"I don't understand why some people invest for the long term and others prefer to cash out when they need the money","label":"LLM_CHAT"}
 {"text":"I'm not sure I fully understand how inflation works, can you explain it in simple terms?","label":"LLM_CHAT"}
+{"text":"What's the best way to keep track of my investments?","label":"LLM_CHAT"}
+{"text":"I've heard that dividend investing is a good strategy, but I'm not sure if it's right for me.","label":"LLM_CHAT"}
+{"text":"How does inflation affect my savings over the long term?","label":"LLM_CHAT"}
+{"text":"Is investing in real estate a good idea for beginners?","label":"LLM_CHAT"}
+{"text":"What's the best way to find reliable sources of financial news?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bond and a stock?","label":"LLM_CHAT"}
+{"text":"What's the impact of economic growth on individual investments?","label":"LLM_CHAT"}
+{"text":"What's the best way to diversify my portfolio for maximum returns?","label":"LLM_CHAT"}
+{"text":"Can you explain what risk management is in the context of investments?","label":"LLM_CHAT"}
+{"text":"How does inflation affect fixed income investments like bonds?","label":"LLM_CHAT"}
+{"text":"Can you explain what is meant by 'liquidity' in investments?","label":"LLM_CHAT"}
+{"text":"How does the stock market work in terms of supply and demand?","label":"LLM_CHAT"}
+{"text":"Can you explain what is meant by 'sector rotation' in investing?","label":"LLM_CHAT"}
+{"text":"How does interest on savings accounts compare to other types of investments?","label":"LLM_CHAT"}
+{"text":"Can you explain what is meant by 'rebalancing' in investing?","label":"LLM_CHAT"}
+{"text":"How does taxation affect investment returns in the UK?","label":"LLM_CHAT"}
+{"text":"Can you explain what is meant by 'asset allocation' in investing?","label":"LLM_CHAT"}
+{"text":"How does inflation affect long-term fixed-income investments like bonds in the UK?","label":"LLM_CHAT"}
+{"text":"Can you explain what is meant by 'fee structuring' in investing?","label":"LLM_CHAT"}
+{"text":"How does taxation affect investment returns in the UK?","label":"LLM_CHAT"}
+{"text":"Can you explain what is meant by 'inflation-indexed instruments' in investing?","label":"LLM_CHAT"}
+{"text":"How does GDP growth affect individual investment returns in the UK?","label":"LLM_CHAT"}
+{"text":"Can you explain what is meant by 'sector rotation' in investing?","label":"LLM_CHAT"}
+{"text":"I'm thinking of switching to a different savings account, what's the best way to compare options?","label":"LLM_CHAT"}
+{"text":"Can you explain compound interest to me like I'm five?","label":"LLM_CHAT"}
+{"text":"Is it normal for investments to go down sometimes and then come back up later?","label":"LLM_CHAT"}
+{"text":"What's the difference between a bond and a share? Which one is more stable?","label":"LLM_CHAT"}
+{"text":"I'm not sure what type of investment is best for me, can you recommend something for beginners?","label":"LLM_CHAT"}
+{"text":"Does everyone have a pension or are there other options available for retirement savings?","label":"LLM_CHAT"}
+{"text":"I'm not sure what's causing it, but my savings account balance seems to be decreasing every month. Is that normal?","label":"LLM_CHAT"}
