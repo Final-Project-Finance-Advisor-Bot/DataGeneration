@@ -5878,3 +5878,33 @@
 {"text":"How do I save my progress in the system?","label":"CONTEXT_LEARNING"}
 {"text":"Can I see which bites I've completed in Learn the Application?","label":"CONTEXT_LEARNING"}
 {"text":"Why am I seeing this completion requirement for Fundamentals of Finance?","label":"CONTEXT_LEARNING"}
+{"text":"example message","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this bite still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"I just passed the knowledge check, what's next?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move to the next lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off in this module?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next step after completing this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review my progress before continuing?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all the requirements for Fundamentals to unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the requirements?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between passing and failing this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to retake this quiz if I fail?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access this lesson yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress before continuing?","label":"CONTEXT_LEARNING"}
+{"text":"How do I mark a question as correct in the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I need help with a question?","label":"CONTEXT_LEARNING"}
+{"text":"Do I have enough funds to continue?","label":"CONTEXT_LEARNING"}
+{"text":"Can I undo my last action?","label":"CONTEXT_LEARNING"}
+{"text":"Why did my progress reset?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed all the requirements for a bite?","label":"CONTEXT_LEARNING"}
+{"text":"What's the purpose of this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all bites in Fundamentals to unlock it?","label":"CONTEXT_LEARNING"}
+{"text":"Can I prioritize which lessons to complete first?","label":"CONTEXT_LEARNING"}
+{"text":"How do I switch between different learning pathways?","label":"CONTEXT_LEARNING"}
+{"text":"What's the difference between a locked and unlocked course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to complete all requirements for Fundamentals before unlocking it?","label":"CONTEXT_LEARNING"}
