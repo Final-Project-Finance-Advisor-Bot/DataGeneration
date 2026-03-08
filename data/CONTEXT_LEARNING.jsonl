@@ -5908,3 +5908,33 @@
 {"text":"How do I switch between different learning pathways?","label":"CONTEXT_LEARNING"}
 {"text":"What's the difference between a locked and unlocked course?","label":"CONTEXT_LEARNING"}
 {"text":"Do I need to complete all requirements for Fundamentals before unlocking it?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"Can I get a hint for this quiz question?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite should I complete next?","label":"CONTEXT_LEARNING"}
+{"text":"I’m stuck on this part – how do I continue?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know if I need to retake the quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does the ‘Finish’ button mean in this module?","label":"CONTEXT_LEARNING"}
+{"text":"I completed all bites – what’s next?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain why my progress is being reset?","label":"CONTEXT_LEARNING"}
+{"text":"How do I unlock additional learning bites?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the next module yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to be fully completed on a bite before moving on?","label":"CONTEXT_LEARNING"}
+{"text":"How do rewards work in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the point of the completion requirement here?","label":"CONTEXT_LEARNING"}
+{"text":"I’m not sure about this – can you help me?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance increasing?","label":"CONTEXT_LEARNING"}
+{"text":"How does progress affect rewards in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my scores to others who completed this bite?","label":"CONTEXT_LEARNING"}
+{"text":"I’m unsure about how the bites fit together – can you explain?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the relationship between bites, quizzes, and completion requirements?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Can I see how much I still need to learn on this topic?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move forward if I haven’t completed a bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning centre help with knowledge mastery?","label":"CONTEXT_LEARNING"}
+{"text":"What are some common mistakes people make in this module?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what my strengths and weaknesses are?","label":"CONTEXT_LEARNING"}
+{"text":"I’m stuck on a specific topic – can you help with that?","label":"CONTEXT_LEARNING"}
+{"text":"How does the learning centre prepare me for more advanced topics?","label":"CONTEXT_LEARNING"}
+{"text":"What’s the purpose of the completion requirement in this bite?","label":"CONTEXT_LEARNING"}
+{"text":"I’m unsure about the relationship between bites and quizzes – can you explain?","label":"CONTEXT_LEARNING"}
