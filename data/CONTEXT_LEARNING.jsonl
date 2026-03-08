@@ -5758,3 +5758,33 @@
 {"text":"Can you explain how my wallet balance changes when I complete courses?","label":"CONTEXT_LEARNING"}
 {"text":"How do I know which bites to complete next based on my progress?","label":"CONTEXT_LEARNING"}
 {"text":"What does it mean when a bite is marked as ‘locked’ in the Learning Centre?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this module still locked?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which bite do I need to complete next?","label":"CONTEXT_LEARNING"}
+{"text":"How do I continue from where I left off?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I move to the next bite yet?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to complete this quiz?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next?","label":"CONTEXT_LEARNING"}
+{"text":"Why can’t I access the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What's my current progress in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Can I review what I've completed so far?","label":"CONTEXT_LEARNING"}
+{"text":"How many bites do I need to complete before unlocking Fundamentals?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the quiz for this bite not letting me progress?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and re-do a knowledge check if I fail?","label":"CONTEXT_LEARNING"}
+{"text":"What's the next step after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my wallet balance reset after each bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I redeem my rewards?","label":"CONTEXT_LEARNING"}
+{"text":"Can I compare my portfolio to others in the system?","label":"CONTEXT_LEARNING"}
+{"text":"What's the point of completing all the bites in Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my progress stuck on this bite?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know when I've completed a module?","label":"CONTEXT_LEARNING"}
+{"text":"Can I save my progress and come back later?","label":"CONTEXT_LEARNING"}
+{"text":"What's the benefit of unlocking Fundamentals after completing Learn the Application?","label":"CONTEXT_LEARNING"}
+{"text":"Why is my learning centre locked until I complete a module?","label":"CONTEXT_LEARNING"}
+{"text":"How do I trigger a completion notification for a bite?","label":"CONTEXT_LEARNING"}
+{"text":"Can I view my overall progress in the system?","label":"CONTEXT_LEARNING"}
+{"text":"What happens when I fail to meet the requirements of a module?","label":"CONTEXT_LEARNING"}
+{"text":"Why is the next step after completing Fundamentals not available yet?","label":"CONTEXT_LEARNING"}
+{"text":"Can I unlock specific capabilities through learning?","label":"CONTEXT_LEARNING"}
