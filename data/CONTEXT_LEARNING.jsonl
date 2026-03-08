@@ -5968,3 +5968,33 @@
 {"text":"How do I unlock additional features as I progress through the system?","label":"CONTEXT_LEARNING"}
 {"text":"Can I compare my performance across different courses?","label":"CONTEXT_LEARNING"}
 {"text":"Do I have to complete all learning bites in a specific order?","label":"CONTEXT_LEARNING"}
+{"text":"What do I need to finish before Fundamentals unlocks?","label":"CONTEXT_LEARNING"}
+{"text":"Why is this bite still locked?","label":"CONTEXT_LEARNING"}
+{"text":"How can I move on from this knowledge check?","label":"CONTEXT_LEARNING"}
+{"text":"Which lesson should I do next after completing the introduction to learning pathways?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and re-do a previous quiz if I didn't pass it?","label":"CONTEXT_LEARNING"}
+{"text":"What does this reward preview mean for my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I know which lesson to do next after completing the Fundamentals of Finance course?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me what's required to complete the entire learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need full marks to progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I access the Portfolio Builder until I finish the Fundamentals course?","label":"CONTEXT_LEARNING"}
+{"text":"What does this locked section mean for my wallet balance?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you explain what's meant by ' bites' in the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I fail a knowledge check in this module?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a series of quizzes before unlocking certain features?","label":"CONTEXT_LEARNING"}
+{"text":"Can I go back and review previous lessons or bites?","label":"CONTEXT_LEARNING"}
+{"text":"Why can't I move on to the next lesson until I've completed all previous ones?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how many more bites I need to complete before unlocking the Portfolio Manager course?","label":"CONTEXT_LEARNING"}
+{"text":"Do I need to maintain a certain wallet balance in order to access certain features?","label":"CONTEXT_LEARNING"}
+{"text":"What happens if I run out of simulated money while completing a bite or quiz?","label":"CONTEXT_LEARNING"}
+{"text":"How do the different learning bites and quizzes contribute to my overall progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask for help or clarification on a specific lesson or bite if I'm stuck?","label":"CONTEXT_LEARNING"}
+{"text":"What's the connection between completing this knowledge check and unlocking the next feature?","label":"CONTEXT_LEARNING"}
+{"text":"How does the FA Bot learning system ensure that users don't feel overwhelmed by the amount of information to learn?","label":"CONTEXT_LEARNING"}
+{"text":"Can I earn rewards or badges for completing specific tasks or achieving certain milestones in the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Why do I need to complete a series of lessons before being able to access advanced features like Portfolio Builder?","label":"CONTEXT_LEARNING"}
+{"text":"What does this locked section mean for my wallet balance and ability to progress through the learning pathway?","label":"CONTEXT_LEARNING"}
+{"text":"Can you tell me how my performance in one lesson affects my overall progress through the learning centre?","label":"CONTEXT_LEARNING"}
+{"text":"How do I track my progress towards completing all the required lessons or bites for a specific course?","label":"CONTEXT_LEARNING"}
+{"text":"Can I ask to review or re-do a previous bite if I feel I didn't do it correctly?","label":"CONTEXT_LEARNING"}
