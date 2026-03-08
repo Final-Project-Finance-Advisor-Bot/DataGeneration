@@ -5728,3 +5728,33 @@
 {"text":"I tried to add another share but it won’t let me because I haven’t added any shares yet. How do I start adding asset / shares?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Can I switch between portfolios if I have more than one created?","label":"CONTEXT_PORTFOLIO"}
 {"text":"I can see the Apple company but I don’t know how to add it to my portfolio, what’s the first step?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create multiple portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I add a new asset to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why can’t I add more shares?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the minimum amount of money required to create a portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I switch between portfolios?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I sort my asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My wallet value dropped today, what happened?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to delete an asset but got an error","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see the total value of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I edit an asset’s allocation in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can’t find a company to add to my portfolio, is it listed somewhere else?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I search for a specific company by name or ticker?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What type of graphs/charts can I have in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I want to limit the number of asset shares I can hold, how do I do that?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I delete an entire asset from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view my profit or money made in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does my wallet value keep changing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I see how much each asset is contributing to my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to add a new asset but it said the limit has been reached, what’s the limit?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I organise my asset shares by market value or name?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What is the difference between a portfolio and an account?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I create a new portfolio with a specific investment goal in mind?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I can see the company but I don’t know how to add it, what’s the next step?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I export my portfolio data?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I set up automatic investments for a regular amount of money?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Why does the asset price keep fluctuating?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I tried to sort my assets by market value but got an error, what’s going on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can I have a portfolio with different types of assets (e.g. shares, bonds)?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I view the performance of each asset in my portfolio?","label":"CONTEXT_PORTFOLIO"}
