@@ -91,7 +91,7 @@ hostname -I
 ---
 
 ## Cron Job - Automatic Git Synchronisation
-
+**This is optional, you can choose to manually push the jsonl lines once it has finised running**
 The cron workflow periodically commits generated dataset updates.
 
 The cron process:
@@ -194,12 +194,12 @@ Raw OpenAPI specification:
 
 ## Recommended Workflow
 
-1. Start coordinator server
-2. Start worker machines
+1. Start coordinator server (As shown above)
+2. Start worker machines (As shown below)
 3. Workers request jobs
 4. Workers generate JSONL batches
 5. Workers submit completed batches
-6. Cron job stages and pushes dataset updates automatically
+6. Cron job stages and pushes dataset updates automatically (Optional can be manually done once worker has completed all jobs)
 
    ## Worker Usage Guide
 
@@ -265,6 +265,7 @@ The worker will terminate immediately if these variables are not provided.
 Navigate to the worker directory and start the process:
 
 ```bash
+cd workers
 node worker-start.js
 ```
 
@@ -338,6 +339,10 @@ Models are saved locally and may then be uploaded to Google Cloud Storage using 
 
 ---
 
+## Python version
+
+`3.13.1`
+
 ## Important Security Notice
 
 **Important – All Passwords and Credentials Are Provided Within the Coursera Submission**
@@ -347,8 +352,6 @@ Due to these repositories being publicly accessible, passwords, service account 
 All required credentials and access information necessary to run, deploy, or evaluate the system are therefore provided securely as part of the official Coursera submission materials.
 
 No credentials are stored in this repository.
-
-
 
 ---
 
@@ -364,7 +367,7 @@ Before running the Create Model service, ensure:
 ---
 
 ## Python Environment Setup
-Create a virtual environment:
+Create a virtual environment in they base directory:
 
 ```bash
 python -m venv venv
@@ -400,10 +403,10 @@ Multiple `.jsonl` files are supported. All files in `data/` are merged automatic
 
 ## Training the Model
 
-Navigate to the model-maker directory:
+Navigate to the ModelTrainingService directory:
 
 ```bash
-cd model-maker
+cd ModelTrainingService
 ```
 
 Run the training script:
