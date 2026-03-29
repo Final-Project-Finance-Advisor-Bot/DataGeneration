@@ -5497,3 +5497,303 @@
 {"text":"How's the performance of Tesco looking in terms of returns compared to where it was at the same time last year?","label":"CONTEXT_PORTFOLIO"}
 {"text":"Does this look like a good way to manage my portfolio's risk exposure with cash and other assets?","label":"CONTEXT_PORTFOLIO"}
 {"text":"How much has my portfolio gone up by in £?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made on my portfolio in the last year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've invested £10,000, how much has it increased to now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I sell Apple and put more money into Tesco?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of my portfolio's asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio performing better than last quarter?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've lost £500 on Amazon, is this a problem?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does diversifying my assets look like a good idea?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much do I need to invest in each asset for a balanced portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure if this is a good investment, what's your opinion?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Has my portfolio value gone up by £1000 recently?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I stick with Tesco or try Amazon?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I think one of my assets is doing badly, what should I do?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What's the best way to balance my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio value increasing at a good rate?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure if I've put too much into one company, what do you think?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does spreading my money out more look like a good idea?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is my portfolio performing compared to the market?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've invested £5000 in Apple, how's it doing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my asset allocation too concentrated?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made from my portfolio in the last month?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure if I should invest more or cut back, what's your advice?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does my portfolio look like it's performing well overall?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much has my portfolio increased by in the last year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I keep investing in Amazon or sell it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to diversify my investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is my portfolio performing compared to my income?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've lost £200 on Tesco, what should I do?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does my portfolio value look high or low?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made from my portfolio in the last quarter?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure if I should keep investing, what's your opinion?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my asset allocation too conservative?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is Amazon doing in my portfolio compared to the others?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does diversifying my assets look like a bad idea?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I think one of my investments is not performing well, what should I do?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made on my portfolio in the last 6 months?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I sell all my assets and invest in cash?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to rebalance my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is Tesco doing in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've invested £10000 in Apple, how's it doing now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is diversifying my assets a good idea for a beginner?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made from my portfolio this year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I sell all my investments and invest in cash?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my asset allocation too aggressive?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is Amazon doing compared to the rest of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure if I should keep investing in Tesco, what's your advice?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does this look like a good setup for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made on my portfolio over the last year compared to last quarter?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I diversify my investments further?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've lost £1000 on Amazon, what should I do?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to sell my assets and invest in cash?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is Tesco doing compared to Apple in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does diversifying my investments look like a bad idea for beginners?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure if I should keep investing, what's your opinion?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good setup for my portfolio over the next year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much has my portfolio increased by in the last 6 months compared to the last year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I invest more in Tesco or keep it at the same level?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I think one of my investments is not performing well, what should I do with it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made from my portfolio over the last 6 months compared to the last year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to sell some of my assets and invest in cash?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does diversifying my investments look like a good idea for beginners?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've invested £5000 in Amazon, how's it doing now compared to Tesco?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good setup for my portfolio over the next 6 months?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is Apple doing compared to the rest of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does diversifying my investments look like a bad idea?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure if I should sell some of my assets and invest in cash, what's your advice?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to rebalance my portfolio over the next 6 months?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much has my portfolio increased by in the last quarter compared to the last year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I keep investing in Tesco or diversify further?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I think one of my investments is not performing well, what should I do with it now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made from my portfolio over the last year compared to last quarter?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good setup for my portfolio over the next 12 months?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does diversifying my investments look like a good idea for beginners?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've lost £500 on Apple, what should I do with it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to sell all my assets and invest in cash over the next 6 months?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is Tesco doing compared to Amazon in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does diversifying my investments look like a bad idea for beginners?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure if I should invest more or cut back, what's your advice?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good setup for my portfolio over the next year compared to last quarter?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much has my portfolio increased by in the last 3 months?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I keep investing in Amazon or diversify further?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've invested £10000 in Tesco, how's it doing now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to rebalance my portfolio over the next 12 months?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is Apple doing compared to Tesco in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does diversifying my investments look like a bad idea?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I think one of my investments is not performing well, what should I do with it now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made from my portfolio over the last quarter compared to last year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good setup for my portfolio over the next 6 months?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does diversifying my investments look like a good idea for beginners?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I've lost £200 on Apple, what should I do with it now?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to sell all my assets and invest in cash over the next 12 months?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is Tesco doing compared to Amazon in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does diversifying my investments look like a bad idea for beginners?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I'm not sure if I should keep investing, what's your opinion?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good setup for my portfolio over the next year compared to last quarter?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made from my portfolio over the last 6 months compared to the last year?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made in pounds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of my portfolio overall?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I diversify what I’ve got here?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much has my portfolio gone up by in £?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is one of my assets dragging everything down?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I stay invested in Apple or not?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is Amazon doing in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does this look like a good setup?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My value went up but I don’t really understand why","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure if this is a good spread or not","label":"CONTEXT_PORTFOLIO"}
+{"text":"It feels like everything is going into one company","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much should I be putting into each asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio performing well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I spread my money out more?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I think one of my assets is doing badly but I’m not sure","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you recommend I do with my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I change allocations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is my portfolio value changing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does this look like a good time to invest?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure if I should sell or hold on","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made recently?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I invest more in Tesco?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to manage my risk?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio looking balanced?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is the performance of my assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I diversify across different asset classes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does this portfolio look diversified?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much have I increased my portfolio value by?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I take a more aggressive approach with my investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of my asset allocation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to rebalance my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is the overall performance of my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I invest in more established companies?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is there a risk that my portfolio will decline in value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I minimize losses in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be focusing on long-term growth or short-term gains?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to evaluate my portfolio performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good investment opportunity?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I make my portfolio more sustainable?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be considering ethical investing options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you recommend for a diversified portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a balanced portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I increase my portfolio value over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be focusing on passive investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to manage investment risk?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good portfolio for my financial goals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I make sure my investments are aligned with my values?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be considering tax implications when investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of this portfolio’s performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is there a risk that my investments will lose value?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I increase returns on my investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be focusing on dividend investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to monitor my portfolio performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to sell some assets and invest in others?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I make sure my investments are aligned with my risk tolerance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be considering inflation when making investment decisions?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you recommend for a conservative investor?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good portfolio for beginners?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I increase my investments over time?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be focusing on sustainable investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to rebalance my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is there a risk that my investments will become illiquid?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I make sure my investments are aligned with my financial goals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be considering emerging markets when investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of this investment opportunity?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to invest in new assets?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I increase my returns on investments?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be focusing on index fund investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to handle portfolio tax implications?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is there a risk that my investments will become over-diversified?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I make sure my investments are aligned with my investment horizon?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be considering impact investing options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you recommend for a portfolio of £100,000?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good investment strategy for beginners?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I increase my investments over the long-term?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be focusing on dividend-focused investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to evaluate portfolio performance regularly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is there a risk that my investments will lose value in the short-term?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I make sure my investments are aligned with my personal values?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be considering alternative investing options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of this investment’s potential for growth?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to rebalance my portfolio to 60/40?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I increase returns on investments over the long-term?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be focusing on sustainable investing with ESG criteria?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to handle portfolio liquidation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is there a risk that my investments will become over-invested in one sector?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I make sure my investments are aligned with my tax obligations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be considering alternative asset classes for investment?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of this portfolio’s risk level?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is there a risk that my investments will lose value due to inflation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I increase returns on investments in the short-term?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be focusing on real estate investing options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to monitor investment risk exposure?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to invest in gold or other precious metals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I make sure my investments are aligned with my financial goals and values?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be considering cryptocurrency investing options?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of this investment’s potential for growth over the next 5 years?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is there a risk that my investments will become illiquid in the short-term?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I increase returns on investments through active management?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be focusing on impact investing with ESG criteria?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to evaluate investment opportunities for sustainability?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is this a good time to rebalance my portfolio to 50/50?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I make sure my investments are aligned with my risk tolerance and investment horizon?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be considering alternative asset classes for hedging purposes?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of this portfolio’s risk profile?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is there a risk that my investments will lose value due to market fluctuations?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I increase returns on investments through diversification?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be focusing on sustainable investing with ESG criteria and impact investing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to handle portfolio performance evaluation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is there a risk that my investments will become over-hedged?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How can I make sure my investments are aligned with my financial goals and values, and risk tolerance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I be considering alternative asset classes for wealth preservation?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of this investment’s potential for growth in the long-term?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much profit have I made in pounds?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I invested £1000, how much has my portfolio gone up by in £?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I diversify what I’ve got here?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is Amazon doing in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure if this looks right, what do you think?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My value went up but I don’t really understand why","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does my portfolio look balanced?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how to read these charts, can you explain?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is one of my assets dragging everything down?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio looks uneven, is that a problem?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I’ve put too much into one company?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I get started with allocating my money?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think of my portfolio overall?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I invested in Apple, how’s it doing in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does this look like a good setup for my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How much should I be putting into each asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I don’t know if this is a good spread or not","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I stay invested in Tesco or not?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio value has gone up, but I’m not sure why","label":"CONTEXT_PORTFOLIO"}
+{"text":"How is my portfolio performing overall?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I think one of my assets is doing badly but I’m not sure","label":"CONTEXT_PORTFOLIO"}
+{"text":"Does my portfolio need a rebalance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is it okay to have more than 50% in one asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know if my investments are doing well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What’s the best way to diversify my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you show me how to use the charts to see what’s going on in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in one company, should I sell?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My portfolio looks like it needs some adjustment","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio doing better than the market average?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Amazon?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how to interpret these numbers","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when my portfolio is doing well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you recommend a different asset to replace one that’s not performing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"My value has gone up, but I don’t understand why","label":"CONTEXT_PORTFOLIO"}
+{"text":"Should I sell my shares in Apple or hold on?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in Tesco, should I sell?","label":"CONTEXT_PORTFOLIO"}
+{"text":"What do you think is the best way to manage risk in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when it’s time to rebalance my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you explain how the charts work and how to use them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio diversified enough?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Amazon because they’re doing poorly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in one asset, what’s the best way to manage it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know if my investments are worth holding on to?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you recommend a different portfolio setup for me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how to read these charts, can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio performing better than the market average?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Tesco because they’re doing poorly?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in Apple, what’s the best way to manage it?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when it’s time to take profits from my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you explain how the different assets are performing in my portfolio?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio doing well overall?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Amazon because they’re doing poorly and investing in a new company?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in one asset, what’s the best way to manage it and minimize risk?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know if my investments are worth holding on to and why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you recommend a different portfolio setup for me and explain how it works?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how to interpret these numbers, can you help me?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio performing better than the market average overall?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Tesco and invest in a new company?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in Apple, what’s the best way to manage it and make sure it performs well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when it’s time to take profits from my portfolio and why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you explain how to use the charts to see what’s going on in my portfolio and make informed decisions?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio diversified enough overall?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Amazon because they’re doing poorly, but invest in a new company that’s doing well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in one asset, what’s the best way to manage it and minimize risk and maximize returns?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know if my investments are worth holding on to and why, and how do I make informed decisions?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you recommend a different portfolio setup for me that takes into account my risk tolerance and investment goals?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how to interpret these numbers, can you help me understand what they mean and how to use them?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio performing better than the market average overall and why?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Tesco because they’re doing poorly, but invest in a new company that’s doing well and make sure it performs well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in Apple, what’s the best way to manage it, minimize risk and maximize returns, and make sure it performs well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when it’s time to take profits from my portfolio, why, and how do I make informed decisions?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you explain how to use the charts to see what’s going on in my portfolio and make informed decisions about investing and managing risk?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio diversified enough overall, and is that a good thing or a bad thing?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Amazon because they’re doing poorly and invest in a new company that’s doing well and make sure it performs well and maximizes returns?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in one asset, what’s the best way to manage it, minimize risk, maximize returns, and ensure it performs well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know if my investments are worth holding on to and why, and how do I make informed decisions about investing and managing risk?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you recommend a different portfolio setup for me that takes into account my risk tolerance and investment goals and explains how it works?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’m not sure how to interpret these numbers, can you help me understand what they mean and how to use them to make informed decisions?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio performing better than the market average overall and why and how do I know that it’s doing well?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Tesco because they’re doing poorly, but invest in a new company that’s doing well and make sure it performs well and maximizes returns and ensures it’s stable?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in Apple, what’s the best way to manage it, minimize risk, maximize returns, ensure it performs well, and make sure it’s stable?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when it’s time to take profits from my portfolio, why, how do I make informed decisions, and what are the risks involved?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you explain how to use the charts to see what’s going on in my portfolio and make informed decisions about investing and managing risk, taking into account the different assets and their performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio diversified enough overall, and is that a good thing or a bad thing for me personally?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Amazon because they’re doing poorly and invest in a new company that’s doing well and make sure it performs well, maximize returns, and ensures stability?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in one asset, what’s the best way to manage it, minimize risk, maximize returns, ensure it performs well, and make sure it’s stable and secure?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know if my investments are worth holding on to and why, how do I make informed decisions, and what are the risks involved in each asset?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Can you recommend a different portfolio setup for me that takes into account my risk tolerance and investment goals and explains how it works, taking into account the different assets and their performance?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Is my portfolio performing better than the market average overall and why, and is that a good thing or a bad thing for me personally?","label":"CONTEXT_PORTFOLIO"}
+{"text":"Do you think I should sell my shares in Tesco because they’re doing poorly and invest in a new company that’s doing well and make sure it performs well, maximize returns, ensures stability, and makes sense financially?","label":"CONTEXT_PORTFOLIO"}
+{"text":"I’ve got a lot of money invested in Apple, what’s the best way to manage it, minimize risk, maximize returns, ensure it performs well, make sure it’s stable, secure, and makes sense financially?","label":"CONTEXT_PORTFOLIO"}
+{"text":"How do I know when it’s time to take profits from my portfolio, why, how do I make informed decisions, what are the risks involved, and what’s the best way to manage them?","label":"CONTEXT_PORTFOLIO"}
